@@ -1,0 +1,9 @@
+studying-answer-time-elapsed = Времени на ответ прошло
+studying-auto-advance-starting = Начало автопросмотра
+studying-auto-advance-stopped = Окончание автопросмотра
+studying-have-ready-to-study = Имеется %@ для изучения.
+studying-please-run-empty-cards-on-the = Запустите очистку карточек в версии для компьютера.
+studying-replay-card = Перевоспроизвести карточку
+studying-replay-voice = Перевоспроизвести голос
+studying-rescheduled-card = Карточка перепланирована.
+studying-type-in-the-answer = Введите ответ

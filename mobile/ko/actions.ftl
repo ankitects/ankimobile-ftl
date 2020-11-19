@@ -1,0 +1,3 @@
+actions-browse = 탐색
+actions-processing = 처리 중...
+actions-undo = 실행 취소

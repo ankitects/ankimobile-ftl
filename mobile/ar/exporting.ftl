@@ -1,0 +1,6 @@
+exporting-collection-saved-to-itunes = تم حفظ المجموعة إلى iTunes.
+exporting-export-to-itunes = تصدير إلى iTunes
+exporting-export-to-share-sheet = تصدير إلى ورقة مشاركة
+exporting-exporting = تصدير...
+exporting-include-media2 = تضمين الوسائط
+exporting-media-files-exported-d = ملفات الوسائط التي تم تصديرها: %d...

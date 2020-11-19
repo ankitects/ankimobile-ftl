@@ -1,0 +1,6 @@
+exporting-collection-saved-to-itunes = コレクションをiTunesに保存しました。
+exporting-export-to-itunes = iTunes にエクスポート
+exporting-export-to-share-sheet = シェアシートにエクスポート
+exporting-exporting = エクスポートしています...
+exporting-include-media2 = メディアファイルを含める
+exporting-media-files-exported-d = メディアファイルのエクスポート：%d...

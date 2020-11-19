@@ -1,0 +1,6 @@
+importing-delete-imported-file = Excluir arquivo importado?
+importing-importing = Importando...
+importing-overwrite-via-import = Substituir coleção inteira pelo arquivo importado? Essa ação não pode ser desfeita.
+importing-please-choose-a-file = Escolha um arquivo.
+importing-processed-media-files-d = Arquivos de mídia processados: %d...
+importing-replace-collection = Substituir Coleção

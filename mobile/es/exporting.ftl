@@ -1,0 +1,6 @@
+exporting-collection-saved-to-itunes = Colección guardada en iTunes.
+exporting-export-to-itunes = Exportar a iTunes
+exporting-export-to-share-sheet = Exportar a la hoja de compartir
+exporting-exporting = Exportando...
+exporting-include-media2 = Incluir archivos multimedia
+exporting-media-files-exported-d = Archivos multimedia exportados: %d...

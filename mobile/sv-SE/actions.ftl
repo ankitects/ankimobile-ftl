@@ -1,0 +1,3 @@
+actions-browse = Bläddra
+actions-processing = Behandlar...
+actions-undo = Ångra

@@ -1,0 +1,6 @@
+exporting-collection-saved-to-itunes = Koleksiyon iTunes'a kaydedildi.
+exporting-export-to-itunes = ITunes'a aktar
+exporting-export-to-share-sheet = Paylaşım sayfasına aktar
+exporting-exporting = Aktarılıyor...
+exporting-include-media2 = Medyayı Dahil Et
+exporting-media-files-exported-d = Medya dosyaları dışa aktarıldı: %d...

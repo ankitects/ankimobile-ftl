@@ -1,0 +1,16 @@
+deck-options-add-options-group = Seçenekler Grubu Ekle
+deck-options-answer-time-cap = Cevap zaman sınırı
+deck-options-bury-related-new-cards = İlgili yeni kartları gizle
+deck-options-bury-related-reviews = İlgili çalışmaları gizle
+deck-options-defaults = Varsayılanlar
+deck-options-display-in-order-added = Eklenme sırasına göre görüntüle
+deck-options-display-in-random-order = Rastgele sıra ile görüntüle
+deck-options-full-sync-required = Tam Senkronizasyon Gerekli
+deck-options-group-name = Grup ismi
+deck-options-max-new-per-day = Günlük maksimum yeni
+deck-options-max-reviews-per-day = Günlük maksimum gözden geçirme
+deck-options-new-cards = Yeni kartlar
+deck-options-options-group = Grup ayarları
+deck-options-reset-all-settings-to-defaults = Tüm ayarlar varsayılanlara sıfırlansın mı?
+deck-options-restore-defaults = Varsayılanları Geri Yükle
+deck-options-steps = Adımlar

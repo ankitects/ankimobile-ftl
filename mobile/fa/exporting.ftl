@@ -1,0 +1,6 @@
+exporting-collection-saved-to-itunes = مجموعه در iTunes ذخیره شد.
+exporting-export-to-itunes = صدور به iTunes
+exporting-export-to-share-sheet = صدور به صفحۀ به اشتراک گذاری
+exporting-exporting = در حال صدور...
+exporting-include-media2 = رسانه شامل شود
+exporting-media-files-exported-d = فایل‌های رسانه صادر شدند: %d...

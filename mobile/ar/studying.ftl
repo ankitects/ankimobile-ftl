@@ -1,0 +1,9 @@
+studying-answer-time-elapsed = وقت الإجابة الماضي
+studying-auto-advance-starting = بدء التقديم التلقائي
+studying-auto-advance-stopped = توقف التقديم التلقائي
+studying-have-ready-to-study = لديك %@ جاهزة للدراسة.
+studying-please-run-empty-cards-on-the = الرجاء استخدام ميزة البطاقات الفارغة في نسخة الحاسوب.
+studying-replay-card = إعادة تشغيل صوت البطاقة
+studying-replay-voice = إعادة تشغيل الصوت
+studying-rescheduled-card = أعيدت جدولة البطاقة.
+studying-type-in-the-answer = إدخال الجواب

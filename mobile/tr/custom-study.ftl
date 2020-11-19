@@ -1,0 +1,12 @@
+custom-study-cant-extend-limits-no-extra = Limitler uzatılamıyor - ilave kart yok.
+custom-study-exclude-cards-with-tag = Etiketli kartları hariç tut
+custom-study-extra-new-cards = Ekstra yeni kartlar
+custom-study-extra-review-cards = Ekstra inceleme kartları
+custom-study-include-cards-with-tag = Etiketli kartları dahil et
+custom-study-learn-new-cards-with-certain-tags = Belirli etiketlerle yeni kartlar öğrenin
+custom-study-loading = Yükleniyor...
+custom-study-max-cards-to-gather = Toplanacak maksimum kart sayısı
+custom-study-preview-all-cards-with-certain-tags = Tüm kartları belirli etiketlerle önizleyin
+custom-study-review-due-cards-with-certain-tags = Belirli etiketlerle son kartları inceleyin
+custom-study-search-matches = Eşleşmeleri ara %@
+custom-study-study-type = Çalışma Tipi

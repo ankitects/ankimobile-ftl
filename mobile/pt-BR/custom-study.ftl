@@ -1,0 +1,9 @@
+custom-study-any-tag = qualquer
+custom-study-available = %@ disponível
+custom-study-extra-new-cards = Novos cartões extras
+custom-study-include-cards-with-tag = Incluir cartões com etiqueta
+custom-study-loading = Carregando...
+custom-study-no-tags = nenhuma
+custom-study-no-tags-available = nenhuma etiqueta disponível
+custom-study-study-type = Tipo de Estudo
+custom-study-the-selected-options-did-not-match = As opções selecionadas não correspondem a nenhum cartão.

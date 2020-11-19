@@ -1,0 +1,9 @@
+studying-answer-time-elapsed = Temps de réponse écoulé
+studying-auto-advance-starting = Commencer l’avance auto
+studying-auto-advance-stopped = Avance auto arrêtée
+studying-have-ready-to-study = Vous avez %@ prêtes à étudier.
+studying-please-run-empty-cards-on-the = Veuillez exécuter les cartes vides sur la version ordinateur.
+studying-replay-card = Refaire la carte
+studying-replay-voice = Réentendre la voix
+studying-rescheduled-card = Carte cédulée à nouveau.
+studying-type-in-the-answer = Veuillez taper la réponse
