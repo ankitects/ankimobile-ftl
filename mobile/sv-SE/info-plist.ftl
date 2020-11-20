@@ -1,0 +1,1 @@
+info-plist-search = Sök
