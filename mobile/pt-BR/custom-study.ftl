@@ -1,5 +1,5 @@
 custom-study-any-tag = qualquer
-custom-study-available = %@ disponível
+custom-study-available = { $num } disponível
 custom-study-extra-new-cards = Novos cartões extras
 custom-study-include-cards-with-tag = Incluir cartões com etiqueta
 custom-study-loading = Carregando...

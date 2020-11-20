@@ -1,5 +1,5 @@
 decks-a-deck-must-be-provided = Un paquet doit être indiqué.
-decks-a-deck-named-already-exists = Un paquet nommé '%@' existe déjà.
+decks-a-deck-named-already-exists = Un paquet nommé '{ $name }' existe déjà.
 decks-a-deck-with-that-name-already = Un paquet portant ce nom existe déjà.
 decks-add-deck = Ajouter un paquet
 decks-add-empty-deck = Ajouter un paquet vide

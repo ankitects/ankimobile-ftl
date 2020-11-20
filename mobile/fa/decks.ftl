@@ -1,5 +1,5 @@
 decks-a-deck-must-be-provided = یک دسته باید انتخاب شود.
-decks-a-deck-named-already-exists = دسته‌ای با نام '%@' از قبل وجود دارد.
+decks-a-deck-named-already-exists = دسته‌ای با نام '{ $name }' از قبل وجود دارد.
 decks-a-deck-with-that-name-already = دسته‌ای با این نام از قبل وجود دارد.
 decks-add-deck = افزودن دسته
 decks-add-empty-deck = افزودن دستۀ خالی

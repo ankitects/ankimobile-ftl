@@ -1,5 +1,5 @@
 custom-study-any-tag = irgendwelche
-custom-study-available = %@ ver­füg­bar
+custom-study-available = { $num } ver­füg­bar
 custom-study-cant-extend-limits-no-extra = Der Grenzwert kann nicht erhöht werden - keine weiteren Karten verfügbar.
 custom-study-cram-seen-cards-with-certain-tags = Angeschaute Karten mit bestimmten Schlagwörtern pauken
 custom-study-days-to-look-ahead = Tage in Vorausschau
@@ -15,6 +15,6 @@ custom-study-no-tags = keine
 custom-study-no-tags-available = keine Schlagwörter verfügbar
 custom-study-preview-all-cards-with-certain-tags = Vorschau aller Karten mit bestimmten Schlagwörtern
 custom-study-review-due-cards-with-certain-tags = Fällige Karten wiederholen mit bestimmten Schlagwörtern
-custom-study-search-matches = Nach Übereinstimmungen mit %@ suchen
+custom-study-search-matches = Nach Übereinstimmungen mit { $num } suchen
 custom-study-study-type = Lerntyp
 custom-study-the-selected-options-did-not-match = Die ausgewählten Optionen stimmen mit keiner Karte überein.

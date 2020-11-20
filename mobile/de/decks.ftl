@@ -1,5 +1,5 @@
 decks-a-deck-must-be-provided = Bit­te Sta­pel aus­wäh­len.
-decks-a-deck-named-already-exists = Ein Sta­pel na­mens '%@' ex­ist­iert be­rei­ts.
+decks-a-deck-named-already-exists = Ein Sta­pel na­mens '{ $name }' ex­ist­iert be­rei­ts.
 decks-a-deck-with-that-name-already = Ein Sta­pel die­ses Na­mens ex­is­tiert be­rei­ts.
 decks-add-deck = Sta­pel hin­zu­fü­gen
 decks-add-empty-deck = Lee­ren Sta­pel hin­zu­fü­gen

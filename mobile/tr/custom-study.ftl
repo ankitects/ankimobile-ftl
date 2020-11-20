@@ -8,5 +8,5 @@ custom-study-loading = Yükleniyor...
 custom-study-max-cards-to-gather = Toplanacak maksimum kart sayısı
 custom-study-preview-all-cards-with-certain-tags = Tüm kartları belirli etiketlerle önizleyin
 custom-study-review-due-cards-with-certain-tags = Belirli etiketlerle son kartları inceleyin
-custom-study-search-matches = Eşleşmeleri ara %@
+custom-study-search-matches = Eşleşmeleri ara { $num }
 custom-study-study-type = Çalışma Tipi

@@ -1,5 +1,5 @@
 decks-a-deck-must-be-provided = يجب توفير رزمة.
-decks-a-deck-named-already-exists = هناك رزمة باسم '%@' بالفعل.
+decks-a-deck-named-already-exists = هناك رزمة باسم '{ $name }' بالفعل.
 decks-a-deck-with-that-name-already = هناك رزمة لها ذلك الاسم بالفعل.
 decks-add-deck = إضافة رزمة
 decks-add-empty-deck = إضافة رزمة فارغة

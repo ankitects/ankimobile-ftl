@@ -1,5 +1,5 @@
 decks-a-deck-must-be-provided = デッキを指定してください。
-decks-a-deck-named-already-exists = デッキ名「%@」はすでに存在しています。
+decks-a-deck-named-already-exists = デッキ名「{ $name }」はすでに存在しています。
 decks-a-deck-with-that-name-already = 同じ名前のデッキがすでに存在しています。
 decks-add-deck = デッキを追加
 decks-add-empty-deck = 新しいデッキを作る

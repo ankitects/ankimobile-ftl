@@ -1,5 +1,5 @@
 decks-a-deck-must-be-provided = Podaj talię.
-decks-a-deck-named-already-exists = Talia o nazwie \"%@\" już istnieje.
+decks-a-deck-named-already-exists = Talia o nazwie \"{ $name }\" już istnieje.
 decks-a-deck-with-that-name-already = Talia o takiej nazwie już istnieje.
 decks-add-deck = Dodaj talię
 decks-add-empty-deck = Dodaj pustą talię

@@ -1,5 +1,5 @@
 decks-a-deck-must-be-provided = Должна быть предоставлена колода.
-decks-a-deck-named-already-exists = Колода с именем '%@' уже существует.
+decks-a-deck-named-already-exists = Колода с именем '{ $name }' уже существует.
 decks-a-deck-with-that-name-already = Колода с этим именем уже существует.
 decks-add-deck = Добавить колоду
 decks-add-empty-deck = Добавить пустую колоду

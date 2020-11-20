@@ -1,5 +1,5 @@
 custom-study-any-tag = любая
-custom-study-available = %@ доступно
+custom-study-available = { $num } доступно
 custom-study-cant-extend-limits-no-extra = Невозможно расширить лимит - недостаточно карточек.
 custom-study-cram-seen-cards-with-certain-tags = Зубрить пройденные карточки с определенными пометками
 custom-study-days-to-look-ahead = Дней до просмотра вперед
@@ -15,6 +15,6 @@ custom-study-no-tags = нет
 custom-study-no-tags-available = меток нет
 custom-study-preview-all-cards-with-certain-tags = Предпросмотр всех карт с опр. метками
 custom-study-review-due-cards-with-certain-tags = Просмотреть запланированные карточки с опр. пометками
-custom-study-search-matches = Искать совпадения %@
+custom-study-search-matches = Искать совпадения { $num }
 custom-study-study-type = Тип учебы
 custom-study-the-selected-options-did-not-match = Выбранные настройки не соответствуют ни одной карточке.

@@ -1,5 +1,5 @@
 custom-study-any-tag = هرکدام
-custom-study-available = %@ در دسترس
+custom-study-available = { $num } در دسترس
 custom-study-cant-extend-limits-no-extra = حد قابل افزایش نیست - کارتی در دسترس نیست.
 custom-study-cram-seen-cards-with-certain-tags = کارت‌های شتاب‌زده دارای برچسب‌های خاص
 custom-study-days-to-look-ahead = تعداد روزهای بعدی
@@ -15,6 +15,6 @@ custom-study-no-tags = هیچکدام
 custom-study-no-tags-available = برچسبی در دسترس نیست
 custom-study-preview-all-cards-with-certain-tags = پیش‌نمایش همۀ کارت‌های دارای برچسب‌های خاص
 custom-study-review-due-cards-with-certain-tags = مرور کارت‌های دارای برچسب‌های خاص
-custom-study-search-matches = جستجوی مشابهات %@
+custom-study-search-matches = جستجوی مشابهات { $num }
 custom-study-study-type = نوع مطالعه
 custom-study-the-selected-options-did-not-match = گزینه‌های انتخابی با هیچ کارتی هم‌خوانی ندارد.

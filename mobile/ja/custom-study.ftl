@@ -1,5 +1,5 @@
 custom-study-any-tag = すべて
-custom-study-available = %@が学習可能
+custom-study-available = { $num }が学習可能
 custom-study-cant-extend-limits-no-extra = これ以上学習できるカードがないので、上限を上げることができません。
 custom-study-cram-seen-cards-with-certain-tags = 復習済タグ付カードを詰込
 custom-study-days-to-look-ahead = 先取りする日数
@@ -15,6 +15,6 @@ custom-study-no-tags = なし
 custom-study-no-tags-available = タグがありません
 custom-study-preview-all-cards-with-certain-tags = タグ付カードに目を通す
 custom-study-review-due-cards-with-certain-tags = 期日のタグ付カードを復習
-custom-study-search-matches = 検索一致：%@
+custom-study-search-matches = 検索一致：{ $num }
 custom-study-study-type = 学習タイプ
 custom-study-the-selected-options-did-not-match = 選択した設定に一致するカードがありません。

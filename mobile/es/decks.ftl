@@ -1,5 +1,5 @@
 decks-a-deck-must-be-provided = Debe proporcionarse un mazo.
-decks-a-deck-named-already-exists = Un mazo llamado '%@' ya existe.
+decks-a-deck-named-already-exists = Un mazo llamado '{ $name }' ya existe.
 decks-a-deck-with-that-name-already = Ya existe un mazo con ese nombre.
 decks-add-deck = Añadir Mazo
 decks-add-empty-deck = Añadir Mazo Vacío

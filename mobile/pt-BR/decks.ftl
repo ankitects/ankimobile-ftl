@@ -1,5 +1,5 @@
 decks-a-deck-must-be-provided = Um baralho deve ser fornecido.
-decks-a-deck-named-already-exists = Um baralho nomeado '%@' já existe.
+decks-a-deck-named-already-exists = Um baralho nomeado '{ $name }' já existe.
 decks-a-deck-with-that-name-already = Um baralho com esse nome já existe.
 decks-add-deck = Adicionar Baralho
 decks-add-empty-deck = Adicionar Baralho Vazio

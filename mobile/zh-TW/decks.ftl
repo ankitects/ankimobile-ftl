@@ -1,5 +1,5 @@
 decks-a-deck-must-be-provided = 必須提供一個牌組。
-decks-a-deck-named-already-exists = 已存在名為「%@」的牌組了。
+decks-a-deck-named-already-exists = 已存在名為「{ $name }」的牌組了。
 decks-a-deck-with-that-name-already = 已存在名稱相同的牌組。
 decks-add-deck = 新增牌組
 decks-add-empty-deck = 新增空白牌組

@@ -1,5 +1,5 @@
 decks-a-deck-must-be-provided = 请提供一个卡组。
-decks-a-deck-named-already-exists = 已存在名为 “%@” 的卡组。
+decks-a-deck-named-already-exists = 已存在名为 “{ $name }” 的卡组。
 decks-a-deck-with-that-name-already = 同名卡组已存在。
 decks-add-deck = 添加卡组
 decks-add-empty-deck = 创建卡组
