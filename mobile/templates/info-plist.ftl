@@ -17,4 +17,3 @@ info-plist-packaged-anki-deck = Packaged Anki Deck
 
 
 
-
