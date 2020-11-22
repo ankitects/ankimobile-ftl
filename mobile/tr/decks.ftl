@@ -1,5 +1,5 @@
 decks-a-deck-must-be-provided = Bir deste sağlanmalıdır.
-decks-a-deck-named-already-exists = '% @' isimli bir deste zaten var.
+decks-a-deck-named-already-exists = '{ $name }' isimli bir deste zaten var.
 decks-a-deck-with-that-name-already = Bu isimde bir deste zaten var.
 decks-add-deck = Deste Ekle
 decks-add-empty-deck = Boş Deste Ekle
