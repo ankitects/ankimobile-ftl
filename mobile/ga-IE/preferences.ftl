@@ -1,4 +1,5 @@
 preferences-about = Maidir Linn
+preferences-always-duck-and-ignore-mute = Cas + Fón Balbhaithe/Ceol Air
 preferences-answer-keeps-zoom = Coinnítear an Zúmáil ar Thaobh an Fhreagra
 preferences-answer-side = Taobh an Fhreagra
 preferences-audio-buttons = Cnaipí Fuaime
