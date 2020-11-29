@@ -43,8 +43,11 @@ preferences-ignore-fingers = 忽略手指
 preferences-interrupt-current-audio = 中斷當前音訊
 preferences-large = 大
 preferences-left = 左對齊
+# gamepad
 preferences-left-shoulder = LS
+# gamepad
 preferences-left-thumbstick-button = 左搖桿按鈕
+# gamepad
 preferences-left-trigger = LT
 preferences-logged-in-as = 已登入帳號:
 preferences-long = 長
@@ -63,8 +66,11 @@ preferences-pen-size = 筆跡大小
 preferences-question-side = 問題面
 preferences-remaining-count = 剩餘計數
 preferences-right = 右對齊
+# gamepad
 preferences-right-shoulder = RS
+# gamepad
 preferences-right-thumbstick-button = 右搖桿按鈕
+# gamepad
 preferences-right-trigger = RT
 preferences-scratchpad-below-buttons = 速記本置於按鈕下方
 preferences-scratchpad-transparency = 速記本透明度
@@ -86,7 +92,7 @@ preferences-swipes = 滑動手勢
 preferences-swipes-must-begin-from-the-far = 必須從螢幕最左或最右側開始滑動手勢。
 preferences-sync-sounds-images = 同步音訊和圖像
 preferences-syncing = 同步
-preferences-tap-to-sync = 在牌組清單畫面按一下「同步」按鈕以啟用同步。
+preferences-tap-to-sync = 在牌組清單畫面按一下「同步」按鈕來啟用同步。
 preferences-taps = 點按手勢
 preferences-theme = 佈景主題
 preferences-theme-bar-style = 列樣式
