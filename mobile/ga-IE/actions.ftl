@@ -68,7 +68,7 @@ actions-no-load-restore-backup = Níorbh fhéidir do chnuasach a lódáil. Téig
 actions-not-valid-link = ní cosúil gur nasc bailí http/https é seo.
 actions-note-and-its-cards-deleted =
     { $count ->
-        [one] Nóta agus an t-aon chárta amháin a bhí aige scriosta
+        [one] Nóta agus an { $count } chárta amháin a bhí aige scriosta
         [two] Nóta agus an { $count } chárta a bhí aige scriosta
         [few] Nóta agus na { $count } chárta a bhí aige scriosta
         [many] Nóta agus na { $count } gcárta a bhí aige scriosta
@@ -76,7 +76,7 @@ actions-note-and-its-cards-deleted =
     }
 actions-note-and-its-cards-suspended =
     { $count ->
-        [one] Nóta agus an t-aon chárta amháin a bhí aige curtha ar fiontraí
+        [one] Nóta agus an { $count } chárta amháin a bhí aige curtha ar fiontraí
         [two] Nóta agus an { $count } chárta a bhí aige curtha ar fiontraí
         [few] Nóta agus na { $count } chárta a bhí aige curtha ar fiontraí
         [many] Nóta agus na { $count } gcárta a bhí aige curtha ar fiontraí
