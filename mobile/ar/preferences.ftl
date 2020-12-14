@@ -43,8 +43,11 @@ preferences-ignore-fingers = تجاهل نقرات الأصابع
 preferences-interrupt-current-audio = مقاطعة الصوت الحالي
 preferences-large = كبير
 preferences-left = يسار
+# gamepad
 preferences-left-shoulder = أزرار التحكم الخلفي اليسرى
+# gamepad
 preferences-left-thumbstick-button = عصا الإبهام اليسرى
+# gamepad
 preferences-left-trigger = المفتاح الأيسر
 preferences-logged-in-as = مسجل كـ:
 preferences-long = طويل
@@ -63,8 +66,11 @@ preferences-pen-size = حجم القلم
 preferences-question-side = جانب السؤال
 preferences-remaining-count = عدد البطاقات المتبقية
 preferences-right = يمين
+# gamepad
 preferences-right-shoulder = أزرار التحكم الخلفي اليمنى
+# gamepad
 preferences-right-thumbstick-button = عصا الإبهام اليمنى
+# gamepad
 preferences-right-trigger = المفتاح الأيمن
 preferences-scratchpad-below-buttons = المسودة أسفل الأزرار
 preferences-scratchpad-transparency = شفافية المسودة
@@ -109,3 +115,10 @@ preferences-undo-clears-all = تراجع عن مسح الكل
 preferences-when-answer-shown = عند إظهار الجواب
 preferences-when-question-shown = عند إظهار السؤال
 preferences-you-have-been-logged-out = لقد سجلت الخروج.
+preferences-editing = تحرير
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = حجم الصورة الأقصى (الجانب الأطول)
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = تغيير حجم الصور عند اللصق
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = تحويل علامات الاقتباس الذكية والشرطات
