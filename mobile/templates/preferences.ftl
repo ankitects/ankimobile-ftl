@@ -116,7 +116,10 @@ preferences-when-answer-shown = When answer shown
 preferences-when-question-shown = When question shown
 preferences-you-have-been-logged-out = You have been logged out.
 
+preferences-editing = Editing
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Max Image Size (Long Edge)
 # whether to shrink images when pasting
 preferences-editing-resize-on-paste = Resize When Pasting
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = Convert Smart Quotes & Dashes
