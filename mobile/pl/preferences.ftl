@@ -43,8 +43,11 @@ preferences-ignore-fingers = Ignoruj palce
 preferences-interrupt-current-audio = Przerywaj odtwarzany dźwięk
 preferences-large = Duży
 preferences-left = Lewo
+# gamepad
 preferences-left-shoulder = Lewy bumper
+# gamepad
 preferences-left-thumbstick-button = Przycisk lewej gałki
+# gamepad
 preferences-left-trigger = Lewy spust
 preferences-logged-in-as = Zalogowano jako:
 preferences-long = Długie
@@ -63,8 +66,11 @@ preferences-pen-size = Rozmiar pisma
 preferences-question-side = Strona z pytaniem
 preferences-remaining-count = Liczba pozostałych kart
 preferences-right = Prawo
+# gamepad
 preferences-right-shoulder = Prawy bumper
+# gamepad
 preferences-right-thumbstick-button = Przycisk prawej gałki
+# gamepad
 preferences-right-trigger = Prawy spust
 preferences-scratchpad-below-buttons = Brudnopis pod przyciskami
 preferences-scratchpad-transparency = Przezroczystość brudnopisu
@@ -84,7 +90,7 @@ preferences-swipe-right = Przesunięcie w prawo
 preferences-swipe-up = Przesunięcie w górę
 preferences-swipes = Gesty
 preferences-swipes-must-begin-from-the-far = Przesunięcia muszą zaczynać się od lewej lub prawej strony ekranu.
-preferences-sync-sounds-images = Synchronizuj dźwięki & obrazy
+preferences-sync-sounds-images = Synchronizuj dźwięki i obrazy
 preferences-syncing = Synchronizacja
 preferences-tap-to-sync = Aby aktywować synchronizację, naciśnij przycisk \"Synchronizuj\" na ekranie z listą talii.
 preferences-taps = Dotyk
@@ -92,10 +98,10 @@ preferences-theme = Motyw
 preferences-theme-bar-style = Typ paska
 preferences-theme-black = Czarny
 preferences-theme-dark = Ciemny
-preferences-theme-dark-translucent = Ciemny & prześwitujący
+preferences-theme-dark-translucent = Ciemny prześwitujący
 preferences-theme-force-off = Wymuś wyłączenie
 preferences-theme-force-on = Wymuś włączenie
-preferences-theme-light-translucent = Jasny & prześwitujący
+preferences-theme-light-translucent = Jasny prześwitujący
 preferences-theme-night-mode-desc = Tryb nocny przyciemnia interfejs i wyświetla karty białą czcionką na czarnym tle.
 preferences-theme-night-mode-same-as-system = Zgodnie z systemem
 preferences-theme-slate = Popielaty
@@ -109,3 +115,10 @@ preferences-undo-clears-all = Cofnij usuwa wszystko
 preferences-when-answer-shown = Gdy widoczna odpowiedź
 preferences-when-question-shown = Gdy widoczne pytanie
 preferences-you-have-been-logged-out = Wylogowano.
+preferences-editing = Edytowanie
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = Maks. rozmiar obrazu (długa krawędź)
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = Zmień rozmiar przy wklejaniu
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = Konwertuj inteligentne cytaty i myślniki
