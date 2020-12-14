@@ -115,3 +115,8 @@ preferences-undo-clears-all = Undo Clears All
 preferences-when-answer-shown = When answer shown
 preferences-when-question-shown = When question shown
 preferences-you-have-been-logged-out = You have been logged out.
+
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = Max Image Size (Long Edge)
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = Resize When Pasting
