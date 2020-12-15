@@ -115,3 +115,10 @@ preferences-undo-clears-all = 復原按鈕將清除所有筆跡
 preferences-when-answer-shown = 顯示答案面時
 preferences-when-question-shown = 顯示問題面時
 preferences-you-have-been-logged-out = 已登出。
+preferences-editing = 編輯
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = 圖像最大尺寸 (長邊)
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = 貼上時調整圖像大小
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = 轉換智慧型引號和破折號
