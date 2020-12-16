@@ -64,9 +64,10 @@ actions-marked = 已標記
 actions-night-mode-short = 夜晚
 actions-no-current-card = 沒有當前卡片。
 actions-no-load-restore-backup = 無法載入您的集合。請在「偏好設定」>「備份」中恢復備份。
+# (http://example.com) does not appear to be...
 actions-not-valid-link = 似乎不是有效的http或https連結。
-actions-note-and-its-cards-deleted = 已刪除筆記和與其關聯的{ $count }張卡片
-actions-note-and-its-cards-suspended = 已擱置的筆記和與其關聯的 { $count } 張卡片
+actions-note-and-its-cards-deleted = 已刪除筆記和與其關聯的 { $count } 張卡片
+actions-note-and-its-cards-suspended = 已擱置筆記和與其關聯的 { $count } 張卡片
 actions-note-buried = 已暫停筆記
 actions-note-marked-and-buried = 已標記並暫停筆記
 actions-nothing-to-undo = 沒有可復原的動作
