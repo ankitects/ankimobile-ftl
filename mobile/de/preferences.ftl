@@ -43,8 +43,11 @@ preferences-ignore-fingers = Finger ignorieren
 preferences-interrupt-current-audio = Aktuelle Audiowiedergabe unterbrechen
 preferences-large = Groß
 preferences-left = Links
+# gamepad
 preferences-left-shoulder = Linke Schulter
+# gamepad
 preferences-left-thumbstick-button = Linker Knopf für Daumen
+# gamepad
 preferences-left-trigger = Links Auslöser
 preferences-logged-in-as = Angemeldet als:
 preferences-long = Lang
@@ -63,8 +66,11 @@ preferences-pen-size = Stiftgröße
 preferences-question-side = Frageseite
 preferences-remaining-count = Zähler für verbleibend
 preferences-right = Rechts
+# gamepad
 preferences-right-shoulder = Rechte Schulter
+# gamepad
 preferences-right-thumbstick-button = Rechter Knopf für Daumen
+# gamepad
 preferences-right-trigger = Rechts Auslöser
 preferences-scratchpad-below-buttons = Notizblock unter den Knöpfen
 preferences-scratchpad-transparency = Notizblock-Transparenz
@@ -109,3 +115,10 @@ preferences-undo-clears-all = \"Alles aufräumen\" rückgängig machen
 preferences-when-answer-shown = Wenn Antwort angezeigt wird
 preferences-when-question-shown = Wenn Frage angezeigt wird
 preferences-you-have-been-logged-out = Sie wurden abgemeldet.
+preferences-editing = Bearbeiten
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = Max. Bildgröße (lange Kante)
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = Größe beim Einfügen anpassen
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = Smarte Anführungszeichen & Querstriche konvertieren
