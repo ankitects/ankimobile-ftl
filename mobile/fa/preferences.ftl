@@ -43,8 +43,11 @@ preferences-ignore-fingers = نادیده گرفتن انگشت‌ها
 preferences-interrupt-current-audio = قطع صدای فعلی
 preferences-large = بزرگ
 preferences-left = چپ
+# gamepad
 preferences-left-shoulder = زمانبندی چپ
+# gamepad
 preferences-left-thumbstick-button = دکمۀ انگشت شست راست
+# gamepad
 preferences-left-trigger = کلید چپ
 preferences-logged-in-as = وارد شده به عنوان:
 preferences-long = طولانی
@@ -63,8 +66,11 @@ preferences-pen-size = اندازۀ قلم
 preferences-question-side = طرف سوال
 preferences-remaining-count = تعداد باقی‌مانده
 preferences-right = راست
+# gamepad
 preferences-right-shoulder = سمت راست
+# gamepad
 preferences-right-thumbstick-button = دکمۀ انگشت شست چپ
+# gamepad
 preferences-right-trigger = کلید راست
 preferences-scratchpad-below-buttons = چرکنویس پایین دکمه‌ها
 preferences-scratchpad-transparency = شفافیت چرکنویس
@@ -109,3 +115,10 @@ preferences-undo-clears-all = لغو عمل همه را پاک کند
 preferences-when-answer-shown = هنگامی که پاسخ نشان داده شده
 preferences-when-question-shown = هنگامی که سوال نشان داده شده
 preferences-you-have-been-logged-out = شما خارج شدید.
+preferences-editing = در حال ویرایش
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = حداکثر اندازه تصویر (طول)
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = تغییر اندازه هنگام چسباندن
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = تبدیل هوشمند نقل قول و خط فاصله
