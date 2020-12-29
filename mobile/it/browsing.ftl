@@ -1,0 +1,10 @@
+browsing-card-updated = Carta aggiornata
+browsing-no-cards-are-selected = Nessuna carta selezionata.
+browsing-note-created = Nota creata
+browsing-note-updated = Nota aggiornata
+browsing-questionandanswer = Domanda+Risposta
+browsing-repetitions = Ripetizioni
+browsing-reset-cards = Reimpostare carte
+browsing-select-all = Seleziona tutto
+browsing-sort = Ordina:
+browsing-tag = Etichetta:
