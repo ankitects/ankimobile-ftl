@@ -1,10 +1,14 @@
 browsing-card-updated = Carta aggiornata
+browsing-due-dateorder = Data/Ordine di scadenza
+browsing-learning-cards = Carte in apprendimento
 browsing-no-cards-are-selected = Nessuna carta selezionata.
 browsing-note-created = Nota creata
 browsing-note-updated = Nota aggiornata
+browsing-note2 = Nota:
 browsing-questionandanswer = Domanda+Risposta
 browsing-repetitions = Ripetizioni
 browsing-reset-cards = Reimpostare carte
+browsing-searching = Ricerca in corso...
 browsing-select-all = Seleziona tutto
 browsing-sort = Ordina:
 browsing-tag = Etichetta:
