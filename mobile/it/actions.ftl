@@ -1,5 +1,6 @@
 actions-actions = Azioni
 actions-all-actions = Tutte le azioni
+actions-an-error-occurred = Si è verificato un errore: { $error }
 actions-are-you-sure = Sei sicuro?
 actions-browse = Sfoglia
 actions-card-buried = Carta seppellita
