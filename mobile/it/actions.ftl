@@ -15,13 +15,13 @@ actions-file-invalid-or-corrupt = File invalido o corrotto.
 actions-frequent-actions = Azioni frequenti
 actions-invalid-number-of-days = Numero di giorni non valido.
 actions-leave-without-saving = Uscire senza salvare?
-actions-no-load-restore-backup = Non è stato possibile caricare la tua collezione. Per favore, ripristinala da un backup automatico attraverso la schermata delle preferenze.
+actions-no-load-restore-backup = Non è stato possibile caricare la tua collezione. Ripristinala da un backup automatico attraverso la schermata delle preferenze.
 # (http://example.com) does not appear to be...
 actions-not-valid-link = Non sembra essere un link http/https valido.
 actions-note-and-its-cards-deleted = Nota e { $count } sue carte eliminate
 actions-note-buried = Nota seppellita
 actions-pause-audio-short = Pausa
-actions-please-tap-the-in-the = Per favore, fa click su '?' in alto a sinistra per iniziare.
+actions-please-tap-the-in-the = Fa click su '?' in alto a sinistra per iniziare.
 actions-processing = Elaborazione...
 actions-record-voice = Registra la voce
 actions-record-voice-short = Registrare
