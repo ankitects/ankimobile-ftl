@@ -49,7 +49,7 @@ preferences-left-shoulder = LS
 preferences-left-thumbstick-button = 左搖桿按鈕
 # gamepad
 preferences-left-trigger = LT
-preferences-logged-in-as = 已登入帳號:
+preferences-logged-in-as = 已登入帳號：
 preferences-long = 長
 preferences-mid-center = 正中央
 preferences-mid-left = 左中央
