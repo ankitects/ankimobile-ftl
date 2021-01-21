@@ -13,7 +13,7 @@ preferences-auto-advance-wait-for-audio = 等待音訊播放
 preferences-backup-available-backups = 可用備份
 preferences-backup-create-now = 立即建立
 preferences-backup-maximum-backups = 備份數量上限
-preferences-backup-minutes-between-backups = 備份間隔 (分鐘)
+preferences-backup-minutes-between-backups = 備份間隔（分鐘）
 preferences-backup-revert-to-backup = 還原備份
 preferences-backup-revert-to-backup-confirm = 是否還原到「{ $backup }」？備份後的任何變更都將遺失。
 preferences-backup-reverted-to-backup = 已還原到備份。
@@ -23,7 +23,7 @@ preferences-bottom-left = 左下方
 preferences-bottom-right = 右下方
 preferences-button-d = 按鈕{ $num }
 preferences-collection-day-starts = 每日起始時間
-preferences-collection-learn-ahead-minutes = 提前學習 (分鐘)
+preferences-collection-learn-ahead-minutes = 提前學習（分鐘）
 preferences-collection-mix = 混合
 preferences-collection-new-first = 新卡片優先
 preferences-collection-newreview-order = 新卡片/待複習卡片順序
@@ -117,7 +117,7 @@ preferences-when-question-shown = 顯示問題面時
 preferences-you-have-been-logged-out = 已登出。
 preferences-editing = 編輯
 # a limit on the long edge of an image (eg 1024 pixels)
-preferences-editing-max-image-size = 圖像最大尺寸 (長邊)
+preferences-editing-max-image-size = 圖像最大尺寸（長邊）
 # whether to shrink images when pasting
 preferences-editing-resize-on-paste = 貼上時調整圖像大小
 # convert smart quotes and smart dashes to ASCII style
