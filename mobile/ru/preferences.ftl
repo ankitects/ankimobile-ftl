@@ -116,3 +116,9 @@ preferences-when-answer-shown = Когда показан ответ
 preferences-when-question-shown = Когда показан вопрос
 preferences-you-have-been-logged-out = Выход выполнен.
 preferences-editing = Редактирование
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = Макс. размер изображения (длинный край)
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = Изменять размер при вставке
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = Конвертировать умные кавычки и тире
