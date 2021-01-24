@@ -43,8 +43,11 @@ preferences-ignore-fingers = Игнорировать пальцы
 preferences-interrupt-current-audio = Прерывать текущее аудио
 preferences-large = Большой
 preferences-left = Слева
+# gamepad
 preferences-left-shoulder = Левый бампер
+# gamepad
 preferences-left-thumbstick-button = Кнопка левого стика
+# gamepad
 preferences-left-trigger = Левый триггер
 preferences-logged-in-as = Выполнен вход как:
 preferences-long = Долгое
@@ -63,8 +66,11 @@ preferences-pen-size = Размер пера
 preferences-question-side = Сторона вопроса
 preferences-remaining-count = Оставшееся количество
 preferences-right = Справа
+# gamepad
 preferences-right-shoulder = Правый бампер
+# gamepad
 preferences-right-thumbstick-button = Кнопка правого стика
+# gamepad
 preferences-right-trigger = Правый триггер
 preferences-scratchpad-below-buttons = Кнопки под блокнотом
 preferences-scratchpad-transparency = Прозрачность блокнота
@@ -109,3 +115,4 @@ preferences-undo-clears-all = Отмена очищает все
 preferences-when-answer-shown = Когда показан ответ
 preferences-when-question-shown = Когда показан вопрос
 preferences-you-have-been-logged-out = Выход выполнен.
+preferences-editing = Редактирование
