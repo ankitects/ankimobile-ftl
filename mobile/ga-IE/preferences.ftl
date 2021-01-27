@@ -115,3 +115,10 @@ preferences-undo-clears-all = Scriosann 'Cealaigh' Gach Rud
 preferences-when-answer-shown = Agus an freagra á thaispeáint
 preferences-when-question-shown = Agus an cheist á taispeáint
 preferences-you-have-been-logged-out = Síníodh amach thú.
+preferences-editing = Cur in Eagar
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = Uasmhéid Íomhá (Ciumhais Fhada)
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = Athraigh Méid Tar Éis Greamú
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = Tiontaigh Camóga agus Fleiscíní Cliste
