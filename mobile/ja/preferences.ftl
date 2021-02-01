@@ -43,8 +43,11 @@ preferences-ignore-fingers = 指タップを無視
 preferences-interrupt-current-audio = 再生中の音声を中断する
 preferences-large = 大
 preferences-left = 左寄せ
+# gamepad
 preferences-left-shoulder = 左ショルダー
+# gamepad
 preferences-left-thumbstick-button = 左スティック
+# gamepad
 preferences-left-trigger = 左トリガー
 preferences-logged-in-as = ログイン中のユーザ名:
 preferences-long = 長い
@@ -62,11 +65,18 @@ preferences-pen-size = ペンの太さ
 preferences-question-side = 問題側
 preferences-remaining-count = 残りのカード数
 preferences-right = 右寄せ
+# gamepad
 preferences-right-shoulder = 右ショルダー
+# gamepad
 preferences-right-thumbstick-button = 右スティック
+# gamepad
 preferences-right-trigger = 右トリガー
 preferences-scratchpad-below-buttons = 手書きパッドをボタン下に表示
 preferences-scratchpad-transparency = 手書きパッドの透明度
+preferences-scratchpad-transparency-full = 完全透明
+preferences-scratchpad-transparency-medium = 透明（中）
+preferences-scratchpad-transparency-none = 不透明
+preferences-scratchpad-transparency-slight = 透明（少）
 preferences-shake-action = シェイクアクション
 preferences-short = 短い
 preferences-show-bottom-bar = ボトムバーを表示
@@ -104,3 +114,10 @@ preferences-undo-clears-all = 元に戻すタップですべて消去
 preferences-when-answer-shown = 答えが表示されるとき
 preferences-when-question-shown = 問題が表示されるとき
 preferences-you-have-been-logged-out = ログアウトしました
+preferences-editing = 編集
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = 最大画像サイズ（長辺）
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = ペースト時にリサイズ
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = スマート引用符とダッシュを自動変換

@@ -86,6 +86,13 @@ actions-you-can-only-rebuild-a-filtered = 再作成できるのはフィルタ�
 
 # empty filtered deck
 actions-empty-short = トップバー
+# create a filtered deck
+actions-filter-short = フィルタ
+actions-add-short = 追加
+actions-answer-again-short = もう一度
+actions-answer-easy-short = 簡単
+actions-answer-good-short = 正解
+actions-answer-hard-short = 難しい
 actions-auto-advance-short = 自動送
 actions-bottom-bar-short = ボトム
 actions-browse-short = 検索
@@ -119,5 +126,6 @@ actions-study-options-short = 学習
 actions-suspend-card-short = カ保留
 actions-suspend-note-short = ノ保留
 actions-tools-short = ツール
+actions-top-bar-short = トップバー
 actions-unbury-deck-short = 延解除
 actions-undo-short = 元に戻す
