@@ -6,5 +6,5 @@ profiles-please-provide-some-text-avoiding-symbols = 請提供一些文字，避
 profiles-please-select-another-profile-first = 請先選取另一個設定檔。
 profiles-profile-name = 設定檔名稱
 profiles-rename-profile = 重新命名設定檔
-profiles-unable-to-open-safari-please = 無法開啟Safari——請檢查分級保護控制。
+profiles-unable-to-open-safari-please = 無法開啟 Safari ——請檢查分級保護控制。
 profiles-welcome = 歡迎！
