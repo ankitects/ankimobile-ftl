@@ -89,6 +89,10 @@ actions-empty-short = Leeren
 # create a filtered deck
 actions-filter-short = Auswahl
 actions-add-short = Neu
+actions-answer-again-short = N.antw.
+actions-answer-easy-short = E.antw.
+actions-answer-good-short = G.antw.
+actions-answer-hard-short = S.antw.
 actions-auto-advance-short = Autom. Forts.
 actions-bottom-bar-short = Bot.B
 actions-browse-short = Stöbern
