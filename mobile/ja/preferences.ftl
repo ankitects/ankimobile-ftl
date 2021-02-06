@@ -61,6 +61,7 @@ preferences-notifications = 通知
 preferences-notifications-alert-time = 通知の設定時間
 preferences-notifications-alert-when-due = 期日に通知する
 preferences-notifications-app-icon-shows-due-count = アイコンにカード数を表示
+preferences-notifications-settings-app-enable-notifications = iOS設定アプリからAnkiの項目へ進み、通知、バッジ、アラートを有効にしてください。
 preferences-pen-size = ペンの太さ
 preferences-question-side = 問題側
 preferences-remaining-count = 残りのカード数
