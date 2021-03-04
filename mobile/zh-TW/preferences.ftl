@@ -122,3 +122,4 @@ preferences-editing-max-image-size = 圖像最大尺寸（長邊）
 preferences-editing-resize-on-paste = 貼上時調整圖像大小
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = 轉換智慧型引號和破折號
+preferences-editing-crop-camera-photos = 裁切相機照片
