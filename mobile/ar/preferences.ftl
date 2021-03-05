@@ -122,3 +122,4 @@ preferences-editing-max-image-size = حجم الصورة الأقصى (الجا�
 preferences-editing-resize-on-paste = تغيير حجم الصور عند اللصق
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = تحويل علامات الاقتباس الذكية والشرطات
+preferences-editing-crop-camera-photos = قص صور الكاميرا
