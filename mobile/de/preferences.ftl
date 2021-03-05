@@ -122,3 +122,4 @@ preferences-editing-max-image-size = Max. Bildgröße (lange Kante)
 preferences-editing-resize-on-paste = Größe beim Einfügen anpassen
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = Smarte Anführungszeichen & Querstriche konvertieren
+preferences-editing-crop-camera-photos = Kamerafotos zuschneiden
