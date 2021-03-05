@@ -87,7 +87,6 @@ actions-scratchpad-size = Tamaño del bloc de notas
 actions-scratchpad-size-short = Tamaño del bloc de notas
 actions-select-deck = Seleccionar Mazo
 actions-select-note-type = Seleccionar tipo de nota
-actions-set-due-date = Establecer fecha de vencimiento
 actions-set-due-date-short = S.Fecha
 actions-show-answer-short = S.Res
 actions-show-answeranswer-good = Mostrar Respuesta/Respuesta Correcta

@@ -69,7 +69,6 @@ actions-scratchpad = 速記本
 actions-scratchpad-size = 速記本大小
 actions-select-deck = 選取牌組
 actions-select-note-type = 選取筆記類型
-actions-set-due-date = 設定到期日
 actions-show-answeranswer-good = 顯示答案/回答「良好」
 actions-study-options = 學習選項
 actions-tools = 工具

@@ -87,7 +87,6 @@ actions-scratchpad-size = Taille du bloc-notes
 actions-scratchpad-size-short = Taille du pavé
 actions-select-deck = Choisir le paquet
 actions-select-note-type = Choisir un type de note
-actions-set-due-date = Définir une date d'échéance
 actions-set-due-date-short = Date due
 actions-show-answer-short = Réponse
 actions-show-answeranswer-good = Afficher la réponse/réponse correcte

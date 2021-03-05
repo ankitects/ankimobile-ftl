@@ -69,7 +69,6 @@ actions-scratchpad = 手書きパッド
 actions-scratchpad-size = 手書きサイズ
 actions-select-deck = デッキを選択
 actions-select-note-type = ノートタイプを選択
-actions-set-due-date = 期日設定
 actions-show-answeranswer-good = 答表示/正解
 actions-study-options = 学習設定
 actions-tools = ツール

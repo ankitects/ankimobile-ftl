@@ -87,7 +87,6 @@ actions-scratchpad-size = اندازۀ چرکنویس
 actions-scratchpad-size-short = اندازۀ چرکنویس
 actions-select-deck = انتخاب دسته
 actions-select-note-type = انتخاب نوع یادداشت
-actions-set-due-date = انتخاب موعد مرور
 actions-set-due-date-short = تنظیم موعد مرور
 actions-show-answer-short = نمایش پاسخ
 actions-show-answeranswer-good = نمایش پاسخ/پاسخ خوب

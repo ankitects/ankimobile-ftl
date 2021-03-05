@@ -28,7 +28,6 @@ actions-record-voice-short = Registrare
 actions-replay-audio-short = Replay
 actions-select-deck = Seleziona il mazzo
 actions-select-note-type = Seleziona il tipo di nota
-actions-set-due-date = Imposta la data di scadenza
 actions-study-options = Opzioni di studio
 actions-tools = Strumenti
 actions-you-can-only-empty-a-filtered = Puoi svuotare solo un mazzo filtrato.

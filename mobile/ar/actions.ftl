@@ -69,7 +69,6 @@ actions-scratchpad = المسودة
 actions-scratchpad-size = حجم المسودة
 actions-select-deck = تحديد الرزمة
 actions-select-note-type = تحديد نوع الملحوظة
-actions-set-due-date = ضبط تاريخ الاستحقاق
 actions-show-answeranswer-good = إظهار الجواب/الإجابة بـ«جيد»
 actions-study-options = خيارات الدراسة
 actions-tools = أدوات

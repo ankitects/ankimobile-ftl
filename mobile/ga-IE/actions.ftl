@@ -83,7 +83,6 @@ actions-scratchpad = Bloc Tarraingthe
 actions-scratchpad-size = Méid an Bhloic Tharraingthe
 actions-select-deck = Roghnaigh Paca
 actions-select-note-type = Roghnaigh Cineál Nóta
-actions-set-due-date = Socraigh Dáta Staidéir
 actions-show-answeranswer-good = Taispeán Freagra/Freagair 'Go Maith'
 actions-study-options = Socruithe Staidéir
 actions-tools = Uirlisí

@@ -69,7 +69,6 @@ actions-scratchpad = Notizblack
 actions-scratchpad-size = Notizblock-Größe
 actions-select-deck = Stapel auswählen
 actions-select-note-type = Notiztyp auswählen
-actions-set-due-date = Fälligkeitsdatum auswählen
 actions-show-answeranswer-good = Antwort anzeigen/\"Gut\" antworten
 actions-study-options = Lern­op­tio­nen
 actions-tools = Werkzeuge

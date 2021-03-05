@@ -69,7 +69,6 @@ actions-scratchpad = Brudnopis
 actions-scratchpad-size = Rozmiar brudnopisu
 actions-select-deck = Wybierz talię
 actions-select-note-type = Wybierz typ notatki
-actions-set-due-date = Ustaw termin
 actions-show-answeranswer-good = Pokaż odp./odp. Dobra
 actions-study-options = Opcje nauki
 actions-tools = Narzędzia

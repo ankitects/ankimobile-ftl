@@ -83,7 +83,6 @@ actions-scratchpad-size = Çalışma defteri boyutu
 actions-scratchpad-size-short = Defter Boyutu
 actions-select-deck = Desteyi Seç
 actions-select-note-type = Not Tipini Seç
-actions-set-due-date = Son Tarihi Ayarla
 actions-set-due-date-short = S.Tarihi Ayarla
 actions-show-answer-short = Cv.Gstr
 actions-show-answeranswer-good = Cevabı Göster/Cevabı İyi

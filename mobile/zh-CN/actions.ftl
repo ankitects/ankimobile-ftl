@@ -87,7 +87,6 @@ actions-scratchpad-size = 手写板大小
 actions-scratchpad-size-short = 手写板大小
 actions-select-deck = 选择卡组
 actions-select-note-type = 选择笔记类型
-actions-set-due-date = 指定何时到期
 actions-set-due-date-short = 指定到期
 actions-show-answer-short = 答案
 actions-show-answeranswer-good = 显示答案/回答“良好”

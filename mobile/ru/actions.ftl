@@ -87,7 +87,6 @@ actions-scratchpad-size = Размер блокнота
 actions-scratchpad-size-short = Разм. блок.
 actions-select-deck = Выбрать колоду
 actions-select-note-type = Выбрать тип записи
-actions-set-due-date = Задать срок
 actions-set-due-date-short = Уст.Дату
 actions-show-answer-short = Пок.Отв.
 actions-show-answeranswer-good = Показать ответ/ответить «хорошо»
