@@ -122,3 +122,4 @@ preferences-editing-max-image-size = Макс. размер изображени
 preferences-editing-resize-on-paste = Изменять размер при вставке
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = Конвертировать умные кавычки и тире
+preferences-editing-crop-camera-photos = Обрезать фото с камеры

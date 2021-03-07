@@ -81,22 +81,36 @@ actions-you-can-only-rebuild-a-filtered = Можно реконструиров�
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
 
+# empty filtered deck
+actions-empty-short = Очистить
+# create a filtered deck
+actions-filter-short = Фильтр
+actions-add-short = Добавить
+actions-answer-again-short = Ans.A
+actions-answer-easy-short = Ans.E
+actions-answer-good-short = Ans.G
+actions-answer-hard-short = Ans.H
 actions-auto-advance-short = Автопросм.
 actions-bottom-bar-short = Ниж.П
+actions-browse-short = Обзор
 actions-bury-card-short = Отл.К
 actions-bury-note-short = Отл.З
 actions-card-info-short = Свед.К
+actions-card-template-short = Шаблон
 actions-current-audio-minus-5s-short = -5с
 actions-current-audio-plus-5s-short = +5с
 actions-custom-study-short = Своя
 actions-deck-statistics-short = Стат.К
 actions-decks-short = Колоды
 actions-delete-note-short = Удал
+actions-edit-short = Править
 actions-mark-and-bury-short = Пом&Отл
 actions-mark-and-suspend-short = Пом&Искл
+actions-mark-short = Пометить
 actions-night-mode-short = Ночь
 actions-off-short = Выкл.
 actions-pause-audio-short = Приостановить
+actions-rebuild-short = Перестроить
 actions-record-voice-short = Записать
 actions-replay-audio-short = Перевоспроизведение
 actions-reset-card-short = Сбр.К
@@ -108,4 +122,7 @@ actions-show-answeranswer-good-short = Показать/«хорошо»
 actions-study-options-short = Нас.уч.
 actions-suspend-card-short = Искл.К
 actions-suspend-note-short = Искл.З
+actions-tools-short = Инструменты
+actions-top-bar-short = T.Bar
 actions-unbury-deck-short = Вернуть
+actions-undo-short = Отмена
