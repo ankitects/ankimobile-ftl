@@ -122,3 +122,4 @@ preferences-editing-max-image-size = Uasmhéid Íomhá (Ciumhais Fhada)
 preferences-editing-resize-on-paste = Athraigh Méid Tar Éis Greamú
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = Tiontaigh Camóga agus Fleiscíní Cliste
+preferences-editing-crop-camera-photos = Bearr Grianghraif Cheamara
