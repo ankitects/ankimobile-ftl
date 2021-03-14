@@ -122,3 +122,4 @@ preferences-editing-max-image-size = Maks. rozmiar obrazu (długa krawędź)
 preferences-editing-resize-on-paste = Zmień rozmiar przy wklejaniu
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = Konwertuj inteligentne cytaty i myślniki
+preferences-editing-crop-camera-photos = Przycinaj zdjęcia z aparatu
