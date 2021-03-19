@@ -43,8 +43,11 @@ preferences-ignore-fingers = 禁用手指
 preferences-interrupt-current-audio = 中断当前音频
 preferences-large = 大
 preferences-left = 左对齐
+# gamepad
 preferences-left-shoulder = 左肩键
+# gamepad
 preferences-left-thumbstick-button = 左摇杆
+# gamepad
 preferences-left-trigger = 左扳机键
 preferences-logged-in-as = 登录为：
 preferences-long = 长
@@ -63,11 +66,15 @@ preferences-pen-size = 笔迹粗细
 preferences-question-side = 问题界面
 preferences-remaining-count = 剩余卡片数
 preferences-right = 右对齐
+# gamepad
 preferences-right-shoulder = 右肩键
+# gamepad
 preferences-right-thumbstick-button = 右摇杆
+# gamepad
 preferences-right-trigger = 右扳机键
 preferences-scratchpad-below-buttons = 置于底栏下方
 preferences-scratchpad-transparency = 手写板透明度
+preferences-scratchpad-transparency-full = 全透明
 preferences-scratchpad-transparency-medium = 中等
 preferences-scratchpad-transparency-none = 无
 preferences-scratchpad-transparency-slight = 细
@@ -108,3 +115,11 @@ preferences-undo-clears-all = 撤销清除全部
 preferences-when-answer-shown = 显示答案界面时
 preferences-when-question-shown = 显示问题界面时
 preferences-you-have-been-logged-out = 您已注销。
+preferences-editing = 编辑
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = 图像最大尺寸（长边）
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = 粘贴时缩放图像
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = 自动标点转换
+preferences-editing-crop-camera-photos = 裁剪相机照片
