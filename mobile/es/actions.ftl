@@ -107,3 +107,4 @@ actions-study-options-short = E.Opt
 actions-suspend-card-short = Sus.T
 actions-suspend-note-short = Sus.N
 actions-unbury-deck-short = Des M
+actions-undo-short = Deshacer
