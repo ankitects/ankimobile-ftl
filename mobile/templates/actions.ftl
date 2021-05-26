@@ -126,3 +126,4 @@ actions-tools-short = Tools
 actions-top-bar-short = T.Bar
 actions-unbury-deck-short = UBury
 actions-undo-short = Undo
+actions-redo-short = Redo
