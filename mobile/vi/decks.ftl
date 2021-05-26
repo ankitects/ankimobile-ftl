@@ -1,0 +1,17 @@
+decks-add-deck = Thêm Bộ thẻ
+decks-add-empty-deck = Thêm Bộ thẻ trống
+decks-addexport = Thêm/Xuất
+decks-cannot-delete = Không thể xóa
+decks-card-limit = Thẻ giới hạn
+decks-cards-in-a-filtered-deck-cant = Không thể di chuyển các thẻ trong bộ bài đã lọc.
+decks-custom-steps = Bước tùy chỉnh
+decks-deck-exists = Bộ thẻ tồn tại
+decks-deck-label = Bộ thẻ:
+decks-deck-name = Tên bộ thẻ
+decks-deck-options = Tùy chọn Bộ thẻ
+decks-download-link = Liên kết tải xuống
+decks-export-collection = Xuất Bộ sưu tập
+decks-filtered-deck = Bộ thẻ đã lọc
+decks-import-from-itunes = Nhập từ iTunes
+decks-invalid-deck-name = Tên bộ thẻ không hợp lệ.
+decks-link-to-apkg-file-to-import = Liên kết đến tệp .apkg để nhập:
