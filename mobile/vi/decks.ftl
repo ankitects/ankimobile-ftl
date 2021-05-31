@@ -18,6 +18,7 @@ decks-filtered-deck = Bộ thẻ đã lọc
 decks-import-from-itunes = Nhập từ iTunes
 decks-invalid-deck-name = Tên bộ thẻ không hợp lệ.
 decks-link-to-apkg-file-to-import = Liên kết đến tệp .apkg để nhập:
+decks-no-matches = Không phù hợp
 decks-return-by-delete = Để trả lại tất cả các thẻ cùng một lúc, hãy vuốt qua bộ bài màu xanh trong danh sách bộ bài và xóa nó.
 decks-shared-deck-list = Danh sách bộ bài được chia sẻ
 decks-sync = Đồng bộ
