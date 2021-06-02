@@ -7,3 +7,4 @@ studying-please-run-empty-cards-on-the = Please run Empty Cards on the computer 
 studying-replay-card = Replay Card
 studying-replay-voice = Replay Voice
 studying-type-in-the-answer = Type in the answer
+studying-please-use-record-voice-first = Please use the Record Voice action first.

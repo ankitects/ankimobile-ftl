@@ -26,3 +26,6 @@ editing-unexpected-rich-text-format-please = Unexpected rich text format - pleas
 editing-unexpected-status-code = Unexpected status code:
 editing-unsuspend-card = Unsuspend Card
 editing-unsuspend-note = Unsuspend Note
+editing-discard-changes-question = Discard changes?
+editing-discard = Discard
+editing-keep-editing = Keep Editing
