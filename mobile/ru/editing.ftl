@@ -7,12 +7,15 @@ editing-from-camera = Из камеры
 editing-from-file = Из файла
 editing-from-photos = Из галереи фото
 editing-italic = Курсив
+# keyboard shortcut description
 editing-next-cloze = След. задание с пропусками
 editing-next-field = След. поле
 editing-note-deleted = Запись удалена
 editing-note-suspended = Запись исключена
+# (Note) type: 
 editing-note-type-prompt = Тип:
 editing-note-unsuspended = Запись включена
+# keyboard shortcut description
 editing-same-cloze = То же задание с пропусками
 editing-the-first-field-must-not-be = Первое поле не может быть пустым.
 editing-unable-to-obtain-image = Не удалось загрузить изображение
@@ -23,3 +26,6 @@ editing-unexpected-rich-text-format-please = Неожиданный RTF - поп
 editing-unexpected-status-code = Неожиданный код статуса:
 editing-unsuspend-card = Включить карточку
 editing-unsuspend-note = Включить запись
+editing-discard-changes-question = Отменить изменения?
+editing-discard = Сбросить
+editing-keep-editing = Продолжить редактирование
