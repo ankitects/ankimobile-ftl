@@ -26,3 +26,6 @@ editing-unexpected-rich-text-format-please = 未預期的RTF格式——請嘗�
 editing-unexpected-status-code = 未預期的狀態代碼:：
 editing-unsuspend-card = 取消擱置卡片
 editing-unsuspend-note = 取消擱置筆記
+editing-discard-changes-question = 是否捨棄變更？
+editing-discard = 捨棄
+editing-keep-editing = 繼續編輯
