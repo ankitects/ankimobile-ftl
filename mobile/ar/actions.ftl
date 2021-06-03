@@ -41,8 +41,6 @@ actions-flag-4 = مؤشر 4
 actions-flag-4-blue = مؤشر 4 (أزرق)
 actions-forgot-card = نسيت البطاقة
 actions-frequent-actions = إجراءات متكررة
-actions-how-many-days-in-the-future = كم عدد الأيام القادمة؟
-actions-invalid-number-of-days = عدد أيام غير صالح.
 actions-leave-without-saving = هل تريد الخروج بدون الحفظ؟
 actions-long-press-on-an-item-to = اضغط ضغطة مطولة على عنصر لتخصيصه.
 actions-mark = تعليم
@@ -58,10 +56,12 @@ actions-note-and-its-cards-suspended = عُلِّقت الملحوظة وبطا�
 actions-note-buried = دُفِنت الملحوظة
 actions-note-marked-and-buried = عُلِّمت الملحوظة ودُفِنت
 actions-nothing-to-undo = لا يوجد أي إجراء للتراجع عنه
+actions-nothing-to-redo = لا يوجد أي إجراء لإعادة تطبيقه
 actions-off = غير مفعل
 actions-please-tap-the-in-the = الرجاء النقر على '?' في أعلى اليسار للبدء.
 actions-processing = معالجة...
 actions-record-voice = تسجيل صوت
+actions-record-voice-menu = قائمة تسجيل الصوت
 actions-reset-card = أعيد تعيين البطاقة
 actions-revert = استرجاع
 actions-review-undone = مراجعة البطاقات غير المكتملة
@@ -114,6 +114,7 @@ actions-off-short = غير مفعل
 actions-pause-audio-short = إيقاف
 actions-rebuild-short = إعادة إنشاء
 actions-record-voice-short = تسجيل
+actions-replay-voice-short = تشغيل صوت
 actions-replay-audio-short = إعادة تشغيل
 actions-reset-card-short = إعادة تعيين بطاقة
 actions-scratchpad-short = المسودة
@@ -128,3 +129,4 @@ actions-tools-short = أدوات
 actions-top-bar-short = شريط أ.
 actions-unbury-deck-short = نكش
 actions-undo-short = تراجع
+actions-redo-short = إعادة تطبيق
