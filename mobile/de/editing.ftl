@@ -7,12 +7,15 @@ editing-from-camera = Von der Kamera
 editing-from-file = Von Datei
 editing-from-photos = Von Fotos
 editing-italic = Kursiv
+# keyboard shortcut description
 editing-next-cloze = Nächster Lückentext
 editing-next-field = Nächstes Feld
 editing-note-deleted = Notiz gelöscht
 editing-note-suspended = Notiz ausgesetzt
+# (Note) type: 
 editing-note-type-prompt = Typ:
 editing-note-unsuspended = Notiz eingesetzt
+# keyboard shortcut description
 editing-same-cloze = Gleicher Lückentext
 editing-the-first-field-must-not-be = Das erste Feld darf nicht leer sein.
 editing-unable-to-obtain-image = Bild konnte nicht abgerufen werden
@@ -23,3 +26,6 @@ editing-unexpected-rich-text-format-please = Unerwartetes Rich-Text-Format - bit
 editing-unexpected-status-code = Unerwarteter Statuscode:
 editing-unsuspend-card = Karte wieder einsetzen
 editing-unsuspend-note = Notiz wieder einsetzen
+editing-discard-changes-question = Änderungen verwerfen?
+editing-discard = Verwerfen
+editing-keep-editing = Im Editiermodus bleiben
