@@ -17,7 +17,6 @@ actions-browse = Gözat
 actions-bury-card-short = KrtGzl.
 actions-bury-note-short = NotGzl.
 actions-card-buried = Kart gizlendi.
-actions-card-info = Kart Bilgisi
 actions-card-info-short = Krt.B.
 actions-card-suspended = Kart askıya alındı
 actions-card-template = Kart Şablonu

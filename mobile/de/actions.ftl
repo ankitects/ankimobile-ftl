@@ -13,7 +13,6 @@ actions-auto-advance = Au­to­ma­ti­sches Fort­schrei­ten
 actions-bottom-bar = Unterer Balken
 actions-browse = Kartenübersicht
 actions-card-buried = Karte zurückgestellt
-actions-card-info = Kar­ten­inf­or­ma­ti­on
 actions-card-suspended = Karte ausgesetzt
 actions-card-template = Kartenvorlage
 actions-confirm-delete = Löschen bestätigen

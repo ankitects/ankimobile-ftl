@@ -17,7 +17,6 @@ actions-browse = Parcourir
 actions-bury-card-short = Dét.C
 actions-bury-note-short = Dét.N
 actions-card-buried = Carte enterrées
-actions-card-info = Info carte
 actions-card-info-short = Infos C
 actions-card-suspended = Carte suspendue
 actions-card-template = Modèle de carte

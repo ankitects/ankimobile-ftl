@@ -13,7 +13,6 @@ actions-auto-advance = Avance Automático
 actions-bottom-bar = Barra Inferior
 actions-browse = Explorar
 actions-card-buried = Tarjeta enterrada
-actions-card-info = Información de la tarjeta
 actions-card-suspended = Tarjeta suspendida
 actions-card-template = Plantillas de tarjetas
 actions-confirm-delete = Confirmar eliminación

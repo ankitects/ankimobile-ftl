@@ -13,7 +13,6 @@ actions-auto-advance = Ar Aghaidh go hUathoibríoch
 actions-bottom-bar = Barr Íochtair
 actions-browse = Brabhsáil
 actions-card-buried = Cárta i bhfolach
-actions-card-info = Sonraí Cárta
 actions-card-suspended = Cárta ar fionraí
 actions-card-template = Teimpléad Cárta
 actions-confirm-delete = Deimhnigh 'Scrios'

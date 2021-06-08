@@ -17,7 +17,6 @@ actions-browse = جستجو
 actions-bury-card-short = دفن کارت
 actions-bury-note-short = دفن یادداشت
 actions-card-buried = کارت دفن شد
-actions-card-info = مشخصات کارت
 actions-card-info-short = مشخصات کارت
 actions-card-suspended = کارت معلق شد
 actions-card-template = قالب کارت

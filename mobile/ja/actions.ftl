@@ -13,7 +13,6 @@ actions-auto-advance = カードの自動送り
 actions-bottom-bar = ボトムバー
 actions-browse = 検索
 actions-card-buried = カードを延期しました
-actions-card-info = カード情報
 actions-card-suspended = カードを保留しました
 actions-card-template = カード書式
 actions-confirm-delete = 削除の確認

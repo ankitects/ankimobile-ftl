@@ -13,7 +13,6 @@ actions-auto-advance = تقديم تلقائي
 actions-bottom-bar = الشريط السفلي
 actions-browse = تصفح
 actions-card-buried = دُفِنت البطاقة
-actions-card-info = معلومات البطاقة
 actions-card-suspended = عُلِّقت البطاقة
 actions-card-template = قالب البطاقة
 actions-confirm-delete = تأكيد الحذف

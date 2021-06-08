@@ -13,7 +13,6 @@ actions-auto-advance = Автопросмотр
 actions-bottom-bar = Нижняя панель
 actions-browse = Обзор
 actions-card-buried = Карточка отложена
-actions-card-info = Сведения о карточке
 actions-card-suspended = Карточка исключена
 actions-card-template = Шаблон карточки
 actions-confirm-delete = Подтверждение удаления

@@ -13,7 +13,6 @@ actions-auto-advance = 自動前進
 actions-bottom-bar = 底部列
 actions-browse = 瀏覽
 actions-card-buried = 已暫停卡片
-actions-card-info = 卡片資訊
 actions-card-suspended = 已擱置卡片
 actions-card-template = 卡片模板
 actions-confirm-delete = 確定刪除

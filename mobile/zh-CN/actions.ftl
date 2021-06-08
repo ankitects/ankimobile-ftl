@@ -13,7 +13,6 @@ actions-auto-advance = 自动播放卡片
 actions-bottom-bar = 底部按钮
 actions-browse = 浏览
 actions-card-buried = 卡片已搁置
-actions-card-info = 卡片信息
 actions-card-suspended = 卡片已暂停
 actions-card-template = 卡片模板
 actions-confirm-delete = 确认删除

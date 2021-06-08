@@ -6,7 +6,6 @@ actions-an-error-occurred = Um erro ocorreu: { $error }
 actions-are-you-sure = Você tem certeza?
 actions-browse = Painel
 actions-card-buried = Cartão ocultado
-actions-card-info = Informação do Cartão
 actions-card-info-short = C.Info
 actions-card-suspended = Cartão suspenso
 actions-card-template = Modelo do Cartão

@@ -13,7 +13,6 @@ actions-auto-advance = Auto-postęp
 actions-bottom-bar = Dolny pasek
 actions-browse = Przegląd
 actions-card-buried = Karta zakopana
-actions-card-info = Informacje o karcie
 actions-card-suspended = Karta zawieszona
 actions-card-template = Szablon karty
 actions-confirm-delete = Potwierdź usunięcie
