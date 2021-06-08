@@ -13,7 +13,6 @@ actions-auto-advance = Auto Advance
 actions-bottom-bar = Bottom Bar
 actions-browse = Browse
 actions-card-buried = Card buried
-actions-card-info = Card Info
 actions-card-suspended = Card suspended
 actions-card-template = Card Template
 actions-confirm-delete = Confirm Delete
