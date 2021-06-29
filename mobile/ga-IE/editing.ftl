@@ -26,3 +26,6 @@ editing-unexpected-rich-text-format-please = Formaidiú méith-théics mífheili
 editing-unexpected-status-code = Cód staide mífheiliúnach:
 editing-unsuspend-card = Lig Cárta as Fiontraí
 editing-unsuspend-note = Lig Nóta as Fiontraí
+editing-discard-changes-question = Caith uait na hathruithe?
+editing-discard = Caith uait
+editing-keep-editing = Coinnigh ag Cur in Eagar

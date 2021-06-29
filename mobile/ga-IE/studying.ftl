@@ -6,5 +6,5 @@ studying-have-ready-to-study = Tá { $numCards } le staidéar agat.
 studying-please-run-empty-cards-on-the = Cuardaigh 'Cártaí Folmha' ar an leagan ríomhaire de Anki.
 studying-replay-card = Cas Cárta Arís
 studying-replay-voice = Cas Guth Arís
-studying-rescheduled-card = Cárta curtha ar athlá.
 studying-type-in-the-answer = Clóscríobh an freagra
+studying-please-use-record-voice-first = Roghnaigh 'Taifead do Ghuth' ar dtús.
