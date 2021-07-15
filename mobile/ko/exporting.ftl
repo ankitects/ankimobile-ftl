@@ -1,0 +1,6 @@
+exporting-collection-saved-to-itunes = iTunes에 컬랙션 저장됨.
+exporting-export-to-itunes = iTunes로 내보내기
+exporting-export-to-share-sheet = 공유 시트로 내보내기
+exporting-exporting = 내보내는 중...
+exporting-include-media2 = 미디어 포함
+exporting-media-files-exported-d = 다음 미디어 파일들을 내보냄: { $count }...
