@@ -1,4 +1,6 @@
 preferences-about = 정보
+preferences-always-duck-and-ignore-mute = 언제나 오디오 낮추기 + 무음 모드 무시하기
+preferences-answer-keeps-zoom = 답에서 줌 비율 유지하기
 preferences-answer-side = 답 면
 preferences-audio-buttons = 오디오 버튼들
 preferences-auto-advance-answer-action = 답 동작
@@ -20,11 +22,16 @@ preferences-bottom-center = 하단 중앙
 preferences-bottom-left = 하단 왼쪽
 preferences-bottom-right = 하단 오른쪽
 preferences-button-d = 버튼 { $num }
+preferences-collection-day-starts = 하루 시작
+preferences-collection-learn-ahead-minutes = 미리 공부하기 시간 (분)
 preferences-collection-mix = 섞기
-preferences-collection-new-first = 새로운 것 먼저
+preferences-collection-new-first = 신규 먼저
+preferences-collection-newreview-order = 신규/리뷰 순서
 preferences-collection-reviews-first = 리뷰 먼저
 preferences-double-tap-prevention = 더블 탭 방지
 preferences-drawing-screen-ignores-fingers = 그리기 화면에서 손가락 무시하기
+preferences-feedback-ticks = 피드백 틱
+preferences-fine = 미세
 preferences-force-sync-confirm = 일방적 동기화를 강제로 진행하시겠습니까? 한 쪽의 모든 변경사항이 사라집니다.
 preferences-full-sync = 전체 동기화
 preferences-gamepad-button-mapping = 버튼 맵핑
@@ -33,21 +40,40 @@ preferences-gamepads = 게임패드
 preferences-height = 높이
 preferences-huge = 큼
 preferences-ignore-fingers = 손가락 무시하기
+preferences-interrupt-current-audio = 현재 재생 중 소리 일시정지하기
 preferences-large = 큼
 preferences-left = 왼쪽
+# gamepad
+preferences-left-shoulder = 왼쪽 숄더버튼
+# gamepad
+preferences-left-thumbstick-button = 왼쪽 엄지버튼
+# gamepad
+preferences-left-trigger = 왼쪽 트리거버튼
 preferences-logged-in-as = 현재 로그인 정보:
 preferences-long = 길게
 preferences-mid-center = 정중앙
 preferences-mid-left = 중앙 왼쪽
 preferences-mid-right = 중앙 오른쪽
 preferences-never-type-answer = 절대로 답 입력하지 않기
+preferences-next-times = 다음
 preferences-normal = 일반
 preferences-notifications = 알림
 preferences-notifications-alert-time = 알림 시간
+preferences-notifications-alert-when-due = 마감 때 알림
+preferences-notifications-app-icon-shows-due-count = 앱 아이콘에서 마감 갯수 표시하기
+preferences-notifications-settings-app-enable-notifications = iOS 설정 앱에서 Anki 섹션을 찾으신 다음 알림, 사운드, 그리고 배지를 활성화해 주세요.
 preferences-pen-size = 펜 크기
 preferences-question-side = 질문 면
 preferences-remaining-count = 남은 갯수
 preferences-right = 오른쪽
+# gamepad
+preferences-right-shoulder = 오른쪽 숄더버튼
+# gamepad
+preferences-right-thumbstick-button = 오른쪽 엄지버튼
+# gamepad
+preferences-right-trigger = 오른쪽 트리거버튼
+preferences-scratchpad-below-buttons = 버튼 아래 스크래치패드
+preferences-scratchpad-transparency = 스크래치패드 투명도
 preferences-scratchpad-transparency-full = 전체
 preferences-scratchpad-transparency-medium = 중간
 preferences-scratchpad-transparency-none = 없음
@@ -58,8 +84,16 @@ preferences-show-bottom-bar = 하단 바 보이기
 preferences-show-grid = 그리드 표시하기
 preferences-show-top-bar = 상단 바 보이기
 preferences-small = 작음
+preferences-swipe-down = 아래로 스와이프
+preferences-swipe-left = 왼쪽으로 스와이프
+preferences-swipe-right = 오른쪽으로 스와이프
+preferences-swipe-up = 위로 스와이프
+preferences-swipes = 스와이프 동작
+preferences-swipes-must-begin-from-the-far = 스와이프는 화면의 가장 왼쪽/오른쪽 가장자리에서 시작하셔야 합니다.
+preferences-sync-sounds-images = 소리와 이미지 동기화
 preferences-syncing = 동기화
 preferences-tap-to-sync = 동기화를 진행하려면, 뭉치 목록 화면에서 동기화 버튼을 누르시면 됩니다.
+preferences-taps = 탭
 preferences-theme = 테마
 preferences-theme-bar-style = 바 스타일
 preferences-theme-black = 블랙
@@ -70,10 +104,22 @@ preferences-theme-force-on = 강제 켬
 preferences-theme-light-translucent = 밝은 반투명
 preferences-theme-night-mode-desc = 밤 모드는 인터페이스를 어둡게 하고, 카드를 흰색 글씨를 검은색 배경 위에 표시합니다.
 preferences-theme-night-mode-same-as-system = 시스템 따르기
+preferences-theme-slate = 회색
+preferences-thick = 굵게
+preferences-tools-overlay-button = 툴 오버레이 버튼
+preferences-tools-overlay-position = 툴 오버레이 위치
+preferences-top-center = 위 중앙
+preferences-top-left = 위 왼쪽
+preferences-top-right = 위 오른쪽
+preferences-undo-clears-all = 실행 취소로 모두 지우기
+preferences-when-answer-shown = 답이 보일 때
+preferences-when-question-shown = 질문이 보일 때
 preferences-you-have-been-logged-out = 로그아웃 되었습니다.
 preferences-editing = 편집
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = 최대 이미지 크기 (긴 변)
 # whether to shrink images when pasting
 preferences-editing-resize-on-paste = 붙여넣기할 때 크기 조정
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = 스마트 인용 부호 및 대시 변환
 preferences-editing-crop-camera-photos = 카메라 사진 자르기
