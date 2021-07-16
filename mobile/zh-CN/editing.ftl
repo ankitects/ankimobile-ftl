@@ -26,3 +26,4 @@ editing-unexpected-rich-text-format-please = 文本格式不支持 - 请尝试�
 editing-unexpected-status-code = 意外的状态代码：
 editing-unsuspend-card = 取消卡片的暂停状态
 editing-unsuspend-note = 取消笔记的暂停状态
+editing-keep-editing = 继续编辑
