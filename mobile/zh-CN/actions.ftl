@@ -52,6 +52,7 @@ actions-off = 禁用
 actions-please-tap-the-in-the = 请点击左上角的 ? 以开始。
 actions-processing = 处理中...
 actions-record-voice = 录制音频
+actions-record-voice-menu = 录制声音菜单
 actions-reset-card = 重置为新卡片
 actions-revert = 还原
 actions-review-undone = 复习已撤销
