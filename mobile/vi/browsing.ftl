@@ -1,5 +1,7 @@
 # add current row to existing search
 browsing-append = Gắn thêm
+# add current row to existing search, with a '-' at the start to reverse it
+browsing-append-negated = Bỏ gắn thêm
 browsing-card-updated = Thẻ đã cập nhật
 browsing-change-flag = Đổi Cờ
 browsing-clear-flag = Bỏ Cờ
@@ -7,6 +9,7 @@ browsing-column-1 = Cột 1
 browsing-column-2 = Cột 2
 browsing-confirm-reset = Xác nhận Đặt lại
 browsing-dd-selected = { $part }/{ $total } đã chọn
+browsing-due-dateorder = Ngày/Phiếu đến hạn
 browsing-due-reviews = Thẻ ôn tập đến hạn
 browsing-learning-cards = Thẻ đang học
 browsing-no-cards-are-selected = Chưa thẻ nào được chọn.
