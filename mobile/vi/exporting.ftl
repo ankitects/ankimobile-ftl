@@ -1,0 +1,3 @@
+exporting-collection-saved-to-itunes = Bộ sưu tập đã được vào iTunes.
+exporting-export-to-itunes = Xuất vào iTunes.
+exporting-exporting = Đang xuất...

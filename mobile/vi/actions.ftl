@@ -56,12 +56,18 @@ actions-record-voice-menu = Bảng chọn thu tiếng
 actions-reset-card = Đặt lại Thẻ
 actions-revert = Hoàn nguyên
 actions-review-undone = Hoàn tác Ôn tập
+actions-select-deck = Chọn thẻ
+actions-tools = Công cụ
+actions-undo = Hoàn tác
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
 
+actions-add-short = Thêm vào
 actions-current-audio-minus-5s-short = -5s
 actions-current-audio-plus-5s-short = +5s
+actions-custom-study-short = Tùy chỉnh
+actions-decks-short = Bộ thẻ
 actions-delete-note-short = Xoá
 actions-edit-short = Chỉnh sửa
 actions-mark-and-bury-short = Đ&T.h
