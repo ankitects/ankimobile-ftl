@@ -1,7 +1,7 @@
 preferences-about = Giới thiệu
 preferences-always-duck-and-ignore-mute = Luôn Ẩn + Bỏ qua Tắt tiếng
 preferences-answer-keeps-zoom = Thu Phóng Đáp án
-preferences-answer-side = Đáp án sang Lề
+preferences-answer-side = Đáp án phụ
 preferences-audio-buttons = Các nút Âm thanh
 preferences-auto-advance-answer-action = Đáp án Tác vụ
 preferences-auto-advance-answer-seconds = Đáp án Thứ cấp
@@ -49,7 +49,77 @@ preferences-left-shoulder = Lề trái
 preferences-left-thumbstick-button = Nút Thumbstick Trái
 # gamepad
 preferences-left-trigger = Bộ nhả bên trái
+preferences-logged-in-as = Đăng nhập với tư cách:
+preferences-long = Dài
+preferences-mid-center = Giữa trung tâm
+preferences-mid-left = Giữa bên trái
+preferences-mid-right = Giữa bên phải
+preferences-never-type-answer = Không nhập đáp án
+preferences-next-times = Lần sau
 preferences-normal = Bình thường
 preferences-notifications = Thông báo
+preferences-notifications-alert-time = Thời gian Báo
+preferences-notifications-alert-when-due = Cảnh báo khi đến hạn
+preferences-notifications-app-icon-shows-due-count = Icon App cho biết số Thẻ đến hạn
+preferences-notifications-settings-app-enable-notifications = Vui lòng truy cập Cài đặt của iOS, tìm Anki và bật thông báo, biểu ngữ và cảnh báo.
+preferences-pen-size = Kích thước bút
+preferences-question-side = Câu hỏi phụ
+preferences-remaining-count = Số lượng còn lại
+preferences-right = Phải
+# gamepad
+preferences-right-shoulder = Lề phải
+# gamepad
+preferences-right-thumbstick-button = Nút Thumbstick Phải
+# gamepad
+preferences-right-trigger = Bộ nhả bên phải
+preferences-scratchpad-below-buttons = Các nút bên dưới Vùng tạm
+preferences-scratchpad-transparency = Độ trong của Vùng tạm
+preferences-scratchpad-transparency-full = Đầy đủ
+preferences-scratchpad-transparency-medium = Trung bình
 preferences-scratchpad-transparency-none = Không
+preferences-scratchpad-transparency-slight = Không đáng kể
+preferences-shake-action = Tác vụ Lắc
+preferences-short = Ngắn
+preferences-show-bottom-bar = Hiển thị Thanh Dưới
+preferences-show-grid = Hiển thị lưới
+preferences-show-top-bar = Hiển thị Thanh Trên
+preferences-small = Nhỏ
+preferences-swipe-down = Vuốt xuống
+preferences-swipe-left = Vuốt sang trái
+preferences-swipe-right = Vuốt sang phải
+preferences-swipe-up = Vuốt lên
+preferences-swipes = Vuốt
+preferences-swipes-must-begin-from-the-far = Các thao tác vuốt phải bắt đầu từ ngoài cùng bên trái hoặc bên phải của màn hình.
+preferences-sync-sounds-images = Đồng bộ hóa Âm thanh & Hình ảnh
+preferences-syncing = Đang đồng bộ...
+preferences-tap-to-sync = Để kích hoạt đồng bộ hóa, hãy nhấn vào nút đồng bộ hóa trên màn hình danh sách bộ thẻ.
+preferences-taps = Nhấn
+preferences-theme = Giao diện
+preferences-theme-bar-style = Kiểu Thanh chọn
+preferences-theme-black = Đen
+preferences-theme-dark = Tối
+preferences-theme-dark-translucent = Tối & Mờ
+preferences-theme-force-off = Buộc Tắt
+preferences-theme-force-on = Buộc Bật
+preferences-theme-light-translucent = Sáng & Mờ
+preferences-theme-night-mode-desc = Chế độ ban đêm làm tối giao diện và hiển thị thẻ màu trắng trên nền đen.
+preferences-theme-night-mode-same-as-system = Theo dõi Hệ thống
+preferences-theme-slate = Xám đá
+preferences-thick = Dày
+preferences-tools-overlay-button = Nút Công cụ Phủ
+preferences-tools-overlay-position = Vị trí Công cụ Phủ
+preferences-top-center = Trên cùng ở giữa
+preferences-top-left = Trên cùng bên trái
+preferences-top-right = Trên cùng bên phải
+preferences-undo-clears-all = Hoàn tác Xóa tất cả
+preferences-when-answer-shown = Khi đáp án được hiển thị
+preferences-when-question-shown = Khi câu hỏi được hiển thị
+preferences-you-have-been-logged-out = Bạn đã được đăng xuất.
+preferences-editing = Chỉnh sửa
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = Kích thước hình ảnh tối đa (Cạnh dài)
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = Thay đổi kích thước khi dán
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = Chuyển đổi Dấu ngoặc kép & Dấu gạch ngang Thông minh
 preferences-editing-crop-camera-photos = Cắt ảnh camera
