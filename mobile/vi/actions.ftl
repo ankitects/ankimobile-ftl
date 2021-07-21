@@ -56,6 +56,8 @@ actions-record-voice-menu = Bảng chọn thu tiếng
 actions-reset-card = Đặt lại Thẻ
 actions-revert = Hoàn nguyên
 actions-review-undone = Hoàn tác Ôn tập
+actions-scratchpad = Bàn di chuột
+actions-scratchpad-size = Kích thước bàn di chuột
 actions-select-deck = Chọn thẻ
 actions-tools = Công cụ
 actions-undo = Hoàn tác
@@ -63,10 +65,17 @@ actions-undo = Hoàn tác
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
 
+# empty filtered deck
+actions-empty-short = Trống
+# create a filtered deck
+actions-filter-short = Lọc
 actions-add-short = Thêm vào
+actions-card-info-short = T.Thông tin
+actions-card-template-short = Mẫu
 actions-current-audio-minus-5s-short = -5s
 actions-current-audio-plus-5s-short = +5s
 actions-custom-study-short = Tùy chỉnh
+actions-deck-statistics-short = Bộ.Thống kê
 actions-decks-short = Bộ thẻ
 actions-delete-note-short = Xoá
 actions-edit-short = Chỉnh sửa
@@ -81,6 +90,8 @@ actions-record-voice-short = Ghi.Â
 actions-replay-voice-short = Plại.Â
 actions-replay-audio-short = Phát lại
 actions-reset-card-short = Đặt lại.T
+actions-scratchpad-short = Bàn di nhỏ
+actions-scratchpad-size-short = K.Bàn di nhỏ
 actions-set-due-date-short = G.hạn
 actions-show-answer-short = Xem.Đ'án
 actions-show-answeranswer-good-short = Xem/T.lời

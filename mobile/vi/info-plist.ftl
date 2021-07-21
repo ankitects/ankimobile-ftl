@@ -12,3 +12,5 @@ info-plist-search = Tìm kiếm
 
 ## File imports
 
+info-plist-packaged-collection = Đóng gói bộ sưu tập Anki
+info-plist-packaged-anki-deck = Đóng gói bộ thẻ Anki

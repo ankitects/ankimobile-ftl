@@ -1,3 +1,6 @@
 exporting-collection-saved-to-itunes = Bộ sưu tập đã được vào iTunes.
 exporting-export-to-itunes = Xuất vào iTunes.
+exporting-export-to-share-sheet = Xuất sang Trang tính Chia sẻ
 exporting-exporting = Đang xuất...
+exporting-include-media2 = Bao gồm dữ liệu phương tiện
+exporting-media-files-exported-d = Tệp phương tiện đã xuất: { $count }...
