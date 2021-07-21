@@ -59,8 +59,17 @@ actions-review-undone = Hoàn tác Ôn tập
 actions-scratchpad = Bàn di chuột
 actions-scratchpad-size = Kích thước bàn di chuột
 actions-select-deck = Chọn thẻ
+actions-select-note-type = Chọn Kiểu Phiếu
+actions-show-answeranswer-good = Xem Đáp án/Đáp án Tốt
+actions-study-options = Tùy chỉnh Học tập
 actions-tools = Công cụ
+actions-tools-overlay = Công cụ Phủ
+actions-top-bar = Thanh trên
+actions-unbury-deck = Bộ thẻ bỏ hoãn
 actions-undo = Hoàn tác
+actions-unmarked = Chưa đánh dấu
+actions-you-can-only-empty-a-filtered = Bạn chỉ có thể làm trống một bộ thẻ đã lọc.
+actions-you-can-only-rebuild-a-filtered = Bạn chỉ có thể dựng  lại một bộ thẻ đã lọc.
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -70,6 +79,15 @@ actions-empty-short = Trống
 # create a filtered deck
 actions-filter-short = Lọc
 actions-add-short = Thêm vào
+actions-answer-again-short = Trả lời.Lại
+actions-answer-easy-short = Trả lời.Dễ
+actions-answer-good-short = Trả lời.Tốt
+actions-answer-hard-short = Trả lời.Khó
+actions-auto-advance-short = Tự động Nâng.
+actions-bottom-bar-short = T.Dưới
+actions-browse-short = Duyệt
+actions-bury-card-short = Th.Hoãn
+actions-bury-note-short = P.Hoãn
 actions-card-info-short = T.Thông tin
 actions-card-template-short = Mẫu
 actions-current-audio-minus-5s-short = -5s
