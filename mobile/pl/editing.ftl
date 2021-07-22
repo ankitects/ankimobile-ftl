@@ -7,12 +7,15 @@ editing-from-camera = Z aparatu
 editing-from-file = Z pliku
 editing-from-photos = Ze zdjęć
 editing-italic = Kursywa
+# keyboard shortcut description
 editing-next-cloze = Następna luka
 editing-next-field = Następne pole
 editing-note-deleted = Notatka usunięta
 editing-note-suspended = Notatka zawieszona
+# (Note) type: 
 editing-note-type-prompt = Typ:
 editing-note-unsuspended = Notatka odwieszona
+# keyboard shortcut description
 editing-same-cloze = Taka sama luka
 editing-the-first-field-must-not-be = Pierwsze pole nie może być puste.
 editing-unable-to-obtain-image = Nie można wczytać obrazu
@@ -23,3 +26,6 @@ editing-unexpected-rich-text-format-please = Nieoczekiwany wzbogacony format tek
 editing-unexpected-status-code = Nieoczekiwany kod statusu:
 editing-unsuspend-card = Odwieś kartę
 editing-unsuspend-note = Odwieś notatkę
+editing-discard-changes-question = Porzucić zmiany?
+editing-discard = Porzuć
+editing-keep-editing = Edytuj dalej
