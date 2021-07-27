@@ -122,3 +122,4 @@ preferences-editing-max-image-size = 最大画像サイズ（長辺）
 preferences-editing-resize-on-paste = ペースト時にリサイズ
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = スマート引用符とダッシュを自動変換
+preferences-editing-crop-camera-photos = 写真をトリミング

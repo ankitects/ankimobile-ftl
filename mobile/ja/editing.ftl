@@ -7,12 +7,15 @@ editing-from-camera = カメラから
 editing-from-file = ファイルから
 editing-from-photos = 写真から
 editing-italic = 斜体
+# keyboard shortcut description
 editing-next-cloze = 次の穴埋め
 editing-next-field = 次のフィールド
 editing-note-deleted = ノートを削除しました
 editing-note-suspended = ノートを保留しました
+# (Note) type: 
 editing-note-type-prompt = タイプ：
 editing-note-unsuspended = ノートの保留を解除しました
+# keyboard shortcut description
 editing-same-cloze = 同じ穴埋め
 editing-the-first-field-must-not-be = 最初のフィールドは空欄のままにできません。
 editing-unable-to-obtain-image = 画像を読み込むことができません
@@ -23,3 +26,6 @@ editing-unexpected-rich-text-format-please = 予期しないリッチテキス�
 editing-unexpected-status-code = 予期しないステータスコード：
 editing-unsuspend-card = カードの保留を解除
 editing-unsuspend-note = ノートの保留を解除
+editing-discard-changes-question = 変更を破棄しますか？
+editing-discard = 破棄
+editing-keep-editing = 編集を続ける

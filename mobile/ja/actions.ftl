@@ -105,6 +105,7 @@ actions-off-short = オフ
 actions-pause-audio-short = 停止
 actions-rebuild-short = 再構築
 actions-record-voice-short = 録音
+actions-replay-voice-short = 再生
 actions-replay-audio-short = 再生
 actions-reset-card-short = カ初期
 actions-scratchpad-short = 手書
