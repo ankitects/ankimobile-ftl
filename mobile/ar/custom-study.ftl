@@ -1,3 +1,4 @@
+# any tag
 custom-study-any-tag = كل شيء
 custom-study-available = { $num } متوفر
 custom-study-cant-extend-limits-no-extra = لا يمكن رفع الحدود - لا تتوفر بطاقات إضافية.
@@ -10,7 +11,8 @@ custom-study-extra-review-cards = بطاقات مراجعة إضافية
 custom-study-include-cards-with-tag = تضمين البطاقات التي لها وسم
 custom-study-learn-new-cards-with-certain-tags = دراسة البطاقات الجديدة التي لها وسوم معينة
 custom-study-loading = تحميل...
-custom-study-max-cards-to-gather = العدد الأقصى للبطاقات المعروضة
+custom-study-max-cards-to-gather = العدد الأقصى للبطاقات المجلوبة
+# no tags selected
 custom-study-no-tags = لا شيء
 custom-study-no-tags-available = لا تتوفر أي وسوم
 custom-study-preview-all-cards-with-certain-tags = معاينة كل البطاقات التي لها وسوم معينة
