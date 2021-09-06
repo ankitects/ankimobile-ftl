@@ -1,5 +1,5 @@
 preferences-about = Sobre
-preferences-audio-buttons = Botões de Áudio
+preferences-audio-buttons = Botões de áudio
 preferences-auto-advance-do-nothing = Fazer Nada
 preferences-auto-advance-wait-for-audio = Esperando pelo Áudio
 preferences-backup-create-now = Criar Agora
