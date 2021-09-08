@@ -43,8 +43,11 @@ preferences-ignore-fingers = Ignorer les doigts
 preferences-interrupt-current-audio = Interrompre l’audio en cours
 preferences-large = Grand
 preferences-left = Gauche
+# gamepad
 preferences-left-shoulder = Gaucher
+# gamepad
 preferences-left-thumbstick-button = Bouton miniature à gauche
+# gamepad
 preferences-left-trigger = Déclencheur à gauche
 preferences-logged-in-as = Logué en tant que:
 preferences-long = Long
@@ -63,12 +66,18 @@ preferences-pen-size = Taille du stylet
 preferences-question-side = Côté question
 preferences-remaining-count = Compte restant
 preferences-right = Droite
+# gamepad
 preferences-right-shoulder = Droitier
+# gamepad
 preferences-right-thumbstick-button = Bouton miniature à droite
+# gamepad
 preferences-right-trigger = Déclencheur à droite
 preferences-scratchpad-below-buttons = Bloc-notes sous les boutons
 preferences-scratchpad-transparency = Transparence du bloc-notes
+preferences-scratchpad-transparency-full = Complet
 preferences-scratchpad-transparency-medium = Moyen
+preferences-scratchpad-transparency-none = Aucun
+preferences-scratchpad-transparency-slight = Léger
 preferences-shake-action = Action « secouer »
 preferences-short = Court
 preferences-show-bottom-bar = Afficher la barre du bas
@@ -106,3 +115,6 @@ preferences-undo-clears-all = ‘Annuler’ efface tout
 preferences-when-answer-shown = Lorsque la réponse est affichée
 preferences-when-question-shown = Lorsque la question est affichée
 preferences-you-have-been-logged-out = Vous avez été déconnecté.
+preferences-editing = Modification
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = Taille maximale de l'image (bord long)

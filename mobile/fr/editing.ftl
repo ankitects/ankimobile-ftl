@@ -7,12 +7,15 @@ editing-from-camera = Depuis la caméra
 editing-from-file = Depuis Fichier
 editing-from-photos = Depuis Photos
 editing-italic = Italique
+# keyboard shortcut description
 editing-next-cloze = Prochain texte à trous
 editing-next-field = Prochain champ
 editing-note-deleted = Note supprimée
 editing-note-suspended = Note suspendue
+# (Note) type: 
 editing-note-type-prompt = Type:
 editing-note-unsuspended = Note non suspendue
+# keyboard shortcut description
 editing-same-cloze = Même texte à trous
 editing-the-first-field-must-not-be = Le champ ne doit pas être vide.
 editing-unable-to-obtain-image = Impossible de récupérer l'image
@@ -23,3 +26,6 @@ editing-unexpected-rich-text-format-please = Format de texte enrichi inattendu -
 editing-unexpected-status-code = Code de statut inattendu :
 editing-unsuspend-card = Enlever la suspension de la carte
 editing-unsuspend-note = Enlever la suspension de la note
+editing-discard-changes-question = Abandonner les changements ?
+editing-discard = Abandonner
+editing-keep-editing = Continuer
