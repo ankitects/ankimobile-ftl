@@ -118,3 +118,8 @@ preferences-you-have-been-logged-out = Vous avez été déconnecté.
 preferences-editing = Modification
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Taille maximale de l'image (bord long)
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = Redimensionner l'image lors du collage
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = Convertir les citations et les tirets intelligents
+preferences-editing-crop-camera-photos = Redimensionner les photos de l'appareil photo

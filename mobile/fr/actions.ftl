@@ -52,6 +52,7 @@ actions-off = Désactivé
 actions-please-tap-the-in-the = Appuyez sur le bouton '?' en haut à gauche pour commencer.
 actions-processing = Traitement...
 actions-record-voice = S’enregistrer
+actions-record-voice-menu = Menu d'enregistrement
 actions-reset-card = Réinitialiser la carte
 actions-revert = Rétablir
 actions-review-undone = Révision annulée
