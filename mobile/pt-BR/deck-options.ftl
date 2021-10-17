@@ -1,9 +1,10 @@
 deck-options-add-options-group = Adicionar Grupo de Opções
+deck-options-bury-related-new-cards = Ocultar novas cartas relacionadas
 deck-options-defaults = Padrões
 deck-options-delete-options-full-sync = A exclusão deste grupo de opções impedirá que quaisquer alterações sejam mescladas de outros dispositivos na próxima sincronização. Continuar?
 deck-options-display-in-order-added = Exibir adicionados primeiro
 deck-options-display-in-random-order = Exibir em ordem aleatória
 deck-options-group-name = Nome do grupo
-deck-options-new-cards = Novos cartões
+deck-options-new-cards = Novos cartas
 deck-options-reset-all-settings-to-defaults = Redefinir todas as configurações para as padrões?
 deck-options-restore-defaults = Restaurar Padrões
