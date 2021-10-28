@@ -55,6 +55,8 @@ preferences-mid-center = По середине
 preferences-mid-left = Слева по середине
 preferences-mid-right = Справа по середине
 preferences-never-type-answer = Никогда не вписывать ответ
+preferences-never-show-scratchpad = Не показывать блокнот
+preferences-never-show-scratchpad-enabled = Опция "Не показывать блокнот" включена в настройках
 preferences-next-times = Время до следующего раза
 preferences-normal = По умолчанию
 preferences-notifications = Уведомления
@@ -72,7 +74,7 @@ preferences-right-shoulder = Правый бампер
 preferences-right-thumbstick-button = Кнопка правого стика
 # gamepad
 preferences-right-trigger = Правый триггер
-preferences-scratchpad-below-buttons = Кнопки под блокнотом
+preferences-scratchpad-below-buttons = Кнопки над блокнотом
 preferences-scratchpad-transparency = Прозрачность блокнота
 preferences-scratchpad-transparency-full = Полный
 preferences-scratchpad-transparency-medium = Средняя
