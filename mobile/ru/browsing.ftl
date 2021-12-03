@@ -1,4 +1,6 @@
+# add current row to existing search
 browsing-append = Добавить
+# add current row to existing search, with a '-' at the start to reverse it
 browsing-append-negated = Добавить отрициательно
 browsing-card-updated = Карточка обновлена
 browsing-change-flag = Изменить флаг
@@ -22,5 +24,5 @@ browsing-second-column-19 = Второй столбец (1->9)
 browsing-second-column-91 = Второй столбец (9->1)
 browsing-select-all = Выбрать все
 browsing-sort = Сортировка:
-browsing-sort-order = Порядок сортировки
+browsing-sort-order = Порядок
 browsing-tag = Метка:
