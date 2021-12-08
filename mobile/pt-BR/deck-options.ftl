@@ -12,5 +12,7 @@ deck-options-max-new-per-day = Máximo de novos por dia
 deck-options-max-reviews-per-day = Máximo de revisões por dia
 deck-options-new-cards = Novos cartões
 deck-options-options-group = Grupo de opções
+deck-options-replay-q-audio-in-answer = Repetir q. áudio em resposta
 deck-options-reset-all-settings-to-defaults = Redefinir todas as configurações para as padrões?
 deck-options-restore-defaults = Restaurar Padrões
+deck-options-steps = Passos
