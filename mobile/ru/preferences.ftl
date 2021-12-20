@@ -99,7 +99,7 @@ preferences-taps = Касания
 preferences-theme = Тема
 preferences-theme-bar-style = Стиль панели
 preferences-theme-black = Черный
-preferences-theme-dark = Темный
+
 preferences-theme-dark-translucent = Темный и прозрачный
 preferences-theme-force-off = Принудительно выключить
 preferences-theme-force-on = Принудительно включить

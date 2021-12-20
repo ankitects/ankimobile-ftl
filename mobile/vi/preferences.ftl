@@ -99,7 +99,7 @@ preferences-taps = Nhấn
 preferences-theme = Giao diện
 preferences-theme-bar-style = Kiểu Thanh chọn
 preferences-theme-black = Đen
-preferences-theme-dark = Tối
+
 preferences-theme-dark-translucent = Tối & Mờ
 preferences-theme-force-off = Buộc Tắt
 preferences-theme-force-on = Buộc Bật

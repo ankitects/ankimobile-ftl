@@ -97,7 +97,7 @@ preferences-taps = ضربه‌ها
 preferences-theme = طرح
 preferences-theme-bar-style = سبک نوار
 preferences-theme-black = سیاه
-preferences-theme-dark = تاریک
+
 preferences-theme-dark-translucent = تاریک و مات
 preferences-theme-force-off = خاموشی اجباری
 preferences-theme-force-on = روشن کردن اجباری

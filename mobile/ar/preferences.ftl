@@ -99,7 +99,7 @@ preferences-taps = نقرات
 preferences-theme = السمة
 preferences-theme-bar-style = تنسيق الشريط
 preferences-theme-black = أسود
-preferences-theme-dark = داكن
+
 preferences-theme-dark-translucent = داكن وشفاف
 preferences-theme-force-off = إيقاف إجباري
 preferences-theme-force-on = تفعيل إجباري

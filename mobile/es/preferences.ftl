@@ -90,7 +90,7 @@ preferences-taps = Toques
 preferences-theme = Tema
 preferences-theme-bar-style = Estilo de barra
 preferences-theme-black = Negro
-preferences-theme-dark = Oscuro
+
 preferences-theme-dark-translucent = Oscuro & Translucido
 preferences-theme-force-off = Forzar desactivación
 preferences-theme-force-on = Forzar activación

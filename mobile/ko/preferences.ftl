@@ -97,7 +97,7 @@ preferences-taps = 탭
 preferences-theme = 테마
 preferences-theme-bar-style = 바 스타일
 preferences-theme-black = 블랙
-preferences-theme-dark = 다크
+
 preferences-theme-dark-translucent = 어두운 반투명
 preferences-theme-force-off = 강제 끔
 preferences-theme-force-on = 강제 켬

@@ -66,7 +66,7 @@ preferences-show-top-bar = Üst Çubuğu Göster
 preferences-small = Küçük
 preferences-theme-bar-style = Bar Sitili
 preferences-theme-black = Siyah
-preferences-theme-dark = Karanlık
+
 preferences-theme-dark-translucent = Karanlık & Yarı Saydam
 preferences-theme-light-translucent = Parlak ve Yarı Saydam
 preferences-theme-slate = Barut rengi

@@ -99,7 +99,7 @@ preferences-taps = Tippen
 preferences-theme = Theme
 preferences-theme-bar-style = Bal­ken­stil
 preferences-theme-black = Schwarz
-preferences-theme-dark = Dunkel
+
 preferences-theme-dark-translucent = Dunkel & durchsichtig
 preferences-theme-force-off = Aus erzwingen
 preferences-theme-force-on = An erzwingen

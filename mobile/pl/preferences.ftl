@@ -97,7 +97,7 @@ preferences-taps = Dotyk
 preferences-theme = Motyw
 preferences-theme-bar-style = Typ paska
 preferences-theme-black = Czarny
-preferences-theme-dark = Ciemny
+
 preferences-theme-dark-translucent = Ciemny prześwitujący
 preferences-theme-force-off = Wymuś wyłączenie
 preferences-theme-force-on = Wymuś włączenie

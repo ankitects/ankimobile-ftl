@@ -99,7 +99,7 @@ preferences-taps = 點按手勢
 preferences-theme = 佈景主題
 preferences-theme-bar-style = 列樣式
 preferences-theme-black = 黑色
-preferences-theme-dark = 深色
+
 preferences-theme-dark-translucent = 深色半透明
 preferences-theme-force-off = 總是關閉
 preferences-theme-force-on = 總是開啟

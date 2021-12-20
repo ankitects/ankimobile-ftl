@@ -29,7 +29,7 @@ preferences-tap-to-sync = Para ativar a sincronização, toque no botão sincron
 preferences-theme = Tema
 preferences-theme-bar-style = Estilo da Barra
 preferences-theme-black = Preto
-preferences-theme-dark = Escuro
+
 preferences-theme-dark-translucent = Escuro & Translúcido
 preferences-theme-night-mode-desc = O modo noturno escurece a interface e exibe as cartas em branco no preto.
 preferences-when-answer-shown = Quando a resposta for mostrada

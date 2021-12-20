@@ -99,7 +99,7 @@ preferences-taps = Taps
 preferences-theme = Theme
 preferences-theme-bar-style = Bar Style
 preferences-theme-black = Black
-preferences-theme-dark = Dark
+
 preferences-theme-dark-translucent = Dark & Translucent
 preferences-theme-force-off = Force Off
 preferences-theme-force-on = Force On

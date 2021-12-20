@@ -99,7 +99,7 @@ preferences-taps = Brú an Scáileáin
 preferences-theme = Modh
 preferences-theme-bar-style = Cuma an Bharra
 preferences-theme-black = Dubh
-preferences-theme-dark = Dorcha
+
 preferences-theme-dark-translucent = Dorcha & Trédhearcach
 preferences-theme-force-off = As i gCónaí
 preferences-theme-force-on = Air i gCónaí

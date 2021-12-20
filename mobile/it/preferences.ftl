@@ -19,4 +19,4 @@ preferences-sync-sounds-images = Sincronizza suono e immagine
 preferences-syncing = Sincronizzazione
 preferences-theme = Tema
 preferences-theme-black = Nero
-preferences-theme-dark = Nero (scuro)
+
