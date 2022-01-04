@@ -3,8 +3,8 @@ browsing-append = Добавить
 # add current row to existing search, with a '-' at the start to reverse it
 browsing-append-negated = Добавить отрициательно
 browsing-card-updated = Карточка обновлена
-browsing-change-flag = Изменить флаг
-browsing-clear-flag = Очистить флаг
+browsing-change-flag = Изменить флажок
+browsing-clear-flag = Снять флажок
 browsing-column-1 = Столбец 1
 browsing-column-2 = Столбец 2
 browsing-confirm-reset = Подтверждение сброса
