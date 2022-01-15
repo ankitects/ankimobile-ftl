@@ -7,3 +7,5 @@ info-plist-photo-usage = Гэта дазваляе паказваць прагл
 
 ## File imports
 
+info-plist-packaged-collection = Упакаваная калекцыя Anki
+info-plist-packaged-anki-deck = Упакаваная калода Anki
