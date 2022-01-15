@@ -1,2 +1,6 @@
 exporting-collection-saved-to-itunes = Калекцыя захавана ў iTunes.
 exporting-export-to-itunes = Экспарт у iTunes
+exporting-export-to-share-sheet = Экспарт праз меню «Абагуліць»
+exporting-exporting = Экспартаванне...
+exporting-include-media2 = Уключыць медыя
+exporting-media-files-exported-d = Медыяфайлаў экспартавана: { $count }...
