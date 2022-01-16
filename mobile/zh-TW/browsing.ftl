@@ -3,7 +3,7 @@ browsing-append = 附加條件
 # add current row to existing search, with a '-' at the start to reverse it
 browsing-append-negated = 附加反向條件
 browsing-card-updated = 卡片更新時間
-browsing-change-flag = 變更旗標
+browsing-change-flag = 更改旗標
 browsing-clear-flag = 清除旗標
 browsing-column-1 = 第 1 行
 browsing-column-2 = 第 2 行
