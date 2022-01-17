@@ -103,6 +103,7 @@ actions-mark-short = Marquer
 actions-night-mode-short = Nuit
 actions-off-short = Désactivé
 actions-pause-audio-short = Arrêter
+actions-rebuild-short = Reconstruire
 actions-record-voice-short = Enreg.
 actions-replay-audio-short = Réentendre
 actions-reset-card-short = Reset
