@@ -75,19 +75,32 @@ actions-you-can-only-rebuild-a-filtered = Sólo puede reconstruir un mazo filtra
 
 # empty filtered deck
 actions-empty-short = Vacío
+# create a filtered deck
+actions-filter-short = Filtrar
+actions-add-short = Agregar
+actions-answer-again-short = R:Otra
+actions-answer-easy-short = R:Fácil
+actions-answer-good-short = R:Bien
+actions-answer-hard-short = R:Difíc
 actions-auto-advance-short = Auto Av.
 actions-bottom-bar-short = Inf.B
+actions-browse-short = Navegar
 actions-bury-card-short = Enterr.C
 actions-bury-note-short = Enterr.N
 actions-card-info-short = T.Info
+actions-card-template-short = Plantilla
 actions-current-audio-minus-5s-short = -5s
 actions-current-audio-plus-5s-short = +5 s
 actions-custom-study-short = Personalizado
 actions-deck-statistics-short = M.Estad
+actions-decks-short = Mazos
 actions-delete-note-short = Eliminar
+actions-edit-short = Editar
 actions-mark-and-bury-short = M&E
 actions-mark-and-suspend-short = M&S
+actions-mark-short = Marcar
 actions-night-mode-short = Noche
+actions-off-short = Apagado
 actions-pause-audio-short = Pausar
 actions-record-voice-short = Grabar
 actions-replay-audio-short = Repetir
@@ -102,3 +115,4 @@ actions-suspend-card-short = Sus.T
 actions-suspend-note-short = Sus.N
 actions-unbury-deck-short = Des M
 actions-undo-short = Deshacer
+actions-redo-short = Listo

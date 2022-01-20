@@ -43,8 +43,11 @@ preferences-ignore-fingers = Ignorar dedos
 preferences-interrupt-current-audio = Interrumpir el Audio Actual
 preferences-large = Grande
 preferences-left = Izquierda
+# gamepad
 preferences-left-shoulder = Gatillo Izquierdo
+# gamepad
 preferences-left-thumbstick-button = Botón de palanca de izquierdo
+# gamepad
 preferences-left-trigger = Gatillo izquierdo
 preferences-logged-in-as = Conectado como:
 preferences-long = Largo
@@ -52,6 +55,8 @@ preferences-mid-center = Centro Medio
 preferences-mid-left = Centro Izquierda
 preferences-mid-right = Centro Derecha
 preferences-never-type-answer = Nunca escriba la respuesta
+preferences-never-show-scratchpad = Nunca mostrar Bloc de notas
+preferences-never-show-scratchpad-enabled = 'Nunca mostrar Bloc de notas' está habilitado en la pantalla Preferencias.
 preferences-next-times = Próximas veces
 preferences-normal = Normal
 preferences-notifications = Notificaciones
@@ -63,11 +68,15 @@ preferences-pen-size = Tamaño del lápiz
 preferences-question-side = Lado de la pregunta
 preferences-remaining-count = Recuento Restante
 preferences-right = Derecha
+# gamepad
 preferences-right-shoulder = Gatillo Derecho
+# gamepad
 preferences-right-thumbstick-button = Botón derecho del joystick
+# gamepad
 preferences-right-trigger = Gatillo derecho
 preferences-scratchpad-below-buttons = Botones de abajo del bloc de notas
 preferences-scratchpad-transparency = Transparencia del bloc de notas
+preferences-scratchpad-transparency-full = Completa
 preferences-scratchpad-transparency-medium = Medio
 preferences-scratchpad-transparency-none = Ninguno
 preferences-scratchpad-transparency-slight = Leve
@@ -90,7 +99,6 @@ preferences-taps = Toques
 preferences-theme = Tema
 preferences-theme-bar-style = Estilo de barra
 preferences-theme-black = Negro
-
 preferences-theme-dark-translucent = Oscuro & Translucido
 preferences-theme-force-off = Forzar desactivación
 preferences-theme-force-on = Forzar activación
@@ -108,3 +116,9 @@ preferences-undo-clears-all = Deshacer lo borra todo
 preferences-when-answer-shown = Cuando se muestra la respuesta
 preferences-when-question-shown = Cuando se muestra la pregunta
 preferences-you-have-been-logged-out = Has cerrado la sesión.
+preferences-editing = Edición
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = Tamaño máximo de imagen (borde largo)
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = Redimensionar al pegar
+preferences-editing-crop-camera-photos = Recortar fotos de la cámara
