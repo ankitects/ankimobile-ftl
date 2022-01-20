@@ -30,14 +30,6 @@ actions-draw = Dibujar
 actions-file-invalid-or-corrupt = Archivo no válido o corrupto.
 actions-filtercram = Filtrar/Empollar
 actions-filtered-deck = Mazo filtrado { $num }
-actions-flag-1 = Marca 1
-actions-flag-1-red = Marca 1 (roja)
-actions-flag-2 = Marca 2
-actions-flag-2-orange = Marca 2 (Naranja)
-actions-flag-3 = Marca 3
-actions-flag-3-green = Marca 3 (Verde)
-actions-flag-4 = Marca 4
-actions-flag-4-blue = Marca 4 (Azul)
 actions-forgot-card = Tarjeta olvidada
 actions-frequent-actions = Acciones frecuentes
 actions-leave-without-saving = ¿Salir sin guardar?
@@ -59,6 +51,7 @@ actions-off = Desactivado
 actions-please-tap-the-in-the = Por favor toca el '?' en la parte superior izquierda para empezar.
 actions-processing = Procesando...
 actions-record-voice = Grabar Voz
+actions-record-voice-menu = Grabar menú de voz
 actions-reset-card = Restablecer Tarjeta
 actions-revert = Revertir
 actions-review-undone = Revisión deshecha
@@ -80,6 +73,8 @@ actions-you-can-only-rebuild-a-filtered = Sólo puede reconstruir un mazo filtra
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
 
+# empty filtered deck
+actions-empty-short = Vacío
 actions-auto-advance-short = Auto Av.
 actions-bottom-bar-short = Inf.B
 actions-bury-card-short = Enterr.C
