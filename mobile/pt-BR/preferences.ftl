@@ -44,6 +44,8 @@ preferences-interrupt-current-audio = Interromper Áudio Atual
 preferences-large = Grande
 preferences-left = Esquerda
 # gamepad
+preferences-left-shoulder = Shoulder Esquerdo
+# gamepad
 preferences-left-thumbstick-button = Botão do polegar esquerdo
 # gamepad
 preferences-left-trigger = Gatilho esquerdo
@@ -60,18 +62,65 @@ preferences-normal = Normal
 preferences-notifications = Notificações
 preferences-notifications-alert-time = Horário de Alerta
 preferences-notifications-alert-when-due = Alertar quando houver cartões pendentes
+preferences-notifications-app-icon-shows-due-count = O ícone do aplicativo mostra a contagem que falta
+preferences-notifications-settings-app-enable-notifications = Acesse as Configurações do aplicativo no iOS, localize a seção do Anki e ative as notificações, emblemas e alertas.
+preferences-pen-size = Tamanho da caneta
+preferences-question-side = Lado da pergunta
+preferences-remaining-count = Contagem restante
 preferences-right = Direita
+# gamepad
+preferences-right-shoulder = Shoulder Direito
+# gamepad
+preferences-right-thumbstick-button = Botão do polegar direito
+# gamepad
+preferences-right-trigger = Gatilho direito
+preferences-scratchpad-below-buttons = Bloco de rascunho abaixo dos botões
+preferences-scratchpad-transparency = Transparência do bloco de rascunho
+preferences-scratchpad-transparency-full = Completo
 preferences-scratchpad-transparency-medium = Médio
 preferences-scratchpad-transparency-none = Nenhum
+preferences-scratchpad-transparency-slight = Pouca
+preferences-shake-action = Agitar
+preferences-short = Baixo
+preferences-show-bottom-bar = Mostrar barra inferior
+preferences-show-grid = Mostrar grade
+preferences-show-top-bar = Mostrar barra superior
 preferences-small = Pequeno
+preferences-swipe-down = Deslizar para Baixo
+preferences-swipe-left = Deslizar para Esquerda
+preferences-swipe-right = Deslizar para a Direita
+preferences-swipe-up = Deslizar para Cima
+preferences-swipes = Deslizar
+preferences-swipes-must-begin-from-the-far = O deslizar devem começar na extremidade esquerda ou direita da tela.
 preferences-sync-sounds-images = Sincronizar Sons & Imagens
 preferences-syncing = Sincronizando
 preferences-tap-to-sync = Para ativar a sincronização, toque no botão sincronizar na tela de lista de baralho.
+preferences-taps = Toques
 preferences-theme = Tema
 preferences-theme-bar-style = Estilo da Barra
 preferences-theme-black = Preto
 preferences-theme-dark-translucent = Escuro & Translúcido
+preferences-theme-force-off = Forçar Desativado
+preferences-theme-force-on = Forçar Ativado
+preferences-theme-light-translucent = Leve e Translúcido
 preferences-theme-night-mode-desc = O modo noturno escurece a interface e exibe as cartas em branco no preto.
+preferences-theme-night-mode-same-as-system = Conforme o Sistema
+preferences-theme-slate = Slate
+preferences-thick = Grossura
+preferences-tools-overlay-button = Botão de sobreposição de Ferramentas
+preferences-tools-overlay-position = Posição de sobreposição de Ferramentas
+preferences-top-center = Superior central
+preferences-top-left = Superior Esquerdo
+preferences-top-right = Superior Direito
+preferences-undo-clears-all = Desfazer Limpar Tudo
 preferences-when-answer-shown = Quando a resposta for mostrada
 preferences-when-question-shown = Quando a pergunta for mostrada
 preferences-you-have-been-logged-out = Você foi desconectado.
+preferences-editing = Editando
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = Tamanho Máximo da Imagem (Borda Longa)
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = Redimensionar ao colar
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = Converter Citações e Travessões Inteligentes
+preferences-editing-crop-camera-photos = Cortar Fotos da Câmera
