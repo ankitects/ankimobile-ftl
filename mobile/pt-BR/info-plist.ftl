@@ -7,7 +7,7 @@ info-plist-photo-add-usage = A ação "Adicionar Fotos" requer a sua permissão.
 
 ## Long-press app icon shortcuts
 
-info-plist-add-cards = Adicionar Cartas
+info-plist-add-cards = Adicionar Cartões
 info-plist-search = Procurar
 
 ## File imports
