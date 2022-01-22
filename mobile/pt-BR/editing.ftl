@@ -2,7 +2,7 @@ editing-bold = Negrito
 editing-cancel-and-lose-any-unsaved-changes = Cancelar e perder as alterações não salvas?
 editing-cant-edit-original-image-data = Não é possível editar - dados da imagem original não encontrados.
 editing-card-returned-to-new-card-queue = Cartão devolvido à fila de novos cartões.
-editing-card-unsuspended = Cartão não suspendido
+editing-card-unsuspended = Cartão não suspenso
 editing-from-camera = Da Câmera
 editing-from-file = Do Arquivo
 editing-from-photos = De Fotos
@@ -11,7 +11,7 @@ editing-italic = Itálico
 editing-next-cloze = Próximo Cloze
 editing-next-field = Próximo Campo
 editing-note-deleted = Nota excluída
-editing-note-suspended = Nota suspendido
+editing-note-suspended = Nota suspensa
 # (Note) type: 
 editing-note-type-prompt = Tipo:
 editing-note-unsuspended = Nota não suspensa
