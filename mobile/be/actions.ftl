@@ -29,6 +29,7 @@ actions-reset-card = Скінуць картку
 actions-select-deck = Выбраць калоду
 actions-select-note-type = Выбраць тып нататкі
 actions-tools = Інструменты
+actions-unbury-deck = Вярнуць калоду
 actions-undo = Адрабіць
 actions-you-can-only-rebuild-a-filtered = Вы можаце перасабраць толькі фільтраваную калоду.
 
@@ -58,5 +59,6 @@ actions-rebuild-short = Перасаб.
 actions-record-voice-short = Зап. г.
 actions-show-answeranswer-good-short = Пак./Добра
 actions-tools-short = Інстр.
+actions-unbury-deck-short = Вярн.
 actions-undo-short = Адрабіць
 actions-redo-short = Узнавіць

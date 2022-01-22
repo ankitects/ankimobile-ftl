@@ -6,5 +6,6 @@ editing-note-deleted = Нататка выдалена
 editing-note-suspended = Нататка прыпынена
 # (Note) type: 
 editing-note-type-prompt = Тып:
+editing-unable-to-read-file = Немагчыма прачытаць файл
 editing-discard-changes-question = Адхіліць змены?
 editing-discard = Адхіліць
