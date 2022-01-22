@@ -1,5 +1,11 @@
+preferences-about = Аб праграме
 preferences-auto-advance-answer-seconds = Секунд на адказ
 preferences-auto-advance-question-seconds = Секунд на пытанне
+preferences-backup-create-now = Стварыць зараз
 preferences-bottom-center = Знізу па цэнтры
+preferences-collection-new-first = Спачатку новыя
+preferences-gamepad-menu-button = Меню
+preferences-gamepads = Геймпады
 preferences-mid-center = У сярэдзіне па цэнтры
 preferences-top-center = Зверху па цэнтры
+preferences-editing = Рэдагаванне
