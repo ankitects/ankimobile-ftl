@@ -1,9 +1,13 @@
 ## iOS permissions
 
+info-plist-mic-usage = Мікрафон будзе выкарыстоўвацца толькі калі вы націснеце на кнопку запісу.
 info-plist-photo-usage = Гэта дазваляе паказваць праглядальнік фота.
+info-plist-photo-add-usage = Дзеянне «Дадаць да фота» патрабуе вашага дазволу.
 
 ## Long-press app icon shortcuts
 
+info-plist-add-cards = Дадаць карткі
+info-plist-search = Пошук
 
 ## File imports
 

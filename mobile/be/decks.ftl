@@ -20,5 +20,5 @@ decks-invalid-deck-name = Памылковая назва калоды.
 decks-link-to-apkg-file-to-import = Спасылка на файл .apkg для імпарту:
 decks-sync = Сінхранізацыя
 decks-synchronize = Сінхранізаваць
-decks-the-default-deck-cannot-be-deleted = Калода па змаўчанні не можа быць выдалена.
+decks-the-default-deck-cannot-be-deleted = Перадвызначаная калода не можа быць выдалена.
 decks-the-provided-deck-does-not-exist = Дадзеная калода не існуе.
