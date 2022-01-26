@@ -1,4 +1,6 @@
+# add current row to existing search
 browsing-append = An­fügen
+# add current row to existing search, with a '-' at the start to reverse it
 browsing-append-negated = An­fü­gen und um­keh­ren
 browsing-card-updated = Karte aktualisiert
 browsing-change-flag = Markierung ändern
@@ -20,7 +22,7 @@ browsing-reset-cards = Karten resetten
 browsing-searching = Suche läuft...
 browsing-second-column-19 = Zweite Spalte (1->9)
 browsing-second-column-91 = Zweite Spalte (9->1)
-browsing-select-all = Alles auswählen
+browsing-select-all = Alle auswählen
 browsing-sort = Sortieren
 browsing-sort-order = Sortierreihenfolge
 browsing-tag = Schlagwort:
