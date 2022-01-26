@@ -1,4 +1,5 @@
 deck-options-defaults = Перадвызначаныя
+deck-options-display-in-order-added = Адлюстроўваць у парадку дадавання
 deck-options-group-name = Назва групы
 deck-options-new-cards = Новыя карткі
 deck-options-options-group = Група параметраў

@@ -49,6 +49,7 @@ actions-bury-note-short = Адкл. Н
 actions-card-template-short = Шаблон
 actions-current-audio-minus-5s-short = -5с
 actions-current-audio-plus-5s-short = +5с
+actions-custom-study-short = Дапасаванае
 actions-decks-short = Калоды
 actions-delete-note-short = Выд.
 actions-edit-short = Рэд.
