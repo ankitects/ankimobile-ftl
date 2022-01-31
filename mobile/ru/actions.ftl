@@ -69,7 +69,7 @@ actions-unbury-deck = Вернуть колоду
 actions-undo = Отмена
 actions-unmarked = Выделение отменено
 actions-you-can-only-empty-a-filtered = Можно очищать только отфильтрованную колоду.
-actions-you-can-only-rebuild-a-filtered = Можно реконструировать только отфильтрованную колоду.
+actions-you-can-only-rebuild-a-filtered = Можно пересобрать только фильтрованные.
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -103,7 +103,7 @@ actions-mark-short = Пометить
 actions-night-mode-short = Ночь
 actions-off-short = Выкл.
 actions-pause-audio-short = Приостановить
-actions-rebuild-short = Перестроить
+actions-rebuild-short = Пересобрать
 actions-record-voice-short = Записать
 actions-replay-voice-short = Воспр.Г
 actions-replay-audio-short = Перевоспроизведение
