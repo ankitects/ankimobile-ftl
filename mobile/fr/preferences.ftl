@@ -55,6 +55,8 @@ preferences-mid-center = Au milieu au centre
 preferences-mid-left = Au milieu à gauche
 preferences-mid-right = Au milieu à droite
 preferences-never-type-answer = Ne jamais taper la réponse
+preferences-never-show-scratchpad = ne jamais montrer le bloc-notes
+preferences-never-show-scratchpad-enabled = L'option de ne jamais montrer le bloc-notes est activée dans l'écran Préférences.
 preferences-next-times = Prochaines fois
 preferences-normal = Normal
 preferences-notifications = Notifications
@@ -97,7 +99,6 @@ preferences-taps = Toucher
 preferences-theme = Thème
 preferences-theme-bar-style = Style de la barre
 preferences-theme-black = Noir
-
 preferences-theme-dark-translucent = Sombre et translucide
 preferences-theme-force-off = Forcer la désactivation
 preferences-theme-force-on = Forcer l'activation

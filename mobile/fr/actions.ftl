@@ -116,6 +116,7 @@ actions-study-options-short = Option
 actions-suspend-card-short = Susp.C
 actions-suspend-note-short = Susp.N
 actions-tools-short = Outils
+actions-top-bar-short = T.Bar
 actions-unbury-deck-short = Dét P
 actions-undo-short = Annuler
 actions-redo-short = Rétablir
