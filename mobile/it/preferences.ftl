@@ -1,5 +1,7 @@
 preferences-about = Chi siamo
+preferences-answer-side = Lato della risposta
 preferences-audio-buttons = Pulsanti audio
+preferences-auto-advance-answer-action = Azione di risposta
 preferences-auto-advance-do-nothing = Non fare niente
 preferences-auto-advance-wait-for-audio = Attendi audio
 preferences-bottom-left = Pulsante a sinistra
@@ -19,4 +21,3 @@ preferences-sync-sounds-images = Sincronizza suono e immagine
 preferences-syncing = Sincronizzazione
 preferences-theme = Tema
 preferences-theme-black = Nero
-
