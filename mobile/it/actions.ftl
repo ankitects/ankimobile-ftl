@@ -1,7 +1,10 @@
 actions-actions = Azioni
 actions-add-new = Aggiungi nuovo
+actions-added-to-frequent-actions = Aggiunto alle azioni frequenti.
 actions-all-actions = Tutte le azioni
+actions-already-in-frequent-actions = Già in azioni frequenti.
 actions-an-error-occurred = Si è verificato un errore: { $error }
+actions-answer-again = Rispondi Ripeti
 actions-are-you-sure = Sei sicuro?
 actions-browse = Sfoglia
 actions-card-buried = Carta seppellita
