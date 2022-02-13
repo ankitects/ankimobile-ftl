@@ -1,1 +1,6 @@
+exporting-collection-saved-to-itunes = Collezione salvata su iTunes
+exporting-export-to-itunes = Esportata su iTunes
+exporting-export-to-share-sheet = Esportata su Share Sheet
+exporting-exporting = Sto Esportando...
 exporting-include-media2 = Includi file multimediali
+exporting-media-files-exported-d = File multimediali esportati: { $count }...
