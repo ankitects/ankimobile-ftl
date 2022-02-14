@@ -1,3 +1,4 @@
+deck-options-add-options-group = Дадаць групу параметраў
 deck-options-defaults = Перадвызначаныя
 deck-options-display-in-order-added = Адлюстроўваць у парадку дадавання
 deck-options-group-name = Назва групы

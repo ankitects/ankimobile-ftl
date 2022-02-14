@@ -43,6 +43,7 @@ preferences-next-times = Наступныя разы
 preferences-notifications = Апавяшчэнні
 preferences-question-side = Бок з пытаннем
 preferences-right = Справа
+preferences-scratchpad-below-buttons = Нататнік пад кнопкамі
 preferences-scratchpad-transparency = Празрыстасць нататніка
 preferences-scratchpad-transparency-full = Поўная
 preferences-scratchpad-transparency-medium = Сярэдняя
