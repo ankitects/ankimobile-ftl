@@ -55,6 +55,8 @@ preferences-mid-center = 正中
 preferences-mid-left = 左中
 preferences-mid-right = 右中
 preferences-never-type-answer = 禁用键入答案
+preferences-never-show-scratchpad = 从不显示草稿本
+preferences-never-show-scratchpad-enabled = 「从不显示草稿本」已在设置中打开。
 preferences-next-times = 下次答题时间
 preferences-normal = 普通
 preferences-notifications = 通知
@@ -97,7 +99,6 @@ preferences-taps = 手势控制：轻点
 preferences-theme = 主题
 preferences-theme-bar-style = 栏样式
 preferences-theme-black = 黑色
-
 preferences-theme-dark-translucent = 深色半透明
 preferences-theme-force-off = 强制关闭
 preferences-theme-force-on = 强制开启
