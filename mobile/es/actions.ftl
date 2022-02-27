@@ -47,6 +47,7 @@ actions-note-and-its-cards-suspended = Nota y sus { $count } tarjetas suspendida
 actions-note-buried = Nota enterrada
 actions-note-marked-and-buried = Nota marcada y enterrada
 actions-nothing-to-undo = No hay nada que deshacer
+actions-nothing-to-redo = Nada que rehacer
 actions-off = Desactivado
 actions-please-tap-the-in-the = Por favor toca el '?' en la parte superior izquierda para empezar.
 actions-processing = Procesando...
