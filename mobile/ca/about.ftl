@@ -3,3 +3,5 @@ about-license-text = AnkiMobile éstà construït amb { $nexe }, compartit gener
 about-please-see = Si us plau, vegeu { $link } per obtenir més informació.
 about-some-thirdparty-libraries = algunes biblioteques de tercers
 about-thanks-contributors = Moltes gràcies a tothom que ha proporcionat traduccions, informes d'errors i suggeriments.
+about-thanks-for-support = Gràcies per comprar AnkiMobile! És d'agrair el vostre suport perque sense ell, el desenvolupament d'Anki no podria continuar.
+about-the-anki-homepage = la pàgina d'inici d'Anki
