@@ -1,1 +1,16 @@
 preferences-auto-advance-do-nothing = କିଛି କରନ୍ତୁନି
+preferences-gamepad-menu-button = ମେନୁ
+preferences-swipe-down = ତଳକୁ ସ୍ଵାଇପ୍ କଲେ
+preferences-swipe-left = ବାମକୁ ସ୍ଵାଇପ୍ କଲେ
+preferences-swipe-right = ଡାହାଣକୁ ସ୍ଵାଇପ୍ କଲେ
+preferences-swipe-up = ଉପରକୁ ସ୍ଵାଇପ୍ କଲେ
+preferences-theme = ଥିମ୍
+preferences-theme-bar-style = ଦଣ୍ଡିକାର ଶୈଳୀ
+preferences-theme-black = କଳା
+preferences-theme-dark-translucent = ଗାଢ଼ ଓ ଆବରଣଯୁକ୍ତ
+preferences-theme-force-off = ବଳପୂର୍ବକ ବନ୍ଦ କରନ୍ତୁ
+preferences-theme-force-on = ବଳପୂର୍ବକ ଚାଲୁ କରନ୍ତୁ
+preferences-theme-light-translucent = ହାଲୁକା ଓ ଆବରଣଯୁକ୍ତ
+preferences-theme-night-mode-desc = ରାତ୍ରି ମୋଡ୍ ଇଣ୍ଟରଫେସ୍ କୁ ଅନ୍ଧାର କରେ, ଏବଂ କଳା ଉପରେ ଧଳା ଥିଲାଭଳି ପତ୍ରଗୁଡ଼ିକ ପ୍ରଦର୍ଶନ କରେ।
+preferences-theme-night-mode-same-as-system = ସିଷ୍ଟମ୍ କୁ ଅନୁସରଣ କରିବା
+preferences-theme-slate = ପାଉଁସିଆ

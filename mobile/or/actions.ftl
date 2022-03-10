@@ -1,9 +1,12 @@
 actions-add-new = ନୂଆ ଯୋଡ଼ନ୍ତୁ
 actions-an-error-occurred = ଏକ ତ୍ରୁଟି ଘଟିଛି: { $error }
+actions-are-you-sure = ଆପଣ ନିଶ୍ଚିତ ଅଛନ୍ତି କି?
 actions-card-buried = ପତ୍ର ସ୍ଥଗିତ କରାଗଲା
 actions-card-suspended = ପତ୍ର ନିଲମ୍ବିତ କରାଗଲା
 actions-card-template = ପତ୍ର ଟେମ୍ପଲେଟ୍
 actions-deck-statistics = ତାସଖଣ୍ଡର ପରିସଂଖ୍ୟାନ
+actions-delete-note-and-its-cards = ନୋଟ୍ ଏବଂ ଏହାର ସମସ୍ତ ପତ୍ର ବିଲୋପ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?
+actions-discard-changes = ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପରିତ୍ୟାଗ କରନ୍ତୁ
 actions-done = ହୋଇଗଲା
 actions-note-and-its-cards-suspended = ନୋଟ୍ ଏବଂ ଏହାର { $count }ଟି ପତ୍ର ନିଲମ୍ବିତ କରାଗଲା
 actions-note-buried = ନୋଟ୍ ସ୍ଥଗିତ କରାଗଲା
