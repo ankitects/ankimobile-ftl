@@ -8,6 +8,8 @@ actions-done = ହୋଇଗଲା
 actions-note-and-its-cards-suspended = ନୋଟ୍ ଏବଂ ଏହାର { $count }ଟି ପତ୍ର ନିଲମ୍ବିତ କରାଗଲା
 actions-note-buried = ନୋଟ୍ ସ୍ଥଗିତ କରାଗଲା
 actions-note-marked-and-buried = ନୋଟ୍ ଚିହ୍ନିତ କରି ସ୍ଥଗିତ କରାଗଲା
+actions-nothing-to-undo = ପୂର୍ବବତ୍ କରିବା ପାଇଁ କିଛି ନାହିଁ
+actions-nothing-to-redo = ପୁନଃକରଣ କରିବା ପାଇଁ କିଛି ନାହିଁ
 actions-off = ବନ୍ଦ
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
