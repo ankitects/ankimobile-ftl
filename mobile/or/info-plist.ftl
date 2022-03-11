@@ -5,6 +5,7 @@ info-plist-photo-usage = ଏହା ଫଟୋ ବ୍ରାଉଜର୍ ଦେଖ�
 ## Long-press app icon shortcuts
 
 info-plist-add-cards = ପତ୍ର ଯୋଡ଼ନ୍ତୁ
+info-plist-search = ସନ୍ଧାନ
 
 ## File imports
 

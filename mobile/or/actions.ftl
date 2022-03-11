@@ -10,7 +10,10 @@ actions-discard-changes = ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ପ�
 actions-done = ହୋଇଗଲା
 actions-file-invalid-or-corrupt = ଫାଇଲ୍ ଅବୈଧ କିମ୍ୱା ଦୁର୍ନୀତିଗ୍ରସ୍ତ।
 actions-forgot-card = ପତ୍ରଟି ଭୁଲିଗଲି
+actions-leave-without-saving = ସଞ୍ଚୟ ନକରି ଛାଡ଼ିବେ କି?
 actions-no-current-card = କୌଣସି ଚଳିତ ପତ୍ର ନାହିଁ।
+# (http://example.com) does not appear to be...
+actions-not-valid-link = ଏକ ବୈଧ http/https ଲିଙ୍କ୍ ଭଳି ଦେଖାଯାଉ ନାହିଁ।
 actions-note-and-its-cards-deleted = ନୋଟ୍ ଏବଂ ଏହାର { $count }ଟି ପତ୍ର ବିଲୋପ ହୋଇଛି
 actions-note-and-its-cards-suspended = ନୋଟ୍ ଏବଂ ଏହାର { $count }ଟି ପତ୍ର ନିଲମ୍ବିତ କରାଗଲା
 actions-note-buried = ନୋଟ୍ ସ୍ଥଗିତ କରାଗଲା
@@ -18,6 +21,8 @@ actions-note-marked-and-buried = ନୋଟ୍ ଚିହ୍ନିତ କରି �
 actions-nothing-to-undo = ପୂର୍ବବତ୍ କରିବା ପାଇଁ କିଛି ନାହିଁ
 actions-nothing-to-redo = ପୁନଃକରଣ କରିବା ପାଇଁ କିଛି ନାହିଁ
 actions-off = ବନ୍ଦ
+actions-top-bar = ଶୀର୍ଷ ଦଣ୍ଡିକା
+actions-undo = ପୂର୍ବବତ୍ କରନ୍ତୁ
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -25,7 +30,9 @@ actions-off = ବନ୍ଦ
 actions-add-short = ଯୋଗ
 actions-card-info-short = ପ.ସୂଚନା
 actions-card-template-short = ଟେମ୍ପଲେଟ୍
+actions-edit-short = ସମ୍ପାଦନ
 actions-night-mode-short = ରାତ୍ରି
 actions-off-short = ବନ୍ଦ
+actions-show-answeranswer-good-short = ଉ/ଦେଖାଅ
 actions-undo-short = ପୂର୍ବବତ୍ କରନ୍ତୁ
 actions-redo-short = ପୁନଃକରଣ
