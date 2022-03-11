@@ -1,5 +1,6 @@
 ## iOS permissions
 
+info-plist-photo-usage = ଏହା ଫଟୋ ବ୍ରାଉଜର୍ ଦେଖାଇବାକୁ ଅନୁମତି ଦିଏ।
 
 ## Long-press app icon shortcuts
 
