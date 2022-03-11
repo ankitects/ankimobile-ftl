@@ -21,3 +21,5 @@ actions-off = ବନ୍ଦ
 actions-add-short = ଯୋଗ
 actions-night-mode-short = ରାତ୍ରି
 actions-off-short = ବନ୍ଦ
+actions-undo-short = ପୂର୍ବବତ୍ କରନ୍ତୁ
+actions-redo-short = ପୁନଃକରଣ
