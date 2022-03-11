@@ -23,10 +23,13 @@ actions-nothing-to-redo = ପୁନଃକରଣ କରିବା ପାଇଁ କ
 actions-off = ବନ୍ଦ
 actions-top-bar = ଶୀର୍ଷ ଦଣ୍ଡିକା
 actions-undo = ପୂର୍ବବତ୍ କରନ୍ତୁ
+actions-you-can-only-empty-a-filtered = ଆପଣ କେବଳ ଗୋଟିଏ ଶୋଧିତ ତାସଖଣ୍ଡକୁ ଖାଲି କରିପାରିବେ।
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
 
+# empty filtered deck
+actions-empty-short = ଖାଲିକର
 actions-add-short = ଯୋଗ
 actions-card-info-short = ପ.ସୂଚନା
 actions-card-template-short = ଟେମ୍ପଲେଟ୍
