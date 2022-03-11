@@ -1,5 +1,19 @@
 preferences-auto-advance-do-nothing = କିଛି କରନ୍ତୁନି
+preferences-collection-new-first = ପ୍ରଥମେ ନୂଆ
+preferences-collection-newreview-order = ନୂଆ/ସମୀକ୍ଷା କ୍ରମ
+preferences-collection-reviews-first = ପ୍ରଥମେ ସମୀକ୍ଷା
 preferences-gamepad-menu-button = ମେନୁ
+preferences-left = ବାମ
+# gamepad
+preferences-left-shoulder = ବାମ କାନ୍ଧ
+preferences-normal = ସାଧାରଣ
+preferences-notifications = ବିଜ୍ଞପ୍ତି
+preferences-pen-size = କଲମ ଆକାର
+preferences-question-side = ପ୍ରଶ୍ନ ପାର୍ଶ୍ୱ
+preferences-remaining-count = ବଳକା ଗଣନା
+preferences-right = ଡାହାଣ
+# gamepad
+preferences-right-shoulder = ଡାହାଣ କାନ୍ଧ
 preferences-swipe-down = ତଳକୁ ସ୍ଵାଇପ୍ କଲେ
 preferences-swipe-left = ବାମକୁ ସ୍ଵାଇପ୍ କଲେ
 preferences-swipe-right = ଡାହାଣକୁ ସ୍ଵାଇପ୍ କଲେ
