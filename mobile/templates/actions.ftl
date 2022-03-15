@@ -79,10 +79,10 @@ actions-empty-short = Empty
 # create a filtered deck
 actions-filter-short = Filter
 actions-add-short = Add
-actions-answer-again-short = Ans.A
-actions-answer-easy-short = Ans.E
-actions-answer-good-short = Ans.G
-actions-answer-hard-short = Ans.H
+actions-answer-again-short = Again
+actions-answer-easy-short = Easy
+actions-answer-good-short = Good
+actions-answer-hard-short = Hard
 actions-auto-advance-short = Auto Adv.
 actions-bottom-bar-short = Bot.B
 actions-browse-short = Browse
