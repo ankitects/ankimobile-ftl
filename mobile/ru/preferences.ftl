@@ -1,6 +1,6 @@
 preferences-about = О приложении
 preferences-always-duck-and-ignore-mute = Игнорировать бесшумный режим
-preferences-answer-keeps-zoom = Ответ сохраняет приближ.
+preferences-answer-keeps-zoom = Ответ сохраняет масштаб
 preferences-answer-side = Сторона ответа
 preferences-audio-buttons = Кнопки звука
 preferences-auto-advance-answer-action = Действие
@@ -99,7 +99,6 @@ preferences-taps = Касания
 preferences-theme = Тема
 preferences-theme-bar-style = Стиль панели
 preferences-theme-black = Черный
-
 preferences-theme-dark-translucent = Темный и прозрачный
 preferences-theme-force-off = Принудительно выключить
 preferences-theme-force-on = Принудительно включить
