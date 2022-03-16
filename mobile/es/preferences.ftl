@@ -121,4 +121,6 @@ preferences-editing = Edición
 preferences-editing-max-image-size = Tamaño máximo de imagen (borde largo)
 # whether to shrink images when pasting
 preferences-editing-resize-on-paste = Redimensionar al pegar
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = Convertir comillas y guiones inteligentes
 preferences-editing-crop-camera-photos = Recortar fotos de la cámara
