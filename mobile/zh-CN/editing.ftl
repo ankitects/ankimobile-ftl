@@ -14,7 +14,7 @@ editing-note-deleted = 笔记已删除
 editing-note-suspended = 笔记已暂停
 # (Note) type: 
 editing-note-type-prompt = 模板：
-editing-note-unsuspended = 卡片已取消暂停
+editing-note-unsuspended = 笔记已取消暂停
 # keyboard shortcut description
 editing-same-cloze = 同一空
 editing-the-first-field-must-not-be = 首字段不能清空。
