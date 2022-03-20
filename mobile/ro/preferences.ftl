@@ -1,0 +1,16 @@
+preferences-about = Despre
+preferences-answer-keeps-zoom = Răspunsul păstrează zoomul
+preferences-answer-side = Partea de răspuns
+preferences-audio-buttons = Butoane audio
+preferences-auto-advance-answer-action = Actiune răspuns
+preferences-auto-advance-answer-seconds = Secunde răspuns
+preferences-auto-advance-auto-advance-to-start = Pentru a începe automat avansarea, utilizați acțiunea „Avansare automată”.
+preferences-auto-advance-do-nothing = Nu fă nimic
+preferences-auto-advance-question-seconds = Secunde întrebare
+preferences-auto-advance-show-reminder = Afișează memento
+preferences-auto-advance-wait-for-audio = Așteaptă audio
+preferences-backup-available-backups = Copii de rezervă disponibile
+preferences-backup-create-now = Crează acum
+preferences-backup-maximum-backups = Nr, maxim de copii de rezervă
+preferences-backup-minutes-between-backups = Minute între copii de rezervă
+preferences-backup-revert-to-backup = Reveniți la copie de rezervă
