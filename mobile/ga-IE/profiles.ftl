@@ -1,6 +1,6 @@
 profiles-a-profile-with-that-name-already = Tá an t-ainm sin ar phróifíl eile cheana féin.
 profiles-add-profile = Cuir Próifíl leis
-profiles-creating-backup = Cóip chúltaca á déanamh...
+
 profiles-finishing-backup = Cúltacú á chríochnú...
 profiles-please-provide-some-text-avoiding-symbols = Cuir téacs éigin ann, ach na siombailí agus na fostríoca a sheachaint.
 profiles-please-select-another-profile-first = Roghnaigh próifíl eile ar dtús.

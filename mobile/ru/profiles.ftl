@@ -1,6 +1,6 @@
 profiles-a-profile-with-that-name-already = Профиль с этим именем уже существует.
 profiles-add-profile = Добавить профиль
-profiles-creating-backup = Создание резервной копии...
+
 profiles-finishing-backup = Завершение создания копии...
 profiles-please-provide-some-text-avoiding-symbols = Впишите текст, избегая символов и знаков подчеркивания.
 profiles-please-select-another-profile-first = Сначала выберите другой профиль.

@@ -1,6 +1,6 @@
 profiles-a-profile-with-that-name-already = Un profil avec ce nom existe déjà.
 profiles-add-profile = Ajouter un profil
-profiles-creating-backup = Création de sauvegarde...
+
 profiles-finishing-backup = Copie de sécurité en cours de terminaison...
 profiles-please-provide-some-text-avoiding-symbols = Veuillez renseigner du texte, en évitant les symboles et les tirets bas.
 profiles-please-select-another-profile-first = Veuillez d'abord sélectionner un autre profil.

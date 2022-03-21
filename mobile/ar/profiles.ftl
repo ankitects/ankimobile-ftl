@@ -1,6 +1,6 @@
 profiles-a-profile-with-that-name-already = هناك ملف شخصي له ذلك الاسم بالفعل.
 profiles-add-profile = إضافة ملف شخصي
-profiles-creating-backup = إنشاء نسخة احتياطية...
+
 profiles-finishing-backup = إنهاء النسخ الاحتياطي...
 profiles-please-provide-some-text-avoiding-symbols = الرجاء إدخال نص ما، مع تجنب الرموز والشرطات التحتية.
 profiles-please-select-another-profile-first = الرجاء تحديد ملف شخصي آخر أولًا.
