@@ -1,4 +1,4 @@
-about-anki-written-by = AnkiMobile由AnkiDamien Elmes和Richard Smith基于Damien Elmes编写的桌面版本共同编写。
+about-anki-written-by = AnkiMobile 由 Damien Elmes 和 Richard Smith 共同编写，基于 Damien Elmes 在计算机端编写的 Anki。
 about-license-text = AnkiMobile基于{ $link }构建，由iOS开发者社区慷慨分享。
 about-please-see = 更多信息请参见{ $link }。
 about-some-thirdparty-libraries = 第三方程序库
