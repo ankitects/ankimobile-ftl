@@ -1,10 +1,10 @@
+# add current row to existing search
 browsing-append = إلحاق
+# add current row to existing search, with a '-' at the start to reverse it
 browsing-append-negated = إلحاق بصيغة منفية
 browsing-card-updated = تم تحديث البطاقة
 browsing-change-flag = تغيير المؤشر
 browsing-clear-flag = مسح المؤشر
-browsing-column-1 = عمود 1
-browsing-column-2 = عمود 2
 browsing-confirm-reset = تأكيد إعادة التعيين
 browsing-dd-selected = { $part }/{ $total } محددة
 browsing-due-dateorder = تاريخ/ترتيب الاستحقاق
@@ -18,9 +18,17 @@ browsing-questionandanswer = سؤال+جواب
 browsing-repetitions = تكرارات
 browsing-reset-cards = أعيد تعيين البطاقات
 browsing-searching = بحث...
-browsing-second-column-19 = العمود الثاني (1->9)
-browsing-second-column-91 = العمود الثاني (9->1)
 browsing-select-all = تحديد الكل
-browsing-sort = فرز:
 browsing-sort-order = ترتيب الفرز
 browsing-tag = وسم:
+browsing-column-number = العمود { $number }
+browsing-notes-mode = وضع الملحوظات
+browsing-sort-backwards = فرز معكوس
+
+## OBSOLETE; you do not need to translate.
+
+browsing-column-1 = عمود 1
+browsing-column-2 = عمود 2
+browsing-second-column-19 = العمود الثاني (1->9)
+browsing-second-column-91 = العمود الثاني (9->1)
+browsing-sort = فرز:
