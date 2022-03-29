@@ -5,8 +5,6 @@ browsing-append-negated = An­fü­gen und um­keh­ren
 browsing-card-updated = Karte aktualisiert
 browsing-change-flag = Markierung ändern
 browsing-clear-flag = Markierung aufheben
-browsing-column-1 = Spalte 1
-browsing-column-2 = Spalte 2
 browsing-confirm-reset = Reset bestätigen
 browsing-dd-selected = { $part }/{ $total } aus­ge­wählt
 browsing-due-dateorder = Fälligkeitsdatum/-reihenfolge
@@ -20,9 +18,17 @@ browsing-questionandanswer = Frage+Antwort
 browsing-repetitions = Wiederholungen
 browsing-reset-cards = Karten resetten
 browsing-searching = Suche läuft...
-browsing-second-column-19 = Zweite Spalte (1->9)
-browsing-second-column-91 = Zweite Spalte (9->1)
 browsing-select-all = Alle auswählen
-browsing-sort = Sortieren
 browsing-sort-order = Sortierreihenfolge
 browsing-tag = Schlagwort:
+browsing-column-number = Spalte { $number }
+browsing-notes-mode = Notizenmodus
+browsing-sort-backwards = Rückwärts sortieren
+
+## OBSOLETE; you do not need to translate.
+
+browsing-column-1 = Spalte 1
+browsing-column-2 = Spalte 2
+browsing-second-column-19 = Zweite Spalte (1->9)
+browsing-second-column-91 = Zweite Spalte (9->1)
+browsing-sort = Sortieren
