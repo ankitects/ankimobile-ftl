@@ -5,8 +5,6 @@ browsing-append-negated = Добавить отрициательно
 browsing-card-updated = Карточка обновлена
 browsing-change-flag = Изменить флажок
 browsing-clear-flag = Снять флажок
-browsing-column-1 = Столбец 1
-browsing-column-2 = Столбец 2
 browsing-confirm-reset = Подтверждение сброса
 browsing-dd-selected = { $part }/{ $total } выбрано
 browsing-due-dateorder = Срок/порядок
@@ -20,9 +18,17 @@ browsing-questionandanswer = Вопрос+Ответ
 browsing-repetitions = Повторения
 browsing-reset-cards = Сбросить карточки
 browsing-searching = Идет поиск...
-browsing-second-column-19 = Второй столбец (1->9)
-browsing-second-column-91 = Второй столбец (9->1)
 browsing-select-all = Выбрать все
-browsing-sort = Сортировка:
 browsing-sort-order = Порядок
 browsing-tag = Метка:
+browsing-column-number = Колонка { $number }
+browsing-notes-mode = Режим записей
+browsing-sort-backwards = В обратном порядке
+
+## OBSOLETE; you do not need to translate.
+
+browsing-column-1 = Столбец 1
+browsing-column-2 = Столбец 2
+browsing-second-column-19 = Второй столбец (1->9)
+browsing-second-column-91 = Второй столбец (9->1)
+browsing-sort = Сортировка:
