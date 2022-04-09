@@ -70,6 +70,8 @@ actions-undo = Undo
 actions-unmarked = Unmarked
 actions-you-can-only-empty-a-filtered = You can only empty a filtered deck.
 actions-you-can-only-rebuild-a-filtered = You can only rebuild a filtered deck.
+actions-scroll-up = Scroll Up
+actions-scroll-down = Scroll Down
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -121,7 +123,5 @@ actions-top-bar-short = T.Bar
 actions-unbury-deck-short = UBury
 actions-undo-short = Undo
 actions-redo-short = Redo
-actions-scroll-up = Scroll Up
-actions-scroll-down = Scroll Down
 actions-scroll-up-short = Up
 actions-scroll-down-short = Down
