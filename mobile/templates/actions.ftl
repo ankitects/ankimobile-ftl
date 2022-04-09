@@ -121,3 +121,7 @@ actions-top-bar-short = T.Bar
 actions-unbury-deck-short = UBury
 actions-undo-short = Undo
 actions-redo-short = Redo
+actions-scroll-up = Scroll Up
+actions-scroll-down = Scroll Down
+actions-scroll-up-short = Up
+actions-scroll-down-short = Down
