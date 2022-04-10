@@ -70,6 +70,8 @@ actions-undo = Отмена
 actions-unmarked = Выделение отменено
 actions-you-can-only-empty-a-filtered = Можно очищать только отфильтрованную колоду.
 actions-you-can-only-rebuild-a-filtered = Можно пересобрать только фильтрованные.
+actions-scroll-up = Прокрутить вверх
+actions-scroll-down = Прокрутить вниз
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -121,3 +123,5 @@ actions-top-bar-short = T.Bar
 actions-unbury-deck-short = Вернуть
 actions-undo-short = Отмена
 actions-redo-short = Повторить
+actions-scroll-up-short = Вверх
+actions-scroll-down-short = Вниз
