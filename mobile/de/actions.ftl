@@ -70,6 +70,8 @@ actions-undo = Rück­gängig
 actions-unmarked = Nicht gekennzeichnet
 actions-you-can-only-empty-a-filtered = Sie können nur einen Auswahlstapel leeren.
 actions-you-can-only-rebuild-a-filtered = Sie können nur einen Auswahlstapel erneut aufbauen.
+actions-scroll-up = Hochscrollen
+actions-scroll-down = Herunterscrollen
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -121,3 +123,5 @@ actions-top-bar-short = Leiste
 actions-unbury-deck-short = AufhZurücks
 actions-undo-short = Rückg.
 actions-redo-short = Wiederherstellen
+actions-scroll-up-short = Hoch
+actions-scroll-down-short = Herunter
