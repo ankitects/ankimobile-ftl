@@ -70,6 +70,8 @@ actions-undo = 撤销
 actions-unmarked = 已取消标记
 actions-you-can-only-empty-a-filtered = 您只可以清空筛选牌组。
 actions-you-can-only-rebuild-a-filtered = 您只可以重建筛选牌组。
+actions-scroll-up = 向上滚动
+actions-scroll-down = 向下滚动
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -121,3 +123,5 @@ actions-top-bar-short = 工具栏
 actions-unbury-deck-short = 取消搁置
 actions-undo-short = 撤销
 actions-redo-short = 恢复
+actions-scroll-up-short = 向上
+actions-scroll-down-short = 向下
