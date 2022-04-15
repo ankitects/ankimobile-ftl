@@ -84,6 +84,8 @@ actions-undo = Cealaigh
 actions-unmarked = Gan mharcáil
 actions-you-can-only-empty-a-filtered = Is iad na pacaí scagtha amháin is féidir a fholmhú.
 actions-you-can-only-rebuild-a-filtered = Is iad na pacaí scagtha amháin is féidir a atógáil.
+actions-scroll-up = Scrollaigh Suas
+actions-scroll-down = Scrollaigh Síos
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -135,3 +137,5 @@ actions-top-bar-short = Barra.U
 actions-unbury-deck-short = TAmach
 actions-undo-short = Cealaigh
 actions-redo-short = Athdhéan
+actions-scroll-up-short = Suas
+actions-scroll-down-short = Síos
