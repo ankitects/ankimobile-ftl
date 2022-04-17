@@ -70,6 +70,8 @@ actions-undo = Cofnij
 actions-unmarked = Usunięto wyróżnienie
 actions-you-can-only-empty-a-filtered = Możesz opróżnić tylko talię filtrowaną.
 actions-you-can-only-rebuild-a-filtered = Możesz przebudować tylko talię filtrowaną.
+actions-scroll-up = Przewiń w górę
+actions-scroll-down = Przewiń w dół
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
