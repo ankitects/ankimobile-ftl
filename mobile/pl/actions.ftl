@@ -121,3 +121,5 @@ actions-top-bar-short = G.pasek
 actions-unbury-deck-short = Odkop
 actions-undo-short = Cofnij
 actions-redo-short = Ponów
+actions-scroll-up-short = W górę
+actions-scroll-down-short = W dół
