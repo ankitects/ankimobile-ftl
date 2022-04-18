@@ -70,6 +70,8 @@ actions-undo = Annuler
 actions-unmarked = Décocher
 actions-you-can-only-empty-a-filtered = Vous ne pouvez vider qu'un paquet filtré.
 actions-you-can-only-rebuild-a-filtered = Vous ne pouvez refondre qu'un paquet filtré.
+actions-scroll-up = Faire défiler vers le haut
+actions-scroll-down = Faire défiler vers le bas
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -105,6 +107,7 @@ actions-off-short = Désactivé
 actions-pause-audio-short = Arrêter
 actions-rebuild-short = Reconstruire
 actions-record-voice-short = Enreg.
+actions-replay-voice-short = Rejouer
 actions-replay-audio-short = Réentendre
 actions-reset-card-short = Reset
 actions-scratchpad-short = Pavé
@@ -120,3 +123,5 @@ actions-top-bar-short = T.Bar
 actions-unbury-deck-short = Dét P
 actions-undo-short = Annuler
 actions-redo-short = Rétablir
+actions-scroll-up-short = Haut
+actions-scroll-down-short = Bas
