@@ -5,8 +5,6 @@ browsing-append-negated = Дадаць з адмаўленнем
 browsing-card-updated = Картка абноўлена
 browsing-change-flag = Змяніць сцяжок
 browsing-clear-flag = Ачысціць сцяжок
-browsing-column-1 = Слупок 1
-browsing-column-2 = Слупок 2
 browsing-confirm-reset = Пацвердзіць скід
 browsing-dd-selected = { $part }/{ $total } выбрана
 browsing-learning-cards = Карткі на вывучэнні
@@ -18,9 +16,15 @@ browsing-questionandanswer = Пытанне+Адказ
 browsing-repetitions = Паўтарэнні
 browsing-reset-cards = Скінуць карткі
 browsing-searching = Пошук...
-browsing-second-column-19 = Другі слупок (1->9)
-browsing-second-column-91 = Другі слупок (9->1)
 browsing-select-all = Выбраць усё
-browsing-sort = Сартаванне:
 browsing-sort-order = Парадак сартавання
 browsing-tag = Цэтлік:
+browsing-sort-backwards = Зваротнае сартаванне
+
+## OBSOLETE; you do not need to translate.
+
+browsing-column-1 = Слупок 1
+browsing-column-2 = Слупок 2
+browsing-second-column-19 = Другі слупок (1->9)
+browsing-second-column-91 = Другі слупок (9->1)
+browsing-sort = Сартаванне:

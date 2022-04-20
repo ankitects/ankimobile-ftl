@@ -1,3 +1,6 @@
+studying-answer-time-elapsed = Мінуў час для адказу
+studying-auto-advance-starting = Аўтапрасоўванне пачалося
+studying-auto-advance-stopped = Аўтапрасоўванне спынена
 # ...have (5 cards) ready...
 studying-have-ready-to-study = Вы маеце { $numCards }, гатовых да вывучэння.
 studying-please-run-empty-cards-on-the = Запусціце «Пустыя карткі» на камп'ютарнай версіі Anki.

@@ -3,6 +3,7 @@ preferences-answer-side = Бок з адказам
 preferences-audio-buttons = Кнопкі аўдыя
 preferences-auto-advance-answer-action = Дзеянне адказу
 preferences-auto-advance-answer-seconds = Секунд на адказ
+preferences-auto-advance-auto-advance-to-start = Каб пачаць аўтаматычны пераход паміж карткамі, выкарыстайце дзеянне «Aўтапрасоўванне».
 preferences-auto-advance-do-nothing = Не рабіць нічога
 preferences-auto-advance-question-seconds = Секунд на пытанне
 preferences-auto-advance-show-reminder = Паказваць напамін
