@@ -70,6 +70,8 @@ actions-undo = Deshacer
 actions-unmarked = Sin marcas
 actions-you-can-only-empty-a-filtered = Sólo puede vaciar un mazo filtrado.
 actions-you-can-only-rebuild-a-filtered = Sólo puede reconstruir un mazo filtrado.
+actions-scroll-up = Desplazarse hacia arriba
+actions-scroll-down = Desplazarse hacia abajo
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -121,3 +123,5 @@ actions-top-bar-short = Bar.Sup
 actions-unbury-deck-short = Des M
 actions-undo-short = Deshacer
 actions-redo-short = Listo
+actions-scroll-up-short = Arriba
+actions-scroll-down-short = Abajo
