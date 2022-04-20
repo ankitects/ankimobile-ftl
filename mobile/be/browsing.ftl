@@ -19,6 +19,7 @@ browsing-searching = Пошук...
 browsing-select-all = Выбраць усё
 browsing-sort-order = Парадак сартавання
 browsing-tag = Цэтлік:
+browsing-column-number = Слупок { $number }
 browsing-sort-backwards = Зваротнае сартаванне
 
 ## OBSOLETE; you do not need to translate.
