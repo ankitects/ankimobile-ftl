@@ -70,6 +70,8 @@ actions-undo = تراجع
 actions-unmarked = غير مُعلَّمة
 actions-you-can-only-empty-a-filtered = تستطيع إفراغ رزمة مفلترة فقط.
 actions-you-can-only-rebuild-a-filtered = تستطيع إعادة إنشاء رزمة مفلترة فقط.
+actions-scroll-up = اسحب للأعلى
+actions-scroll-down = اسحب للأسفل
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -121,3 +123,5 @@ actions-top-bar-short = شريط أ.
 actions-unbury-deck-short = نكش
 actions-undo-short = تراجع
 actions-redo-short = إعادة تطبيق
+actions-scroll-up-short = أعلى
+actions-scroll-down-short = أسفل
