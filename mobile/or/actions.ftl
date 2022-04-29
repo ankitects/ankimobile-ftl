@@ -1,6 +1,7 @@
 actions-add-new = ନୂଆ ଯୋଡ଼ନ୍ତୁ
 actions-an-error-occurred = ଏକ ତ୍ରୁଟି ଘଟିଛି: { $error }
 actions-are-you-sure = ଆପଣ ନିଶ୍ଚିତ ଅଛନ୍ତି କି?
+actions-bottom-bar = ନିମ୍ନ ଦଣ୍ଡିକା
 actions-card-buried = ପତ୍ର ସ୍ଥଗିତ କରାଗଲା
 actions-card-suspended = ପତ୍ର ନିଲମ୍ବିତ କରାଗଲା
 actions-card-template = ପତ୍ର ଟେମ୍ପଲେଟ୍

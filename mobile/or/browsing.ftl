@@ -6,5 +6,9 @@ browsing-note2 = ନୋଟ୍:
 browsing-questionandanswer = ପ୍ରଶ୍ନ+ଉତ୍ତର
 browsing-repetitions = ପୁନରାବୃତ୍ତି
 browsing-searching = ଖୋଜୁଛି...
-browsing-sort = ସଜାନ୍ତୁ:
+browsing-select-all = ସବୁ ଚୟନ କରନ୍ତୁ
 browsing-sort-order = ସଜାଇବା କ୍ରମ
+
+## OBSOLETE; you do not need to translate.
+
+browsing-sort = ସଜାନ୍ତୁ:

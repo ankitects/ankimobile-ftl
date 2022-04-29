@@ -20,6 +20,7 @@ preferences-right = ଡାହାଣ
 preferences-right-shoulder = ଡାହାଣ କାନ୍ଧ
 preferences-scratchpad-transparency-full = ପୁରା
 preferences-shake-action = ଦୋହଲାଇଲେ
+preferences-show-bottom-bar = ନିମ୍ନ ଦଣ୍ଡିକା ଦେଖାଅ
 preferences-swipe-down = ତଳକୁ ସ୍ଵାଇପ୍ କଲେ
 preferences-swipe-left = ବାମକୁ ସ୍ଵାଇପ୍ କଲେ
 preferences-swipe-right = ଡାହାଣକୁ ସ୍ଵାଇପ୍ କଲେ
