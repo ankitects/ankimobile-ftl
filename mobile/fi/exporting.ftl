@@ -1,0 +1,6 @@
+exporting-collection-saved-to-itunes = Kokoelma tallennettu iTunesiin.
+exporting-export-to-itunes = Vie iTunesiin
+exporting-export-to-share-sheet = Vie jakonäkymän kautta
+exporting-exporting = Viedään...
+exporting-include-media2 = Sisällytä media
+exporting-media-files-exported-d = Vietyjä mediatiedostoja: { $count }...

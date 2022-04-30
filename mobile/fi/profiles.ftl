@@ -5,3 +5,5 @@ profiles-please-provide-some-text-avoiding-symbols = Kirjoita tekstiä, mutta v�
 profiles-please-select-another-profile-first = Valitse ensin toinen profiili.
 profiles-profile-name = Profiilin nimi
 profiles-rename-profile = Nimeä profiili uudelleen
+profiles-unable-to-open-safari-please = Safarin avaaminen ei onnistunut - tarkista lapsilukko.
+profiles-welcome = Tervetuloa!
