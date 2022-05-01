@@ -7,6 +7,8 @@ browsing-change-flag = Змяніць сцяжок
 browsing-clear-flag = Ачысціць сцяжок
 browsing-confirm-reset = Пацвердзіць скід
 browsing-dd-selected = { $part }/{ $total } выбрана
+browsing-due-dateorder = Тэрмін/парадак
+browsing-due-reviews = Чакаюць перагляду
 browsing-learning-cards = Карткі на вывучэнні
 browsing-no-cards-are-selected = Ніводная картка не выбрана.
 browsing-note-created = Нататка створана
@@ -20,6 +22,7 @@ browsing-select-all = Выбраць усё
 browsing-sort-order = Парадак сартавання
 browsing-tag = Цэтлік:
 browsing-column-number = Слупок { $number }
+browsing-notes-mode = Рэжым нататак
 browsing-sort-backwards = Зваротнае сартаванне
 
 ## OBSOLETE; you do not need to translate.
