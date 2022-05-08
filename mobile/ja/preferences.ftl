@@ -55,6 +55,7 @@ preferences-mid-center = 中央
 preferences-mid-left = 左中央
 preferences-mid-right = 右中央
 preferences-never-type-answer = 答えをタイプしない
+preferences-never-show-scratchpad = スクラッチパッドを表示しない
 preferences-next-times = 次回のカード表示
 preferences-normal = 標準
 preferences-notifications = 通知
@@ -97,7 +98,6 @@ preferences-taps = タップ
 preferences-theme = テーマ
 preferences-theme-bar-style = バーの外観
 preferences-theme-black = ブラック
-
 preferences-theme-dark-translucent = ダーク & 半透明
 preferences-theme-force-off = 強制オフ
 preferences-theme-force-on = 強制オン

@@ -70,6 +70,8 @@ actions-undo = 元に戻す
 actions-unmarked = マークを解除しました
 actions-you-can-only-empty-a-filtered = 空にできるのはフィルタデッキのみです。
 actions-you-can-only-rebuild-a-filtered = 再作成できるのはフィルタデッキのみです。
+actions-scroll-up = スクロールアップ
+actions-scroll-down = スクロールダウン
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
