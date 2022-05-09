@@ -22,6 +22,8 @@ browsing-select-all = すべて選択
 browsing-sort-order = ソート順
 browsing-tag = タグ：
 browsing-column-number = 列 { $number }
+browsing-notes-mode = ノートモード
+browsing-sort-backwards = 後ろからソート
 
 ## OBSOLETE; you do not need to translate.
 

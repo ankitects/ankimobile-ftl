@@ -56,6 +56,7 @@ preferences-mid-left = 左中央
 preferences-mid-right = 右中央
 preferences-never-type-answer = 答えをタイプしない
 preferences-never-show-scratchpad = スクラッチパッドを表示しない
+preferences-never-show-scratchpad-enabled = 設定画面で「スクラッチパッドを表示しない」がオンになっています。
 preferences-next-times = 次回のカード表示
 preferences-normal = 標準
 preferences-notifications = 通知

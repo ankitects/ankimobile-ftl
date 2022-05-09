@@ -123,3 +123,5 @@ actions-top-bar-short = トップバー
 actions-unbury-deck-short = 延解除
 actions-undo-short = 元に戻す
 actions-redo-short = やり直す
+actions-scroll-up-short = 上
+actions-scroll-down-short = 下
