@@ -70,6 +70,8 @@ actions-undo = Desfazer
 actions-unmarked = Desmarcado
 actions-you-can-only-empty-a-filtered = Você só pode esvaziar um baralho filtrado.
 actions-you-can-only-rebuild-a-filtered = Você só pode reconstruir um baralho filtrado.
+actions-scroll-up = Rolar para cima
+actions-scroll-down = Rolar para baixo
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
