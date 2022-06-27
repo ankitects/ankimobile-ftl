@@ -39,6 +39,28 @@ actions-mark-and-bury = סמן + קבור
 actions-mark-and-suspend = סמן + השהה
 actions-marked = מסומן
 actions-no-current-card = אין כרטיס נוכחי.
+actions-no-load-restore-backup = לא ניתן היה לטעון את האוסף שלך. נא לשחזר מגיבוי אוטומטי דרך מסך ההעדפות.
+# (http://example.com) does not appear to be...
+actions-not-valid-link = לא נראה כקישור http/https חוקי.
+actions-note-and-its-cards-deleted = הפתקים והכרטיסים { $count } שלה נמחקו
+actions-note-and-its-cards-suspended = הפתק והכרטיסים שלה { $count } הושעו
+actions-note-buried = קבור פתק
+actions-note-marked-and-buried = פתק מסומן ומוטמן
+actions-nothing-to-undo = אין מה לבטל
+actions-nothing-to-redo = אין מה לעשות מחדש
+actions-off = כבוי
+actions-please-tap-the-in-the = אנא הקש על '?' בפינה השמאלית העליונה כדי להתחיל.
+actions-processing = מעבד...
+actions-select-deck = בחר חפיסה
+actions-select-note-type = בחר סוג פתק
+actions-show-answeranswer-good = הצג תשובה/תשובה טובה
+actions-study-options = אפשרויות לימוד
+actions-tools = כלים
+actions-tools-overlay = שכבת על של כלים
+actions-top-bar = בר עליון
+actions-undo = בטל
+actions-scroll-up = גלול למעלה
+actions-scroll-down = גלול למטה
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
