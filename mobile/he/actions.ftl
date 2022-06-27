@@ -24,6 +24,21 @@ actions-deck-statistics = סטטיסטיקות חפיסה
 actions-delete-note-and-its-cards = למחוק את הפתק ואת הקלפים שלו?
 actions-discard-changes = בטל שינויים
 actions-done = בוצע
+actions-downloading = מוריד...
+actions-drag-here-to-remove = גרור לכאן כדי להסיר
+actions-draw = צייר
+actions-file-invalid-or-corrupt = קובץ לא חוקי או פגום.
+actions-filtercram = סינון/דחיסה
+actions-filtered-deck = { $num } חפיסות מסוננות
+actions-forgot-card = שכח כרטיס
+actions-frequent-actions = פעולות נפוצות
+actions-leave-without-saving = לעזוב ללא שמירה?
+actions-long-press-on-an-item-to = לחץ לחיצה ארוכה על פריט להתאמה אישית.
+actions-mark = סמן
+actions-mark-and-bury = סמן + קבור
+actions-mark-and-suspend = סמן + השהה
+actions-marked = מסומן
+actions-no-current-card = אין כרטיס נוכחי.
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
