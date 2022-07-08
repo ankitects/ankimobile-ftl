@@ -5,8 +5,6 @@ browsing-append-negated = Anexo Negado
 browsing-card-updated = Cartão Atualizada
 browsing-change-flag = Alterar Emblema
 browsing-clear-flag = Limpar Emblema
-browsing-column-1 = Coluna 1
-browsing-column-2 = Coluna 2
 browsing-confirm-reset = Confirmar Redefinição
 browsing-dd-selected = { $part }/{ $total } selecionado
 browsing-due-dateorder = Data de Vencimento/Pedido
@@ -20,9 +18,17 @@ browsing-questionandanswer = Pergunta+Resposta
 browsing-repetitions = Repetições
 browsing-reset-cards = Reiniciar Cartões
 browsing-searching = Pesquisando...
-browsing-second-column-19 = Segunda Coluna (1->9)
-browsing-second-column-91 = Segunda Coluna (9->1)
 browsing-select-all = Selecionar Tudo
-browsing-sort = Ordenar:
 browsing-sort-order = Ordenar Classificação
 browsing-tag = Etiqueta:
+browsing-column-number = Coluna { $number }
+browsing-notes-mode = Modo de notas
+browsing-sort-backwards = Classificando ao contrário
+
+## OBSOLETE; you do not need to translate.
+
+browsing-column-1 = Coluna 1
+browsing-column-2 = Coluna 2
+browsing-second-column-19 = Segunda Coluna (1->9)
+browsing-second-column-91 = Segunda Coluna (9->1)
+browsing-sort = Ordenar:
