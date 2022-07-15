@@ -21,6 +21,7 @@ preferences-bottom-left = Злева ўнізе
 preferences-bottom-right = Справа ўнізе
 preferences-button-d = Кнопка { $num }
 preferences-collection-day-starts = Пачатак дня
+preferences-collection-learn-ahead-minutes = Хвілін вывучэння з апярэджаннем
 preferences-collection-mix = Змешваць
 preferences-collection-new-first = Спачатку новыя
 preferences-collection-newreview-order = Парадак новых/пераглядаў
