@@ -1,6 +1,6 @@
 ## iOS permissions
 
-info-plist-camera-usage = Гэта дазваляе Anki устаўляць вашыя здымкі ў вашыя карткі.
+info-plist-camera-usage = Гэта дазваляе Anki устаўляць вашыя здымкі ў вашы карткі.
 info-plist-mic-usage = Мікрафон будзе выкарыстоўвацца толькі калі вы націснеце на кнопку запісу.
 info-plist-photo-usage = Гэта дазваляе паказваць праглядальнік фота.
 info-plist-photo-add-usage = Дзеянне «Дадаць да фота» патрабуе вашага дазволу.
