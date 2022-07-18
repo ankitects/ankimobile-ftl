@@ -14,5 +14,5 @@ deck-options-new-cards = 新卡片
 deck-options-options-group = 選項群組
 deck-options-replay-q-audio-in-answer = 在答案重播問題音訊
 deck-options-reset-all-settings-to-defaults = 重置所有設定為預設值
-deck-options-restore-defaults = 恢復預設
+deck-options-restore-defaults = 回復預設
 deck-options-steps = 學習階段

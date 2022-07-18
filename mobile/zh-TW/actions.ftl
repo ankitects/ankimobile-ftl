@@ -39,7 +39,7 @@ actions-mark-and-bury = 標記+暫停
 actions-mark-and-suspend = 標記+擱置
 actions-marked = 已標記
 actions-no-current-card = 沒有當前卡片。
-actions-no-load-restore-backup = 無法載入集合。請在「偏好設定」>「備份」中恢復備份。
+actions-no-load-restore-backup = 無法載入集合。請在「偏好設定」>「備份」中回復備份。
 # (http://example.com) does not appear to be...
 actions-not-valid-link = 似乎不是有效的 http /https 連結。
 actions-note-and-its-cards-deleted = 已刪除筆記和與其關聯的 { $count } 張卡片
@@ -70,6 +70,8 @@ actions-undo = 復原
 actions-unmarked = 取消標記
 actions-you-can-only-empty-a-filtered = 只有篩選牌組能被清空。
 actions-you-can-only-rebuild-a-filtered = 只有篩選牌組能被重建。
+actions-scroll-up = 向上捲動
+actions-scroll-down = 向下捲動
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -121,3 +123,5 @@ actions-top-bar-short = 工具列
 actions-unbury-deck-short = 取消暫停
 actions-undo-short = 復原
 actions-redo-short = 重做
+actions-scroll-up-short = 向上
+actions-scroll-down-short = 向下
