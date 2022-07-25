@@ -1,5 +1,5 @@
 decks-a-deck-must-be-provided = 必須提供一個牌組。
-decks-a-deck-named-already-exists = 已存在名為「{ $name }」的牌組了。
+decks-a-deck-named-already-exists = 已存在名為「{ $name }」的牌組。
 decks-a-deck-with-that-name-already = 已存在名稱相同的牌組。
 decks-add-deck = 新增牌組
 decks-add-empty-deck = 新增空白牌組
@@ -26,4 +26,4 @@ decks-synchronize = 同步
 decks-the-default-deck-cannot-be-deleted = 無法刪除預設牌組。
 decks-the-provided-deck-does-not-exist = 提供的牌組不存在。
 decks-the-search-you-provided-did-not = 沒有任何卡片符合你搜尋的內容。
-decks-will-be-returned = 當你回答後，這些卡片將會回到原始牌組。
+decks-will-be-returned = 卡片將在回答後回到原來的牌組。
