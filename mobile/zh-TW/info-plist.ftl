@@ -2,7 +2,7 @@
 
 info-plist-camera-usage = 這可讓 Anki 把你擷取的圖像插入到卡片上。
 info-plist-mic-usage = 麥克風只會在你按下錄製按鈕時啟用。
-info-plist-photo-usage = 這可讓照片瀏覽器顯示。
+info-plist-photo-usage = 需要啟用才能顯示照片瀏覽器。
 info-plist-photo-add-usage = 「新增到照片」動作需要你的授權。
 
 ## Long-press app icon shortcuts
