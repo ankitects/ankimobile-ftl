@@ -19,4 +19,4 @@ custom-study-preview-all-cards-with-certain-tags = 預覽所有加上了特定�
 custom-study-review-due-cards-with-certain-tags = 複習加上了特定標籤的到期卡片
 custom-study-search-matches = { $num }符合搜尋
 custom-study-study-type = 學習類型
-custom-study-the-selected-options-did-not-match = 沒有任何卡片符合已選取的選項。
+custom-study-the-selected-options-did-not-match = 沒有任何卡片符合所選選項。
