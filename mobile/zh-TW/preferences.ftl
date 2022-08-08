@@ -40,7 +40,7 @@ preferences-gamepads = 遊戲手把控制
 preferences-height = 高度
 preferences-huge = 巨大
 preferences-ignore-fingers = 忽略手指
-preferences-interrupt-current-audio = 中斷當前音訊
+preferences-interrupt-current-audio = 中斷正在播放的音訊
 preferences-large = 大
 preferences-left = 左對齊
 # gamepad

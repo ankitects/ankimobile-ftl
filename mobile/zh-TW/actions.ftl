@@ -69,7 +69,7 @@ actions-unbury-deck = 取消暫停牌組
 actions-undo = 復原
 actions-unmarked = 取消標記
 actions-you-can-only-empty-a-filtered = 只能清空篩選牌組。
-actions-you-can-only-rebuild-a-filtered = 只能重建篩選牌組。
+actions-you-can-only-rebuild-a-filtered = 只能重新整理篩選牌組。
 actions-scroll-up = 向上捲動
 actions-scroll-down = 向下捲動
 
@@ -105,7 +105,7 @@ actions-mark-short = 標記
 actions-night-mode-short = 夜間
 actions-off-short = 關閉
 actions-pause-audio-short = 暫停音訊
-actions-rebuild-short = 重建
+actions-rebuild-short = 重新整理
 actions-record-voice-short = 錄製
 actions-replay-voice-short = 重播
 actions-replay-audio-short = 重播
