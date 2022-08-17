@@ -1,0 +1,6 @@
+exporting-collection-saved-to-itunes = Col·lecció guardada en iTunes.
+exporting-export-to-itunes = Exporta a iTunes
+exporting-export-to-share-sheet = Exporta al full de compartir
+exporting-exporting = Exportant…
+exporting-include-media2 = Inclou els fitxers multimèdia
+exporting-media-files-exported-d = Fitxers multimèdia exportats: { $count }…
