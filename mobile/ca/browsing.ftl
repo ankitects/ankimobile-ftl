@@ -1,3 +1,10 @@
+browsing-note2 = Nota:
+browsing-questionandanswer = Pregunta i resposta
+browsing-repetitions = Repeticions
+browsing-reset-cards = Inicialitza les targetes
+browsing-searching = S'està cercant…
+browsing-select-all = Selecciona-ho tot
+browsing-sort-order = Ordre
 browsing-tag = Etiqueta:
 browsing-column-number = Columna { $number }
 
