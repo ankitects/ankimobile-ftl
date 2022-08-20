@@ -1,0 +1,9 @@
+preferences-about = Quant a
+preferences-backup-create-now = Crea'n ara
+preferences-backup-maximum-backups = Nombre màxim de còpies de seguretat
+preferences-left = Esquerra
+preferences-long = Llarg
+preferences-normal = Normal
+preferences-notifications = Notificacions
+preferences-right = Dreta
+preferences-small = Petit
