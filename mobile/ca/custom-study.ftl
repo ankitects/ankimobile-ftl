@@ -1,5 +1,6 @@
 # any tag
 custom-study-any-tag = qualsevol
+custom-study-available = { $num } disponible
 custom-study-extra-new-cards = Targetes noves addicionals
 custom-study-extra-review-cards = Targetes de repàs addicionals
 custom-study-loading = S'està carregant…
