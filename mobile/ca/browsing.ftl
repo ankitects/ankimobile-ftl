@@ -1,3 +1,14 @@
+# add current row to existing search
+browsing-append = Afegeix
+# add current row to existing search, with a '-' at the start to reverse it
+browsing-append-negated = Sostreu
+browsing-card-updated = S'ha actualitzat la targeta.
+browsing-change-flag = Canvia de senyal
+browsing-clear-flag = Suprimeix el senyal
+browsing-confirm-reset = Confirma la reinicialització
+browsing-dd-selected = S'ha(n) seleccionat { $part } de { $total }
+browsing-due-dateorder = Data de repàs/ordre
+browsing-due-reviews = Repassos pendents
 browsing-learning-cards = Targetes d'aprenentatge
 browsing-no-cards-are-selected = No heu seleccionat cap nota o targeta.
 browsing-note-created = S'ha creat la nota

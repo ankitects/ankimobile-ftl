@@ -1,3 +1,17 @@
+deck-options-add-options-group = Afegeix un grup d'opcions
+deck-options-answer-time-cap = Temps de resposta límit
+deck-options-bury-related-new-cards = Enterra les targetes noves relacionades
+deck-options-bury-related-reviews = Enterra els repassos relacionats
 deck-options-defaults = Per defecte
+deck-options-display-in-order-added = Mostra en ordre d'addició
+deck-options-display-in-random-order = Mostra en ordre aleatori
+deck-options-full-sync-required = Cal una sincronització completa
 deck-options-group-name = Nom del group
+deck-options-max-new-per-day = Nombre màxim de targetes noves per dia
+deck-options-max-reviews-per-day = Nombre màxim de repassos per dia
 deck-options-new-cards = Targetes noves
+deck-options-options-group = Grup d'opcions
+deck-options-replay-q-audio-in-answer = Repeteix el so de la pregunta en la resposta
+deck-options-reset-all-settings-to-defaults = Voleu restaurar tota la configuració per defecte?
+deck-options-restore-defaults = Restaura la configuració per defecte
+deck-options-steps = Passos
