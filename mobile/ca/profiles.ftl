@@ -1,3 +1,4 @@
+profiles-a-profile-with-that-name-already = Ja existeix una foto amb aquest nom.
 profiles-add-profile = Afegeix un perfil
 profiles-finishing-backup = S'està acabant la còpia de seguretat…
 profiles-please-provide-some-text-avoiding-symbols = Introduïu un text (no inclogueu símbols o ratlles baixes)

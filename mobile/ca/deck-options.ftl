@@ -3,6 +3,7 @@ deck-options-answer-time-cap = Temps de resposta límit
 deck-options-bury-related-new-cards = Enterra les targetes noves relacionades
 deck-options-bury-related-reviews = Enterra els repassos relacionats
 deck-options-defaults = Per defecte
+deck-options-delete-options-full-sync = Si elimineu aquest grup d'opcions no es fusionaran els canvis recents fets en altres dispositius durant la pròxima sincronització. Voleu continuar?
 deck-options-display-in-order-added = Mostra en ordre d'addició
 deck-options-display-in-random-order = Mostra en ordre aleatori
 deck-options-full-sync-required = Cal una sincronització completa
