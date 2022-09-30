@@ -62,11 +62,11 @@ preferences-normal = 正常
 preferences-notifications = 通知
 preferences-notifications-alert-time = 通知時間
 preferences-notifications-alert-when-due = 到期時通知
-preferences-notifications-app-icon-shows-due-count = 在 App 圖示上顯示到期卡片計數
+preferences-notifications-app-icon-shows-due-count = 在 App 圖示上顯示到期卡片數量
 preferences-notifications-settings-app-enable-notifications = 請前往 iOS 設定，找到「Anki」，並啟用允許通知、標記和提示。
 preferences-pen-size = 筆跡大小
 preferences-question-side = 問題面
-preferences-remaining-count = 剩餘計數
+preferences-remaining-count = 剩餘數量
 preferences-right = 右對齊
 # gamepad
 preferences-right-shoulder = RS
