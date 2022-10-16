@@ -3,9 +3,9 @@ editing-cancel-and-lose-any-unsaved-changes = 取消並捨棄未儲存的更動�
 editing-cant-edit-original-image-data = 無法編輯 - 找不到原始圖像資料。
 editing-card-returned-to-new-card-queue = 卡片已回到新卡片佇列。
 editing-card-unsuspended = 已取消擱置卡片
-editing-from-camera = 來自相機
-editing-from-file = 來自檔案
-editing-from-photos = 來自照片
+editing-from-camera = 拍照或錄影
+editing-from-file = 選擇檔案
+editing-from-photos = 照片圖庫
 editing-italic = 斜體
 # keyboard shortcut description
 editing-next-cloze = 下一個克漏字
