@@ -15,4 +15,4 @@ deck-options-options-group = 設定グループ
 deck-options-replay-q-audio-in-answer = 答表示時に問題音声再生
 deck-options-reset-all-settings-to-defaults = すべての設定をデフォルトに戻しますか？
 deck-options-restore-defaults = 初期設定に戻す
-deck-options-steps = 学習ステップ (分)
+deck-options-steps = 習得ステップ (分)
