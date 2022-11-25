@@ -1,5 +1,5 @@
 editing-bold = Negreta
-editing-cancel-and-lose-any-unsaved-changes = Voleu anul·lar tots els canvis que no hàgiu guardat?
+editing-cancel-and-lose-any-unsaved-changes = Voleu cancel·lar i perdre tots els canvis que no hàgiu guardat?
 editing-cant-edit-original-image-data = No s'ha pogut editar perquè no s'han trobat les dades de la imatge original.
 editing-card-returned-to-new-card-queue = S'ha retornat la targeta a la cua de targetes noves.
 editing-card-unsuspended = S'ha anul·lat la suspensió de la targeta.
