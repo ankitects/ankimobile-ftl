@@ -3,8 +3,8 @@ browsing-append = Adjuntar
 # add current row to existing search, with a '-' at the start to reverse it
 browsing-append-negated = Sustraer
 browsing-card-updated = Tarjeta actualizada
-browsing-change-flag = Cambiar Marca
-browsing-clear-flag = Borrar Marca
+browsing-change-flag = Cambiar marcador
+browsing-clear-flag = Borrar marcador
 browsing-confirm-reset = Confirmar reinicio
 browsing-dd-selected = { $part }/{ $total } seleccionados
 browsing-due-dateorder = Fecha de Vencimiento/Orden
