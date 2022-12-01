@@ -1,4 +1,4 @@
-exporting-collection-saved-to-itunes = iTunes에 컬랙션 저장됨.
+exporting-collection-saved-to-itunes = iTunes에 컬렉션 저장됨.
 exporting-export-to-itunes = iTunes로 내보내기
 exporting-export-to-share-sheet = 공유 시트로 내보내기
 exporting-exporting = 내보내는 중...

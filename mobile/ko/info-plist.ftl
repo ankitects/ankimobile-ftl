@@ -12,5 +12,5 @@ info-plist-search = 찾기
 
 ## File imports
 
-info-plist-packaged-collection = 패키지된 Anki 컬랙션
+info-plist-packaged-collection = 패키지된 Anki 컬렉션
 info-plist-packaged-anki-deck = 패키지된 Anki 뭉치

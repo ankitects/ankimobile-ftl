@@ -39,7 +39,7 @@ actions-mark-and-bury = 표시 + 숨기기
 actions-mark-and-suspend = 표시 + 일시중단하기
 actions-marked = 표시됨
 actions-no-current-card = 현재 카드 없음.
-actions-no-load-restore-backup = 컬랙션을 로드할 수 없습니다. 설정 화면에서 자동 백업을 복원해 주세요.
+actions-no-load-restore-backup = 컬렉션을 로드할 수 없습니다. 설정 화면에서 자동 백업을 복원해 주세요.
 # (http://example.com) does not appear to be...
 actions-not-valid-link = 는 유효한 http/https 링크가 아닌 것 같습니다.
 actions-note-and-its-cards-deleted = 노트와 속한 카드 { $count }개가 삭제되었습니다.
