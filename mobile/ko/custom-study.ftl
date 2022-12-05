@@ -9,7 +9,7 @@ custom-study-exclude-cards-with-tag = 태그를 가진 카드들 제외
 custom-study-extra-new-cards = 새로운 추가 카드들
 custom-study-extra-review-cards = 리뷰 추가 카드들
 custom-study-include-cards-with-tag = 태그를 가진 카드들 포함
-custom-study-learn-new-cards-with-certain-tags = 특정 카드를 가진, 새로운 카드를 학습하기
+custom-study-learn-new-cards-with-certain-tags = 특정 태그를 가진 새 카드 학습하기
 custom-study-loading = 로딩 중...
 custom-study-max-cards-to-gather = 최대 카드 수
 # no tags selected
