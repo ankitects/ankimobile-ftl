@@ -21,6 +21,9 @@ browsing-searching = 검색 중...
 browsing-select-all = 전체 선택
 browsing-sort-order = 정렬 방식
 browsing-tag = 태그:
+browsing-column-number = { $number }열
+browsing-notes-mode = 노트 모드
+browsing-sort-backwards = 거꾸로 정렬
 
 ## OBSOLETE; you do not need to translate.
 

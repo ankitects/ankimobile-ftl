@@ -70,6 +70,8 @@ actions-undo = 실행 취소
 actions-unmarked = 표시 해제됨
 actions-you-can-only-empty-a-filtered = 필터된 뭉치만 비울 수 있습니다.
 actions-you-can-only-rebuild-a-filtered = 필터된 뭉치만 다시 만들 수 있습니다.
+actions-scroll-up = 위로 스크롤
+actions-scroll-down = 아래로 스크롤
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -121,3 +123,5 @@ actions-top-bar-short = 툴바
 actions-unbury-deck-short = 뭉치보이기
 actions-undo-short = 실행 취소
 actions-redo-short = 다시 실행
+actions-scroll-up-short = 위로
+actions-scroll-down-short = 아래로
