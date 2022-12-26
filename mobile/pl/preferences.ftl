@@ -55,6 +55,8 @@ preferences-mid-center = Środek
 preferences-mid-left = Lewy środek
 preferences-mid-right = Prawy środek
 preferences-never-type-answer = Nigdy nie wpisuj odpowiedzi
+preferences-never-show-scratchpad = Nigdy nie pokazuj brudnopisu
+preferences-never-show-scratchpad-enabled = W opcjach wybrano Nigdy nie pokazuj brudnopisu.
 preferences-next-times = Czas do następnej powtórki
 preferences-normal = Domyślnie
 preferences-notifications = Powiadomienia
@@ -97,7 +99,6 @@ preferences-taps = Dotyk
 preferences-theme = Motyw
 preferences-theme-bar-style = Typ paska
 preferences-theme-black = Czarny
-
 preferences-theme-dark-translucent = Ciemny prześwitujący
 preferences-theme-force-off = Wymuś wyłączenie
 preferences-theme-force-on = Wymuś włączenie
