@@ -4,7 +4,7 @@ actions-added-to-frequent-actions = よく使用するアクションに追加�
 actions-all-actions = すべてのアクション
 actions-already-in-frequent-actions = すでによく使用するアクションに登録されています。
 actions-an-error-occurred = エラーが発生しました：{ $error }
-actions-answer-again = 回答 (もう一度)
+actions-answer-again = 回答 (やり直し)
 actions-answer-easy = 回答 (簡単)
 actions-answer-good = 回答 (正解)
 actions-answer-hard = 回答 (難しい)
@@ -81,7 +81,7 @@ actions-empty-short = トップバー
 # create a filtered deck
 actions-filter-short = フィルタ
 actions-add-short = 追加
-actions-answer-again-short = もう一度
+actions-answer-again-short = やり直し
 actions-answer-easy-short = 簡単
 actions-answer-good-short = 正解
 actions-answer-hard-short = 難しい
