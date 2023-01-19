@@ -35,8 +35,11 @@ preferences-huge = Kocaman
 preferences-ignore-fingers = Parmakları Yoksay
 preferences-interrupt-current-audio = Mevcut sesi kes
 preferences-large = Büyük
+# gamepad
 preferences-left-shoulder = Sol Omuz
+# gamepad
 preferences-left-thumbstick-button = Sol Parmak Çubuğu Düğmesi
+# gamepad
 preferences-left-trigger = Sol Tetik
 preferences-logged-in-as = Olarak giriş yaptı:
 preferences-long = Uzun
@@ -54,8 +57,11 @@ preferences-pen-size = Kalem Boyutu
 preferences-question-side = Soru Tarafı
 preferences-remaining-count = Kalan Sayım
 preferences-right = Sağ
+# gamepad
 preferences-right-shoulder = Sağ omuz
+# gamepad
 preferences-right-thumbstick-button = Sağ Parmak Çubuğu Düğmesi
+# gamepad
 preferences-right-trigger = Sağ tetik
 preferences-scratchpad-below-buttons = Çalışma defteri alt düğmeleri
 preferences-scratchpad-transparency = Çalışma defteri saydamlığı
@@ -66,7 +72,7 @@ preferences-show-top-bar = Üst Çubuğu Göster
 preferences-small = Küçük
 preferences-theme-bar-style = Bar Sitili
 preferences-theme-black = Siyah
-
 preferences-theme-dark-translucent = Karanlık & Yarı Saydam
 preferences-theme-light-translucent = Parlak ve Yarı Saydam
 preferences-theme-slate = Barut rengi
+preferences-undo-clears-all = Geri Alma Her Şeyi Temizler
