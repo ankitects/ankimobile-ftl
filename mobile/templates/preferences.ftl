@@ -96,7 +96,6 @@ preferences-sync-sounds-images = Sync Sounds & Images
 preferences-syncing = Syncing
 preferences-tap-to-sync = To activate syncing, tap the synchronize button on the deck list screen.
 preferences-taps = Taps
-preferences-theme = Theme
 preferences-theme-bar-style = Bar Style
 preferences-theme-black = Black
 
@@ -118,7 +117,6 @@ preferences-when-answer-shown = When answer shown
 preferences-when-question-shown = When question shown
 preferences-you-have-been-logged-out = You have been logged out.
 
-preferences-editing = Editing
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Max Image Size (Long Edge)
 # whether to shrink images when pasting
