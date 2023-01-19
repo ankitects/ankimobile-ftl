@@ -96,7 +96,6 @@ preferences-sync-sounds-images = 소리와 이미지 동기화
 preferences-syncing = 동기화
 preferences-tap-to-sync = 동기화를 진행하려면, 뭉치 목록 화면에서 동기화 버튼을 누르시면 됩니다.
 preferences-taps = 탭
-preferences-theme = 테마
 preferences-theme-bar-style = 바 스타일
 preferences-theme-black = 블랙
 preferences-theme-dark-translucent = 어두운 반투명
@@ -116,7 +115,6 @@ preferences-undo-clears-all = 실행 취소로 모두 지우기
 preferences-when-answer-shown = 답이 보일 때
 preferences-when-question-shown = 질문이 보일 때
 preferences-you-have-been-logged-out = 로그아웃 되었습니다.
-preferences-editing = 편집
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = 최대 이미지 크기 (긴 변)
 # whether to shrink images when pasting

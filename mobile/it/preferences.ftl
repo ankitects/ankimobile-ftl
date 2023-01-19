@@ -33,5 +33,4 @@ preferences-right = Destra
 preferences-scratchpad-transparency-none = Nessuno/a
 preferences-sync-sounds-images = Sincronizza suono e immagine
 preferences-syncing = Sincronizzazione
-preferences-theme = Tema
 preferences-theme-black = Nero

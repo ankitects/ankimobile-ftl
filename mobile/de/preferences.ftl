@@ -96,7 +96,6 @@ preferences-sync-sounds-images = Audio & Bilder sync.
 preferences-syncing = Synchronisierung
 preferences-tap-to-sync = Um die Synchronisation zu aktivieren, tippen Sie bitte auf den Synchronisieren-Knopf auf dem Bildschirm für die Stapelliste.
 preferences-taps = Tippen
-preferences-theme = Theme
 preferences-theme-bar-style = Bal­ken­stil
 preferences-theme-black = Schwarz
 
@@ -117,7 +116,6 @@ preferences-undo-clears-all = \"Alles aufräumen\" rückgängig machen
 preferences-when-answer-shown = Wenn Antwort angezeigt wird
 preferences-when-question-shown = Wenn Frage angezeigt wird
 preferences-you-have-been-logged-out = Sie wurden abgemeldet.
-preferences-editing = Bearbeiten
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Max. Bildgröße (lange Kante)
 # whether to shrink images when pasting

@@ -25,7 +25,6 @@ preferences-swipe-down = ତଳକୁ ସ୍ଵାଇପ୍ କଲେ
 preferences-swipe-left = ବାମକୁ ସ୍ଵାଇପ୍ କଲେ
 preferences-swipe-right = ଡାହାଣକୁ ସ୍ଵାଇପ୍ କଲେ
 preferences-swipe-up = ଉପରକୁ ସ୍ଵାଇପ୍ କଲେ
-preferences-theme = ଥିମ୍
 preferences-theme-bar-style = ଦଣ୍ଡିକାର ଶୈଳୀ
 preferences-theme-black = କଳା
 preferences-theme-dark-translucent = ଗାଢ଼ ଓ ଆବରଣଯୁକ୍ତ

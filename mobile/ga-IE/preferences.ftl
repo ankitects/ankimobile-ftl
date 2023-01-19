@@ -96,7 +96,6 @@ preferences-sync-sounds-images = Sioncronaigh Fuaimeanna & Íomhánna
 preferences-syncing = Sioncronú
 preferences-tap-to-sync = Chun tús a chur leis an sioncronú, brúigh an cnaipe Sioncronaigh agus tú ag breathnú ar liosta na bpacaí.
 preferences-taps = Brú an Scáileáin
-preferences-theme = Modh
 preferences-theme-bar-style = Cuma an Bharra
 preferences-theme-black = Dubh
 
@@ -117,7 +116,6 @@ preferences-undo-clears-all = Scriosann 'Cealaigh' Gach Rud
 preferences-when-answer-shown = Agus an freagra á thaispeáint
 preferences-when-question-shown = Agus an cheist á taispeáint
 preferences-you-have-been-logged-out = Síníodh amach thú.
-preferences-editing = Cur in Eagar
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Uasmhéid Íomhá (Ciumhais Fhada)
 # whether to shrink images when pasting

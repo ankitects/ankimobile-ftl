@@ -96,7 +96,6 @@ preferences-sync-sounds-images = Синхр. звуки и изображени�
 preferences-syncing = Синхронизация
 preferences-tap-to-sync = Для включения синхронизации, коснитесь кнопки синхронизации в списке колод.
 preferences-taps = Касания
-preferences-theme = Тема
 preferences-theme-bar-style = Стиль панели
 preferences-theme-black = Черный
 preferences-theme-dark-translucent = Темный и прозрачный
@@ -116,7 +115,6 @@ preferences-undo-clears-all = Отмена очищает все
 preferences-when-answer-shown = Когда показан ответ
 preferences-when-question-shown = Когда показан вопрос
 preferences-you-have-been-logged-out = Выход выполнен.
-preferences-editing = Редактирование
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Макс. размер изображения (длинный край)
 # whether to shrink images when pasting

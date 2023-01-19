@@ -95,7 +95,6 @@ preferences-sync-sounds-images = Sincronizați sunete și imagini
 preferences-syncing = Sincronizare
 preferences-tap-to-sync = Pentru a activa sincronizarea, atingeți butonul de sincronizare de pe ecranul listei de deck.
 preferences-taps = Apăsări
-preferences-theme = Temă
 preferences-theme-bar-style = Stilul barei
 preferences-theme-black = Negru
 preferences-theme-dark-translucent = Întunecat și transparent
@@ -115,7 +114,6 @@ preferences-undo-clears-all = Anulare Șterge toate
 preferences-when-answer-shown = Când se afișează răspunsul
 preferences-when-question-shown = Când întrebarea este afișată
 preferences-you-have-been-logged-out = Ai fost deconectat.
-preferences-editing = Editare
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Dimensiunea maximă a imaginii (latura lungă)
 # whether to shrink images when pasting

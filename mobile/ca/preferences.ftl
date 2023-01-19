@@ -96,7 +96,6 @@ preferences-sync-sounds-images = Sincronitza els sons i les imatges
 preferences-syncing = Sincronització
 preferences-tap-to-sync = Per a activar la sincronització, feu toc sobre el botó de sincronitzar en el menú de la llista de malls.
 preferences-taps = Tocs
-preferences-theme = Tema
 preferences-theme-bar-style = Estil de la barra
 preferences-theme-black = Negre
 preferences-theme-dark-translucent = Fosc i translúcid
@@ -116,7 +115,6 @@ preferences-undo-clears-all = L'acció de desfer ho esborra tot
 preferences-when-answer-shown = Quan es mostra la respostra
 preferences-when-question-shown = Quan es mostra la pregunta
 preferences-you-have-been-logged-out = Heu tancat la sessió.
-preferences-editing = Edició
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Mida màxima de la imatge (vora llarga)
 # whether to shrink images when pasting

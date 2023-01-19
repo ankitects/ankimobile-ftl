@@ -94,7 +94,6 @@ preferences-sync-sounds-images = همگام‌سازی صدا‌ها و تصاو
 preferences-syncing = در حال همگام‌سازی
 preferences-tap-to-sync = برای فعال‌سازی همگام‌سازی، بر روی دکمۀ همگام‌سازی در لیست دسته‌ها بزنید.
 preferences-taps = ضربه‌ها
-preferences-theme = طرح
 preferences-theme-bar-style = سبک نوار
 preferences-theme-black = سیاه
 
@@ -115,7 +114,6 @@ preferences-undo-clears-all = لغو عمل همه را پاک کند
 preferences-when-answer-shown = هنگامی که پاسخ نشان داده شده
 preferences-when-question-shown = هنگامی که سوال نشان داده شده
 preferences-you-have-been-logged-out = شما خارج شدید.
-preferences-editing = در حال ویرایش
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = حداکثر اندازه تصویر (طول)
 # whether to shrink images when pasting

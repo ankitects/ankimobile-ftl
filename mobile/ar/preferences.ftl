@@ -96,7 +96,6 @@ preferences-sync-sounds-images = مزامنة الأصوات والصور
 preferences-syncing = مزامنة
 preferences-tap-to-sync = لتفعيل المزامنة، انقر زر مزامنة في شاشة قائمة الرزم.
 preferences-taps = نقرات
-preferences-theme = السمة
 preferences-theme-bar-style = تنسيق الشريط
 preferences-theme-black = أسود
 
@@ -117,7 +116,6 @@ preferences-undo-clears-all = تراجع عن مسح الكل
 preferences-when-answer-shown = عند إظهار الجواب
 preferences-when-question-shown = عند إظهار السؤال
 preferences-you-have-been-logged-out = لقد سجلت الخروج.
-preferences-editing = تحرير
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = حجم الصورة الأقصى (الجانب الأطول)
 # whether to shrink images when pasting

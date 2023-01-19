@@ -96,7 +96,6 @@ preferences-sync-sounds-images = Synchroniser les sons et les images
 preferences-syncing = Synchronisation
 preferences-tap-to-sync = Pour synchroniser, appuyez sur le bouton en bas de la liste des paquets.
 preferences-taps = Toucher
-preferences-theme = Thème
 preferences-theme-bar-style = Style de la barre
 preferences-theme-black = Noir
 preferences-theme-dark-translucent = Sombre et translucide
@@ -116,7 +115,6 @@ preferences-undo-clears-all = ‘Annuler’ efface tout
 preferences-when-answer-shown = Lorsque la réponse est affichée
 preferences-when-question-shown = Lorsque la question est affichée
 preferences-you-have-been-logged-out = Vous avez été déconnecté.
-preferences-editing = Modification
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Taille maximale de l'image (bord long)
 # whether to shrink images when pasting

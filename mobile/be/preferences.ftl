@@ -76,7 +76,6 @@ preferences-sync-sounds-images = Сінхранізаваць гукі і від
 preferences-syncing = Сінхранізацыя
 preferences-tap-to-sync = Каб актываваць сінхранізаванне, націсніце на кнопку сінхранізацыі на экране са спісам калод.
 preferences-taps = Дотыкі
-preferences-theme = Тэма
 preferences-theme-bar-style = Стыль панэлі
 preferences-theme-black = Чорная
 preferences-theme-dark-translucent = Цёмная і паўпразрыстая
@@ -93,6 +92,5 @@ preferences-undo-clears-all = «Адрабіць» ачышчае ўсё
 preferences-when-answer-shown = Калі паказаны адказ
 preferences-when-question-shown = Калі паказана пытанне
 preferences-you-have-been-logged-out = Выкананы выхад.
-preferences-editing = Рэдагаванне
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Макс. памер відарыса (доўгі край)

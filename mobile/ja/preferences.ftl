@@ -96,7 +96,6 @@ preferences-sync-sounds-images = 音声と画像を同期
 preferences-syncing = 同期
 preferences-tap-to-sync = 同期を実行するには、デッキリスト表示スクリーンの「同期する」をタップしてください。
 preferences-taps = タップ
-preferences-theme = テーマ
 preferences-theme-bar-style = バーの外観
 preferences-theme-black = ブラック
 preferences-theme-dark-translucent = ダーク & 半透明
@@ -116,7 +115,6 @@ preferences-undo-clears-all = 元に戻すタップですべて消去
 preferences-when-answer-shown = 答えが表示されるとき
 preferences-when-question-shown = 問題が表示されるとき
 preferences-you-have-been-logged-out = ログアウトしました
-preferences-editing = 編集
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = 最大画像サイズ（長辺）
 # whether to shrink images when pasting

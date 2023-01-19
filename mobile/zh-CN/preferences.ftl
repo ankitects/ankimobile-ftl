@@ -96,7 +96,6 @@ preferences-sync-sounds-images = 同步声音和图像
 preferences-syncing = 同步
 preferences-tap-to-sync = 在牌组列表界面点击“同步”以开始。
 preferences-taps = 手势控制：轻点
-preferences-theme = 主题
 preferences-theme-bar-style = 栏样式
 preferences-theme-black = 黑色
 preferences-theme-dark-translucent = 深色半透明
@@ -116,7 +115,6 @@ preferences-undo-clears-all = 撤销清除全部
 preferences-when-answer-shown = 显示答案界面时
 preferences-when-question-shown = 显示问题界面时
 preferences-you-have-been-logged-out = 您已退出登陆。
-preferences-editing = 编辑
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = 图像最大尺寸（长边）
 # whether to shrink images when pasting

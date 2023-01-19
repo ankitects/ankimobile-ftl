@@ -96,7 +96,6 @@ preferences-sync-sounds-images = Synkronoi äänet ja kuvat
 preferences-syncing = Synkronointi
 preferences-tap-to-sync = Voit aktivoida synkronoinnin napauttamalla synkronoi-painiketta pakkojen luettelonäkymässä.
 preferences-taps = Napautukset
-preferences-theme = Teema
 preferences-theme-bar-style = Palkin ulkoasu
 preferences-theme-black = Musta
 preferences-theme-dark-translucent = Tumma ja läpikuultava
@@ -116,7 +115,6 @@ preferences-undo-clears-all = Peruminen poistaa kaiken
 preferences-when-answer-shown = Kun vastaus näytetään
 preferences-when-question-shown = Kun kysymys näytetään
 preferences-you-have-been-logged-out = Sinut on kirjattu ulos.
-preferences-editing = Muokkaus
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Kuvan enimmäiskoko (pisin sivu)
 # whether to shrink images when pasting

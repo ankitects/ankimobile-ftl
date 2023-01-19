@@ -96,7 +96,6 @@ preferences-sync-sounds-images = Đồng bộ hóa Âm thanh & Hình ảnh
 preferences-syncing = Đang đồng bộ...
 preferences-tap-to-sync = Để kích hoạt đồng bộ hóa, hãy nhấn vào nút đồng bộ hóa trên màn hình danh sách bộ thẻ.
 preferences-taps = Nhấn
-preferences-theme = Giao diện
 preferences-theme-bar-style = Kiểu Thanh chọn
 preferences-theme-black = Đen
 
@@ -117,7 +116,6 @@ preferences-undo-clears-all = Hoàn tác Xóa tất cả
 preferences-when-answer-shown = Khi đáp án được hiển thị
 preferences-when-question-shown = Khi câu hỏi được hiển thị
 preferences-you-have-been-logged-out = Bạn đã được đăng xuất.
-preferences-editing = Chỉnh sửa
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Kích thước hình ảnh tối đa (Cạnh dài)
 # whether to shrink images when pasting
