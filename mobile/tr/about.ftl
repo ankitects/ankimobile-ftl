@@ -3,3 +3,5 @@ about-license-text = AnkiMobile, yazılım geliştirici topluluğu tarafından c
 about-please-see = Daha fazla bilgi için lütfen { $link } bakın.
 about-some-thirdparty-libraries = bazı üçüncü taraf yazılım kitaplıkları
 about-thanks-contributors = Çeviri, hata raporu ve öneri sağlayan herkese çok teşekkür ederiz.
+about-thanks-for-support = AnkiMobile'i satın aldığınız için teşekkür ederiz! Anki'nin gelişimi desteğiniz olmadan devam edemezdi.
+about-the-anki-homepage = Anki ana sayfası
