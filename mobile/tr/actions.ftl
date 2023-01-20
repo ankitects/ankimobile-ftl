@@ -39,6 +39,7 @@ actions-mark-and-bury = İşaretle + Göm
 actions-mark-and-suspend = İşaretle + Askıya al
 actions-marked = İşaretlenmiş
 actions-no-current-card = Geçerli kart yok.
+actions-no-load-restore-backup = Koleksiyonunuz yüklenemedi. Lütfen tercihler ekranını kullanarak otomatik bir yedekten geri yükleyin.
 actions-note-and-its-cards-deleted = Not ve ona ait { $count } kart(lar) silindi.
 actions-note-and-its-cards-suspended = Not ve ona ait { $count } kart askıya alındı
 actions-note-buried = Not gizlendi.
@@ -56,7 +57,7 @@ actions-scratchpad-size = Çalışma defteri boyutu
 actions-select-deck = Desteyi Seç
 actions-select-note-type = Not Tipini Seç
 actions-show-answeranswer-good = Cevabı Göster/Cevabı İyi
-actions-study-options = Çalışma Ayarları
+actions-study-options = Çalışma Seçenekleri
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -82,4 +83,4 @@ actions-scratchpad-size-short = Defter Boyutu
 actions-set-due-date-short = S.Tarihi Ayarla
 actions-show-answer-short = Cv.Gstr
 actions-show-answeranswer-good-short = Göster/İyi
-actions-study-options-short = Ç.Ayarları
+actions-study-options-short = Ç.Sçnk
