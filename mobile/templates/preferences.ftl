@@ -124,3 +124,5 @@ preferences-editing-resize-on-paste = Resize When Pasting
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = Convert Smart Quotes & Dashes
 preferences-editing-crop-camera-photos = Crop Camera Photos
+preferences-loop-video = Loop Video
+preferences-show-video-controls = Show Video Controls
