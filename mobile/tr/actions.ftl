@@ -51,13 +51,14 @@ actions-processing = İşleniyor...
 actions-record-voice = Ses Kaydet
 actions-reset-card = Kartı Sıfırla
 actions-revert = Eski haline döndür
-actions-review-undone = Bitirilmemiş kartları gözden geçir
+actions-review-undone = Gözden geçirme geri alındı
 actions-scratchpad = Çalışma defteri
 actions-scratchpad-size = Çalışma defteri boyutu
 actions-select-deck = Desteyi Seç
 actions-select-note-type = Not Tipini Seç
 actions-show-answeranswer-good = Cevabı Göster/Cevabı İyi
 actions-study-options = Çalışma Seçenekleri
+actions-undo = Geri al
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -84,3 +85,4 @@ actions-set-due-date-short = S.Tarihi Ayarla
 actions-show-answer-short = Cv.Gstr
 actions-show-answeranswer-good-short = Göster/İyi
 actions-study-options-short = Ç.Sçnk
+actions-undo-short = Geri al
