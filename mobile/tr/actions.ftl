@@ -45,6 +45,7 @@ actions-note-and-its-cards-suspended = Not ve ona ait { $count } kart askıya al
 actions-note-buried = Not gizlendi.
 actions-note-marked-and-buried = Not işaretlendi ve gizlendi
 actions-nothing-to-undo = Geri alınacak bir şey yok
+actions-nothing-to-redo = Yeniden yapılacak bir şey yok.
 actions-off = Kapalı
 actions-please-tap-the-in-the = Lütfen başlamak için sol üstteki '?' simgesine dokunun.
 actions-processing = İşleniyor...
@@ -59,6 +60,7 @@ actions-select-note-type = Not Tipini Seç
 actions-show-answeranswer-good = Cevabı Göster/Cevabı İyi
 actions-study-options = Çalışma Seçenekleri
 actions-undo = Geri al
+actions-you-can-only-rebuild-a-filtered = Sadece filtrelenmiş bir deste yeniden oluşturulabilir.
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -76,6 +78,7 @@ actions-mark-and-bury-short = İ&G
 actions-mark-and-suspend-short = İ&A
 actions-night-mode-short = Gece
 actions-pause-audio-short = Duraklat
+actions-rebuild-short = Yeniden oluş
 actions-record-voice-short = Kayıt
 actions-replay-audio-short = Yeniden Oynat
 actions-reset-card-short = K.Sıfırla
@@ -86,3 +89,4 @@ actions-show-answer-short = Cv.Gstr
 actions-show-answeranswer-good-short = Göster/İyi
 actions-study-options-short = Ç.Sçnk
 actions-undo-short = Geri al
+actions-redo-short = Yeniden yap
