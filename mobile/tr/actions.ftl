@@ -80,7 +80,6 @@ actions-night-mode-short = Gece
 actions-pause-audio-short = Duraklat
 actions-rebuild-short = Yeniden oluş
 actions-record-voice-short = Kayıt
-actions-replay-audio-short = Yeniden Oynat
 actions-reset-card-short = K.Sıfırla
 actions-scratchpad-short = Defter
 actions-scratchpad-size-short = Defter Boyutu
