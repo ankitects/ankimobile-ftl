@@ -6,6 +6,7 @@ preferences-auto-advance-answer-seconds = Secondi Risposta
 preferences-auto-advance-do-nothing = Non fare niente
 preferences-auto-advance-question-seconds = Secondi Domanda
 preferences-auto-advance-wait-for-audio = Attendi audio
+preferences-backup-available-backups = Backup disponibili
 preferences-backup-create-now = Crea Ora
 preferences-backup-maximum-backups = Massimo n° di backup
 preferences-backup-minutes-between-backups = Minuti tra i backup
