@@ -76,3 +76,5 @@ preferences-theme-dark-translucent = Karanlık & Yarı Saydam
 preferences-theme-light-translucent = Parlak ve Yarı Saydam
 preferences-theme-slate = Barut rengi
 preferences-undo-clears-all = Geri Alma Her Şeyi Temizler
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = Maksimum Resim Boyutu (Uzun Kenar)
