@@ -40,6 +40,8 @@ actions-mark-and-suspend = İşaretle + Askıya al
 actions-marked = İşaretlenmiş
 actions-no-current-card = Geçerli kart yok.
 actions-no-load-restore-backup = Koleksiyonunuz yüklenemedi. Lütfen tercihler ekranını kullanarak otomatik bir yedekten geri yükleyin.
+# (http://example.com) does not appear to be...
+actions-not-valid-link = geçerli http/https bir linki olmak gibi görünmüyor.
 actions-note-and-its-cards-deleted = Not ve ona ait { $count } kart(lar) silindi.
 actions-note-and-its-cards-suspended = Not ve ona ait { $count } kart askıya alındı
 actions-note-buried = Not gizlendi.
@@ -50,6 +52,7 @@ actions-off = Kapalı
 actions-please-tap-the-in-the = Lütfen başlamak için sol üstteki '?' simgesine dokunun.
 actions-processing = İşleniyor...
 actions-record-voice = Ses Kaydet
+actions-record-voice-menu = Ses Kaydetme Menüsü
 actions-reset-card = Kartı Sıfırla
 actions-revert = Eski haline döndür
 actions-review-undone = Gözden geçirme geri alındı
@@ -59,6 +62,7 @@ actions-select-deck = Desteyi Seç
 actions-select-note-type = Not Tipini Seç
 actions-show-answeranswer-good = Cevabı Göster/Cevabı İyi
 actions-study-options = Çalışma Seçenekleri
+actions-tools = Araçlar
 actions-undo = Geri al
 actions-you-can-only-rebuild-a-filtered = Sadece filtrelenmiş bir deste yeniden oluşturulabilir.
 
