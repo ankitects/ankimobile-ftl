@@ -122,3 +122,5 @@ preferences-editing-resize-on-paste = Muuta kokoa liitettäessä
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = Muunna älykkäät lainausmerkit ja viivat
 preferences-editing-crop-camera-photos = Rajaa kameralla otettuja kuvia
+preferences-loop-video = Toista videota silmukassa
+preferences-show-video-controls = Näytä videon ohjauspainikkeet
