@@ -22,5 +22,5 @@ decks-no-matches = Няма супадзенняў
 decks-shared-deck-list = Спіс абагуленых калод
 decks-sync = Сінхранізацыя
 decks-synchronize = Сінхранізаваць
-decks-the-default-deck-cannot-be-deleted = Перадвызначаная калода не можа быць выдалена.
+decks-the-default-deck-cannot-be-deleted = Прадвызначаная калода не можа быць выдалена.
 decks-the-provided-deck-does-not-exist = Дадзеная калода не існуе.
