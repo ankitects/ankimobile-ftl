@@ -122,3 +122,5 @@ preferences-editing-resize-on-paste = Ajusta la mida en enganxar
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = Converteix les cometes i els guionets intel·ligents
 preferences-editing-crop-camera-photos = Retalla les fotos de la càmera
+preferences-loop-video = Vídeo en bucle
+preferences-show-video-controls = Mostra els controls de reproducció
