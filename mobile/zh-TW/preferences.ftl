@@ -122,3 +122,5 @@ preferences-editing-resize-on-paste = 貼上時調整圖像大小
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = 轉換智慧型引號和破折號
 preferences-editing-crop-camera-photos = 裁切相機照片
+preferences-loop-video = 循環播放影片
+preferences-show-video-controls = 顯示影片控制項目
