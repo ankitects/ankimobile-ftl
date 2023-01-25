@@ -1,6 +1,8 @@
 deck-options-add-options-group = Дадаць групу параметраў
 deck-options-defaults = Прадвызначаныя
 deck-options-display-in-order-added = Адлюстроўваць у парадку дадавання
+deck-options-display-in-random-order = Паказваць у выпадковым парадку
+deck-options-full-sync-required = Патрабуецца поўная сінхранізацыя
 deck-options-group-name = Назва групы
 deck-options-new-cards = Новыя карткі
 deck-options-options-group = Група параметраў

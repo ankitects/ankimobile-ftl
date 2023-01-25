@@ -83,6 +83,7 @@ preferences-theme-force-off = Прымусова выключыць
 preferences-theme-force-on = Прымусова ўключыць
 preferences-theme-light-translucent = Светлая і паўпразрыстая
 preferences-theme-night-mode-desc = Начны рэжым зацямняе інтэрфейс і адлюстроўвае карткі белым шрыфтам на чорным фоне.
+preferences-theme-night-mode-same-as-system = Прытрымлівацца сістэмнага
 preferences-theme-slate = Цёмна-шэрая
 preferences-thick = Тоўстае
 preferences-top-center = Зверху па цэнтры
@@ -94,3 +95,5 @@ preferences-when-question-shown = Калі паказана пытанне
 preferences-you-have-been-logged-out = Выкананы выхад.
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Макс. памер відарыса (доўгі край)
+preferences-loop-video = Зацыкліваць відэа
+preferences-show-video-controls = Паказваць кіраванне відэа
