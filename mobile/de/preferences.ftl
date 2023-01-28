@@ -98,7 +98,6 @@ preferences-tap-to-sync = Um die Synchronisation zu aktivieren, tippen Sie bitte
 preferences-taps = Tippen
 preferences-theme-bar-style = Bal­ken­stil
 preferences-theme-black = Schwarz
-
 preferences-theme-dark-translucent = Dunkel & durchsichtig
 preferences-theme-force-off = Aus erzwingen
 preferences-theme-force-on = An erzwingen
@@ -123,3 +122,5 @@ preferences-editing-resize-on-paste = Größe beim Einfügen anpassen
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = Smarte Anführungszeichen & Querstriche konvertieren
 preferences-editing-crop-camera-photos = Kamerafotos zuschneiden
+preferences-loop-video = Video wiederholen
+preferences-show-video-controls = Videosteuerung anzeigen
