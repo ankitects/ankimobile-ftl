@@ -98,7 +98,6 @@ preferences-tap-to-sync = لتفعيل المزامنة، انقر زر مزام
 preferences-taps = نقرات
 preferences-theme-bar-style = تنسيق الشريط
 preferences-theme-black = أسود
-
 preferences-theme-dark-translucent = داكن وشفاف
 preferences-theme-force-off = إيقاف إجباري
 preferences-theme-force-on = تفعيل إجباري
@@ -123,3 +122,5 @@ preferences-editing-resize-on-paste = تغيير حجم الصور عند الل
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = تحويل علامات الاقتباس الذكية والشرطات
 preferences-editing-crop-camera-photos = قص صور الكاميرا
+preferences-loop-video = تكرار الفيديو
+preferences-show-video-controls = إظهار عناصر التحكم بالفيديو
