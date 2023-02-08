@@ -91,5 +91,6 @@ actions-set-due-date-short = S.Tarihi Ayarla
 actions-show-answer-short = Cv.Gstr
 actions-show-answeranswer-good-short = Göster/İyi
 actions-study-options-short = Ç.Sçnk
+actions-tools-short = Araçlar
 actions-undo-short = Geri al
 actions-redo-short = Yeniden yap
