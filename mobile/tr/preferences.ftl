@@ -14,7 +14,7 @@ preferences-backup-maximum-backups = Maksimum Yedekleme
 preferences-backup-minutes-between-backups = Yedeklemeler Arası Dakikalar
 preferences-backup-revert-to-backup = Yedeklemeye Geri Dön
 preferences-backup-reverted-to-backup = Yedeklemeye geri döndü.
-preferences-bottom-bar-size = Alt Bar Boyutu
+preferences-bottom-bar-size = Alt Çubuk Boyutu
 preferences-bottom-center = Alt Orta
 preferences-bottom-left = Sol Alt
 preferences-bottom-right = Sağ Alt
@@ -75,6 +75,8 @@ preferences-theme-black = Siyah
 preferences-theme-dark-translucent = Karanlık & Yarı Saydam
 preferences-theme-light-translucent = Parlak ve Yarı Saydam
 preferences-theme-slate = Barut rengi
+preferences-tools-overlay-button = Araçlar Bindirmesi Düğmesi
+preferences-tools-overlay-position = Araçlar Bindirmesi Konumu
 preferences-undo-clears-all = Geri Alma Her Şeyi Temizler
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Maksimum Resim Boyutu (Uzun Kenar)

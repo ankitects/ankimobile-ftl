@@ -1,4 +1,4 @@
-sync-email-address = E-Mail Adresi
+sync-email-address = E-Posta Adresi
 sync-login = Giriş yap
-sync-password = Şifer
+sync-password = Parola
 sync-please-enter-your-ankiweb-details = Lütfen AnkiWeb bilgilerinizi girin.

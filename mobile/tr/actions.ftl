@@ -10,7 +10,7 @@ actions-answer-good = İyi
 actions-answer-hard = Zor
 actions-are-you-sure = Emin misin?
 actions-auto-advance = Otomatik İlerleme
-actions-bottom-bar = Alt Bar
+actions-bottom-bar = Alt Çubuk
 actions-browse = Gözat
 actions-card-buried = Kart gizlendi.
 actions-card-suspended = Kart askıya alındı
@@ -63,6 +63,9 @@ actions-select-note-type = Not Tipini Seç
 actions-show-answeranswer-good = Cevabı Göster/Cevabı İyi
 actions-study-options = Çalışma Seçenekleri
 actions-tools = Araçlar
+actions-tools-overlay = Araçlar Bindirmesi
+actions-top-bar = Üst Çubuk
+actions-unbury-deck = Desteyi Gizlemeyi Geri Al
 actions-undo = Geri al
 actions-you-can-only-rebuild-a-filtered = Sadece filtrelenmiş bir deste yeniden oluşturulabilir.
 
@@ -70,7 +73,7 @@ actions-you-can-only-rebuild-a-filtered = Sadece filtrelenmiş bir deste yeniden
 ## 5-7 characters where possible.
 
 actions-auto-advance-short = Oto İlerle.
-actions-bottom-bar-short = Alt B.
+actions-bottom-bar-short = Alt Ç.
 actions-bury-card-short = KrtGzl.
 actions-bury-note-short = NotGzl.
 actions-card-info-short = Krt.B.
