@@ -21,9 +21,13 @@ browsing-select-all = Tümünü Seç
 browsing-sort-order = Sıralama düzeni
 browsing-tag = Etiket:
 browsing-column-number = { $number }. Sütun
+browsing-notes-mode = Not Modu
+browsing-sort-backwards = Geriye Doğru Sırala
 
 ## OBSOLETE; you do not need to translate.
 
+browsing-column-1 = 1. Sütun
+browsing-column-2 = 2. Sütun
 browsing-second-column-19 = İkinci Sütün (1->9)
 browsing-second-column-91 = İkinci Sütün (9->1)
 browsing-sort = Sırala:
