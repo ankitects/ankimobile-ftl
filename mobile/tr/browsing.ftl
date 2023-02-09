@@ -1,5 +1,7 @@
 # add current row to existing search
 browsing-append = Sonuna Ekle
+# add current row to existing search, with a '-' at the start to reverse it
+browsing-append-negated = Olumsuzlanmış Olarak Sonuna Ekle
 browsing-card-updated = Kart Güncellendi
 browsing-change-flag = Bayrağı Değiştir
 browsing-confirm-reset = Sıfırlamayı Onayla
@@ -17,6 +19,8 @@ browsing-reset-cards = Kartları sıfırla
 browsing-searching = Aranıyor...
 browsing-select-all = Tümünü Seç
 browsing-sort-order = Sıralama düzeni
+browsing-tag = Etiket:
+browsing-column-number = { $number }. Sütun
 
 ## OBSOLETE; you do not need to translate.
 
