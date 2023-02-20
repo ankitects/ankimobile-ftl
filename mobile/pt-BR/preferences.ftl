@@ -122,3 +122,5 @@ preferences-editing-resize-on-paste = Redimensionar ao colar
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = Converter Citações e Travessões Inteligentes
 preferences-editing-crop-camera-photos = Cortar Fotos da Câmera
+preferences-loop-video = Vídeo em looping
+preferences-show-video-controls = Mostrar controles do vídeo
