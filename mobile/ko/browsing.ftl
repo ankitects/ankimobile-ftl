@@ -3,7 +3,7 @@ browsing-append = 추가
 # add current row to existing search, with a '-' at the start to reverse it
 browsing-append-negated = 반전해서 추가
 browsing-card-updated = 카드 업데이트됨
-browsing-change-flag = 플래그 바꾸기
+browsing-change-flag = 플래그 변경
 browsing-clear-flag = 플래그 지우기
 browsing-confirm-reset = 초기화 확인
 browsing-dd-selected = { $part }/{ $total } 선택됨
