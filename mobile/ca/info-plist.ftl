@@ -13,4 +13,4 @@ info-plist-search = Cerca
 ## File imports
 
 info-plist-packaged-collection = Col·lecció empaquetada d'Anki
-info-plist-packaged-anki-deck = Mall empaquetat d'Anki
+info-plist-packaged-anki-deck = Baralla empaquetada d’Anki
