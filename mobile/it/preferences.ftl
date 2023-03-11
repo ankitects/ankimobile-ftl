@@ -1,10 +1,14 @@
 preferences-about = Chi siamo
+preferences-always-duck-and-ignore-mute = Attenua sempre + Ignora silenzioso
+preferences-answer-keeps-zoom = Mantieni Zoom nella risposta
 preferences-answer-side = Lato della risposta
 preferences-audio-buttons = Pulsanti audio
 preferences-auto-advance-answer-action = Azione di risposta
 preferences-auto-advance-answer-seconds = Secondi Risposta
+preferences-auto-advance-auto-advance-to-start = Per avviare l'avanzamento automatico, utilizza l'azione 'Avanzamento Automatico'
 preferences-auto-advance-do-nothing = Non fare niente
 preferences-auto-advance-question-seconds = Secondi Domanda
+preferences-auto-advance-show-reminder = Mostra promemoria
 preferences-auto-advance-wait-for-audio = Attendi audio
 preferences-backup-available-backups = Backup disponibili
 preferences-backup-create-now = Crea Ora
@@ -13,6 +17,8 @@ preferences-backup-minutes-between-backups = Minuti tra i backup
 preferences-backup-revert-to-backup = Ripristina backup
 preferences-backup-revert-to-backup-confirm = Ripristinare { $backup }? Tutte le modifiche successive alla creazione del backup andranno perse.
 preferences-backup-reverted-to-backup = Backup ripristinato.
+preferences-bottom-bar-size = Dimensione della barra inferiore
+preferences-bottom-center = In basso al centro
 preferences-bottom-left = Pulsante a sinistra
 preferences-bottom-right = Pulsante a destra
 preferences-button-d = Pulsante { $num }
@@ -22,16 +28,61 @@ preferences-collection-mix = Mix
 preferences-collection-new-first = Prima le nuove
 preferences-collection-newreview-order = Ordine Nuove/Da ripetere
 preferences-collection-reviews-first = Prima le revisionate
+preferences-double-tap-prevention = Previeni doppio tocco
+preferences-drawing-screen-ignores-fingers = La schermata di disegno ignora le dita
+preferences-feedback-ticks = Indicatore di conferma
+preferences-force-sync-confirm = Forzare una sincronizzazione a senso unico? Tutte le modifiche effettuate sull'altro versante verranno perse.
 preferences-full-sync = Sincronizzazione completa
 preferences-gamepad-button-mapping = Mapping dei pulsanti
 preferences-gamepad-menu-button = Menu
 preferences-height = Altezza
+preferences-ignore-fingers = Ignora le dita
 preferences-interrupt-current-audio = Interrompi audio corrente
 preferences-left = Sinistra
+# gamepad
+preferences-left-shoulder = Spalla sinistra
+# gamepad
+preferences-left-thumbstick-button = Pulsante sinistro del joystick
+# gamepad
+preferences-left-trigger = Trigger sinistro
+preferences-logged-in-as = Connesso come:
+preferences-mid-center = Centro, in mezzo
+preferences-mid-left = Centro, a sinistra
+preferences-mid-right = Centro, a destra
+preferences-never-type-answer = Non digitare mai la risposta
+preferences-never-show-scratchpad = Non mostrare mai il blocchetto appunti
+preferences-never-show-scratchpad-enabled = 'Non mostrare mai il blocchetto appunti' è abilitato nella schermata delle preferenze.
 preferences-normal = Normale
 preferences-notifications = Notifiche
+preferences-notifications-alert-time = Orario di notifica
+preferences-notifications-alert-when-due = Notifica scadenza
+preferences-notifications-settings-app-enable-notifications = Per favore, vai nell'app Impostazioni di iOS, cerca la sezione Anki e abilita le notifiche, le icone e gli avvisi.
+preferences-pen-size = Dimensione pennello
+preferences-question-side = Lato della domanda
+preferences-remaining-count = Conteggio rimanenti
 preferences-right = Destra
+# gamepad
+preferences-right-shoulder = Spalla destra
+# gamepad
+preferences-right-thumbstick-button = Pulsante destro del joystick
+preferences-scratchpad-below-buttons = Blocchetto appunti sotto i pulsanti
+preferences-scratchpad-transparency = Trasparenza del Blocchetto appunti
 preferences-scratchpad-transparency-none = Nessuno/a
 preferences-sync-sounds-images = Sincronizza suono e immagine
 preferences-syncing = Sincronizzazione
 preferences-theme-black = Nero
+preferences-theme-night-mode-same-as-system = Segui impostazioni del dispositivo
+preferences-top-center = In alto al centro
+preferences-top-left = In alto a sinistra
+preferences-top-right = In alto a destra
+preferences-undo-clears-all = Annulla -> cancella tutto
+preferences-when-answer-shown = Quando viene mostrata la risposta
+preferences-when-question-shown = Quando viene mostrata la domanda
+preferences-you-have-been-logged-out = Sei stato disconnesso.
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = Dimensione massima dell'immagine (bordo lungo)
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = Converti virgolette e trattini intelligenti
+preferences-editing-crop-camera-photos = Ritaglia le foto della fotocamera
+preferences-loop-video = Ripeti video
+preferences-show-video-controls = Mostra controlli video
