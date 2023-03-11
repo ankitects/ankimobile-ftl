@@ -65,12 +65,25 @@ preferences-right = Destra
 preferences-right-shoulder = Spalla destra
 # gamepad
 preferences-right-thumbstick-button = Pulsante destro del joystick
+# gamepad
+preferences-right-trigger = Trigger destro
 preferences-scratchpad-below-buttons = Blocchetto appunti sotto i pulsanti
 preferences-scratchpad-transparency = Trasparenza del Blocchetto appunti
 preferences-scratchpad-transparency-none = Nessuno/a
+preferences-show-bottom-bar = Mostra barra inferiore
+preferences-show-grid = Mostra griglia
+preferences-show-top-bar = Mostra barra superiore
+preferences-swipe-down = Swipe in basso
+preferences-swipe-left = Swipe a sinistra
+preferences-swipe-right = Swipe a destra
+preferences-swipe-up = Swipe verso l'alto
+preferences-swipes = Movimenti di swipe
+preferences-swipes-must-begin-from-the-far = Inizia i movimenti di swipe dal margine sinistro o destro dello schermo.
 preferences-sync-sounds-images = Sincronizza suono e immagine
 preferences-syncing = Sincronizzazione
+preferences-tap-to-sync = Per attivare la sincronizzazione, tocca il pulsante di sincronizzazione sulla schermata dell'elenco dei mazzi.
 preferences-theme-black = Nero
+preferences-theme-night-mode-desc = La modalità notturna scurisce l'interfaccia e mostra le carte con sfondo nero e testo bianco.
 preferences-theme-night-mode-same-as-system = Segui impostazioni del dispositivo
 preferences-top-center = In alto al centro
 preferences-top-left = In alto a sinistra
@@ -81,6 +94,8 @@ preferences-when-question-shown = Quando viene mostrata la domanda
 preferences-you-have-been-logged-out = Sei stato disconnesso.
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Dimensione massima dell'immagine (bordo lungo)
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = Ridimensiona quando si incolla
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = Converti virgolette e trattini intelligenti
 preferences-editing-crop-camera-photos = Ritaglia le foto della fotocamera
