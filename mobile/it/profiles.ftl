@@ -6,4 +6,3 @@ profiles-please-select-another-profile-first = Per favore, seleziona prima un al
 profiles-profile-name = Nome del profilo
 profiles-rename-profile = Rinomina il profilo
 profiles-unable-to-open-safari-please = Impossibile aprire Safari - verifica le impostazioni del parental control.
-profiles-welcome = Benvenuto!
