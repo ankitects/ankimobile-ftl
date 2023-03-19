@@ -56,6 +56,7 @@ preferences-normal = Normale
 preferences-notifications = Notifiche
 preferences-notifications-alert-time = Orario di notifica
 preferences-notifications-alert-when-due = Notifica scadenza
+preferences-notifications-app-icon-shows-due-count = L'icona dell'app mostra il conteggio delle carte da ripetere
 preferences-notifications-settings-app-enable-notifications = Per favore, vai nell'app Impostazioni di iOS, cerca la sezione Anki e abilita le notifiche, le icone e gli avvisi.
 preferences-pen-size = Dimensione pennello
 preferences-question-side = Lato della domanda
