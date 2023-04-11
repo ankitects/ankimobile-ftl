@@ -7,4 +7,4 @@ studying-please-run-empty-cards-on-the = Per favore, esegui 'Carte vuote' sulla 
 studying-replay-card = Ripeti carta
 studying-replay-voice = Riproduci voce
 studying-type-in-the-answer = Scrivi la risposta
-studying-please-use-record-voice-first = Per favore usa la riproduzione vocale prima.
+studying-please-use-record-voice-first = Per favore usa prima la riproduzione vocale.

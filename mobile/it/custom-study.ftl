@@ -18,5 +18,5 @@ custom-study-no-tags-available = Nessuna etichetta disponibile
 custom-study-preview-all-cards-with-certain-tags = Guarda in anteprima tutte le carte con delle particolari etichette
 custom-study-review-due-cards-with-certain-tags = Ripassa le carte programmate aventi delle particolari etichette
 custom-study-search-matches = Risultati della ricerca { $num }
-custom-study-study-type = Suono
+custom-study-study-type = Tipo di studio
 custom-study-the-selected-options-did-not-match = Le opzioni selezionate non corrispondono a nessuna carta.
