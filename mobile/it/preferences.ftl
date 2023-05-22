@@ -31,6 +31,7 @@ preferences-collection-reviews-first = Prima le ripetizioni
 preferences-double-tap-prevention = Previeni doppio tocco
 preferences-drawing-screen-ignores-fingers = La schermata di disegno ignora le dita
 preferences-feedback-ticks = Indicatori di conferma
+preferences-fine = Fine
 preferences-force-sync-confirm = Forzare una sincronizzazione a senso unico? Tutte le modifiche effettuate sull'altro versante verranno perse.
 preferences-full-sync = Sincronizzazione completa
 preferences-gamepad-button-mapping = Mapping dei pulsanti
