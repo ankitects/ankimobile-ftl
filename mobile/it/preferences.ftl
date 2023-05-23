@@ -102,6 +102,7 @@ preferences-theme-light-translucent = Chiaro e Traslucido
 preferences-theme-night-mode-desc = La modalità notturna scurisce l'interfaccia e mostra le carte con sfondo nero e testo bianco.
 preferences-theme-night-mode-same-as-system = Segui impostazioni del dispositivo
 preferences-theme-slate = Ardesia
+preferences-thick = Spesso
 preferences-tools-overlay-button = Pulsante Finestra degli Strumenti
 preferences-tools-overlay-position = Posizione Finestra degli Strumenti
 preferences-top-center = In alto al centro
