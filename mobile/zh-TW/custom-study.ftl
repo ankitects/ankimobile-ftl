@@ -1,7 +1,7 @@
 # any tag
 custom-study-any-tag = 任何
 custom-study-available = { $num }可用
-custom-study-cant-extend-limits-no-extra = 無法擴展限制 - 沒有更多卡片可用。
+custom-study-cant-extend-limits-no-extra = 無法提高上限 - 已無更多卡片。
 custom-study-cram-seen-cards-with-certain-tags = 補習看過的卡片（指定標籤）
 custom-study-days-to-look-ahead = 提前天數
 custom-study-days-to-look-back = 延後天數
