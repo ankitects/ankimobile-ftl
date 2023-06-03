@@ -1,5 +1,5 @@
-exporting-collection-saved-to-itunes = 已將集合儲存到 iTunes。
-exporting-export-to-itunes = 匯出到 iTunes
+exporting-collection-saved-to-itunes = 已將集合儲存到iTunes。
+exporting-export-to-itunes = 匯出到iTunes
 exporting-export-to-share-sheet = 匯出到...
 exporting-exporting = 匯出中...
 exporting-include-media2 = 包含媒體檔

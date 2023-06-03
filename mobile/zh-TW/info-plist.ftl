@@ -1,8 +1,8 @@
 ## iOS permissions
 
-info-plist-camera-usage = 這可讓 Anki 把你擷取的影像插入到卡片上。
-info-plist-mic-usage = 麥克風只會在你按下錄製按鈕時啟用。
-info-plist-photo-usage = 需要啟用才能顯示照片瀏覽器。
+info-plist-camera-usage = 啟用後，Anki才能將你擷取的影像加入卡片。
+info-plist-mic-usage = 只有當你按下錄製按鈕時，麥克風才會啟用。
+info-plist-photo-usage = 啟用後才能顯示照片瀏覽器。
 info-plist-photo-add-usage = 「新增到照片」動作需要你的授權。
 
 ## Long-press app icon shortcuts
@@ -12,5 +12,5 @@ info-plist-search = 搜尋
 
 ## File imports
 
-info-plist-packaged-collection = 已封裝的 Anki 集合
-info-plist-packaged-anki-deck = 已封裝的 Anki 牌組
+info-plist-packaged-collection = 已封裝的Anki集合
+info-plist-packaged-anki-deck = 已封裝的Anki牌組

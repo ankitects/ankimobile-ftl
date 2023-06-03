@@ -6,7 +6,7 @@ browsing-card-updated = 卡片更新時間
 browsing-change-flag = 更改旗標
 browsing-clear-flag = 清除旗標
 browsing-confirm-reset = 確定重置
-browsing-dd-selected = 已選取 { $part }/{ $total }
+browsing-dd-selected = 已選取{ $part }/{ $total }
 browsing-due-dateorder = 到期日/順序
 browsing-due-reviews = 到期複習卡
 browsing-learning-cards = 學習中的卡片
@@ -21,14 +21,14 @@ browsing-searching = 搜尋中...
 browsing-select-all = 選取全部
 browsing-sort-order = 排序
 browsing-tag = 標籤：
-browsing-column-number = 欄位 { $number }
+browsing-column-number = 欄位{ $number }
 browsing-notes-mode = 筆記模式
 browsing-sort-backwards = 反向排序
 
 ## OBSOLETE; you do not need to translate.
 
-browsing-column-1 = 第 1 行
-browsing-column-2 = 第 2 行
+browsing-column-1 = 第1行
+browsing-column-2 = 第2行
 browsing-second-column-19 = 第二行 (1->9)
 browsing-second-column-91 = 第二行 (9->1)
 browsing-sort = 排序：
