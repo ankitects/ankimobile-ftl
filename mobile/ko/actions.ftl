@@ -69,7 +69,7 @@ actions-unbury-deck = 덱 미루기 해제
 actions-undo = 실행 취소
 actions-unmarked = 표시 해제됨
 actions-you-can-only-empty-a-filtered = 필터된 덱만 비울 수 있습니다.
-actions-you-can-only-rebuild-a-filtered = 필터된 덱만 다시 만들 수 있습니다.
+actions-you-can-only-rebuild-a-filtered = 필터된 덱만 다시 모을 수 있습니다.
 actions-scroll-up = 위로 스크롤
 actions-scroll-down = 아래로 스크롤
 
@@ -105,7 +105,7 @@ actions-mark-short = 표시
 actions-night-mode-short = 야간모드
 actions-off-short = 끄기
 actions-pause-audio-short = 일시중지
-actions-rebuild-short = 다시빌드
+actions-rebuild-short = 다시 모으기
 actions-record-voice-short = 음성녹음
 actions-replay-voice-short = 녹음듣기
 actions-replay-audio-short = 다시듣기
