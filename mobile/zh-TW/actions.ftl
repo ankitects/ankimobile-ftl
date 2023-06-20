@@ -1,6 +1,6 @@
 actions-actions = 動作
 actions-add-new = 新增
-actions-added-to-frequent-actions = 已新增到常用動作。
+actions-added-to-frequent-actions = 已加入常用動作。
 actions-all-actions = 所有動作
 actions-already-in-frequent-actions = 已在常用動作中。
 actions-an-error-occurred = 發生錯誤：{ $error }
