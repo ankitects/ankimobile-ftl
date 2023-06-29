@@ -49,7 +49,7 @@ preferences-left-shoulder = 左ショルダー
 preferences-left-thumbstick-button = 左スティック
 # gamepad
 preferences-left-trigger = 左トリガー
-preferences-logged-in-as = ログイン中のユーザ名:
+preferences-logged-in-as = ログイン中のユーザー:
 preferences-long = 長い
 preferences-mid-center = 中央
 preferences-mid-left = 左中央
@@ -62,7 +62,7 @@ preferences-normal = 標準
 preferences-notifications = 通知
 preferences-notifications-alert-time = 通知の設定時間
 preferences-notifications-alert-when-due = 期日に通知する
-preferences-notifications-app-icon-shows-due-count = アイコンにカード数を表示
+preferences-notifications-app-icon-shows-due-count = アプリのアイコンに課題枚数を表示
 preferences-notifications-settings-app-enable-notifications = iOS設定アプリからAnkiの項目へ進み、通知、バッジ、アラートを有効にしてください。
 preferences-pen-size = ペンの太さ
 preferences-question-side = 問題側
