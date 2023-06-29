@@ -66,7 +66,7 @@ preferences-notifications-app-icon-shows-due-count = アプリのアイコンに
 preferences-notifications-settings-app-enable-notifications = iOS設定アプリからAnkiの項目へ進み、通知、バッジ、アラートを有効にしてください。
 preferences-pen-size = ペンの太さ
 preferences-question-side = 問題側
-preferences-remaining-count = 残りのカード数
+preferences-remaining-count = 残りのカード枚数
 preferences-right = 右寄せ
 # gamepad
 preferences-right-shoulder = 右ショルダー
