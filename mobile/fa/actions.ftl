@@ -68,7 +68,6 @@ actions-note-and-its-cards-deleted = یادداشت و { $count } کارت آن 
 actions-note-and-its-cards-suspended = یادداشت و { $count } کارت آن معلق شدند
 actions-note-buried = یادداشت دفن شد
 actions-note-marked-and-buried = یادداشت علامت‌گذاری و دفن شد
-actions-nothing-to-undo = عملی برای لغو وجود ندارد
 actions-off = خاموش
 actions-pause-audio-short = مکث
 actions-please-tap-the-in-the = لطفاً روی '؟' در گوشۀ چپ بالا بزنید تا راهنما باز شود.

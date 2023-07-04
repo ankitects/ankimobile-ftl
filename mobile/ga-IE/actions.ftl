@@ -60,8 +60,6 @@ actions-note-and-its-cards-suspended =
     }
 actions-note-buried = Nóta curtha i bhfolach
 actions-note-marked-and-buried = Nóta marcáilte agus curtha i bhfolach
-actions-nothing-to-undo = Gan dada le cealú
-actions-nothing-to-redo = Gan dada le hathdhéanamh
 actions-off = Gan oibriú
 actions-please-tap-the-in-the = Brúigh an '?' sa chuid uachtair ar clé chun tosú.
 actions-processing = Ag próiseáil...

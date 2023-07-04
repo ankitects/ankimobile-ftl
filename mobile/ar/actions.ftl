@@ -46,8 +46,6 @@ actions-note-and-its-cards-deleted = حُذفِت الملحوظة وبطاقا�
 actions-note-and-its-cards-suspended = عُلِّقت الملحوظة وبطاقاتها الـ{ $count }
 actions-note-buried = دُفِنت الملحوظة
 actions-note-marked-and-buried = عُلِّمت الملحوظة ودُفِنت
-actions-nothing-to-undo = لا يوجد أي إجراء للتراجع عنه
-actions-nothing-to-redo = لا يوجد أي إجراء لإعادة تطبيقه
 actions-off = غير مفعل
 actions-please-tap-the-in-the = الرجاء النقر على '?' في أعلى اليسار للبدء.
 actions-processing = تجري المعالجة...
