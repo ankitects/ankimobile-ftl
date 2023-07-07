@@ -2,9 +2,9 @@ preferences-about = Ankiについて
 preferences-always-duck-and-ignore-mute = BGM調整＋ミュート無視
 preferences-answer-keeps-zoom = 答えのズームを保つ
 preferences-answer-side = 答え側
-preferences-audio-buttons = 音声ボタン
+preferences-audio-buttons = 音声再生ボタンを表示
 preferences-auto-advance-answer-action = 回答アクション
-preferences-auto-advance-answer-seconds = 答えを表示する時間 (秒)
+preferences-auto-advance-answer-seconds = 解答を表示する時間 (秒)
 preferences-auto-advance-auto-advance-to-start = デッキ内の「カードの自動送り」アクションで、カードの自動送りが開始されます。
 preferences-auto-advance-do-nothing = 何もしない
 preferences-auto-advance-question-seconds = 問題を表示する時間 (秒)
@@ -42,7 +42,7 @@ preferences-huge = 特大
 preferences-ignore-fingers = 指での入力を無視
 preferences-interrupt-current-audio = 再生中の音声を中断する
 preferences-large = 大
-preferences-left = 左寄せ
+preferences-left = 左側
 # gamepad
 preferences-left-shoulder = 左ショルダー
 # gamepad
@@ -67,7 +67,7 @@ preferences-notifications-settings-app-enable-notifications = iOS設定アプリ
 preferences-pen-size = ペンの太さ
 preferences-question-side = 問題側
 preferences-remaining-count = 残りのカード枚数
-preferences-right = 右寄せ
+preferences-right = 右側
 # gamepad
 preferences-right-shoulder = 右ショルダー
 # gamepad
@@ -106,7 +106,7 @@ preferences-theme-night-mode-desc = 夜間モードを使用することで、�
 preferences-theme-night-mode-same-as-system = システムに従う
 preferences-theme-slate = グレー
 preferences-thick = 太い
-preferences-tools-overlay-button = ツールアイコンの表示
+preferences-tools-overlay-button = ツールアイコンを表示
 preferences-tools-overlay-position = ツールアイコンの配置
 preferences-top-center = 中央上
 preferences-top-left = 左上
