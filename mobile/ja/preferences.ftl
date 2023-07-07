@@ -1,5 +1,5 @@
 preferences-about = Ankiについて
-preferences-always-duck-and-ignore-mute = BGM調整＋ミュート無視
+preferences-always-duck-and-ignore-mute = BGM抑制 ＋ ミュート無視
 preferences-answer-keeps-zoom = 答えのズームを保つ
 preferences-answer-side = 答え側
 preferences-audio-buttons = 音声再生ボタンを表示
@@ -40,7 +40,7 @@ preferences-gamepads = ゲームパッド
 preferences-height = パッドの大きさ
 preferences-huge = 特大
 preferences-ignore-fingers = 指での入力を無視
-preferences-interrupt-current-audio = 再生中の音声を中断する
+preferences-interrupt-current-audio = 問題の音声の再生を解答表示で停止
 preferences-large = 大
 preferences-left = 左側
 # gamepad
@@ -122,3 +122,5 @@ preferences-editing-resize-on-paste = ペースト時にリサイズ
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = スマート引用符とダッシュを自動変換
 preferences-editing-crop-camera-photos = 写真をトリミング
+preferences-loop-video = 動画をループ再生
+preferences-show-video-controls = 動画再生コントローラーを表示
