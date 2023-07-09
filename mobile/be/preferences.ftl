@@ -1,4 +1,5 @@
 preferences-about = Аб праграме
+preferences-answer-keeps-zoom = Захоўваць маштабаванне пры адказе
 preferences-answer-side = Бок з адказам
 preferences-audio-buttons = Кнопкі аўдыя
 preferences-auto-advance-answer-action = Дзеянне адказу
@@ -39,6 +40,10 @@ preferences-ignore-fingers = Ігнараваць пальцы
 preferences-interrupt-current-audio = Перарваць бягучае аўдыя
 preferences-large = Буйное
 preferences-left = Злева
+# gamepad
+preferences-left-shoulder = Левы бампер
+# gamepad
+preferences-left-trigger = Левы курок
 preferences-logged-in-as = Выкананы ўваход як:
 preferences-long = Доўгае
 preferences-mid-center = У сярэдзіне па цэнтры
@@ -50,11 +55,17 @@ preferences-never-show-scratchpad-enabled = «Не паказваць натат
 preferences-next-times = Наступныя разы
 preferences-normal = Звычайнае
 preferences-notifications = Апавяшчэнні
+preferences-notifications-alert-time = Час абвесткі
+preferences-notifications-alert-when-due = Абвестка, калі чакаюць карткі
 preferences-notifications-app-icon-shows-due-count = К-ць перапраглядаў на значке
 preferences-pen-size = Памер пяра
 preferences-question-side = Бок з пытаннем
 preferences-remaining-count = Колькасць застаўшыхся
 preferences-right = Справа
+# gamepad
+preferences-right-shoulder = Правы бампер
+# gamepad
+preferences-right-trigger = Правы курок
 preferences-scratchpad-below-buttons = Нататнік пад кнопкамі
 preferences-scratchpad-transparency = Празрыстасць нататніка
 preferences-scratchpad-transparency-full = Поўная
@@ -95,5 +106,6 @@ preferences-when-question-shown = Калі паказана пытанне
 preferences-you-have-been-logged-out = Выкананы выхад.
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Макс. памер відарыса (доўгі край)
+preferences-editing-crop-camera-photos = Абразаць здымкі з камеры
 preferences-loop-video = Зацыкліваць відэа
 preferences-show-video-controls = Паказваць кіраванне відэа
