@@ -7,7 +7,7 @@ preferences-auto-advance-answer-action = 回答アクション
 preferences-auto-advance-answer-seconds = 解答を表示する時間 (秒)
 preferences-auto-advance-auto-advance-to-start = デッキ内の「カードの自動送り」アクションで、カードの自動送りが開始されます。
 preferences-auto-advance-do-nothing = 何もしない
-preferences-auto-advance-question-seconds = 問題を表示する時間 (秒)
+preferences-auto-advance-question-seconds = 質問を表示する時間 (秒)
 preferences-auto-advance-show-reminder = リマインダーを表示
 preferences-auto-advance-wait-for-audio = 音声再生終了を待つ
 preferences-backup-available-backups = 保存中のバックアップ
@@ -40,7 +40,7 @@ preferences-gamepads = ゲームパッド
 preferences-height = パッドの大きさ
 preferences-huge = 特大
 preferences-ignore-fingers = 指での入力を無視
-preferences-interrupt-current-audio = 問題の音声の再生を解答表示で停止
+preferences-interrupt-current-audio = 質問の音声の再生を解答表示で停止
 preferences-large = 大
 preferences-left = 左側
 # gamepad
@@ -65,7 +65,7 @@ preferences-notifications-alert-when-due = 期日・習得中の課題を通知
 preferences-notifications-app-icon-shows-due-count = アプリのアイコンに課題枚数を表示
 preferences-notifications-settings-app-enable-notifications = iOS設定アプリからAnkiの項目へ進み、通知、バッジ、アラートを有効にしてください。
 preferences-pen-size = ペンの太さ
-preferences-question-side = 問題側
+preferences-question-side = 質問側
 preferences-remaining-count = 残りのカード枚数
 preferences-right = 右側
 # gamepad
@@ -113,7 +113,7 @@ preferences-top-left = 左上
 preferences-top-right = 右上
 preferences-undo-clears-all = 元に戻すタップですべて消去
 preferences-when-answer-shown = 解答側も表示されているとき
-preferences-when-question-shown = 問題側だけが表示されているとき
+preferences-when-question-shown = 質問側だけが表示されているとき
 preferences-you-have-been-logged-out = ログアウトしました
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = 最大画像サイズ（長辺）
