@@ -1,6 +1,6 @@
 preferences-about = Ankiについて
 preferences-always-duck-and-ignore-mute = BGM抑制 ＋ ミュート無視
-preferences-answer-keeps-zoom = 答えのズームを保つ
+preferences-answer-keeps-zoom = 解答表示の際に画面拡大を維持
 preferences-answer-side = 解答側
 preferences-audio-buttons = 音声再生ボタンを表示
 preferences-auto-advance-answer-action = 回答アクション
@@ -10,7 +10,7 @@ preferences-auto-advance-do-nothing = 何もしない
 preferences-auto-advance-question-seconds = 質問を表示する時間 (秒)
 preferences-auto-advance-show-reminder = リマインダーを表示
 preferences-auto-advance-wait-for-audio = 音声再生終了を待つ
-preferences-backup-available-backups = 保存中のバックアップ
+preferences-backup-available-backups = 現在利用可能なバックアップ
 preferences-backup-create-now = 今すぐ作成
 preferences-backup-maximum-backups = バックアップの上限
 preferences-backup-minutes-between-backups = バックアップの間隔 (分)
@@ -54,9 +54,9 @@ preferences-long = 長い
 preferences-mid-center = 中央
 preferences-mid-left = 左中央
 preferences-mid-right = 右中央
-preferences-never-type-answer = 答えをタイプしない
-preferences-never-show-scratchpad = スクラッチパッドを表示しない
-preferences-never-show-scratchpad-enabled = 設定画面で「スクラッチパッドを表示しない」がオンになっています。
+preferences-never-type-answer = 文字入力で解答しない
+preferences-never-show-scratchpad = 手書きパッドを表示しない
+preferences-never-show-scratchpad-enabled = 設定で「手書きパッドを表示しない」がオンになっています。
 preferences-next-times = 次回の学習までの間隔
 preferences-normal = 標準
 preferences-notifications = 通知
@@ -118,9 +118,9 @@ preferences-you-have-been-logged-out = ログアウトしました
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = 最大画像サイズ（長辺）
 # whether to shrink images when pasting
-preferences-editing-resize-on-paste = ペースト時にリサイズ
+preferences-editing-resize-on-paste = 貼り付けの際にリサイズ
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = スマート引用符とダッシュを自動変換
-preferences-editing-crop-camera-photos = 写真をトリミング
+preferences-editing-crop-camera-photos = 撮影後に写真を切り抜く
 preferences-loop-video = 動画をループ再生
 preferences-show-video-controls = 動画再生コントローラーを表示
