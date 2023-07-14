@@ -1,7 +1,7 @@
 preferences-about = Ankiについて
 preferences-always-duck-and-ignore-mute = BGM抑制 ＋ ミュート無視
 preferences-answer-keeps-zoom = 答えのズームを保つ
-preferences-answer-side = 答え側
+preferences-answer-side = 解答側
 preferences-audio-buttons = 音声再生ボタンを表示
 preferences-auto-advance-answer-action = 回答アクション
 preferences-auto-advance-answer-seconds = 解答を表示する時間 (秒)
