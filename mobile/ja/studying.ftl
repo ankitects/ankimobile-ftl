@@ -1,4 +1,4 @@
-studying-answer-time-elapsed = 経過した回答時間
+studying-answer-time-elapsed = 解答表示時間が経過しました
 studying-auto-advance-starting = カードの自動送りを開始します
 studying-auto-advance-stopped = カードの自動送りを停止しました
 # ...have (5 cards) ready...
