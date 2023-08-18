@@ -1,4 +1,6 @@
 actions-create = Створити
+actions-note-and-its-cards-deleted = Нотатка і її { $count } карток видалено
+actions-note-and-its-cards-suspended = Нотатка і її { $count } картка/картки/карток призупинено
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -26,3 +28,10 @@ actions-deck-statistics-short = Ко.Стат.
 actions-decks-short = Колоди
 actions-delete-note-short = Вид
 actions-edit-short = Ред.
+actions-suspend-card-short = Пз.К
+actions-suspend-note-short = Пз.Н
+actions-tools-short = Інструменти
+actions-undo-short = Скасувати
+actions-redo-short = Повернути
+actions-scroll-up-short = Вгору
+actions-scroll-down-short = Вниз
