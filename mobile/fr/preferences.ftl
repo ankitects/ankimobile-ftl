@@ -122,3 +122,5 @@ preferences-editing-resize-on-paste = Redimensionner l'image lors du collage
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = Convertir les citations et les tirets intelligents
 preferences-editing-crop-camera-photos = Redimensionner les photos de l'appareil photo
+preferences-loop-video = Vidéo en Boucle
+preferences-show-video-controls = Afficher les Commandes de la Vidéo
