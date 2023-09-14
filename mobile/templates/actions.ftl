@@ -30,7 +30,6 @@ actions-draw = Draw
 actions-file-invalid-or-corrupt = File invalid or corrupt.
 actions-filtercram = Filter/Cram
 actions-filtered-deck = Filtered Deck { $num }
-actions-forgot-card = Forgot card
 actions-frequent-actions = Frequent Actions
 actions-leave-without-saving = Leave without saving?
 actions-long-press-on-an-item-to = Long press on an item to customize.
