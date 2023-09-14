@@ -121,8 +121,9 @@ preferences-editing-max-image-size = 最大画像サイズ（長辺）
 preferences-editing-resize-on-paste = 貼り付けの際にリサイズ
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = スマート引用符とダッシュを自動変換
-preferences-editing-crop-camera-photos = 撮影後に写真を切り抜く
+preferences-editing-crop-camera-photos = カメラで撮影した写真をクロップ（切り出し）
 preferences-loop-video = 動画をループ再生
 preferences-show-video-controls = 動画再生コントローラーを表示
+preferences-high-quality-video = カメラで撮影する動画を高画質にする
 preferences-auto-capitalize = 英字入力時に文頭を自動で大文字にする
 preferences-auto-correct = オートコレクト
