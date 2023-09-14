@@ -124,3 +124,5 @@ preferences-editing-convert-smart-quotes = スマート引用符とダッシュ�
 preferences-editing-crop-camera-photos = 撮影後に写真を切り抜く
 preferences-loop-video = 動画をループ再生
 preferences-show-video-controls = 動画再生コントローラーを表示
+preferences-auto-capitalize = 英字入力時に文頭を自動で大文字にする
+preferences-auto-correct = オートコレクト
