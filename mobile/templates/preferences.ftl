@@ -126,3 +126,8 @@ preferences-editing-convert-smart-quotes = Convert Smart Quotes & Dashes
 preferences-editing-crop-camera-photos = Crop Camera Photos
 preferences-loop-video = Loop Video
 preferences-show-video-controls = Show Video Controls
+
+preferences-high-quality-video = High Quality Video
+preferences-auto-capitalize = Auto Capitalize
+preferences-auto-correct = Auto Correct
+preferences-strip-hebrew-vowels = Strip Hebrew Vowels
