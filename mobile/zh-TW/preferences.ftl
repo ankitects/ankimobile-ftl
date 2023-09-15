@@ -124,3 +124,7 @@ preferences-editing-convert-smart-quotes = 轉換智慧型引號和破折號
 preferences-editing-crop-camera-photos = 裁切相機照片
 preferences-loop-video = 循環播放影片
 preferences-show-video-controls = 顯示影片控制項目
+preferences-high-quality-video = 高畫質影片
+preferences-auto-capitalize = 自動大寫
+preferences-auto-correct = 自動修正
+preferences-strip-hebrew-vowels = 去除希伯來文母音
