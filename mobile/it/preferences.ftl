@@ -121,3 +121,7 @@ preferences-editing-convert-smart-quotes = Converti virgolette curve e trattini
 preferences-editing-crop-camera-photos = Ritaglia immagini della fotocamera
 preferences-loop-video = Ripeti video
 preferences-show-video-controls = Mostra controlli video
+preferences-high-quality-video = Video di alta qualità
+preferences-auto-capitalize = Maiuscole automatiche
+preferences-auto-correct = Correzione automatica
+preferences-strip-hebrew-vowels = Rimuovi le vocali ebraiche
