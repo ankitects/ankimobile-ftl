@@ -124,3 +124,7 @@ preferences-editing-convert-smart-quotes = Muunna älykkäät lainausmerkit ja v
 preferences-editing-crop-camera-photos = Rajaa kameralla otettuja kuvia
 preferences-loop-video = Toista videota silmukassa
 preferences-show-video-controls = Näytä videon ohjauspainikkeet
+preferences-high-quality-video = Korkealaatuinen video
+preferences-auto-capitalize = Automaattiset isot alkukirjaimet
+preferences-auto-correct = Korjaa oikeinkirjoitus automaattisesti
+preferences-strip-hebrew-vowels = Poista heprean vokaalit
