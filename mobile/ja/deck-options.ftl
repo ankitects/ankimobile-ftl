@@ -1,7 +1,7 @@
 deck-options-add-options-group = 設定グループを追加
 deck-options-answer-time-cap = 回答時間の上限 (秒)
-deck-options-bury-related-new-cards = 関連する新規カードを延期
-deck-options-bury-related-reviews = 関連する復習カードを延期
+deck-options-bury-related-new-cards = 関連する新規カードを今日は非表示
+deck-options-bury-related-reviews = 関連する復習カードを今日は非表示
 deck-options-defaults = デフォルト
 deck-options-delete-options-full-sync = この設定グループを削除すると、次に同期をする際、他のデバイス上で変更したことをご使用中のデバイスに統合できません。それでも削除しますか？
 deck-options-display-in-order-added = 追加順にカードを表示
