@@ -124,3 +124,7 @@ preferences-editing-convert-smart-quotes = تحويل علامات الاقتب�
 preferences-editing-crop-camera-photos = قص صور الكاميرا
 preferences-loop-video = تكرار الفيديو
 preferences-show-video-controls = إظهار عناصر التحكم بالفيديو
+preferences-high-quality-video = فيديو عالي الجودة
+preferences-auto-capitalize = الرسملة التلقائية
+preferences-auto-correct = التصحيح التلقائي
+preferences-strip-hebrew-vowels = تجريد حروف العلة العبرية
