@@ -127,3 +127,4 @@ preferences-show-video-controls = 動画再生コントローラーを表示
 preferences-high-quality-video = カメラで撮影する動画を高画質にする
 preferences-auto-capitalize = 英字入力時に文頭を自動で大文字にする
 preferences-auto-correct = オートコレクト
+preferences-strip-hebrew-vowels = ヘブライ語の母音を除去
