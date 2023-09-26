@@ -2,7 +2,7 @@ preferences-about = Ankiについて
 preferences-always-duck-and-ignore-mute = BGM抑制 ＋ ミュート無視
 preferences-answer-keeps-zoom = 解答表示の際に画面拡大を維持
 preferences-answer-side = 解答側
-preferences-audio-buttons = 音声再生ボタンを表示
+preferences-audio-buttons = 音声・動画再生ボタンを表示
 preferences-auto-advance-answer-action = 回答アクション
 preferences-auto-advance-answer-seconds = 解答を表示する時間 (秒)
 preferences-auto-advance-auto-advance-to-start = カードの自動送りを開始するには、学習画面で「カードの自動送り」アクションを選択してください。
@@ -40,7 +40,7 @@ preferences-gamepads = ゲームパッド
 preferences-height = パッドの大きさ
 preferences-huge = 特大
 preferences-ignore-fingers = 指での入力を無視
-preferences-interrupt-current-audio = 質問の音声の再生を解答表示で停止
+preferences-interrupt-current-audio = 質問の音声・動画の再生を解答表示で停止
 preferences-large = 大
 preferences-left = 左側
 # gamepad
