@@ -1,5 +1,5 @@
 decks-a-deck-must-be-provided = 至少需要保留一个牌组。
-decks-a-deck-named-already-exists = 已存在名为 “{ $name }” 的牌组。
+decks-a-deck-named-already-exists = 已存在名为「{ $name }」的牌组。
 decks-a-deck-with-that-name-already = 已存在同名牌组。
 decks-add-deck = 添加牌组
 decks-add-empty-deck = 创建空牌组

@@ -1,6 +1,6 @@
 # any tag
 custom-study-any-tag = 任何
-custom-study-available = { $num }可用
+custom-study-available = { $num } 可用
 custom-study-cant-extend-limits-no-extra = 无法扩展限制，因为没有可用的卡片。
 custom-study-cram-seen-cards-with-certain-tags = 强化带有特定标签的卡片
 custom-study-days-to-look-ahead = 今后几天

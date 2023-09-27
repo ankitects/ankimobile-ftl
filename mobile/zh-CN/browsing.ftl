@@ -3,7 +3,7 @@ browsing-append = 追加
 # add current row to existing search, with a '-' at the start to reverse it
 browsing-append-negated = 追减
 browsing-card-updated = 卡片更新时间
-browsing-change-flag = 更改标注 (颜色)
+browsing-change-flag = 更改标注（颜色）
 browsing-clear-flag = 清除旗标
 browsing-confirm-reset = 确认重置
 browsing-dd-selected = 已选中 { $part }/{ $total }
@@ -21,7 +21,7 @@ browsing-searching = 搜索中…
 browsing-select-all = 全部选择
 browsing-sort-order = 排序顺序
 browsing-tag = 标签：
-browsing-column-number = 列{ $number }
+browsing-column-number = 列 { $number }
 browsing-notes-mode = 笔记模式
 browsing-sort-backwards = 倒序排列
 
@@ -29,6 +29,6 @@ browsing-sort-backwards = 倒序排列
 
 browsing-column-1 = 第 1 列
 browsing-column-2 = 第 2 列
-browsing-second-column-19 = 第二列 (1->9)
-browsing-second-column-91 = 第二列 (9->1)
+browsing-second-column-19 = 第二列（1->9）
+browsing-second-column-91 = 第二列（9->1）
 browsing-sort = 排序：
