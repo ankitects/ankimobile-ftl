@@ -124,3 +124,7 @@ preferences-editing-convert-smart-quotes = Converter Citações e Travessões In
 preferences-editing-crop-camera-photos = Cortar Fotos da Câmera
 preferences-loop-video = Vídeo em looping
 preferences-show-video-controls = Mostrar controles do vídeo
+preferences-high-quality-video = Vídeo de Alta Qualidade
+preferences-auto-capitalize = Auto Capitalizar
+preferences-auto-correct = Correção Automática
+preferences-strip-hebrew-vowels = Remover Vogais Hebraicas
