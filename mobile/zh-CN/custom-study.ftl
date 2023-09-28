@@ -10,7 +10,7 @@ custom-study-extra-new-cards = 额外的新卡数
 custom-study-extra-review-cards = 额外的复习卡数
 custom-study-include-cards-with-tag = 选择标签
 custom-study-learn-new-cards-with-certain-tags = 学习带有特定标签的新卡片
-custom-study-loading = 正在载入...
+custom-study-loading = 正在载入…
 custom-study-max-cards-to-gather = 筛选上限
 # no tags selected
 custom-study-no-tags = 无
