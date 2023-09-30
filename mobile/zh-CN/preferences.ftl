@@ -124,3 +124,6 @@ preferences-editing-convert-smart-quotes = 自动标点转换
 preferences-editing-crop-camera-photos = 裁剪相机照片
 preferences-loop-video = 循环播放视频
 preferences-show-video-controls = 显示视频控制
+preferences-auto-capitalize = 输入字母时自动将句首字母大写
+preferences-auto-correct = 自动更正
+preferences-strip-hebrew-vowels = 去除希伯来语元音
