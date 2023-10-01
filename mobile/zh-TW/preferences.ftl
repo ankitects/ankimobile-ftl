@@ -1,5 +1,5 @@
 preferences-about = 關於
-preferences-always-duck-and-ignore-mute = 降低其他App的音量+忽略靜音
+preferences-always-duck-and-ignore-mute = 持續降低其他應用程式音量+忽略靜音
 preferences-answer-keeps-zoom = 答案保持縮放
 preferences-answer-side = 答案面
 preferences-audio-buttons = 音訊按鈕
