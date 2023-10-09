@@ -2,7 +2,7 @@
 browsing-append = 条件を追加
 # add current row to existing search, with a '-' at the start to reverse it
 browsing-append-negated = 否定条件を追加
-browsing-card-updated = カード上書き日
+browsing-card-updated = カードを更新しました
 browsing-change-flag = フラグを変更
 browsing-clear-flag = フラグを解除
 browsing-confirm-reset = リセットの確認
@@ -12,7 +12,7 @@ browsing-due-reviews = 課題 (期日・予定時刻が到来済み)
 browsing-learning-cards = 習得中
 browsing-no-cards-are-selected = カードが選択されていません。
 browsing-note-created = ノート作成日
-browsing-note-updated = ノート上書き日
+browsing-note-updated = ノートを更新しました
 browsing-note2 = ノート：
 browsing-questionandanswer = 質問＋解答
 browsing-repetitions = 学習頻度
