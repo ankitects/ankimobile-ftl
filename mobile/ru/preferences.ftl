@@ -124,3 +124,4 @@ preferences-editing-convert-smart-quotes = Конвертировать умны
 preferences-editing-crop-camera-photos = Обрезать фото с камеры
 preferences-loop-video = Повторять видео
 preferences-show-video-controls = Кнопки видеопроигрывателя
+preferences-high-quality-video = Видео в высоком качестве
