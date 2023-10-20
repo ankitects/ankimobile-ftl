@@ -125,3 +125,6 @@ preferences-editing-crop-camera-photos = Обрезать фото с камер
 preferences-loop-video = Повторять видео
 preferences-show-video-controls = Кнопки видеопроигрывателя
 preferences-high-quality-video = Видео в высоком качестве
+preferences-auto-capitalize = Автозаглавные
+preferences-auto-correct = Автоисправление
+preferences-strip-hebrew-vowels = Убирать гласные иврита
