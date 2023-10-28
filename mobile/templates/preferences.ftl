@@ -8,8 +8,6 @@ preferences-auto-advance-answer-seconds = Answer Seconds
 preferences-auto-advance-auto-advance-to-start = To start automatically advancing, use the 'Auto Advance' action.
 preferences-auto-advance-do-nothing = Do Nothing
 preferences-auto-advance-question-seconds = Question Seconds
-preferences-auto-advance-show-reminder = Show Reminder
-preferences-auto-advance-wait-for-audio = Wait for Audio
 preferences-backup-available-backups = Available backups
 preferences-backup-create-now = Create Now
 preferences-backup-maximum-backups = Maximum Backups
@@ -98,7 +96,6 @@ preferences-tap-to-sync = To activate syncing, tap the synchronize button on the
 preferences-taps = Taps
 preferences-theme-bar-style = Bar Style
 preferences-theme-black = Black
-
 preferences-theme-dark-translucent = Dark & Translucent
 preferences-theme-force-off = Force Off
 preferences-theme-force-on = Force On
@@ -116,7 +113,6 @@ preferences-undo-clears-all = Undo Clears All
 preferences-when-answer-shown = When answer shown
 preferences-when-question-shown = When question shown
 preferences-you-have-been-logged-out = You have been logged out.
-
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Max Image Size (Long Edge)
 # whether to shrink images when pasting
@@ -126,7 +122,6 @@ preferences-editing-convert-smart-quotes = Convert Smart Quotes & Dashes
 preferences-editing-crop-camera-photos = Crop Camera Photos
 preferences-loop-video = Loop Video
 preferences-show-video-controls = Show Video Controls
-
 preferences-high-quality-video = High Quality Video
 preferences-auto-capitalize = Auto Capitalize
 preferences-auto-correct = Auto Correct

@@ -4,12 +4,8 @@ actions-added-to-frequent-actions = أضيفت إلى الإجراءات الم�
 actions-all-actions = كل الإجراءات
 actions-already-in-frequent-actions = موجود فعلًا في الإجراءات المتكررة.
 actions-an-error-occurred = حدث خطأ: { $error }
-actions-answer-again = الإجابة بـ«مجددًا»
 actions-answer-easy = الإجابة بـ«سهل»
-actions-answer-good = الإجابة بـ«جيد»
-actions-answer-hard = الإجابة بـ«صعب»
 actions-are-you-sure = هل أنت متأكد؟
-actions-auto-advance = تقديم تلقائي
 actions-bottom-bar = الشريط السفلي
 actions-browse = تصفح
 actions-card-buried = دُفِنت البطاقة

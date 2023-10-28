@@ -8,8 +8,6 @@ preferences-auto-advance-answer-seconds = ثانیه‌های پاسخ
 preferences-auto-advance-auto-advance-to-start = برای شروع پیشروی خودکار، از گزینۀ 'پیشروی خودکار' استفاده کنید.
 preferences-auto-advance-do-nothing = کاری نکن
 preferences-auto-advance-question-seconds = ثانیه‌های سوال
-preferences-auto-advance-show-reminder = نمایش یادآور
-preferences-auto-advance-wait-for-audio = توقف برای صوت
 preferences-backup-available-backups = پشتیبان‌های در دسترس
 preferences-backup-create-now = ایجاد
 preferences-backup-maximum-backups = حداکثر تعداد پشتیبان
@@ -96,7 +94,6 @@ preferences-tap-to-sync = برای فعال‌سازی همگام‌سازی، �
 preferences-taps = ضربه‌ها
 preferences-theme-bar-style = سبک نوار
 preferences-theme-black = سیاه
-
 preferences-theme-dark-translucent = تاریک و مات
 preferences-theme-force-off = خاموشی اجباری
 preferences-theme-force-on = روشن کردن اجباری

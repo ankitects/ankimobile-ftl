@@ -1,5 +1,5 @@
 basepath = "mobile"
 
 [[paths]]
-  reference = "templates/*.ftl"
-  l10n = "{locale}/*.ftl"
+reference = "templates/*.ftl"
+l10n = "{locale}/*.ftl"

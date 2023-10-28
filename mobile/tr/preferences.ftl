@@ -7,7 +7,6 @@ preferences-auto-advance-answer-action = Cevaplama Eylemi
 preferences-auto-advance-answer-seconds = Cevap Saniyesi
 preferences-auto-advance-do-nothing = Hiçbir şey yapma
 preferences-auto-advance-question-seconds = Soru Saniyeleri
-preferences-auto-advance-show-reminder = Hatırlatıcıyı Göster
 preferences-backup-available-backups = Mevcut yedekler
 preferences-backup-create-now = Şu an Oluştur
 preferences-backup-maximum-backups = Maksimum Yedek

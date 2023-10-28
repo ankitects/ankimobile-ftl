@@ -8,8 +8,6 @@ preferences-auto-advance-answer-seconds = Đáp án Thứ cấp
 preferences-auto-advance-auto-advance-to-start = Để bắt đầu tự động nâng cao cấp độ, hãy sử dụng tác vụ 'Tự động Nâng cao'.
 preferences-auto-advance-do-nothing = Không còn gì
 preferences-auto-advance-question-seconds = Câu hỏi thứ cấp
-preferences-auto-advance-show-reminder = Hiển thị Lời nhắc
-preferences-auto-advance-wait-for-audio = Chờ Âm thanh
 preferences-backup-available-backups = Các bản sao lưu có sẵn
 preferences-backup-create-now = Tạo ngay
 preferences-backup-maximum-backups = Sao lưu tối đa
@@ -98,7 +96,6 @@ preferences-tap-to-sync = Để kích hoạt đồng bộ hóa, hãy nhấn vào
 preferences-taps = Nhấn
 preferences-theme-bar-style = Kiểu Thanh chọn
 preferences-theme-black = Đen
-
 preferences-theme-dark-translucent = Tối & Mờ
 preferences-theme-force-off = Buộc Tắt
 preferences-theme-force-on = Buộc Bật

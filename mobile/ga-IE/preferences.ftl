@@ -8,8 +8,6 @@ preferences-auto-advance-answer-seconds = Soicind ar Thaobh an Fhreagra
 preferences-auto-advance-auto-advance-to-start = Chun dul ar aghaidh go huathoibríoch, bain triail as an ngníomh 'Ar Aghaidh go hUathoibríoch'.
 preferences-auto-advance-do-nothing = Ná Déantar Dada
 preferences-auto-advance-question-seconds = Soicind ar Thaobh na Ceiste
-preferences-auto-advance-show-reminder = Taispeáintear Meabhrúchán
-preferences-auto-advance-wait-for-audio = Fantar leis an bhFuaim
 preferences-backup-available-backups = Do chuid cóipeanna cúltaca
 preferences-backup-create-now = Déan Cóip Chúltaca Anois
 preferences-backup-maximum-backups = Uasmhéid Cóipeanna Cúltaca
@@ -98,7 +96,6 @@ preferences-tap-to-sync = Chun tús a chur leis an sioncronú, brúigh an cnaipe
 preferences-taps = Brú an Scáileáin
 preferences-theme-bar-style = Cuma an Bharra
 preferences-theme-black = Dubh
-
 preferences-theme-dark-translucent = Dorcha & Trédhearcach
 preferences-theme-force-off = As i gCónaí
 preferences-theme-force-on = Air i gCónaí
