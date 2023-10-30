@@ -120,3 +120,9 @@ preferences-editing-resize-on-paste = Athraigh Méid Tar Éis Greamú
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = Tiontaigh Camóga agus Fleiscíní Cliste
 preferences-editing-crop-camera-photos = Bearr Grianghraif Cheamara
+preferences-loop-video = Físeáin ar Lúb
+preferences-show-video-controls = Taispeáin Roghanna Físeáin
+preferences-high-quality-video = Físeán Ardchaighdeáin
+preferences-auto-capitalize = Ceannlitreacha Uathoibríocha
+preferences-auto-correct = Ceartúchán Litrithe
+preferences-strip-hebrew-vowels = Bain Gutaí Eabhraise
