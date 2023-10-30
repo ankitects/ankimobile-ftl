@@ -122,3 +122,7 @@ preferences-editing-convert-smart-quotes = Smarte Anführungszeichen & Querstric
 preferences-editing-crop-camera-photos = Kamerafotos zuschneiden
 preferences-loop-video = Video wiederholen
 preferences-show-video-controls = Videosteuerung anzeigen
+preferences-high-quality-video = Hohe Videoqualität
+preferences-auto-capitalize = Automatische Großschreibung
+preferences-auto-correct = Autokorrektur
+preferences-strip-hebrew-vowels = Hebräische Vokale entfernen
