@@ -29,6 +29,7 @@ preferences-collection-reviews-first = Reviews first
 preferences-double-tap-prevention = Double Tap Prevention
 preferences-drawing-screen-ignores-fingers = Drawing Screen Ignores Fingers
 preferences-feedback-ticks = Feedback Ticks
+preferences-spread-ticks = Spread Ticks
 preferences-fine = Fine
 preferences-force-sync-confirm = Force a one way sync? All changes on one side will be lost.
 preferences-full-sync = Full Sync
