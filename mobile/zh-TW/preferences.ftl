@@ -29,6 +29,7 @@ preferences-collection-reviews-first = 複習卡優先
 preferences-double-tap-prevention = 防止誤觸間隔
 preferences-drawing-screen-ignores-fingers = 繪製畫面忽略手指
 preferences-feedback-ticks = 顯示回答勾號
+preferences-spread-ticks = 勾號散開顯示
 preferences-fine = 細
 preferences-force-sync-confirm = 是否強制單向同步？其中一方所作的更動將全部遺失。
 preferences-full-sync = 完整同步
