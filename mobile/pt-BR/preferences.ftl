@@ -29,6 +29,7 @@ preferences-collection-reviews-first = Revisões primeiro
 preferences-double-tap-prevention = Prevenção de toque duplo
 preferences-drawing-screen-ignores-fingers = A tela de desenho ignora os dedos
 preferences-feedback-ticks = Marcações de feedback
+preferences-spread-ticks = Espalhar Marcações
 preferences-fine = Bem
 preferences-force-sync-confirm = Forçar uma sincronização unidirecional? Todas as alterações em um lado serão perdidas.
 preferences-full-sync = Sincronização Completa
