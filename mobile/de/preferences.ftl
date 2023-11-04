@@ -1,6 +1,6 @@
 preferences-about = Ü­ber
 preferences-always-duck-and-ignore-mute = Im­mer au­srei­ßen + Stumm­schal­tung i­gno­rier­en
-preferences-answer-keeps-zoom = Ant­wort be­hält Zoom bei
+preferences-answer-keeps-zoom = Zoom-Level auf Antwortseite beibehalten
 preferences-answer-side = Ant­wort­sei­te
 preferences-audio-buttons = Au­dio­knö­pfe
 preferences-auto-advance-answer-action = Ant­wort­ak­tion
