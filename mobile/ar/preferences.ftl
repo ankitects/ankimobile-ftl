@@ -29,6 +29,7 @@ preferences-collection-reviews-first = المراجعات أولًا
 preferences-double-tap-prevention = منع النقر المزدوج
 preferences-drawing-screen-ignores-fingers = تتجاهل نقرات الأصابع في شاشة الرسم
 preferences-feedback-ticks = إشارات رد الفعل
+preferences-spread-ticks = توزيع الإشارات
 preferences-fine = جيد
 preferences-force-sync-confirm = هل تريد فرض مزامنة باتجاه واحد؟ ستفقد كل التغييرات في جانب واحد.
 preferences-full-sync = مزامنة كاملة
