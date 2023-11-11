@@ -122,3 +122,7 @@ preferences-editing-convert-smart-quotes = Converteix les cometes i els guionets
 preferences-editing-crop-camera-photos = Retalla les fotos de la càmera
 preferences-loop-video = Vídeo en bucle
 preferences-show-video-controls = Mostra els controls de reproducció
+preferences-high-quality-video = Vídeo d’alta qualitat
+preferences-auto-capitalize = Majúscules automàtiques
+preferences-auto-correct = Correcció automàtica
+preferences-strip-hebrew-vowels = Suprimeix les vocals en hebreu
