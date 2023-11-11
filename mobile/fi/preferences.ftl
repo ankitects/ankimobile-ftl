@@ -29,6 +29,7 @@ preferences-collection-reviews-first = Kerrattavat ensin
 preferences-double-tap-prevention = Kaksoisnapautuksen esto
 preferences-drawing-screen-ignores-fingers = Piirustusnäkymä ohittaa sormista tulevan syötteen
 preferences-feedback-ticks = Näytä oikein-merkki palautteena
+preferences-spread-ticks = Erottele vastaustyypin mukaan
 preferences-fine = Ohut
 preferences-force-sync-confirm = Pakotetaanko synkronointi yhteen suuntaan? Kaikki toisen puolen muutokset menetetään.
 preferences-full-sync = Täysi synkronointi
