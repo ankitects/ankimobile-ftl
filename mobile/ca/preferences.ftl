@@ -29,6 +29,7 @@ preferences-collection-reviews-first = Targetes per repassar primer
 preferences-double-tap-prevention = Prevenir el doble toc
 preferences-drawing-screen-ignores-fingers = Ignora l'entrada tàctil en la pantalla de dibuix
 preferences-feedback-ticks = Quadre de comentaris
+preferences-spread-ticks = Separa les marques
 preferences-fine = Fi
 preferences-force-sync-confirm = Voleu forçar la sincronització unidireccional? Tots els canvis d'una o l'altra part es perdran.
 preferences-full-sync = Sincronització completa
