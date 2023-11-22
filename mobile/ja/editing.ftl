@@ -8,7 +8,7 @@ editing-from-file = ファイルから
 editing-from-photos = 写真から
 editing-italic = 斜体
 # keyboard shortcut description
-editing-next-cloze = 次の穴埋め
+editing-next-cloze = 次の穴埋め問題
 editing-next-field = 次のフィールド
 editing-note-deleted = ノートを削除しました
 editing-note-suspended = ノートを休止しました
@@ -16,7 +16,7 @@ editing-note-suspended = ノートを休止しました
 editing-note-type-prompt = タイプ：
 editing-note-unsuspended = ノートの休止を解除しました
 # keyboard shortcut description
-editing-same-cloze = 同じ穴埋め
+editing-same-cloze = 同じ穴埋め問題
 editing-the-first-field-must-not-be = 最初のフィールドは空欄のままにできません。
 editing-unable-to-obtain-image = 画像を読み込むことができません
 editing-unable-to-read-file = ファイルを読み取ることができません
