@@ -1,4 +1,4 @@
-exporting-collection-saved-to-itunes = Col·lecció guardada en iTunes.
+exporting-collection-saved-to-itunes = S’ha guardat la col·lecció en iTunes.
 exporting-export-to-itunes = Exporta a iTunes
 exporting-export-to-share-sheet = Exporta al full de compartir
 exporting-exporting = S'està exportant…

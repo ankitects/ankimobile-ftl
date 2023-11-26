@@ -23,7 +23,7 @@ browsing-sort-order = Ordre
 browsing-tag = Etiqueta:
 browsing-column-number = Columna { $number }
 browsing-notes-mode = Mode de notes
-browsing-sort-backwards = Ordena a l'inrevés
+browsing-sort-backwards = Ordre invers
 
 ## OBSOLETE; you do not need to translate.
 
