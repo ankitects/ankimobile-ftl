@@ -1,4 +1,3 @@
-studying-answer-time-elapsed = وقت الإجابة الماضي
 studying-auto-advance-starting = بدء التقديم التلقائي
 studying-auto-advance-stopped = توقف التقديم التلقائي
 # ...have (5 cards) ready...

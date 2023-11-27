@@ -1,4 +1,3 @@
-studying-answer-time-elapsed = Vastausaikaa kulunut
 studying-auto-advance-starting = Automaattinen eteneminen alkaa
 studying-auto-advance-stopped = Automaattinen eteneminen pysäytetty
 # ...have (5 cards) ready...

@@ -1,4 +1,3 @@
-studying-answer-time-elapsed = Ant­wort­zeit ab­ge­lau­fen
 studying-auto-advance-starting = Au­to­ma­ti­sches Fort­schrei­ten star­tet
 studying-auto-advance-stopped = Au­to­ma­ti­sches Fort­schrei­ten ge­stop­pt
 # ...have (5 cards) ready...

@@ -1,4 +1,3 @@
-studying-answer-time-elapsed = Времени на ответ прошло
 studying-auto-advance-starting = Начало автопросмотра
 studying-auto-advance-stopped = Окончание автопросмотра
 # ...have (5 cards) ready...

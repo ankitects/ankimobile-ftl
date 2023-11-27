@@ -1,4 +1,3 @@
-studying-answer-time-elapsed = 응답 시간 초과
 studying-auto-advance-starting = 자동 넘어가기 시작
 studying-auto-advance-stopped = 자동 넘어가기 정지
 # ...have (5 cards) ready...

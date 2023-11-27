@@ -1,4 +1,3 @@
-studying-answer-time-elapsed = El temps de resposta ha acabat.
 studying-auto-advance-starting = S'ha iniciat l'avançament automàtic
 studying-auto-advance-stopped = S'ha aturat l'avançament automàtic
 # ...have (5 cards) ready...

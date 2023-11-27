@@ -1,4 +1,3 @@
-studying-answer-time-elapsed = زمان طی شدۀ پاسخ
 studying-auto-advance-starting = شروع پیشروی خودکار
 studying-auto-advance-stopped = پیشروی خودکار متوقف شد
 studying-have-ready-to-study = شما { $numCards } آماده مطالعه دارید.

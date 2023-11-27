@@ -1,4 +1,3 @@
-studying-answer-time-elapsed = 回答时间已超时
 studying-auto-advance-starting = 已开始自动展示卡片
 studying-auto-advance-stopped = 已停止自动展示卡片
 # ...have (5 cards) ready...

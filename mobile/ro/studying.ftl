@@ -1,4 +1,3 @@
-studying-answer-time-elapsed = Timpul de răspuns a trecut
 studying-auto-advance-starting = Avans automat pornește
 studying-auto-advance-stopped = Auto avans a fost oprit
 # ...have (5 cards) ready...

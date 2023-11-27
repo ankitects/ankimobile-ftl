@@ -1,4 +1,3 @@
-studying-answer-time-elapsed = Czas na odpowiedź minął
 studying-auto-advance-starting = Rozpoczynanie Auto-postępu
 studying-auto-advance-stopped = Auto-postęp zatrzymany
 # ...have (5 cards) ready...

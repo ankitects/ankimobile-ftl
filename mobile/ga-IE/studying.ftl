@@ -1,4 +1,3 @@
-studying-answer-time-elapsed = Am freagartha go dtí seo
 studying-auto-advance-starting = Tús curtha leis an modh 'Ar Aghaidh go hUathoibríoch'
 studying-auto-advance-stopped = Deireadh curtha leis an modh 'Ar Aghaidh go hUathoibríoch'
 # ...have (5 cards) ready...
