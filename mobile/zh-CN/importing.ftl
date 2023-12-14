@@ -6,3 +6,4 @@ importing-overwrite-via-import = 用导入的文件覆盖当前集合？ 此操�
 importing-please-choose-a-file = 请选择一个文件。
 importing-processed-media-files-d = 已处理媒体文件：{ $count }...
 importing-replace-collection = 替换集合
+importing-file-not-downloaded = 请从 iCloud 下载该文件，并再次导入。
