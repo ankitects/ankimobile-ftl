@@ -6,3 +6,4 @@ importing-overwrite-via-import = Overwrite entire collection with imported file?
 importing-please-choose-a-file = Please choose a file.
 importing-processed-media-files-d = Processed media files: { $count }...
 importing-replace-collection = Replace Collection
+importing-file-not-downloaded = Please download the file from iCloud, then import it again.
