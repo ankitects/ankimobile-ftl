@@ -36,6 +36,7 @@ preferences-full-sync = Full Sync
 preferences-gamepad-button-mapping = Button Mapping
 preferences-gamepad-menu-button = Menu
 preferences-gamepads = Gamepads
+preferences-gamepad-thumbpad-deadzone = Thumbpad deadzone %
 preferences-height = Height
 preferences-huge = Huge
 preferences-ignore-fingers = Ignore Fingers
