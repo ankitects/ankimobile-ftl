@@ -6,3 +6,4 @@ importing-overwrite-via-import = Substituir a coleção inteira pelo arquivo imp
 importing-please-choose-a-file = Escolha um arquivo.
 importing-processed-media-files-d = Arquivos de mídia processados: { $count }...
 importing-replace-collection = Substituir Coleção
+importing-file-not-downloaded = Por favor, baixe o arquivo do iCloud e depois importe-o novamente.
