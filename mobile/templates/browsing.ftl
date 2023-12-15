@@ -24,6 +24,7 @@ browsing-tag = Tag:
 browsing-column-number = Column { $number }
 browsing-notes-mode = Notes Mode
 browsing-sort-backwards = Sort Backwards
+browsing-larger-font = Larger Font
 
 ## OBSOLETE; you do not need to translate.
 browsing-column-1 = Column 1
