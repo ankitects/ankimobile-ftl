@@ -1,5 +1,6 @@
 preferences-about = About
-preferences-always-duck-and-ignore-mute = Always Duck + Ignore Mute
+preferences-autoplay-in-silent-mode = Autoplay in Silent Mode
+preferences-always-duck = Always Duck Background
 preferences-answer-keeps-zoom = Answer Keeps Zoom
 preferences-answer-side = Answer Side
 preferences-audio-buttons = Audio Buttons
