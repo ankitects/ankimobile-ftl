@@ -1,5 +1,5 @@
 preferences-about = Chi siamo
-preferences-always-duck-and-ignore-mute = Attenua sempre + Ignora silenzioso
+preferences-autoplay-in-silent-mode = Riproduzione automatica in modalità silenziosa
 preferences-answer-keeps-zoom = Mantieni Zoom nella risposta
 preferences-answer-side = Lato della risposta
 preferences-audio-buttons = Pulsanti audio
