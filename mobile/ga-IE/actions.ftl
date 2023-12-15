@@ -26,13 +26,12 @@ actions-draw = Tarraing
 actions-file-invalid-or-corrupt = Comhad neamhbhailí nó truaillithe.
 actions-filtercram = Scagaire/Dianstaidéar
 actions-filtered-deck = Paca Scagtha { $num }
-actions-forgot-card = Cárta dearmadta
 actions-frequent-actions = Gníomhartha is Coitianta
 actions-leave-without-saving = Fág gan sábháil?
 actions-long-press-on-an-item-to = Coinnigh síos aon mhír chun í a shaincheapadh.
 actions-mark = Marcáil
 actions-mark-and-bury = Marcáil + Cuir i bhFolach
-actions-mark-and-suspend = Marcáil + Cuir ar Fiontraí
+actions-mark-and-suspend = Marcáil + Cuir ar Fionraí
 actions-marked = Marcáilte
 actions-no-current-card = Níl aon chárta i gceist.
 actions-no-load-restore-backup = Níorbh fhéidir do chnuasach a lódáil. Téigh chuig Sainroghanna agus fill ar chóip cúltaca a rinneadh go huathoibríoch.
@@ -48,11 +47,11 @@ actions-note-and-its-cards-deleted =
     }
 actions-note-and-its-cards-suspended =
     { $count ->
-        [one] Nóta agus an { $count } chárta amháin a bhí aige curtha ar fiontraí
-        [two] Nóta agus an { $count } chárta a bhí aige curtha ar fiontraí
-        [few] Nóta agus na { $count } chárta a bhí aige curtha ar fiontraí
-        [many] Nóta agus na { $count } gcárta a bhí aige curtha ar fiontraí
-       *[other] Nóta agus na { $count } cárta a bhí aige curtha ar fiontraí
+        [one] Nóta agus an { $count } chárta amháin a bhí aige curtha ar fionraí
+        [two] Nóta agus an { $count } chárta a bhí aige curtha ar fionraí
+        [few] Nóta agus na { $count } chárta a bhí aige curtha ar fionraí
+        [many] Nóta agus na { $count } gcárta a bhí aige curtha ar fionraí
+       *[other] Nóta agus na { $count } cárta a bhí aige curtha ar fionraí
     }
 actions-note-buried = Nóta curtha i bhfolach
 actions-note-marked-and-buried = Nóta marcáilte agus curtha i bhfolach
