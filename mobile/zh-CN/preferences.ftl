@@ -37,6 +37,7 @@ preferences-full-sync = 完全同步
 preferences-gamepad-button-mapping = 按钮映射
 preferences-gamepad-menu-button = 菜单
 preferences-gamepads = 游戏手柄
+preferences-gamepad-thumbpad-deadzone = 拇指板死区比例 %
 preferences-height = 大小
 preferences-huge = 巨大
 preferences-ignore-fingers = 禁用手指
