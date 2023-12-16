@@ -24,6 +24,7 @@ browsing-tag = 标签：
 browsing-column-number = 列 { $number }
 browsing-notes-mode = 笔记模式
 browsing-sort-backwards = 倒序排列
+browsing-larger-font = 更大的字体
 
 ## OBSOLETE; you do not need to translate.
 

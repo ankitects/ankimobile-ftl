@@ -1,5 +1,6 @@
 preferences-about = 关于
-preferences-always-duck-and-ignore-mute = 弱化其他媒体音量 + 无视系统静音
+preferences-autoplay-in-silent-mode = 静音模式下自动播放
+preferences-always-duck = 总是使后台声音静音
 preferences-answer-keeps-zoom = 答案部分保持缩放比例
 preferences-answer-side = 答案界面
 preferences-audio-buttons = 显示音频按钮
@@ -29,6 +30,7 @@ preferences-collection-reviews-first = 先复习
 preferences-double-tap-prevention = 防止双击
 preferences-drawing-screen-ignores-fingers = 绘图界面忽略手指
 preferences-feedback-ticks = 显示对错符号
+preferences-spread-ticks = 反馈回答勾叉号
 preferences-fine = 细
 preferences-force-sync-confirm = 强制单向同步？本地和云端中有一方的数据将被覆盖。
 preferences-full-sync = 完全同步
