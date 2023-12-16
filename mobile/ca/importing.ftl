@@ -6,3 +6,4 @@ importing-overwrite-via-import = Voleu substituir tota la col·lecció pel fitxe
 importing-please-choose-a-file = Seleccioneu un fitxer.
 importing-processed-media-files-d = Fitxers multimèdia processats: { $count }…
 importing-replace-collection = Substituir la col·lecció
+importing-file-not-downloaded = Descarregueu el fitxer d’iCloud i torneu a importar-lo.

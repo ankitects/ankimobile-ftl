@@ -1,5 +1,5 @@
 preferences-about = Quant a
-preferences-always-duck-and-ignore-mute = Reprodueix sempre el so i ignora el silenci
+preferences-autoplay-in-silent-mode = Reprodueix automàticament en mode de silenci
 preferences-answer-keeps-zoom = La resposta manté el zoom
 preferences-answer-side = Costat de la resposta
 preferences-audio-buttons = Botons de so
