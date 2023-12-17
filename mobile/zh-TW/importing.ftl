@@ -6,3 +6,4 @@ importing-overwrite-via-import = 要使用匯入的檔案覆寫整個集合嗎�
 importing-please-choose-a-file = 請選擇一個檔案。
 importing-processed-media-files-d = 已處理媒體檔：{ $count }...
 importing-replace-collection = 取代集合
+importing-file-not-downloaded = 請從 iCloud 下載檔案後重新嘗試匯入檔案。

@@ -1,5 +1,6 @@
 preferences-about = 關於
-preferences-always-duck-and-ignore-mute = 持續降低其他應用程式音量+忽略靜音
+preferences-autoplay-in-silent-mode = 開啟靜音模式時仍自動播放
+preferences-always-duck = 永遠降低背景音量
 preferences-answer-keeps-zoom = 答案保持縮放
 preferences-answer-side = 答案面
 preferences-audio-buttons = 音訊按鈕
@@ -36,6 +37,7 @@ preferences-full-sync = 完整同步
 preferences-gamepad-button-mapping = 按鈕對應
 preferences-gamepad-menu-button = 選單
 preferences-gamepads = 遊戲手把控制
+preferences-gamepad-thumbpad-deadzone = 搖桿死區百分比
 preferences-height = 高度
 preferences-huge = 巨大
 preferences-ignore-fingers = 忽略手指
