@@ -1,6 +1,6 @@
 preferences-about = 關於
 preferences-autoplay-in-silent-mode = 開啟靜音模式時仍自動播放
-preferences-always-duck = 永遠降低背景音量
+preferences-always-duck = 持續降低其他應用程式音量
 preferences-answer-keeps-zoom = 答案保持縮放
 preferences-answer-side = 答案面
 preferences-audio-buttons = 音訊按鈕
