@@ -24,6 +24,7 @@ browsing-tag = Schlagwort:
 browsing-column-number = Spalte { $number }
 browsing-notes-mode = Notizenmodus
 browsing-sort-backwards = Rückwärts sortieren
+browsing-larger-font = Größere Schrift
 
 ## OBSOLETE; you do not need to translate.
 
