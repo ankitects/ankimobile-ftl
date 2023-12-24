@@ -6,3 +6,4 @@ importing-overwrite-via-import = コレクション全体をインポートフ�
 importing-please-choose-a-file = ファイルを選択してください。
 importing-processed-media-files-d = メディアファイルを処理中：{ $count }...
 importing-replace-collection = コレクションを置き換える
+importing-file-not-downloaded = ファイルをもう一度 iCloud からダウンロードし、インポートしてください。

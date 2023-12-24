@@ -1,5 +1,5 @@
 preferences-about = Ankiについて
-preferences-always-duck-and-ignore-mute = BGM抑制 ＋ ミュート無視
+preferences-always-duck = バックグラウンドの音声（BGMなど）の音量を抑制
 preferences-answer-keeps-zoom = 解答表示の際に画面拡大を維持
 preferences-answer-side = 解答側
 preferences-audio-buttons = 音声・動画再生ボタンを表示
