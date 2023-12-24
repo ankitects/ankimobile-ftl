@@ -1,4 +1,5 @@
 preferences-about = Ankiについて
+preferences-autoplay-in-silent-mode = サイレントモードでも音声を自動再生
 preferences-always-duck = 他アプリの音（BGMなど）の音量を抑制
 preferences-answer-keeps-zoom = 解答表示の際に画面拡大を維持
 preferences-answer-side = 解答側
@@ -36,6 +37,7 @@ preferences-full-sync = 完全同期
 preferences-gamepad-button-mapping = ボタン配置
 preferences-gamepad-menu-button = メニュー
 preferences-gamepads = ゲームパッド
+preferences-gamepad-thumbpad-deadzone = サムパッドのデッドゾーン (%)
 preferences-height = パッドの大きさ
 preferences-huge = 特大
 preferences-ignore-fingers = 指での入力を無視

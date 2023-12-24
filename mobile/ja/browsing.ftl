@@ -24,6 +24,7 @@ browsing-tag = タグ：
 browsing-column-number = 列 { $number }
 browsing-notes-mode = ノートモード
 browsing-sort-backwards = 後ろからソート
+browsing-larger-font = 大きめのフォント
 
 ## OBSOLETE; you do not need to translate.
 
