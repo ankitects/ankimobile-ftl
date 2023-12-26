@@ -24,6 +24,7 @@ browsing-tag = وسم:
 browsing-column-number = العمود { $number }
 browsing-notes-mode = وضع الملحوظات
 browsing-sort-backwards = فرز معكوس
+browsing-larger-font = خط أكبر
 
 ## OBSOLETE; you do not need to translate.
 

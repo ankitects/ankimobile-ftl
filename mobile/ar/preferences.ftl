@@ -1,5 +1,6 @@
 preferences-about = حول
-preferences-always-duck-and-ignore-mute = إضعاف وتجاهل الوضع الصامت دائمًا
+preferences-autoplay-in-silent-mode = التشغيل التلقائي في وضع الصامت
+preferences-always-duck = كتم الأصوات الخلفية دائمًا
 preferences-answer-keeps-zoom = تبقي الإجابة على مستوى التكبير
 preferences-answer-side = جانب السؤال
 preferences-audio-buttons = أزرار الصوت
@@ -36,6 +37,7 @@ preferences-full-sync = مزامنة كاملة
 preferences-gamepad-button-mapping = توزيع الأزرار
 preferences-gamepad-menu-button = قائمة
 preferences-gamepads = لوحات التحكم بالألعاب
+preferences-gamepad-thumbpad-deadzone = منطقة عدم الفعالية للوحة المفاتيح
 preferences-height = ارتفاع
 preferences-huge = ضخم
 preferences-ignore-fingers = تجاهل نقرات الأصابع

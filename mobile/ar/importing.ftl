@@ -6,3 +6,4 @@ importing-overwrite-via-import = هل تريد استبدال كل المجمو�
 importing-please-choose-a-file = اختر ملفًا.
 importing-processed-media-files-d = ملفات الوسائط المعالجة: { $count }...
 importing-replace-collection = استبدال المجموعة
+importing-file-not-downloaded = يرجى تحميل الملف من iCloud ثم استيراده مجددًا.
