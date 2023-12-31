@@ -24,6 +24,7 @@ browsing-tag = Tunniste:
 browsing-column-number = Sarake { $number }
 browsing-notes-mode = Muistiinpanotila
 browsing-sort-backwards = Käänteinen järjestys
+browsing-larger-font = Suurempi fonttikoko
 
 ## OBSOLETE; you do not need to translate.
 

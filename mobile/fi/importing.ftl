@@ -6,3 +6,4 @@ importing-overwrite-via-import = Korvataanko koko kokoelma tuodulla tiedostolla?
 importing-please-choose-a-file = Valitse tiedosto.
 importing-processed-media-files-d = Mediatiedostoja käsitelty: { $count }...
 importing-replace-collection = Korvaa kokoelma
+importing-file-not-downloaded = Lataa tiedosto iCloudista ja yritä sitten tuontia uudelleen.

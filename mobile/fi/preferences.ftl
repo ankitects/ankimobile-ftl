@@ -1,5 +1,6 @@
 preferences-about = Tietoja
-preferences-always-duck-and-ignore-mute = Vaimenna tausta, älä huomioi mykistystä
+preferences-autoplay-in-silent-mode = Automaattinen toisto hiljaisessa tilassa
+preferences-always-duck = Vaimenna muiden sovellusten äänenvoimakkuutta
 preferences-answer-keeps-zoom = Vastaus säilyttää zoomauksen
 preferences-answer-side = Vastauspuoli
 preferences-audio-buttons = Äänipainikkeet
@@ -36,6 +37,7 @@ preferences-full-sync = Täysi synkronointi
 preferences-gamepad-button-mapping = Painikkeiden määritykset
 preferences-gamepad-menu-button = Valikko
 preferences-gamepads = Peliohjaimet
+preferences-gamepad-thumbpad-deadzone = Ohjainsauvojen deadzone (%)
 preferences-height = Korkeus
 preferences-huge = Jätti
 preferences-ignore-fingers = Ohita syöte sormista
