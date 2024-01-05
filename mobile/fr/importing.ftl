@@ -6,3 +6,4 @@ importing-overwrite-via-import = Écraser toute la collection avec le fichier im
 importing-please-choose-a-file = Sélectionnez un fichier.
 importing-processed-media-files-d = Nombre de fichiers média traités: { $count }...
 importing-replace-collection = Remplacer la collection
+importing-file-not-downloaded = Veuillez télécharger le fichier sur iCloud, puis l'importer à nouveau.
