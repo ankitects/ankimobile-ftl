@@ -10,7 +10,7 @@ custom-study-extra-new-cards = بطاقات جديدة إضافية
 custom-study-extra-review-cards = بطاقات مراجعة إضافية
 custom-study-include-cards-with-tag = تضمين البطاقات التي لها وسم
 custom-study-learn-new-cards-with-certain-tags = دراسة البطاقات الجديدة التي لها وسوم معينة
-custom-study-loading = تحميل...
+custom-study-loading = يجري التحميل...
 custom-study-max-cards-to-gather = العدد الأقصى للبطاقات المجلوبة
 # no tags selected
 custom-study-no-tags = لا شيء
