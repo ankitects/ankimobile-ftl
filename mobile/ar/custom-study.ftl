@@ -1,5 +1,5 @@
 # any tag
-custom-study-any-tag = كل شيء
+custom-study-any-tag = أي شئ
 custom-study-available = { $num } متوفر
 custom-study-cant-extend-limits-no-extra = لا يمكن رفع الحدود - لا تتوفر بطاقات إضافية.
 custom-study-cram-seen-cards-with-certain-tags = دراسة مكثفة للبطاقات التي رأيتها والتي لها وسوم معينة
