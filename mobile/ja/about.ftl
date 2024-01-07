@@ -1,4 +1,4 @@
-about-anki-written-by = AnkiMobileは、Damien ElmesのAnkiコンピュータ版を元に、DamienとRichard Smithによって作られたアプリです。
+about-anki-written-by = AnkiMobileは、Damien Elmesのコンピュータ版Ankiを元に、DamienとRichard Smithによって作られたアプリです。
 about-license-text = AnkiMobileは、iOSデベロッパー・コミュニティーで寛大に共有されている{ $link }を元に作成されています。
 about-please-see = 詳細は{ $link }をご覧ください。
 about-some-thirdparty-libraries = サードパーティ製ライブラリ
