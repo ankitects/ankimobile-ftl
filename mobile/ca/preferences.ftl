@@ -1,5 +1,6 @@
 preferences-about = Quant a
 preferences-autoplay-in-silent-mode = Reprodueix automàticament en mode de silenci
+preferences-always-duck = Desactiva sempre els sons de fons
 preferences-answer-keeps-zoom = La resposta manté el zoom
 preferences-answer-side = Costat de la resposta
 preferences-audio-buttons = Botons de so
@@ -36,6 +37,7 @@ preferences-full-sync = Sincronització completa
 preferences-gamepad-button-mapping = Assignació dels botons
 preferences-gamepad-menu-button = Menú
 preferences-gamepads = Comandaments
+preferences-gamepad-thumbpad-deadzone = % de zona morta del thumpad
 preferences-height = Altura
 preferences-huge = Enorme
 preferences-ignore-fingers = Ignora els dits
