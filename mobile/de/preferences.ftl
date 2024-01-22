@@ -1,5 +1,4 @@
 preferences-about = Ü­ber
-preferences-always-duck-and-ignore-mute = Im­mer au­srei­ßen + Stumm­schal­tung i­gno­rier­en
 preferences-answer-keeps-zoom = Zoom-Level auf Antwortseite beibehalten
 preferences-answer-side = Ant­wort­sei­te
 preferences-audio-buttons = Au­dio­knö­pfe
@@ -29,14 +28,14 @@ preferences-collection-reviews-first = Wiederholungen zuerst
 preferences-double-tap-prevention = Verhinderung von Doppeltipp
 preferences-drawing-screen-ignores-fingers = Zeichenbildschirm ignoriert Finger
 preferences-feedback-ticks = Feedbackzeichen
-preferences-fine = Strafe
-preferences-force-sync-confirm = Möchten Sie eine einseitig gerichtete Synchronisation erzwingen? Alle Änderungen auf einer Seite werden verloren gehen.
+preferences-fine = Fein
+preferences-force-sync-confirm = Möchten Sie eine einseitige Synchronisation erzwingen? Alle Änderungen auf einer Seite werden verloren gehen.
 preferences-full-sync = Vollständige Synchronisation
 preferences-gamepad-button-mapping = Knöpfeanordnung
 preferences-gamepad-menu-button = Menü
 preferences-gamepads = Gamepads
 preferences-height = Höhe
-preferences-huge = Groß
+preferences-huge = Riesig
 preferences-ignore-fingers = Finger ignorieren
 preferences-interrupt-current-audio = Aktuelle Audiowiedergabe unterbrechen
 preferences-large = Groß
@@ -71,7 +70,7 @@ preferences-right-shoulder = Rechte Schulter
 # gamepad
 preferences-right-thumbstick-button = Rechter Knopf für Daumen
 # gamepad
-preferences-right-trigger = Rechts Auslöser
+preferences-right-trigger = Rechter Auslöser
 preferences-scratchpad-below-buttons = Notizblock unter den Knöpfen
 preferences-scratchpad-transparency = Notizblock-Transparenz
 preferences-scratchpad-transparency-full = Voll
