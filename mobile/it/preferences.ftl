@@ -42,7 +42,7 @@ preferences-height = Altezza
 preferences-huge = Gigante
 preferences-ignore-fingers = Ignora le dita
 preferences-interrupt-current-audio = Interrompi audio corrente
-preferences-large = Large
+preferences-large = Grande
 preferences-left = Sinistra
 # gamepad
 preferences-left-shoulder = Spalla sinistra
