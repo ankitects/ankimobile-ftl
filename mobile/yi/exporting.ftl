@@ -1,0 +1,6 @@
+exporting-collection-saved-to-itunes = זאַמלונג אויפֿגעהיטן געוואָרן אין iTunes אַרײַן.
+exporting-export-to-itunes = אַרויספֿירן אַרויס אין iTunes.
+exporting-export-to-share-sheet = אַרויספֿירן אַרויס דורך ״Share Sheet״
+exporting-exporting = אַרויספֿירנדיק זיך…
+exporting-include-media2 = אַרײַננעמען מעדיעס
+exporting-media-files-exported-d = מעדיע-טעקעס אַרויסגעפֿירט: { $count }…
