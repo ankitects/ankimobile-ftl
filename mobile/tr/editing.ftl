@@ -7,9 +7,12 @@ editing-from-camera = Kameradan
 editing-from-file = Dosyadan
 editing-from-photos = Fotoğraftan
 editing-italic = İtalik
+# keyboard shortcut description
 editing-next-cloze = Sıradaki Boşluk Doldurma
 editing-next-field = Sıradaki Alan
 editing-note-deleted = (Not silindi)
 editing-note-suspended = Not askıya alındı
 editing-note-unsuspended = Not askıdan çıkarıldı
+# keyboard shortcut description
 editing-same-cloze = Benzer Boşluk
+editing-discard = vazgeç
