@@ -1,4 +1,4 @@
-custom-study-cant-extend-limits-no-extra = Limitler uzatılamıyor - ekstra kart yok.
+custom-study-cant-extend-limits-no-extra = Sınırlar uzatılamıyor - ekstra kart yok.
 custom-study-exclude-cards-with-tag = Etiketli kartları hariç tut
 custom-study-extra-new-cards = Ekstra yeni kartlar
 custom-study-extra-review-cards = Ekstra gözden geçirme kartları
