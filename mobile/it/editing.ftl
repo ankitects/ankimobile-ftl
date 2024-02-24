@@ -1,5 +1,5 @@
 editing-bold = Grassetto
-editing-cancel-and-lose-any-unsaved-changes = Cancella e perdi ogni modifica non salvata?
+editing-cancel-and-lose-any-unsaved-changes = Annullare e perdere le modifiche non salvate?
 editing-cant-edit-original-image-data = Impossibile editare - immagine originale non trovata.
 editing-card-returned-to-new-card-queue = Carta ritornata alla coda delle carte nuove.
 editing-card-unsuspended = Carta rimossa dalla sospensione

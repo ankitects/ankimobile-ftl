@@ -13,6 +13,6 @@ deck-options-max-reviews-per-day = Numero massimo di ripetizioni giornaliere
 deck-options-new-cards = Carte nuove
 deck-options-options-group = Gruppo di opzioni
 deck-options-replay-q-audio-in-answer = Riproduci di nuovo l'audio della domanda nella risposta
-deck-options-reset-all-settings-to-defaults = Riportare tutte le impostazioni ai valori predefiniti?
+deck-options-reset-all-settings-to-defaults = Ripristinare tutte le impostazioni ai valori predefiniti?
 deck-options-restore-defaults = Ripristina Defaults
 deck-options-steps = Passi
