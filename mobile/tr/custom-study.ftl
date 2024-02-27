@@ -9,5 +9,5 @@ custom-study-max-cards-to-gather = Toplanacak maksimum kart sayısı
 custom-study-preview-all-cards-with-certain-tags = Tüm kartları belirli etiketlerle önizleyin
 custom-study-review-due-cards-with-certain-tags = Belirli etiketlerle son kartları inceleyin
 custom-study-search-matches = Eşleşmeleri ara { $num }
-custom-study-study-type = Çalışma Tipi
+custom-study-study-type = Çalışma Türü
 custom-study-the-selected-options-did-not-match = Seçtiğiniz seçenekler hiçbir kartla eşleşmedi.

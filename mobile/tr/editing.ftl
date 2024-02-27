@@ -12,6 +12,8 @@ editing-next-cloze = Sıradaki Boşluk Doldurma
 editing-next-field = Sıradaki Alan
 editing-note-deleted = (Not silindi)
 editing-note-suspended = Not askıya alındı
+# (Note) type: 
+editing-note-type-prompt = Tür
 editing-note-unsuspended = Not askıdan çıkarıldı
 # keyboard shortcut description
 editing-same-cloze = Benzer Boşluk

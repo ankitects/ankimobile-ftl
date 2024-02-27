@@ -31,7 +31,7 @@ preferences-gamepads = Oyun kumandaları
 preferences-height = Yükseklik
 preferences-huge = Kocaman
 preferences-ignore-fingers = Parmakları Yoksay
-preferences-interrupt-current-audio = Mevcut sesi kes
+preferences-interrupt-current-audio = Geçerli Sesi Kes
 preferences-large = Büyük
 # gamepad
 preferences-left-shoulder = Sol Omuz
