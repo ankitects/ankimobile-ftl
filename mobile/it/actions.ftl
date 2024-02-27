@@ -32,7 +32,7 @@ actions-long-press-on-an-item-to = Tieni premuto su un elemento per modificarlo.
 actions-mark = Contrassegna
 actions-mark-and-bury = Contrassegna + Seppellisci
 actions-mark-and-suspend = Contrassegna + Sospendi
-actions-marked = Contrassegnato
+actions-marked = Contrassegno aggiunto
 actions-no-current-card = Nessuna carta per adesso.
 actions-no-load-restore-backup = Non è stato possibile caricare la tua collezione. Ripristinala da un backup automatico attraverso la schermata delle preferenze.
 # (http://example.com) does not appear to be...
@@ -60,9 +60,9 @@ actions-tools-overlay = Finestra degli Strumenti
 actions-top-bar = Barra Superiore
 actions-unbury-deck = Disseppellisci Mazzo
 actions-undo = Annulla
-actions-unmarked = Non contrassegnato
+actions-unmarked = Contrassegno rimosso
 actions-you-can-only-empty-a-filtered = Puoi svuotare solo un mazzo filtrato.
-actions-you-can-only-rebuild-a-filtered = Puoi solo ricostruire un mazzo filtrato
+actions-you-can-only-rebuild-a-filtered = Puoi ricostruire solo un mazzo filtrato.
 actions-scroll-up = Scorri verso l'alto
 actions-scroll-down = Scorri verso il basso
 
