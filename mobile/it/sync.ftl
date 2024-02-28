@@ -1,5 +1,5 @@
 sync-email-address = Indirizzo email
-sync-login = Login
+sync-login = Accedi
 sync-password = Password
 sync-please-enter-your-ankiweb-details = Inserisci le tue credenziali di accesso per AnkiWeb.
 sync-media-is-syncing = La sincronizzazione dei file multimediali è in corso. Fintanto che non sarà completata, i file audio e le immagini potrebbero non funzionare.
