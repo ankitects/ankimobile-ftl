@@ -1,4 +1,5 @@
 preferences-about = Ü­ber
+preferences-autoplay-in-silent-mode = Autoabspeilen im Nichtstörenmodus
 preferences-answer-keeps-zoom = Zoom-Level auf Antwortseite beibehalten
 preferences-answer-side = Ant­wort­sei­te
 preferences-audio-buttons = Au­dio­knö­pfe
