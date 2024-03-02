@@ -4,6 +4,7 @@ browsing-append = Sonuna Ekle
 browsing-append-negated = Olumsuzlanmış Olarak Sonuna Ekle
 browsing-card-updated = Kart Güncellendi
 browsing-change-flag = Bayrağı Değiştir
+browsing-clear-flag = Bayrağı Kaldır
 browsing-confirm-reset = Sıfırlamayı Onayla
 browsing-dd-selected = { $part }/{ $total } seçili
 browsing-due-dateorder = Son Tarih/Sıra
@@ -23,6 +24,7 @@ browsing-tag = Etiket:
 browsing-column-number = { $number }. Sütun
 browsing-notes-mode = Not Modu
 browsing-sort-backwards = Geriye Doğru Sırala
+browsing-larger-font = Daha Büyük Yazı Tipi
 
 ## OBSOLETE; you do not need to translate.
 

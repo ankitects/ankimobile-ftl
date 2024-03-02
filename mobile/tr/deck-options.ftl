@@ -11,6 +11,7 @@ deck-options-max-new-per-day = Günlük maksimum yeni
 deck-options-max-reviews-per-day = Günlük maksimum gözden geçirme
 deck-options-new-cards = Yeni kartlar
 deck-options-options-group = Seçenekler grubu
+deck-options-replay-q-audio-in-answer = s. sesini cevapta tekrar oynat
 deck-options-reset-all-settings-to-defaults = Tüm ayarlar varsayılanlara sıfırlansın mı?
 deck-options-restore-defaults = Varsayılanları Geri Yükle
 deck-options-steps = Adımlar
