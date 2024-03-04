@@ -118,3 +118,4 @@ actions-undo-short = Undo
 actions-redo-short = Redo
 actions-scroll-up-short = Up
 actions-scroll-down-short = Down
+actions-back = Back
