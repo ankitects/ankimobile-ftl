@@ -118,3 +118,4 @@ actions-undo-short = Annulla
 actions-redo-short = Riprist.
 actions-scroll-up-short = Su
 actions-scroll-down-short = Giù
+actions-back = Indietro
