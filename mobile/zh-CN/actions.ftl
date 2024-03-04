@@ -118,3 +118,4 @@ actions-undo-short = 撤销
 actions-redo-short = 恢复
 actions-scroll-up-short = 向上
 actions-scroll-down-short = 向下
+actions-back = 返回
