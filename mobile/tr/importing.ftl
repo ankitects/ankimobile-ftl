@@ -6,3 +6,4 @@ importing-overwrite-via-import = İçeri aktarılan dosya bütün koleksiyonun �
 importing-please-choose-a-file = Lütfen bir dosya seçin.
 importing-processed-media-files-d = İşlenen medya dosyaları: { $count }...
 importing-replace-collection = Koleksiyonun yerini değiştir
+importing-file-not-downloaded = Lütfen dosyayı iCloud'dan indirin, sonra tekrar içeri aktarın.

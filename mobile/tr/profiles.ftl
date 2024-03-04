@@ -5,3 +5,5 @@ profiles-please-provide-some-text-avoiding-symbols = Lütfen sembol ve alt çizg
 profiles-please-select-another-profile-first = Lütfen önce başka bir profil seçin.
 profiles-profile-name = Profil ismi
 profiles-rename-profile = Profili Yeniden Adlandır
+profiles-unable-to-open-safari-please = Safari açılamadı, lütfen ebeveyn denetimlerini kontrol edin.
+profiles-welcome = Hoş geldiniz!
