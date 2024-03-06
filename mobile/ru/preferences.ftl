@@ -1,5 +1,5 @@
 preferences-about = О приложении
-preferences-always-duck-and-ignore-mute = Игнорировать бесшумный режим
+preferences-autoplay-in-silent-mode = Автоматическое воспроизведение в беззвучном режиме
 preferences-answer-keeps-zoom = Ответ сохраняет масштаб
 preferences-answer-side = Сторона ответа
 preferences-audio-buttons = Кнопки звука
