@@ -3,7 +3,7 @@
 info-plist-camera-usage = Questo permette ad Anki di inserire le immagini della fotocamera nelle tue carte.
 info-plist-mic-usage = Il microfono verrà usato solo quando clicchi il pulsante di registrazione.
 info-plist-photo-usage = Questo permette di mostrare il browser delle foto.
-info-plist-photo-add-usage = L'azione "Aggiungi alle Foto" richiede il tuo permesso.
+info-plist-photo-add-usage = È necessario il permesso per eseguire l'azione "Aggiungi alle Foto".
 
 ## Long-press app icon shortcuts
 
