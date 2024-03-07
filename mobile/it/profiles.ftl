@@ -5,5 +5,5 @@ profiles-please-provide-some-text-avoiding-symbols = Per favore fornisci del tes
 profiles-please-select-another-profile-first = Per favore, seleziona prima un altro profilo.
 profiles-profile-name = Nome del profilo
 profiles-rename-profile = Rinomina il profilo
-profiles-unable-to-open-safari-please = Impossibile aprire Safari - verifica le impostazioni del parental control.
+profiles-unable-to-open-safari-please = Impossibile aprire Safari; verifica le impostazioni del parental control.
 profiles-welcome = Ti do il benvenuto!
