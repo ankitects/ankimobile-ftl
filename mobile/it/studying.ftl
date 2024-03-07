@@ -2,7 +2,7 @@ studying-auto-advance-starting = Avvio dell'avanzamento automatico
 studying-auto-advance-stopped = Interruzione dell'avanzamento automatico
 # ...have (5 cards) ready...
 studying-have-ready-to-study = Hai { $numCards } da studiare.
-studying-please-run-empty-cards-on-the = Per favore, accedi alla versione per computer ed esegui 'Carte vuote'.
+studying-please-run-empty-cards-on-the = Accedere alla versione per computer ed eseguire "Carte vuote".
 studying-replay-card = Ripeti carta
 studying-replay-voice = Riproduci voce
 studying-type-in-the-answer = Scrivi la risposta
