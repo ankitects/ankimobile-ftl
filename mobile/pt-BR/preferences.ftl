@@ -1,5 +1,6 @@
 preferences-about = Sobre
-preferences-always-duck-and-ignore-mute = Sempre Abaixar + Ignorar Mudo
+preferences-autoplay-in-silent-mode = Autoplay em Modo Silencioso
+preferences-always-duck = Sempre Diminuir o Volume do Fundo
 preferences-answer-keeps-zoom = A resposta mantém o Zoom
 preferences-answer-side = Resposta
 preferences-audio-buttons = Botões de áudio
