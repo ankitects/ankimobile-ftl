@@ -1,7 +1,7 @@
 deck-options-add-options-group = Aggiungi gruppo di opzioni
 deck-options-answer-time-cap = Tempo massimo di risposta
 deck-options-bury-related-new-cards = Seppellisci nuove carte collegate
-deck-options-bury-related-reviews = Seppellisci carte collegate da ripassare
+deck-options-bury-related-reviews = Seppellisci carte di ripasso correlate
 deck-options-defaults = Impostazioni predefinite
 deck-options-delete-options-full-sync = Eliminare questo gruppo di opzioni impedirà di incorporare qualsiasi cambiamento da altri dispositivi alla prossima sincronizzazione. Procedere?
 deck-options-display-in-order-added = Mostra in ordine di aggiunta
