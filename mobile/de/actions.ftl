@@ -46,7 +46,7 @@ actions-please-tap-the-in-the = Bitte tippen Sie das '?' oben links an, um loszu
 actions-processing = Verarbeitung läuft …
 actions-record-voice = Stimme aufnehmen
 actions-record-voice-menu = Stimmaufnahme-Menü
-actions-reset-card = Karte resetten
+actions-reset-card = Karte zurücksetzen
 actions-revert = Zurücknehmen
 actions-review-undone = Wiederholung unvollständig
 actions-scratchpad = Notizblock
@@ -63,8 +63,8 @@ actions-undo = Rück­gängig
 actions-unmarked = Nicht gekennzeichnet
 actions-you-can-only-empty-a-filtered = Sie können nur einen Auswahlstapel leeren.
 actions-you-can-only-rebuild-a-filtered = Sie können nur einen Auswahlstapel erneut aufbauen.
-actions-scroll-up = Hochscrollen
-actions-scroll-down = Herunterscrollen
+actions-scroll-up = Nach oben schieben
+actions-scroll-down = Nach unten schieben
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -102,7 +102,7 @@ actions-rebuild-short = Erneuern
 actions-record-voice-short = Aufnehmen
 actions-replay-voice-short = S. ern. abspl.
 actions-replay-audio-short = Erneut abspielen
-actions-reset-card-short = C. resetten
+actions-reset-card-short = C. zurücksetzen
 actions-scratchpad-short = Pad
 actions-scratchpad-size-short = Padgröße
 actions-set-due-date-short = S.Datum
@@ -118,3 +118,4 @@ actions-undo-short = Rückg.
 actions-redo-short = Wiederherstellen
 actions-scroll-up-short = Hoch
 actions-scroll-down-short = Herunter
+actions-back = Rückseite
