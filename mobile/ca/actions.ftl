@@ -118,3 +118,4 @@ actions-undo-short = Desfés
 actions-redo-short = Refés
 actions-scroll-up-short = Amunt
 actions-scroll-down-short = Avall
+actions-back = Enrere
