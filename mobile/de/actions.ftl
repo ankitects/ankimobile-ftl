@@ -118,4 +118,4 @@ actions-undo-short = Rückg.
 actions-redo-short = Wiederherstellen
 actions-scroll-up-short = Hoch
 actions-scroll-down-short = Herunter
-actions-back = Rückseite
+actions-back = Zurück
