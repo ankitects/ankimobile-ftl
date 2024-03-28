@@ -63,8 +63,8 @@ actions-undo = Rück­gängig
 actions-unmarked = Nicht gekennzeichnet
 actions-you-can-only-empty-a-filtered = Sie können nur einen Auswahlstapel leeren.
 actions-you-can-only-rebuild-a-filtered = Sie können nur einen Auswahlstapel erneut aufbauen.
-actions-scroll-up = Nach oben schieben
-actions-scroll-down = Nach unten schieben
+actions-scroll-up = Hochscrollen
+actions-scroll-down = Herunterscrollen
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -102,7 +102,7 @@ actions-rebuild-short = Erneuern
 actions-record-voice-short = Aufnehmen
 actions-replay-voice-short = S. ern. abspl.
 actions-replay-audio-short = Erneut abspielen
-actions-reset-card-short = C. zurücksetzen
+actions-reset-card-short = K.zurücksetzen
 actions-scratchpad-short = Pad
 actions-scratchpad-size-short = Padgröße
 actions-set-due-date-short = S.Datum
