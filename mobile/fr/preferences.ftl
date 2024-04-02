@@ -1,5 +1,4 @@
 preferences-about = À propos
-preferences-always-duck-and-ignore-mute = Toujours jouer l'audio et ignorer la sourdine
 preferences-answer-keeps-zoom = Garder le zoom
 preferences-answer-side = Côté réponse
 preferences-audio-buttons = Boutons audio
@@ -122,3 +121,4 @@ preferences-editing-convert-smart-quotes = Convertir les citations et les tirets
 preferences-editing-crop-camera-photos = Redimensionner les photos de l'appareil photo
 preferences-loop-video = Vidéo en Boucle
 preferences-show-video-controls = Afficher les Commandes de la Vidéo
+preferences-high-quality-video = Vidéo de haute qualité

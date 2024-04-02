@@ -24,6 +24,7 @@ browsing-tag = Étiquette:
 browsing-column-number = Colonne { $number }
 browsing-notes-mode = Mode Notes
 browsing-sort-backwards = Trier à l'envers
+browsing-larger-font = Police plus grande
 
 ## OBSOLETE; you do not need to translate.
 
