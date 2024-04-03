@@ -122,3 +122,5 @@ preferences-editing-crop-camera-photos = Redimensionner les photos de l'appareil
 preferences-loop-video = Vidéo en Boucle
 preferences-show-video-controls = Afficher les Commandes de la Vidéo
 preferences-high-quality-video = Vidéo de haute qualité
+preferences-auto-capitalize = Majuscules automatiques
+preferences-auto-correct = Correction automatique
