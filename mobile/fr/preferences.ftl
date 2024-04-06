@@ -1,4 +1,5 @@
 preferences-about = À propos
+preferences-autoplay-in-silent-mode = Lecture automatique en mode silencieux
 preferences-answer-keeps-zoom = Garder le zoom
 preferences-answer-side = Côté réponse
 preferences-audio-buttons = Boutons audio
