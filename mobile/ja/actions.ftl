@@ -118,3 +118,4 @@ actions-undo-short = 元に戻す
 actions-redo-short = やり直す
 actions-scroll-up-short = 上
 actions-scroll-down-short = 下
+actions-back = 戻る
