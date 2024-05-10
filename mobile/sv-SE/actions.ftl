@@ -1,4 +1,8 @@
+actions-add-new = Lägg Till Ny
+actions-are-you-sure = Är du säker?
 actions-browse = Bläddra
+actions-create = Skapa
+actions-done = Klar
 actions-processing = Behandlar...
 actions-tools = Verktyg
 actions-undo = Ångra
