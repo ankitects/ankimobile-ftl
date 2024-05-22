@@ -118,4 +118,4 @@ actions-undo-short = Desf.
 actions-redo-short = Ref.
 actions-scroll-up-short = Cima
 actions-scroll-down-short = Baixo
-actions-back = Verso
+actions-back = Voltar
