@@ -1,0 +1,9 @@
+importing-delete-imported-file = Видалити імпортований файл?
+importing-import-complete = Імпорт завершено.
+importing-importing = Імпорт...
+importing-no-apkg-or-colpkg-files-were = В iTunes не знайдено файлів .apkg або .colpkg
+importing-overwrite-via-import = Перезаписати всю колекцію імпортованим файлом? Цю дію не можна скасувати.
+importing-please-choose-a-file = Будь ласка виберіть файл.
+importing-processed-media-files-d = Оброблено медіафайлів: { $count }...
+importing-replace-collection = Замінити колекцію
+importing-file-not-downloaded = Будь ласка, завантажте файл з iCloud, а потім імпортуйте його знову.
