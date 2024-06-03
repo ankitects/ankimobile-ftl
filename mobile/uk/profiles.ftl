@@ -1,1 +1,9 @@
+profiles-a-profile-with-that-name-already = Такий профіль вже існує.
+profiles-add-profile = Додати профіль
+profiles-finishing-backup = Завершення резервного копіювання...
+profiles-please-provide-some-text-avoiding-symbols = Будь ласка, надайте трохи тексту, уникаючи символів і підкреслень.
+profiles-please-select-another-profile-first = Спочатку виберіть інший профіль.
+profiles-profile-name = Ім'я профілю
+profiles-rename-profile = Перейменувати профіль
+profiles-unable-to-open-safari-please = Не вдається відкрити Safari – перевірте батьківський контроль.
 profiles-welcome = Ласкаво просимо!
