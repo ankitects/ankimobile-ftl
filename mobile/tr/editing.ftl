@@ -8,7 +8,7 @@ editing-from-file = Dosyadan
 editing-from-photos = Fotoğraftan
 editing-italic = İtalik
 # keyboard shortcut description
-editing-next-cloze = Sıradaki Boşluk Doldurma
+editing-next-cloze = Sıradaki Boşluk
 editing-next-field = Sıradaki Alan
 editing-note-deleted = (Not silindi)
 editing-note-suspended = Not askıya alındı
