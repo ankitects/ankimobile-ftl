@@ -62,7 +62,60 @@ actions-unbury-deck = دەستە يوشۇرما
 actions-undo = يېنىۋال
 actions-unmarked = بەلگە سالما
 actions-you-can-only-empty-a-filtered = پەقەت سۈزگۈچ دەستىنى بوشىتالايسىز.
+actions-you-can-only-rebuild-a-filtered = پەقەت سۈزۈلگەن دەستىنى قايتا قۇرالايسىز.
+actions-scroll-up = ئۈستىگە دومىلات
+actions-scroll-down = ئاستىغا دومىلات
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
 
+# empty filtered deck
+actions-empty-short = بوش
+# create a filtered deck
+actions-filter-short = سۈزگۈچ
+actions-add-short = قوش
+actions-answer-again-short = تەكرار
+actions-answer-easy-short = ئاسان
+actions-answer-good-short = ياخشى
+actions-answer-hard-short = تەس
+actions-auto-advance-short = ئۆزلۈكىدىن كۆرسەت
+actions-bottom-bar-short = ئاستى بالداق
+actions-browse-short = كۆز يۈگۈرت
+actions-bury-card-short = كارتا يوشۇر
+actions-bury-note-short = خاتىرە يوشۇر
+actions-card-info-short = كارتا ئۇچۇرى
+actions-card-template-short = قېلىپ
+actions-current-audio-minus-5s-short = -5سېكۇنت
+actions-current-audio-plus-5s-short = +5سېكۇنت
+actions-custom-study-short = ئىختىيارى
+actions-deck-statistics-short = دەستە ئىستاتىستىكا
+actions-decks-short = دەستە
+actions-delete-note-short = ئۆچۈر
+actions-edit-short = تەھرىر
+actions-mark-and-bury-short = بەلگە سېلىپ يوشۇر
+actions-mark-and-suspend-short = بەلگە سېلىپ كېچىكتۈر
+actions-mark-short = بەلگە
+actions-night-mode-short = كېچە
+actions-off-short = تاقاق
+actions-pause-audio-short = ۋاقىتلىق توختات
+actions-rebuild-short = قايتا قۇر
+actions-record-voice-short = ئۈنگە ئال
+actions-replay-voice-short = قايتا قوي
+actions-replay-audio-short = قايتا قوي
+actions-reset-card-short = كارتىنى ئەسلىگە قايتۇر
+actions-scratchpad-short = تېز خاتىرە دەپتەر
+actions-scratchpad-size-short = تېز خاتىرە دەپتەر چوڭلۇقى
+actions-set-due-date-short = مۆھلەت تەڭشەك
+actions-show-answer-short = جاۋاب
+actions-show-answeranswer-good-short = كۆرسەت/جاۋاب
+actions-study-options-short = تاللانما
+actions-suspend-card-short = كارتا كېچىكتۈر
+actions-suspend-note-short = خاتىرە كېچىكتۈر
+actions-tools-short = قورال
+actions-top-bar-short = قورال بالداق
+actions-unbury-deck-short = يوشۇرما
+actions-undo-short = يېنىۋال
+actions-redo-short = قايتىلا
+actions-scroll-up-short = ئۈستى
+actions-scroll-down-short = ئاستى
+actions-back = قايت
