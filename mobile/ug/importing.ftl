@@ -1,0 +1,9 @@
+importing-delete-imported-file = ئەكىرگەن ھۆججەتنى ئۆچۈرەمدۇ؟
+importing-import-complete = ئەكىرىش تامام.
+importing-importing = ئەكىرىۋاتىدۇ…
+importing-no-apkg-or-colpkg-files-were = iTunes دا .apkg ياكى .colpkg ھۆججىتى تېپىلمىدى
+importing-overwrite-via-import = ئەكىرگەن ھۆججەت بىلەن پۈتكۈل توپلامنى قاپلىۋېتەمدۇ؟ بۇ مەشغۇلاتنى كەينىگە ياندۇرغىلى بولمايدۇ.
+importing-please-choose-a-file = بىر ھۆججەت تاللاڭ.
+importing-processed-media-files-d = بىر تەرەپ قىلىنغان ۋاسىتە ھۆججىتى: { $count }…
+importing-replace-collection = توپلامنى ئالماشتۇر
+importing-file-not-downloaded = ھۆججەتنى iCloud تىن چۈشۈرۈپ ئاندىن قايتا ئەكىرىڭ.

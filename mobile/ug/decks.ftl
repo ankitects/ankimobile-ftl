@@ -25,3 +25,5 @@ decks-sync = قەدەمداش
 decks-synchronize = قەدەمداش توپلىمى
 decks-the-default-deck-cannot-be-deleted = كۆڭۈلدىكى دەستەنى ئۆچۈرگىلى بولمايدۇ.
 decks-the-provided-deck-does-not-exist = تەمىنلەنگەن دەستە مەۋجۇت ئەمەس.
+decks-the-search-you-provided-did-not = تەمىنلىگەن ئىزدەش شەرتىڭىزگە ھېچقانداق كارتا ماس كەلمىدى.
+decks-will-be-returned = كارتىغا جاۋاب بەرگەندىن كېيىن ئەسلىدىكى دەستەسىگە قايتۇرۇلىدۇ.
