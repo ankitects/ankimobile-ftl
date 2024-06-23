@@ -26,6 +26,14 @@ actions-draw = سىز
 actions-file-invalid-or-corrupt = ھۆججەت ئىناۋەتسىز ياكى بۇزۇلغان.
 actions-filtercram = سۈزگۈچ/ئىمتىھان تەييارلىق
 actions-filtered-deck = سۈزۈلگەن دەستە { $num }
+actions-frequent-actions = كۆپ ئىشلىتىدىغان مەشغۇلات
+actions-leave-without-saving = ساقلىماي ئايرىلامدۇ؟
+actions-long-press-on-an-item-to = خاسلاشتۇرۇشتا تۈر ئۇزۇن بېسىلىدۇ.
+actions-mark = بەلگە
+actions-mark-and-bury = بەلگە+يوشۇر
+actions-mark-and-suspend = بەلگە+كېچىكتۈر
+actions-marked = بەلگە سېلىندى
+actions-no-current-card = نۆۋەتتە كارتا يوق.
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
