@@ -34,6 +34,34 @@ actions-mark-and-bury = بەلگە+يوشۇر
 actions-mark-and-suspend = بەلگە+كېچىكتۈر
 actions-marked = بەلگە سېلىندى
 actions-no-current-card = نۆۋەتتە كارتا يوق.
+actions-no-load-restore-backup = توپلىمىڭىزنى يۈكلىيەلمەيدۇ. تەڭشەك › زاپاستىن سانلىق مەلۇماتنى ئەسلىگە كەلتۈرۈڭ.
+# (http://example.com) does not appear to be...
+actions-not-valid-link = ئىناۋەتلىك http/https ئۇلانمىسى ئەمەستەك قىلىدۇ.
+actions-note-and-its-cards-deleted = خاتىرە ۋە ئۇنىڭ { $count } كارتىسى ئۆچۈرۈلدى
+actions-note-and-its-cards-suspended = خاتىرە ۋە ئۇنىڭ { $count } كارتىسى كېچىكتۈرۈلدى
+actions-note-buried = خاتىرە يوشۇرۇلدى
+actions-note-marked-and-buried = خاتىرىگە بەلگە سېلىنىپ يوشۇرۇلدى
+actions-off = تاقاق
+actions-please-tap-the-in-the = سول چوققىدىكى «?» نى چېكىپ باشلاڭ.
+actions-processing = بىر تەرەپ قىلىۋاتىدۇ…
+actions-record-voice = ئۈنگە ئال
+actions-record-voice-menu = ئۈنگە ئېلىش تىزىملىكى
+actions-reset-card = كارتىنى ئەسلىگە قايتۇر
+actions-revert = ئەسلىگە كەلتۈر
+actions-review-undone = تەكرارلاشتىن يېنىۋالدى
+actions-scratchpad = تېز خاتىرە دەپتەر
+actions-scratchpad-size = تېز خاتىرە دەپتەر چوڭلۇقى
+actions-select-deck = دەستە تاللا
+actions-select-note-type = خاتىرە تۈرى تاللا
+actions-show-answeranswer-good = جاۋاب كۆرسەت/جاۋابى ياخشى
+actions-study-options = ئۆگىنىش تاللانمىسى
+actions-tools = قورال
+actions-tools-overlay = قورال قاپلاش
+actions-top-bar = چوققا بالداق
+actions-unbury-deck = دەستە يوشۇرما
+actions-undo = يېنىۋال
+actions-unmarked = بەلگە سالما
+actions-you-can-only-empty-a-filtered = پەقەت سۈزگۈچ دەستىنى بوشىتالايسىز.
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
