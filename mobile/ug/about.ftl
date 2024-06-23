@@ -3,3 +3,5 @@ about-license-text = AnkiMobile نى { $link } ئاساسىدا قۇرغان، �
 about-please-see = تەپسىلىي ئۇچۇرىنى { $link } دىن كۆرۈڭ.
 about-some-thirdparty-libraries = بەزى ئۈچىنچى تەرەپ ئامبارلار
 about-thanks-contributors = تەرجىمە قىلغان، كەمتۈك دوكلاتى يوللىغان ۋە تەكلىپ بەرگەنلەرنىڭ ھەممىسىگە كۆپتىن كۆپ تەشەككۈر.
+about-thanks-for-support = AnkiMobile نى سېتىۋالغانلىقىڭىزغا رەھمەت! Anki نىڭ تەرەققىياتى قوللىشىڭىزدىن ئايرىلالمايدۇ شۇڭا كۆپ تەشەككۈر.
+about-the-anki-homepage = Anki باش بېتى
