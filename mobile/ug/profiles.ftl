@@ -1,0 +1,9 @@
+profiles-a-profile-with-that-name-already = بۇ ئاتتىكى تەرجىمىھال مەۋجۇت.
+profiles-add-profile = تەرجىمىھال قوش
+profiles-finishing-backup = زاپاسلاشنى تاماملاۋاتىدۇ…
+profiles-please-provide-some-text-avoiding-symbols = ئازراق تېكىس تەمىنلەڭ، بەلگە ۋە ئاستى سىزىق ئىشلىتىشتىن ساقلىنىڭ.
+profiles-please-select-another-profile-first = ئالدى بىلەن باشقا بىر سەپلىمىنى تاللاڭ.
+profiles-profile-name = سەپلىمە ئاتى
+profiles-rename-profile = سەپلىمە ئاتىنى ئۆزگەرت
+profiles-unable-to-open-safari-please = Safari نى ئاچالمىدى - ئاتا-ئانا تىزگىنىنى تەكشۈرۈڭ.
+profiles-welcome = خۇش كەلدىڭىز!

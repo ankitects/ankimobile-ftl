@@ -103,3 +103,29 @@ preferences-theme-dark-translucent = قاراڭغۇ يېرىم سۈزۈك
 preferences-theme-force-off = مەجبۇرىي تاقا
 preferences-theme-force-on = مەجبۇرىي ئاچ
 preferences-theme-light-translucent = يورۇق يېرىم سۈزۈك
+preferences-theme-night-mode-desc = قاراڭغۇ ھالەتتە ئارايۈز قاراڭغۇلىشىدۇ، كارتا تەگلىكى قارا خېتى ئاق كۆرۈنىدۇ.
+preferences-theme-night-mode-same-as-system = سىستېمىغا ئەگەش
+preferences-theme-slate = توق كۈلرەڭ
+preferences-thick = قېلىن
+preferences-tools-overlay-button = قورال قاپلاش توپچە
+preferences-tools-overlay-position = قورال قاپلاش ئورنى
+preferences-top-center = چوققا ئوتتۇرا
+preferences-top-left = سول چوققا
+preferences-top-right = ئوڭ چوققا
+preferences-undo-clears-all = يېنىۋال ھەممىنى تازىلا
+preferences-when-answer-shown = جاۋابنى كۆرسەتكەندە
+preferences-when-question-shown = سوئالنى كۆرسەتكەندە
+preferences-you-have-been-logged-out = تىزىمدىن چىقتىڭىز.
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = ئەڭ چوڭ سۈرەت چوڭلۇقى (ئۇزۇن تەرەپ)
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = چاپلىغاندا سۈرەت چوڭلۇقىنى تەڭشە
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = تىرناق ۋە سىزىقنى ئۆزلۈكىدىن ئالماشتۇر
+preferences-editing-crop-camera-photos = كامېرا سۈرىتىنى قايچىلا
+preferences-loop-video = سىننى تەكرارلا
+preferences-show-video-controls = سىن كونترولىنى كۆرسەت
+preferences-high-quality-video = يۇقىرى سۈپەتلىك سىن
+preferences-auto-capitalize = جۈملە بېشىدىكى ھەرپنى چوڭ ھەرپكە ئۆزلۈكىدىن ئالماشتۇرىدۇ
+preferences-auto-correct = ئۆزلۈكىدىن تۈزەت
+preferences-strip-hebrew-vowels = ئىبرانىيچە سوزۇق تاۋۇشنى چىقىرىۋەت
