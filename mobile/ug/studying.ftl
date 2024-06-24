@@ -4,3 +4,6 @@ studying-auto-advance-stopped = كارتىنى ئۆزلۈكىدىن كۆرسىت
 studying-have-ready-to-study = { $numCards } ئۆگىنىشىڭىزگە تەييارلاندى.
 studying-please-run-empty-cards-on-the = كومپيۇتېر نەشرىدە كارتىنى بوشات ئىقتىدارىنى ئىجرا قىلىڭ.
 studying-replay-card = كارتىنى تەكرار قوي
+studying-replay-voice = ئۈننى تەكرار قوي
+studying-type-in-the-answer = جاۋاب كىرگۈزۈلىدۇ
+studying-please-use-record-voice-first = ئالدى بىلەن ئۈنگە ئېلىش مەشغۇلاتىنى ئىشلىتىڭ
