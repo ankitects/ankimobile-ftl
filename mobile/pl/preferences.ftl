@@ -1,5 +1,6 @@
 preferences-about = O aplikacji
 preferences-autoplay-in-silent-mode = Odtwarzaj automatycznie w trybie cichym.
+preferences-always-duck = Wyciszaj dźwięk z innych aplikacji
 preferences-answer-keeps-zoom = Odpowiedź zachowuje przybliżenie
 preferences-answer-side = Strona z odpowiedzią
 preferences-audio-buttons = Przyciski dźwięku
@@ -29,6 +30,7 @@ preferences-collection-reviews-first = Najpierw powtórki
 preferences-double-tap-prevention = Zapobieg. podw. dotknięciu
 preferences-drawing-screen-ignores-fingers = Ignoruj palce na ekranie rysowania
 preferences-feedback-ticks = Znak wyboru po odpowiedzi
+preferences-spread-ticks = Znaki wyboru w różnych miejscach w zależności od odpowiedzi
 preferences-fine = Cienkie
 preferences-force-sync-confirm = Wymusić jednokierunkową synchronizację? Wszystkie zmiany dokonane po jednej ze stron zostaną utracone.
 preferences-full-sync = Pełna synchronizacja
