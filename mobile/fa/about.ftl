@@ -1,4 +1,4 @@
-about-anki-written-by = آنکی‌موبایل را دِیمین اِلمز و ریچارد اسمیت بر اساس نسخۀ رایانه‌ای آنکی خلق نموده‌اند. نسخۀ رایانه‌ای آنکی ساختۀ دیمین است.
+about-anki-written-by = AnkiMobile توسط Damien Elmes و Richard Smith و بر اساس نسخۀ کامپیوتر آنکی نوشته شده است.
 about-license-text = AnkiMobile با استفاده از { $link } که توسط توسعه دهندگان به اشتراک گذاشته شده، ساخته شده است.
 about-please-see = لطفاً برای اطلاعات بیشتر به { $link } مراجعه کنید.
 about-some-thirdparty-libraries = بعضی از مجموعه‌های دیگر
