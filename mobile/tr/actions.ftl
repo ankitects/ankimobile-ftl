@@ -118,3 +118,4 @@ actions-undo-short = Geri al
 actions-redo-short = Yeniden yap
 actions-scroll-up-short = Yukarı
 actions-scroll-down-short = Aşağı
+actions-back = geri
