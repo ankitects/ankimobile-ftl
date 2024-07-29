@@ -1,5 +1,5 @@
 preferences-about = Acerca de
-preferences-always-duck-and-ignore-mute = Esquivar Siempre + Ignorar Silencio
+preferences-autoplay-in-silent-mode = reproducción automática en modo silencioso
 preferences-answer-keeps-zoom = La respuesta manitene el zoom
 preferences-answer-side = Anverso
 preferences-audio-buttons = Botones de audio
@@ -122,3 +122,4 @@ preferences-editing-convert-smart-quotes = Convertir comillas y guiones intelige
 preferences-editing-crop-camera-photos = Recortar fotos de la cámara
 preferences-loop-video = Vídeo en bucle
 preferences-show-video-controls = Mostrar los controles de reproducción
+preferences-auto-correct = Corrector ortográfico

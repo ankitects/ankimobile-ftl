@@ -6,3 +6,4 @@ importing-overwrite-via-import = ¿Quieres sobrescribir la colección completa c
 importing-please-choose-a-file = Por favor, elije un archivo.
 importing-processed-media-files-d = Archivos multimedia procesados: { $count }...
 importing-replace-collection = Reemplazar colección
+importing-file-not-downloaded = Por favor, descargue el archivo desde iCloud, luego impórtelo de nuevo.
