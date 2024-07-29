@@ -1,6 +1,6 @@
 preferences-about = Ankiについて
 preferences-autoplay-in-silent-mode = サイレントモードでも音声を自動再生
-preferences-always-duck = 他アプリの音（BGMなど）の音量を抑制
+preferences-always-duck = 他アプリの音（BGMなど）の音量を常時抑制
 preferences-answer-keeps-zoom = 解答表示の際に画面拡大を維持
 preferences-answer-side = 解答側
 preferences-audio-buttons = 音声再生ボタンを表示
