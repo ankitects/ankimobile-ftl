@@ -1,7 +1,7 @@
 deck-options-add-options-group = Adicionar Grupo de Opções
 deck-options-answer-time-cap = Limite de tempo de resposta
 deck-options-bury-related-new-cards = Ocultar novos cartões relacionados
-deck-options-bury-related-reviews = Ocultar comentários relacionados
+deck-options-bury-related-reviews = Ocultar revisões relacionadas
 deck-options-defaults = Padrões
 deck-options-delete-options-full-sync = A exclusão deste grupo de opções impedirá que quaisquer alterações sejam mescladas de outros dispositivos na próxima sincronização. Continuar?
 deck-options-display-in-order-added = Exibir na ordem de inclusão
