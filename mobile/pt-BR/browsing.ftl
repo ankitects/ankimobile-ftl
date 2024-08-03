@@ -3,8 +3,8 @@ browsing-append = Anexar
 # add current row to existing search, with a '-' at the start to reverse it
 browsing-append-negated = Anexo Negado
 browsing-card-updated = Cartão Atualizada
-browsing-change-flag = Alterar Emblema
-browsing-clear-flag = Limpar Emblema
+browsing-change-flag = Alterar Bandeira
+browsing-clear-flag = Limpar Bandeira
 browsing-confirm-reset = Confirmar Redefinição
 browsing-dd-selected = { $part }/{ $total } selecionado
 browsing-due-dateorder = Data de Vencimento/Pedido
