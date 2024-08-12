@@ -1,0 +1,9 @@
+importing-delete-imported-file = אָפּמעקן אַרײַנגעפֿירטע טעקע?
+importing-import-complete = אַרײַנפֿיר פֿאַרענדיקט.
+importing-importing = אַרײַנפֿירנדיק זיך…
+importing-no-apkg-or-colpkg-files-were = קיין .apkg אָדער .colpkg טעקע איז נישט געפֿונען געוואָרן אין iTunes
+importing-overwrite-via-import = פֿאַרבײַטן גאַנצע זאַמלונג מיט אַרײַנגעפֿירטע טעקע? די טוּונג קען נישט ווערן צוריקגעטאָן.
+importing-please-choose-a-file = קלײַב אויס אַ טעקע.
+importing-processed-media-files-d = מעדיע-טעקעס פּראָצעסירט: { $count }…
+importing-replace-collection = פֿאַרבײַטן זאַמלונג
+importing-file-not-downloaded = לאָד אַראָפּ די טעקע פֿון iCloud, דערנאָך פֿיר זי אַרײַן אויף ס׳נײַ
