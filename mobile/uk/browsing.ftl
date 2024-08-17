@@ -1,14 +1,14 @@
 # add current row to existing search
 browsing-append = Додати
 # add current row to existing search, with a '-' at the start to reverse it
-browsing-append-negated = Додати спростоване
+browsing-append-negated = Додати заперечення
 browsing-card-updated = Картку оновлено
-browsing-change-flag = Змінити прапор
-browsing-clear-flag = Очистити прапор
-browsing-confirm-reset = Підтвердьте Скидання
-browsing-dd-selected = { $part }/{ $total } вибрано
-browsing-due-dateorder = Дата виконання/замовлення
-browsing-due-reviews = Належні огляди
+browsing-change-flag = Змінити прапорець
+browsing-clear-flag = Очистити прапорець
+browsing-confirm-reset = Підтвердьте забуття
+browsing-dd-selected = Вибрано { $part }/{ $total }
+browsing-due-dateorder = Дата пригадування/порядок
+browsing-due-reviews = Очікувані пригадування
 browsing-learning-cards = Навчальні картки
 browsing-no-cards-are-selected = Не вибрано жодної картки/нотатки.
 browsing-note-created = Нотатку створено
