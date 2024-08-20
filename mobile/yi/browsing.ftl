@@ -3,6 +3,10 @@ browsing-append = צוהענגען
 # add current row to existing search, with a '-' at the start to reverse it
 browsing-append-negated = צוהענג בטל געמאַכט
 browsing-card-updated = קאַרטל דערהײַנטיקט
+browsing-change-flag = איבערבײַטן סימן
+browsing-clear-flag = אָפּמעקן סימן
+browsing-confirm-reset = באַשטעטיקן אײַנשטעלן אויף ס׳נײַ
+browsing-dd-selected = { $part }/{ $total } אויסגעקליבן
 browsing-due-dateorder = טערמין/סדר
 browsing-due-reviews = טערמיניקע חזר-קאַרטלעך
 browsing-learning-cards = לערן-קאַרטלעך

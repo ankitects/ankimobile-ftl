@@ -28,6 +28,7 @@ actions-file-invalid-or-corrupt = טעקע איז פּסול אָדער קאָר
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
 
+actions-auto-advance-short = אויטאָ-אַדוו
 actions-bottom-bar-short = אונט.באַל
 actions-browse-short = דורכקוקן
 actions-bury-card-short = אָפּהאַל.ק
