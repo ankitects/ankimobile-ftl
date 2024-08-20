@@ -6,4 +6,4 @@ importing-overwrite-via-import = פֿאַרבײַטן גאַנצע זאַמלו�
 importing-please-choose-a-file = קלײַב אויס אַ טעקע.
 importing-processed-media-files-d = מעדיע-טעקעס פּראָצעסירט: { $count }…
 importing-replace-collection = פֿאַרבײַטן זאַמלונג
-importing-file-not-downloaded = לאָד אַראָפּ די טעקע פֿון iCloud, דערנאָך פֿיר זי אַרײַן אויף ס׳נײַ
+importing-file-not-downloaded = לאָד אַראָפּ די טעקע פון iCloud, דערנאָך פֿיר זי אַרײַן אויף ס׳נײַ

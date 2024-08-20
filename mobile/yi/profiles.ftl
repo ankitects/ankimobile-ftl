@@ -1,4 +1,4 @@
-profiles-a-profile-with-that-name-already = ס׳ איז שוין פֿאַראַן אַ פּראָפֿיל פֿון אַזאַ נאָמען.
+profiles-a-profile-with-that-name-already = ס׳ איז שוין פֿאַראַן אַ פּראָפֿיל פון אַזאַ נאָמען.
 profiles-add-profile = צושטעלן פּראָפֿיל
 profiles-finishing-backup = ס׳ווערט פֿאַרענדיקט רעזערוו-קאָפּיע…
 profiles-please-provide-some-text-avoiding-symbols = ביטע שטעל צו עפּעס טעקסט, אָן קיין סימבאָל אָדער אונטערשטריך.
