@@ -23,7 +23,7 @@ actions-done = געמאַכט
 actions-downloading = אַראָפּלאָדנדיק…
 actions-drag-here-to-remove = צושלעפּ אַהער אויף אָפּצונעמען
 actions-draw = סקיצירן
-actions-file-invalid-or-corrupt = טעקע איז פּסול אָדער קאָרומפּירט
+actions-file-invalid-or-corrupt = טעקע איז פּסול אָדער געשעדיקט.
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
