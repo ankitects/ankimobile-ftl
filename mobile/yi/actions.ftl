@@ -20,10 +20,12 @@ actions-deck-statistics = טעשל-דאַטן
 actions-delete-note-and-its-cards = אויסמעקן נאָטיץ און אירע קאַרטלעך?
 actions-discard-changes = אַוועקוואַרפֿן בײַטן
 actions-done = געמאַכט
-actions-downloading = אַראָפּלאָדנדיק…
+actions-downloading = אַראָפּלאָדנט זיך…
 actions-drag-here-to-remove = צושלעפּ אַהער אויף אָפּצונעמען
 actions-draw = סקיצירן
 actions-file-invalid-or-corrupt = טעקע איז פּסול אָדער געשעדיקט.
+actions-no-load-restore-backup = אײַער זאַמלונג האָט נישט געקענט לאָדירט ווערן. ביטע צוריקציט פֿון אַן אויטאָמאַטיש רעזערוו-קאָפּיע דורך די אויסוואַלן עקראַן.
+actions-revert = צוריקציִען
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.

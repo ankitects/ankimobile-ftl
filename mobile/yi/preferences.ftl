@@ -1,8 +1,16 @@
-preferences-about = וועגן
+preferences-about = מכּוח
 preferences-auto-advance-answer-action = ענטפֿער טוּונג
 preferences-auto-advance-answer-seconds = ענטפֿער סעקונדעס
 preferences-auto-advance-auto-advance-to-start = כּדי אָנצוהייבן פֿאָרויסגיין אויטאָמאַטיק, ניץ די 'אויטאָ-פֿאָראויסגיין' טוּונג.
 preferences-auto-advance-do-nothing = גאָרנישט מאַכן
 preferences-auto-advance-question-seconds = פֿראַגע סעקונדעס
+preferences-backup-revert-to-backup = צוריקציִען אין אַ רעזערוו-קאָפּיע
+preferences-backup-revert-to-backup-confirm = צוריקציִען אין { $backup }? יעדער בײַט זינט דער רעזערוו-קאָפּיע וועט פֿאַרלוירן ווערן.
+preferences-backup-reverted-to-backup = צוריקגעצויגן אין דער רעזערוו-קאָפּיע.
 preferences-bottom-bar-size = אונטנבאַלקן-גרייס
+preferences-left = לינקס
 preferences-show-bottom-bar = באַווײַזן אונטנבאַלקן
+preferences-small = קליין
+preferences-syncing = סיכראָניזירן
+preferences-you-have-been-logged-out = האָסט זיך אַרויסגעשריבן.
+preferences-strip-hebrew-vowels = אַרויסוואַרפֿן נקודים
