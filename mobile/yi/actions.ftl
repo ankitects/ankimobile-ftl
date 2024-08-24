@@ -26,6 +26,7 @@ actions-draw = סקיצירן
 actions-file-invalid-or-corrupt = טעקע איז פּסול אָדער געשעדיקט.
 actions-no-load-restore-backup = אײַער זאַמלונג האָט נישט געקענט לאָדירט ווערן. ביטע צוריקציט פֿון אַן אויטאָמאַטיש רעזערוו-קאָפּיע דורך די אויסוואַלן עקראַן.
 actions-revert = צוריקציִען
+actions-unbury-deck = צוריקנעמען טעשל
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -48,6 +49,7 @@ actions-mark-short = צײַכ.
 actions-night-mode-short = נאַכט
 actions-off-short = אויס
 actions-tools-short = מכשירים
+actions-unbury-deck-short = צ.נעמ
 actions-undo-short = אַנולירן
 actions-redo-short = איבערמאַכן
 actions-scroll-up-short = אַרויף
