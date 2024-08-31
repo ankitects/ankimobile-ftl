@@ -6,3 +6,4 @@ importing-overwrite-via-import = بازنویسی همۀ مجموعه با اس�
 importing-please-choose-a-file = لطفاً یک فایل را انتخاب کنید.
 importing-processed-media-files-d = فایل‌های رسانه پردازش شد: { $count }...
 importing-replace-collection = تغییر مجموعه
+importing-file-not-downloaded = لطفاً فایل را از iCloud دانلود کنید، سپس دوباره آن را وارد کنید.
