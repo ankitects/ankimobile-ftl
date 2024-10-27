@@ -1,7 +1,7 @@
 deck-options-add-options-group = 新增選項群組
 deck-options-answer-time-cap = 回答時限
-deck-options-bury-related-new-cards = 暫停關聯的新卡片
-deck-options-bury-related-reviews = 暫停關聯的複習卡
+deck-options-bury-related-new-cards = 推遲關聯的新卡片
+deck-options-bury-related-reviews = 推遲關聯的複習卡
 deck-options-defaults = 預設
 deck-options-delete-options-full-sync = 刪除這個選項群組後，下一次同步時將無法合併其他裝置上的更動。要繼續嗎？
 deck-options-display-in-order-added = 依新增順序顯示
