@@ -6,4 +6,4 @@ studying-please-run-empty-cards-on-the = Bitte führen Sie die Aktion \"Leere Ka
 studying-replay-card = Karte erneut abspielen
 studying-replay-voice = Stimme erneut abspielen
 studying-type-in-the-answer = Antwort eintippen
-studying-please-use-record-voice-first = Bitte benutzen Sie zuerst die Aktion Stimme aufnehmen.
+studying-please-use-record-voice-first = Bitte benutzen Sie zuerst die Aktion „Stimme aufnehmen“.
