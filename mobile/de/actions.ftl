@@ -37,8 +37,8 @@ actions-no-current-card = Keine aktuelle Karte.
 actions-no-load-restore-backup = Ihre Sammlung konnte nicht geladen werden. Bitte stellen Sie eine Sicherungskopie über die Einstellungen wieder her.
 # (http://example.com) does not appear to be...
 actions-not-valid-link = scheint kein gültiger http/https-Link zu sein.
-actions-note-and-its-cards-deleted = Notiz und ihre { $count } Karten gelöscht
-actions-note-and-its-cards-suspended = Notiz und ihre { $count } Karte(n) ausgeschlossen
+actions-note-and-its-cards-deleted = Notiz und ihre { $count } Karten gelöscht
+actions-note-and-its-cards-suspended = Notiz und ihre { $count } Karte(n) ausgeschlossen
 actions-note-buried = Notiz zurückgestellt
 actions-note-marked-and-buried = Notiz gekennzeichnet und zurückgestellt
 actions-off = Aus
