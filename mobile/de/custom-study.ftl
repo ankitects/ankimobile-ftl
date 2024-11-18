@@ -1,3 +1,4 @@
+# any tag
 custom-study-any-tag = irgendwelche
 custom-study-available = { $num } ver­füg­bar
 custom-study-cant-extend-limits-no-extra = Der Grenzwert kann nicht erhöht werden - keine weiteren Karten verfügbar.
@@ -10,7 +11,8 @@ custom-study-extra-review-cards = Zusätzliche Wiederholungskarten
 custom-study-include-cards-with-tag = Einschließlich Karten mit Schlagwort
 custom-study-learn-new-cards-with-certain-tags = Neue Karten mit bestimmten Schlagwörtern lernen
 custom-study-loading = Daten werden geladen …
-custom-study-max-cards-to-gather = Max. Karten zum Erfassen
+custom-study-max-cards-to-gather = Max. Karten zum Einsammeln
+# no tags selected
 custom-study-no-tags = keine
 custom-study-no-tags-available = keine Schlagwörter verfügbar
 custom-study-preview-all-cards-with-certain-tags = Vorschau aller Karten mit bestimmten Schlagwörtern
