@@ -1,7 +1,7 @@
 # any tag
 custom-study-any-tag = irgendwelche
 custom-study-available = { $num } ver­füg­bar
-custom-study-cant-extend-limits-no-extra = Der Grenzwert kann nicht erhöht werden - keine weiteren Karten verfügbar.
+custom-study-cant-extend-limits-no-extra = Der Tageshöchstwert kann nicht erhöht werden - keine weiteren Karten verfügbar.
 custom-study-cram-seen-cards-with-certain-tags = Angeschaute Karten mit bestimmten Schlagwörtern pauken
 custom-study-days-to-look-ahead = Tage in Vorausschau
 custom-study-days-to-look-back = Tage in Rückschau
