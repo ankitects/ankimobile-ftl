@@ -1,6 +1,6 @@
 deck-options-add-options-group = Op­tio­nen­grup­pe hin­zu­fü­gen
 deck-options-answer-time-cap = Ant­wort­zeit­be­gren­zung
-deck-options-bury-related-new-cards = Verwandte Karten bis zum nächsten Tag zurückstellen
+deck-options-bury-related-new-cards = Verwandte neue Karten bis zum nächsten Tag zurückstellen
 deck-options-bury-related-reviews = Verwandte Wiederholungskarten zurückstellen
 deck-options-defaults = Standardeinstellungen
 deck-options-delete-options-full-sync = Das Löschen dieser Optionengruppe wird verhindern, dass Änderungen von anderen Geräten bei der Synchronisierung zusammengeführt werden können. Möchten Sie fortfahren?
