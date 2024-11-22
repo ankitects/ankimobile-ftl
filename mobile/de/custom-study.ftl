@@ -19,4 +19,4 @@ custom-study-preview-all-cards-with-certain-tags = Vorschau aller Karten mit bes
 custom-study-review-due-cards-with-certain-tags = Fällige Karten wiederholen mit bestimmten Schlagwörtern
 custom-study-search-matches = Nach Übereinstimmungen mit { $num } suchen
 custom-study-study-type = Lerntyp
-custom-study-the-selected-options-did-not-match = Die ausgewählten Optionen stimmen mit keiner Karte überein.
+custom-study-the-selected-options-did-not-match = Die ausgewählten Einstellungen stimmen mit keiner Karte überein.
