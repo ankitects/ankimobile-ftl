@@ -1,7 +1,7 @@
 deck-options-add-options-group = Stapelprofil hin­zu­fü­gen
 deck-options-answer-time-cap = Ant­wort­zeit­be­gren­zung
-deck-options-bury-related-new-cards = Geschwisterkarten mit Status „Neu“ zurückstellen
-deck-options-bury-related-reviews = Geschwisterkarten mit Status „Wiederholung“ zurückstellen
+deck-options-bury-related-new-cards = Geschwisterkarten mit Status „Neu“ aufschieben
+deck-options-bury-related-reviews = Geschwisterkarten mit Status „Wiederholung“ aufschieben
 deck-options-defaults = Standardeinstellungen
 deck-options-delete-options-full-sync = Das Löschen dieses Stapelprofils wird verhindern, dass Änderungen von anderen Geräten bei der Synchronisierung zusammengeführt werden können. Möchten Sie fortfahren?
 deck-options-display-in-order-added = In der Reihenfolge anzeigen, wie sie hinzufügt wurden
