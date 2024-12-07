@@ -3,8 +3,8 @@ browsing-append = An­fügen
 # add current row to existing search, with a '-' at the start to reverse it
 browsing-append-negated = An­fü­gen und um­keh­ren
 browsing-card-updated = Karte aktualisiert
-browsing-change-flag = Markierung ändern
-browsing-clear-flag = Markierung aufheben
+browsing-change-flag = Flagge ändern
+browsing-clear-flag = Flagge entfernen
 browsing-confirm-reset = Zurücksetzen bestätigen
 browsing-dd-selected = { $part }/{ $total } aus­ge­wählt
 browsing-due-dateorder = Fälligkeitsdatum/-reihenfolge
