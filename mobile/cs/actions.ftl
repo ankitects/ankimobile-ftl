@@ -17,3 +17,21 @@ actions-undo = Zpět
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
 
+# empty filtered deck
+actions-empty-short = Prázdné
+# create a filtered deck
+actions-filter-short = Filtrovat
+actions-add-short = Přidat
+actions-answer-again-short = Znovu
+actions-answer-easy-short = Snadné
+actions-answer-good-short = Dobré
+actions-answer-hard-short = Těžké
+actions-browse-short = Prohlížet
+actions-current-audio-minus-5s-short = -5s
+actions-current-audio-plus-5s-short = +5s
+actions-decks-short = Balíčky
+actions-delete-note-short = Smazat
+actions-edit-short = Upravit
+actions-mark-short = Označit
+actions-scroll-up-short = Nahoru
+actions-scroll-down-short = Dolů
