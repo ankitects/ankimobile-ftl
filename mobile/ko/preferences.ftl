@@ -1,5 +1,4 @@
 preferences-about = 정보
-preferences-always-duck-and-ignore-mute = 언제나 오디오 낮추기 + 무음 모드 무시하기
 preferences-answer-keeps-zoom = 답에서 줌 비율 유지하기
 preferences-answer-side = 답 면
 preferences-audio-buttons = 오디오 버튼들
@@ -120,3 +119,9 @@ preferences-editing-resize-on-paste = 붙여넣기할 때 크기 조정
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = 스마트 인용 부호 및 대시 변환
 preferences-editing-crop-camera-photos = 카메라 사진 자르기
+preferences-loop-video = 영상 반복 재생
+preferences-show-video-controls = 영상 조작기 켜기
+preferences-high-quality-video = 고화질 영상
+preferences-auto-capitalize = 자동 대문자화
+preferences-auto-correct = 자동 문법 검사
+preferences-strip-hebrew-vowels = 히브리어 모음 기호 생략하기
