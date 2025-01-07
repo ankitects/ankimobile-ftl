@@ -17,4 +17,5 @@ editing-note-type-prompt = Tür
 editing-note-unsuspended = Not askıdan çıkarıldı
 # keyboard shortcut description
 editing-same-cloze = Benzer Boşluk
+editing-underline = Altını çiz
 editing-discard = vazgeç
