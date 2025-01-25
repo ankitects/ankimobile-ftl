@@ -82,5 +82,6 @@ preferences-theme-slate = Barut rengi
 preferences-tools-overlay-button = Araçlar Bindirmesi Düğmesi
 preferences-tools-overlay-position = Araçlar Bindirmesi Konumu
 preferences-undo-clears-all = Geri Alma Her Şeyi Temizler
+preferences-when-question-shown = Soru gösterildiğinde
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Maksimum Resim Boyutu (Uzun Kenar)
