@@ -5,5 +5,5 @@ studying-have-ready-to-study = У вас є { $numCards } готових для 
 studying-please-run-empty-cards-on-the = Будь ласка, запустіть порожні картки на комп’ютерній версії.
 studying-replay-card = Повторити картку
 studying-replay-voice = Повторити голос
-studying-type-in-the-answer = Введіть відповідь
+studying-type-in-the-answer = Вдрукувати відповідь
 studying-please-use-record-voice-first = Спочатку скористайтеся функцією «Запис голосу».
