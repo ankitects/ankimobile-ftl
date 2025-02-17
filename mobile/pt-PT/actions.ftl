@@ -13,5 +13,7 @@ actions-review-undone = Revisão anulada
 
 actions-browse-short = Explorar
 actions-mark-and-suspend-short = M&S
+actions-replay-voice-short = Repr.V
+actions-replay-audio-short = Reprod.
 actions-suspend-card-short = Sus.F
 actions-suspend-note-short = Sus.N
