@@ -43,7 +43,6 @@ actions-note-buried = Nota enterrada
 actions-note-marked-and-buried = Nota marcada y enterrada
 actions-off = Desactivado
 actions-please-tap-the-in-the = Por favor toca el '?' en la parte superior izquierda para empezar.
-actions-processing = Procesando...
 actions-record-voice = Grabar Voz
 actions-record-voice-menu = Grabar menú de voz
 actions-reset-card = Restablecer Tarjeta

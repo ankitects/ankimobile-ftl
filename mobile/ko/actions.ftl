@@ -43,7 +43,6 @@ actions-note-buried = 노트 숨겨짐
 actions-note-marked-and-buried = 노트 표시 및 숨겨짐
 actions-off = 끄기
 actions-please-tap-the-in-the = 왼쪽 위에 '?'를 눌러 시작하세요.
-actions-processing = 처리 중...
 actions-record-voice = 음성 녹음
 actions-record-voice-menu = 음성 녹음 메뉴
 actions-reset-card = 카드 초기화

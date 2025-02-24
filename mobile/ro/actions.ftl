@@ -44,7 +44,6 @@ actions-note-buried = Notiță îngropată
 actions-note-marked-and-buried = Notiță marcată și îngropată
 actions-off = Oprit
 actions-please-tap-the-in-the = e rog să atingi „?” în stânga sus pentru a începe.
-actions-processing = Se procesează...
 actions-record-voice = Înregistrează voce
 actions-record-voice-menu = Meniu înregistrare voce
 actions-reset-card = Resetează card

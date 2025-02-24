@@ -43,7 +43,6 @@ actions-note-buried = 已推遲筆記
 actions-note-marked-and-buried = 已標記並推遲筆記
 actions-off = 停用
 actions-please-tap-the-in-the = 請按一下左上角的「？」來開始。
-actions-processing = 處理中...
 actions-record-voice = 錄音
 actions-record-voice-menu = 錄音選單
 actions-reset-card = 重置卡片

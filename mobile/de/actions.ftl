@@ -43,7 +43,6 @@ actions-note-buried = Notiz aufgeschoben
 actions-note-marked-and-buried = Notiz gekennzeichnet und aufgeschoben
 actions-off = Aus
 actions-please-tap-the-in-the = Bitte tippen Sie auf das Fragezeichen (?) oben links, um loszulegen.
-actions-processing = Verarbeitung läuft …
 actions-record-voice = Stimme aufnehmen
 actions-record-voice-menu = Stimmaufnahme-Menü
 actions-reset-card = Lernfortschritt zurücksetzen

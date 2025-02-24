@@ -13,7 +13,6 @@ actions-long-press-on-an-item-to = Dlouhým stisknutím položky ji můžete př
 actions-mark = Označit
 actions-marked = Označené
 actions-off = Vyp.
-actions-processing = Zpracovává se...
 actions-record-voice = Nahrávání hlasu
 actions-select-deck = Vybrat balíček
 actions-tools = Nástroje

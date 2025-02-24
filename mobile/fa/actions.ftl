@@ -43,7 +43,6 @@ actions-note-buried = یادداشت دفن شد
 actions-note-marked-and-buried = یادداشت علامت‌گذاری و دفن شد
 actions-off = خاموش
 actions-please-tap-the-in-the = لطفاً روی '؟' در گوشۀ چپ بالا بزنید تا راهنما باز شود.
-actions-processing = در حال پردازش...
 actions-record-voice = ضبط صدا
 actions-record-voice-menu = منو ضبط صدا
 actions-reset-card = بازنشانی کارت

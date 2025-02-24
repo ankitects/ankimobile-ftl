@@ -43,7 +43,6 @@ actions-note-buried = دُفِنت الملحوظة
 actions-note-marked-and-buried = عُلِّمت الملحوظة ودُفِنت
 actions-off = غير مفعل
 actions-please-tap-the-in-the = الرجاء النقر على '?' في أعلى اليسار للبدء.
-actions-processing = تجري المعالجة...
 actions-record-voice = تسجيل صوت
 actions-record-voice-menu = قائمة تسجيل الصوت
 actions-reset-card = أعيد تعيين البطاقة

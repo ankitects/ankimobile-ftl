@@ -44,7 +44,6 @@ actions-note-buried = Na-bury ang note
 actions-note-marked-and-buried = Namarkahan at na-bury ang note
 actions-off = I-off
 actions-please-tap-the-in-the = Pakipindot ng '?' sa kaliwang taas upang magsimula.
-actions-processing = Pinoproseso...
 actions-record-voice = Mag-record ng boses
 actions-record-voice-menu = Menu ng pag-record ng boses
 actions-reset-card = I-reset ang card

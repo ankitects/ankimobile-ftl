@@ -43,7 +43,6 @@ actions-note-buried = Not gizlendi.
 actions-note-marked-and-buried = Not işaretlendi ve gizlendi
 actions-off = Kapalı
 actions-please-tap-the-in-the = Lütfen başlamak için sol üstteki '?' simgesine dokunun.
-actions-processing = İşleniyor...
 actions-record-voice = Ses Kaydet
 actions-record-voice-menu = Ses Kaydetme Menüsü
 actions-reset-card = Kartı Sıfırla

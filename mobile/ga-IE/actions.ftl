@@ -57,7 +57,6 @@ actions-note-buried = Nóta curtha i bhfolach
 actions-note-marked-and-buried = Nóta marcáilte agus curtha i bhfolach
 actions-off = Gan oibriú
 actions-please-tap-the-in-the = Brúigh an '?' sa chuid uachtair ar clé chun tosú.
-actions-processing = Ag próiseáil...
 actions-record-voice = Taifead Do Ghuth
 actions-record-voice-menu = Roghchlár Guththaifeadta
 actions-reset-card = Athshocraigh Cárta

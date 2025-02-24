@@ -44,7 +44,6 @@ actions-note-buried = Phiếu đã tạm hoãn
 actions-note-marked-and-buried = Phiếu được đánh dấu và bị hoãn
 actions-off = Tắt
 actions-please-tap-the-in-the = Vui lòng nhấn vào '?' ở trên cùng bên trái để bắt đầu.
-actions-processing = Đang xử lý ...
 actions-record-voice = Thu Tiếng
 actions-record-voice-menu = Bảng chọn thu tiếng
 actions-reset-card = Đặt lại Thẻ

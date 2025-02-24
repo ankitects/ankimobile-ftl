@@ -43,7 +43,6 @@ actions-note-buried = Notatka zakopana
 actions-note-marked-and-buried = Notatka wyróżniona i zakopana
 actions-off = Wył.
 actions-please-tap-the-in-the = Naciśnij „?” w lewym górnym rogu, aby rozpocząć.
-actions-processing = Przetwarzanie...
 actions-record-voice = Nagraj głos
 actions-record-voice-menu = Menu nagrywania głosu
 actions-reset-card = Resetuj kartę

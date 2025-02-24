@@ -43,7 +43,6 @@ actions-note-buried = קבור פתק
 actions-note-marked-and-buried = פתק מסומן ומוטמן
 actions-off = כבוי
 actions-please-tap-the-in-the = אנא הקש על '?' בפינה השמאלית העליונה כדי להתחיל.
-actions-processing = מעבד...
 actions-record-voice = הקלט קול
 actions-record-voice-menu = תפריט הקלטת קול
 actions-reset-card = אתחל כרטיס

@@ -22,7 +22,6 @@ actions-note-and-its-cards-suspended = ନୋଟ୍ ଏବଂ ଏହାର { $co
 actions-note-buried = ନୋଟ୍ ସ୍ଥଗିତ କରାଗଲା
 actions-note-marked-and-buried = ନୋଟ୍ ଚିହ୍ନିତ କରି ସ୍ଥଗିତ କରାଗଲା
 actions-off = ବନ୍ଦ
-actions-processing = ପ୍ରକ୍ରିୟାରତ...
 actions-top-bar = ଶୀର୍ଷ ଦଣ୍ଡିକା
 actions-undo = ପୂର୍ବବତ୍ କରନ୍ତୁ
 actions-you-can-only-empty-a-filtered = ଆପଣ କେବଳ ଗୋଟିଏ ଶୋଧିତ ତାସଖଣ୍ଡକୁ ଖାଲି କରିପାରିବେ।
