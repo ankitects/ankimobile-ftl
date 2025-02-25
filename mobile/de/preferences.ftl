@@ -28,6 +28,7 @@ preferences-collection-new-first = Neue zuerst
 preferences-collection-newreview-order = Neu/Wiederholung-Reihenfolge
 preferences-collection-reviews-first = Wiederholungen zuerst
 preferences-double-tap-prevention = Verhinderung von Doppeltippen
+preferences-open-links-externally = Links extern öffnen
 preferences-drawing-screen-ignores-fingers = Zeichenbildschirm ignoriert Finger
 preferences-feedback-ticks = Zeige Bestätigungssymbol für letzte Bewertung
 preferences-spread-ticks = Oben über dem jeweiligen Bewertungsknopf
