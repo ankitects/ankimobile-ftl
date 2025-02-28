@@ -28,6 +28,7 @@ preferences-collection-new-first = 新卡片優先
 preferences-collection-newreview-order = 新卡片/複習卡順序
 preferences-collection-reviews-first = 複習卡優先
 preferences-double-tap-prevention = 防止誤觸間隔
+preferences-open-links-externally = 使用外部瀏覽器開啟連結
 preferences-drawing-screen-ignores-fingers = 繪製畫面忽略手指
 preferences-feedback-ticks = 顯示回答勾號
 preferences-spread-ticks = 勾號散開顯示
