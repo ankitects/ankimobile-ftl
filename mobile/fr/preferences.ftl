@@ -28,6 +28,7 @@ preferences-collection-new-first = Priorité aux nouvelles
 preferences-collection-newreview-order = Ordre d'affichage des cartes nouvelles/révisées
 preferences-collection-reviews-first = Révisions en premier
 preferences-double-tap-prevention = Prévention du double coup
+preferences-open-links-externally = Ouvrir les liens dans le navigateur
 preferences-drawing-screen-ignores-fingers = Ignorer les doigts sur l’écran de dessin
 preferences-feedback-ticks = Case de commentaire
 preferences-spread-ticks = Propager les tiques
