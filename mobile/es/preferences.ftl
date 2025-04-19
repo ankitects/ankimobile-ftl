@@ -31,6 +31,7 @@ preferences-double-tap-prevention = Prevención de doble toque
 preferences-open-links-externally = Abrir enlances externamente
 preferences-drawing-screen-ignores-fingers = La pantalla de dibujo ignora los dedos
 preferences-feedback-ticks = Cuadro de comentarios
+preferences-spread-ticks = Marcas de separado
 preferences-fine = Fino
 preferences-force-sync-confirm = ¿Forzar una sincronización unidireccional? Todos los cambios en un lado se perderán.
 preferences-full-sync = Sincronización completa
