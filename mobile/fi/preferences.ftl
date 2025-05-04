@@ -28,6 +28,7 @@ preferences-collection-new-first = Uudet ensin
 preferences-collection-newreview-order = Uusien/kerrattavien järjestys
 preferences-collection-reviews-first = Kerrattavat ensin
 preferences-double-tap-prevention = Kaksoisnapautuksen esto
+preferences-open-links-externally = Avaa linkit sovelluksen ulkopuolella
 preferences-drawing-screen-ignores-fingers = Piirustusnäkymä ohittaa sormista tulevan syötteen
 preferences-feedback-ticks = Näytä oikein-merkki palautteena
 preferences-spread-ticks = Erottele vastaustyypin mukaan
