@@ -1,6 +1,9 @@
+importing-delete-imported-file = מחק קובץ מיובא?
 importing-import-complete = יבוא הושלם.
 importing-importing = מייבא...
 importing-no-apkg-or-colpkg-files-were = לא נמצאו קבצי .apkg או .colpkg ב-iTunes
+importing-overwrite-via-import = להחליף את כל האוסף עם הקובץ המיובא? לא ניתן לבטל פעולה זו.
 importing-please-choose-a-file = אנא בחר קובץ.
+importing-processed-media-files-d = קבצי מדיה מעובדים: { $count }...
 importing-replace-collection = החלף אוסף
 importing-file-not-downloaded = אנא הורד את הקובץ מ-iCloud, ולאחר מכן ייבא אותו שוב.

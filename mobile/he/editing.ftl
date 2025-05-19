@@ -2,6 +2,7 @@ editing-bold = מודגש
 editing-cancel-and-lose-any-unsaved-changes = לבטל ולאבד את כל השינויים שלא נשמרו?
 editing-cant-edit-original-image-data = לא ניתן לערוך - נתוני התמונה המקוריים לא נמצאו.
 editing-card-returned-to-new-card-queue = הכרטיס הוחזר לתור הכרטיסים החדש.
+editing-card-unsuspended = הכרטיס שוחזר
 editing-from-camera = מהמצלמה
 editing-from-file = מקובץ
 editing-from-photos = מתמונה
