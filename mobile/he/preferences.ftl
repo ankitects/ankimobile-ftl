@@ -30,18 +30,27 @@ preferences-double-tap-prevention = מניעת הקשה כפולה
 preferences-open-links-externally = פתיחת קישורים חיצונית
 preferences-drawing-screen-ignores-fingers = מסך ציור מתעלם מאצבעות
 preferences-gamepad-menu-button = תפריט
+preferences-gamepads = בקרי משחק
+preferences-gamepad-thumbpad-deadzone = % אזור מת בלוח האגודל
 preferences-height = גובה
 preferences-huge = ענק
 preferences-ignore-fingers = התעלם מאצבעות
+preferences-interrupt-current-audio = הפסק את השמע הנוכחי
 preferences-large = גדול
 preferences-left = שמאל
 # gamepad
 preferences-left-shoulder = כתף שמאל
 # gamepad
 preferences-left-thumbstick-button = כפתור האגודל השמאלי
+# gamepad
+preferences-left-trigger = טריגר שמאל
+preferences-logged-in-as = מחובר בתור:
+preferences-long = ארוך
 preferences-mid-center = מרכז אמצע
 preferences-mid-left = אמצע שמאל
 preferences-mid-right = אמצע ימין
+preferences-never-type-answer = לעולם אל תקליד תשובה
+preferences-never-show-scratchpad = לעולם אל תציג את לוח השרבוט
 preferences-next-times = פעמים הבאות
 preferences-normal = רגיל
 preferences-notifications = התראות
