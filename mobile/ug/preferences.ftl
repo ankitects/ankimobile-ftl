@@ -28,6 +28,7 @@ preferences-collection-new-first = ئاۋۋال يېڭىسى
 preferences-collection-newreview-order = يېڭى/تەكرارلاش كارتا تەرتىپى
 preferences-collection-reviews-first = ئاۋۋال تەكرارلاش
 preferences-double-tap-prevention = قوش چېكىشتىن مۇداپىئە
+preferences-open-links-externally = ئۇلانمىنى سىرتتا ئاچىدۇ
 preferences-drawing-screen-ignores-fingers = ئېكران سىزىپ بارماققا پەرۋا قىلمايدۇ
 preferences-feedback-ticks = توغرا خاتا بەلگىسىنى كۆرسىتىدۇ
 preferences-spread-ticks = جاۋاب تارقاق كۆرسىتىلىدۇ

@@ -43,7 +43,6 @@ actions-note-buried = Note buried
 actions-note-marked-and-buried = Note marked and buried
 actions-off = Off
 actions-please-tap-the-in-the = Please tap the '?' in the top left to get started.
-actions-processing = Processing...
 actions-record-voice = Record Voice
 actions-record-voice-menu = Record Voice Menu
 actions-reset-card = Reset Card

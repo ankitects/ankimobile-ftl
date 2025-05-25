@@ -1,0 +1,90 @@
+preferences-about = אודות
+preferences-autoplay-in-silent-mode = נגן אומטית במצב שקט
+preferences-answer-keeps-zoom = התשובה שומרת על זום
+preferences-answer-side = צד תשובה
+preferences-audio-buttons = כפתורי שמע
+preferences-auto-advance-answer-action = פעולת תשובה
+preferences-auto-advance-answer-seconds = שניות לתשובה
+preferences-auto-advance-auto-advance-to-start = כדי להתחיל להתקדם באופן אוטומטי, השתמש בפעולה 'התקדמות אוטומטית'.
+preferences-auto-advance-do-nothing = בטל
+preferences-auto-advance-question-seconds = שניות לשאלה
+preferences-backup-available-backups = גיבויים זמינים
+preferences-backup-create-now = צור כעת
+preferences-backup-maximum-backups = מקסימום גיבויים
+preferences-backup-minutes-between-backups = דקות בין גיבויים
+preferences-backup-revert-to-backup = שחזר לגיבוי
+preferences-backup-revert-to-backup-confirm = לחזור ל-{ $backup }? כל שינוי שבוצע מאז הגיבוי יאבד.
+preferences-backup-reverted-to-backup = חזר לגיבוי.
+preferences-bottom-bar-size = גודל הסרגל התחתון
+preferences-bottom-center = מרכז תחתון
+preferences-bottom-left = שמאל תחתון
+preferences-bottom-right = ימין תחתון
+preferences-button-d = כפתור { $num }
+preferences-collection-day-starts = ימים שהתחילו
+preferences-collection-learn-ahead-minutes = למד דקות מראש
+preferences-collection-mix = מעורבב
+preferences-collection-new-first = חדשים בתחילה
+preferences-collection-newreview-order = סדר חדשים/נסקרים
+preferences-collection-reviews-first = נסקרים תחילה
+preferences-double-tap-prevention = מניעת הקשה כפולה
+preferences-open-links-externally = פתיחת קישורים חיצונית
+preferences-drawing-screen-ignores-fingers = מסך ציור מתעלם מאצבעות
+preferences-gamepad-menu-button = תפריט
+preferences-gamepads = בקרי משחק
+preferences-gamepad-thumbpad-deadzone = % אזור מת בלוח האגודל
+preferences-height = גובה
+preferences-huge = ענק
+preferences-ignore-fingers = התעלם מאצבעות
+preferences-interrupt-current-audio = הפסק את השמע הנוכחי
+preferences-large = גדול
+preferences-left = שמאל
+# gamepad
+preferences-left-shoulder = כתף שמאל
+# gamepad
+preferences-left-thumbstick-button = כפתור האגודל השמאלי
+# gamepad
+preferences-left-trigger = טריגר שמאל
+preferences-logged-in-as = מחובר בתור:
+preferences-long = ארוך
+preferences-mid-center = מרכז אמצע
+preferences-mid-left = אמצע שמאל
+preferences-mid-right = אמצע ימין
+preferences-never-type-answer = לעולם אל תקליד תשובה
+preferences-never-show-scratchpad = לעולם אל תציג את לוח השרבוט
+preferences-next-times = פעמים הבאות
+preferences-normal = רגיל
+preferences-notifications = התראות
+preferences-remaining-count = ספירה נותרת
+preferences-right = ימין
+# gamepad
+preferences-right-shoulder = כתף ימין
+# gamepad
+preferences-right-thumbstick-button = כפתור האגודל הימני
+# gamepad
+preferences-right-trigger = הדק הימני
+preferences-scratchpad-transparency-full = מלא
+preferences-scratchpad-transparency-none = ללא
+preferences-shake-action = פעולה בנענוע
+preferences-short = קצר
+preferences-show-bottom-bar = הצג סרגל תחתון
+preferences-show-grid = הצג רשת
+preferences-show-top-bar = הצג סרגל עליון
+preferences-small = קטן
+preferences-swipe-down = החלקה למטה
+preferences-swipe-left = החלקה שמאלה
+preferences-swipe-right = החלקה ימינה
+preferences-swipe-up = החלקה למעלה
+preferences-swipes = החלקות
+preferences-syncing = סנכרון
+preferences-top-center = מרכז עליון
+preferences-top-left = למעלה משמאל
+preferences-top-right = למעלה מימין
+preferences-undo-clears-all = בטל ניקוי הכל
+preferences-when-answer-shown = כאשר מוצגת התשובה
+preferences-when-question-shown = כאשר מוצגת השאלה
+preferences-you-have-been-logged-out = התנתקת.
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = גודל תמונה מקסימלי (קצה אורך)
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = שינוי גודל בעת הדבקה
+preferences-auto-correct = תיקון אוטומטי

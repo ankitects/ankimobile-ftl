@@ -28,6 +28,7 @@ preferences-collection-new-first = New first
 preferences-collection-newreview-order = New/Review Order
 preferences-collection-reviews-first = Reviews first
 preferences-double-tap-prevention = Double Tap Prevention
+preferences-open-links-externally = Open Links Externally
 preferences-drawing-screen-ignores-fingers = Drawing Screen Ignores Fingers
 preferences-feedback-ticks = Feedback Ticks
 preferences-spread-ticks = Spread Ticks

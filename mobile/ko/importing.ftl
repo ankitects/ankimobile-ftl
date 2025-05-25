@@ -6,3 +6,4 @@ importing-overwrite-via-import = 모든 컬렉션을 가져온 파일로 덮어�
 importing-please-choose-a-file = 파일을 선택해주세요.
 importing-processed-media-files-d = 처리된 미디어 파일들: { $count }...
 importing-replace-collection = 컬렉션 대체하기
+importing-file-not-downloaded = iCloud에서 파일을 다운로드 후, 다시 불러와주세요.

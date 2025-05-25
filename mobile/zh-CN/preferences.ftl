@@ -28,6 +28,7 @@ preferences-collection-new-first = 先学新
 preferences-collection-newreview-order = 学习/复习顺序
 preferences-collection-reviews-first = 先复习
 preferences-double-tap-prevention = 防止双击
+preferences-open-links-externally = 在外部浏览器中打开链接
 preferences-drawing-screen-ignores-fingers = 绘图界面忽略手指
 preferences-feedback-ticks = 显示对错符号
 preferences-spread-ticks = 回答结果分散显示

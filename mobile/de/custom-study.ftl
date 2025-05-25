@@ -10,7 +10,7 @@ custom-study-extra-new-cards = Zusätzliche neue Karten
 custom-study-extra-review-cards = Zusätzliche Wiederholungskarten
 custom-study-include-cards-with-tag = Einschließlich Karten mit Schlagwort
 custom-study-learn-new-cards-with-certain-tags = Neue Karten mit bestimmten Schlagwörtern lernen
-custom-study-loading = Daten werden geladen …
+custom-study-loading = Daten werden geladen …
 custom-study-max-cards-to-gather = Max. Karten zum Einsammeln
 # no tags selected
 custom-study-no-tags = keine

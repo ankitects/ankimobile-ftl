@@ -43,7 +43,6 @@ actions-note-buried = Nota seppellita
 actions-note-marked-and-buried = Nota contrassegnata e seppellita.
 actions-off = Disattiva
 actions-please-tap-the-in-the = Fare clic su '?' in alto a sinistra per iniziare.
-actions-processing = Elaborazione in corso...
 actions-record-voice = Registra voce
 actions-record-voice-menu = Menu di registrazione della voce
 actions-reset-card = Resetta Carta

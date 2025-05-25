@@ -28,6 +28,7 @@ preferences-collection-new-first = 新規カードが先
 preferences-collection-newreview-order = 新規/復習カードの順序
 preferences-collection-reviews-first = 復習カードが先
 preferences-double-tap-prevention = ダブルタップ防止
+preferences-open-links-externally = リンクをこのアプリの外部で開く
 preferences-drawing-screen-ignores-fingers = 手書きスクリーンで指での入力を無視
 preferences-feedback-ticks = 回答確認用のマークを表示
 preferences-spread-ticks = 回答確認用マークの表示位置を種類別にする

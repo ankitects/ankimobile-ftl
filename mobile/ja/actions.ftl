@@ -43,7 +43,6 @@ actions-note-buried = ノートを今日は非表示にしました
 actions-note-marked-and-buried = ノートをマーク＋今日は非表示にしました
 actions-off = オフ
 actions-please-tap-the-in-the = 左上の？アイコンをタップするとAnkiMobileのウェブサイトを開きます。
-actions-processing = 処理中...
 actions-record-voice = 声を録音
 actions-record-voice-menu = 録音メニュー
 actions-reset-card = カードをリセット

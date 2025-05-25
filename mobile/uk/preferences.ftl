@@ -28,6 +28,7 @@ preferences-collection-new-first = Спершу нове
 preferences-collection-newreview-order = Порядок нових/пригадувальних
 preferences-collection-reviews-first = Спочатку пригадувальні
 preferences-double-tap-prevention = Запобігати подвійному натисканню
+preferences-open-links-externally = Відкрити у браузері
 preferences-drawing-screen-ignores-fingers = Ігнорувати пальці на екрані малювання
 preferences-feedback-ticks = Вібрація при натиску
 preferences-spread-ticks = Тики поширення

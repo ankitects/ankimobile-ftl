@@ -44,7 +44,6 @@ actions-note-buried = Запись отложена
 actions-note-marked-and-buried = Запись помечена и отложена
 actions-off = Выкл.
 actions-please-tap-the-in-the = Коснитесь '?' в левом верху для того, чтобы начать.
-actions-processing = Обрабатывается...
 actions-record-voice = Записать голос
 actions-record-voice-menu = Меню записи голоса
 actions-reset-card = Сбросить карточку

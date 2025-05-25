@@ -43,7 +43,6 @@ actions-note-buried = 笔记已搁置
 actions-note-marked-and-buried = 笔记已被标记并搁置
 actions-off = 禁用
 actions-please-tap-the-in-the = 请点击左上角的「?」以开始。
-actions-processing = 处理中…
 actions-record-voice = 录制音频
 actions-record-voice-menu = 录制声音菜单
 actions-reset-card = 重置为新卡片

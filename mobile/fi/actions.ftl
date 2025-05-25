@@ -43,7 +43,6 @@ actions-note-buried = Muistiinpano piilotettu
 actions-note-marked-and-buried = Muistiinpano merkitty ja piilotettu
 actions-off = Pois
 actions-please-tap-the-in-the = Aloita napauttamalla vasemmassa yläkulmassa olevaa '?' -painiketta.
-actions-processing = Käsitellään...
 actions-record-voice = Äänitä
 actions-record-voice-menu = Äänitysvalikko
 actions-reset-card = Nollaa kortti

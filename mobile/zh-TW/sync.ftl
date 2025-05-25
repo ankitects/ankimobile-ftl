@@ -1,4 +1,4 @@
-sync-email-address = 電子郵件位址
+sync-email-address = 電子郵件地址
 sync-login = 登入
 sync-password = 密碼
 sync-please-enter-your-ankiweb-details = 請輸入你的AnkiWeb詳細資訊。

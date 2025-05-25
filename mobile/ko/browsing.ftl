@@ -24,6 +24,7 @@ browsing-tag = 태그:
 browsing-column-number = { $number }열
 browsing-notes-mode = 노트 모드
 browsing-sort-backwards = 거꾸로 정렬
+browsing-larger-font = 더 큰 폰트
 
 ## OBSOLETE; you do not need to translate.
 

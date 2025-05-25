@@ -43,7 +43,6 @@ actions-note-buried = Nota enterrada
 actions-note-marked-and-buried = Nota marcada i enterrada
 actions-off = Desactivat
 actions-please-tap-the-in-the = Feu toc sobre el botó «?» de la part superior esquerra per a començar.
-actions-processing = S'està processant…
 actions-record-voice = Enregistra la veu
 actions-record-voice-menu = Menú d'enregistrament de veu
 actions-reset-card = Inicialitza la targeta
@@ -70,7 +69,7 @@ actions-scroll-down = Llisca cap avall
 ## 5-7 characters where possible.
 
 # empty filtered deck
-actions-empty-short = Buit
+actions-empty-short = Buida
 # create a filtered deck
 actions-filter-short = Filtre
 actions-add-short = Afegeix

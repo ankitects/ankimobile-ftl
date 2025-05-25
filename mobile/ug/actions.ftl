@@ -43,7 +43,6 @@ actions-note-buried = خاتىرە يوشۇرۇلدى
 actions-note-marked-and-buried = خاتىرىگە بەلگە سېلىنىپ يوشۇرۇلدى
 actions-off = تاقاق
 actions-please-tap-the-in-the = سول چوققىدىكى «?» نى چېكىپ باشلاڭ.
-actions-processing = بىر تەرەپ قىلىۋاتىدۇ…
 actions-record-voice = ئۈنگە ئال
 actions-record-voice-menu = ئۈنگە ئېلىش تىزىملىكى
 actions-reset-card = كارتىنى ئەسلىگە قايتۇر

@@ -44,7 +44,6 @@ actions-note-buried = Нататка адкладзена
 actions-note-marked-and-buried = Нататка пазначана і адкладзена
 actions-off = Выкл.
 actions-please-tap-the-in-the = Дакраніцеся да «?» злева ўверсе, каб пачаць.
-actions-processing = Апрацоўка...
 actions-record-voice = Запісаць голас
 actions-record-voice-menu = Меню запісу голасу
 actions-reset-card = Скінуць картку
