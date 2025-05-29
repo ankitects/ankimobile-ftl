@@ -9,6 +9,7 @@ preferences-backup-revert-to-backup-confirm = צוריקציִען אין { $bac
 preferences-backup-reverted-to-backup = צוריקגעצויגן אין דער רעזערוו-קאָפּיע.
 preferences-bottom-bar-size = אונטנבאַלקן-גרייס
 preferences-left = לינקס
+preferences-never-show-scratchpad-enabled = „נישט ווײַזן קיין מאָל בלאָקנאָט״ איז אַקטיווירט אין די אויסוואַלן-עקראַן.
 preferences-show-bottom-bar = באַווײַזן אונטנבאַלקן
 preferences-small = קליין
 preferences-syncing = סיכראָניזירן
