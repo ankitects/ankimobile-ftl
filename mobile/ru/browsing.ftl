@@ -24,6 +24,7 @@ browsing-tag = Метка:
 browsing-column-number = Колонка { $number }
 browsing-notes-mode = Режим записей
 browsing-sort-backwards = В обратном порядке
+browsing-larger-font = Увеличенный шрифт
 
 ## OBSOLETE; you do not need to translate.
 
