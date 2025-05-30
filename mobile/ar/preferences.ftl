@@ -28,6 +28,7 @@ preferences-collection-new-first = الجديد أولًا
 preferences-collection-newreview-order = ترتيب البطاقات الجديدة/المراجعات
 preferences-collection-reviews-first = المراجعات أولًا
 preferences-double-tap-prevention = منع النقر المزدوج
+preferences-open-links-externally = فتح الروابط خارجيًا
 preferences-drawing-screen-ignores-fingers = تتجاهل نقرات الأصابع في شاشة الرسم
 preferences-feedback-ticks = إشارات رد الفعل
 preferences-spread-ticks = توزيع الإشارات
