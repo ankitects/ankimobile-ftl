@@ -1,0 +1,13 @@
+decks-add-deck = Колода Қосу
+decks-addexport = Қосу/Шығару
+decks-cannot-delete = Жоя Алмайды
+decks-card-limit = Карталар шегі
+decks-deck-label = Колода:
+decks-deck-name = Колода Атауы
+decks-deck-options = Колода Баптаулары
+decks-download-link = Жүктеу Сілтемесі
+decks-export-collection = Жинақты Экспорттау
+decks-filtered-deck = Сүзілген Колода
+decks-import-from-itunes = iTunes-тен импорттау
+decks-sync = Үйлестіру
+decks-synchronize = Үйлестеру

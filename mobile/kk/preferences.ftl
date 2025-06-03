@@ -1,0 +1,10 @@
+preferences-about = Жайлы
+preferences-answer-side = Жауап Жағы
+preferences-audio-buttons = Ауидо Батырмалары
+preferences-auto-advance-answer-action = Жауап Әрекеті
+preferences-auto-advance-answer-seconds = Жауап Секундары
+preferences-auto-advance-question-seconds = Сұрақ Секундары
+preferences-backup-create-now = Қазір Жасау
+preferences-gamepad-menu-button = Мәзір
+preferences-scratchpad-transparency-none = Ештеңе
+preferences-short = Қысқа

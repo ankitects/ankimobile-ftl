@@ -1,5 +1,9 @@
 ## iOS permissions
 
+info-plist-camera-usage = Бұл Anki-ге сіз қармаған кескіндерді карталарыңызға енгізуге рұқсат береді.
+info-plist-mic-usage = Микрофон тек жазу батырмасын басқанда ғана қолданылады.
+info-plist-photo-usage = Бұл фото шолғышын көрсетуге рұқсат береді.
+info-plist-photo-add-usage = "Фотоларға Қосу" әрекетіне рұқсатыңыз керек.
 
 ## Long-press app icon shortcuts
 
