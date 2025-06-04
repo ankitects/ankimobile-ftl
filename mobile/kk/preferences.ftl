@@ -1,4 +1,5 @@
 preferences-about = Жайлы
+preferences-autoplay-in-silent-mode = Тыныш Режимде Өзойнау
 preferences-answer-side = Жауап Жағы
 preferences-audio-buttons = Ауидо Батырмалары
 preferences-auto-advance-answer-action = Жауап Әрекеті
