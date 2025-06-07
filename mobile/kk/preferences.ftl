@@ -3,7 +3,7 @@ preferences-autoplay-in-silent-mode = Тыныш Режимде Өзойнау
 preferences-always-duck = Өң Дыбысын Әрдайым Бәсеңдету
 preferences-answer-keeps-zoom = Жауап Өлшемді Сақтайды
 preferences-answer-side = Жауап Жағы
-preferences-audio-buttons = Ауидо Батырмалары
+preferences-audio-buttons = Ауидо Түймелері
 preferences-auto-advance-answer-action = Жауап Әрекеті
 preferences-auto-advance-answer-seconds = Жауап Секундары
 preferences-auto-advance-auto-advance-to-start = Өзінен-өзі ілгеріле бастау үшін, 'Өзілгерілеу' әрекетін қолданыңыз.
@@ -20,7 +20,7 @@ preferences-bottom-bar-size = Төменгі Жолақ Өлшемі
 preferences-bottom-center = Төменгі Орта
 preferences-bottom-left = Төменгі Сол
 preferences-bottom-right = Төменгі Оң
-preferences-button-d = Батырма { $num }
+preferences-button-d = Түйме { $num }
 preferences-collection-day-starts = Күннің Басталуы
 preferences-collection-learn-ahead-minutes = Озып Оқу (Минут)
 preferences-collection-mix = Араластыру
@@ -43,7 +43,7 @@ preferences-left = Сол
 # gamepad
 preferences-left-shoulder = Сол Иық
 # gamepad
-preferences-left-thumbstick-button = Сол Стик Батырмасы
+preferences-left-thumbstick-button = Сол Стик Түймесі
 # gamepad
 preferences-left-trigger = Сол Триггер
 preferences-logged-in-as = Кірген:
@@ -62,7 +62,7 @@ preferences-right = Оң
 # gamepad
 preferences-right-shoulder = Оң Иық
 # gamepad
-preferences-right-thumbstick-button = Оң Стик Батырмасы
+preferences-right-thumbstick-button = Оң Стик Түймесі
 # gamepad
 preferences-right-trigger = Оң Триггер
 preferences-scratchpad-transparency-none = Ештеңе
