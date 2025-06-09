@@ -19,4 +19,4 @@ custom-study-preview-all-cards-with-certain-tags = תצוגה מקדימה של 
 custom-study-review-due-cards-with-certain-tags = סקירת כרטיסי יעד עם תגים מסוימים
 custom-study-search-matches = { $num } התאמות חיפוש
 custom-study-study-type = סוג לימוד
-custom-study-the-selected-options-did-not-match = האפשרויות שנבחרו לא תואמות לאף קלף.
+custom-study-the-selected-options-did-not-match = האפשרויות שנבחרו לא תואמות לאף כרטיס.
