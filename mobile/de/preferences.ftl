@@ -76,7 +76,7 @@ preferences-right-shoulder = Rechte Schultertaste
 preferences-right-thumbstick-button = Rechte Thumbstick-Taste
 # gamepad
 preferences-right-trigger = Rechte Trigger-Taste
-preferences-scratchpad-below-buttons = Notizblock unter den Knöpfen
+preferences-scratchpad-below-buttons = Notizblock unter den Tasten
 preferences-scratchpad-transparency = Notizblock-Transparenz
 preferences-scratchpad-transparency-full = Voll
 preferences-scratchpad-transparency-medium = Mittel
