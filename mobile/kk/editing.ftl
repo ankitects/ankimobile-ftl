@@ -1,4 +1,7 @@
 editing-bold = Қалың
+editing-cancel-and-lose-any-unsaved-changes = Доғарып, сақталмаған өзгерістерді жоғалту?
+editing-cant-edit-original-image-data = Өңдеу мүмкін емес – бастапқы сурет деректері табылмады.
+editing-card-returned-to-new-card-queue = Карта жаңа карталар кезегіне оралды.
 editing-card-unsuspended = Карта кідіртілді
 editing-from-camera = Камерадан
 editing-from-file = Файлдан
