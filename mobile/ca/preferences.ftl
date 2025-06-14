@@ -28,6 +28,7 @@ preferences-collection-new-first = Les noves primer
 preferences-collection-newreview-order = Ordre de targetes noves/per repassar
 preferences-collection-reviews-first = Targetes per repassar primer
 preferences-double-tap-prevention = Prevenir el doble toc
+preferences-open-links-externally = Obre els enllaços de manera externa
 preferences-drawing-screen-ignores-fingers = Ignora l'entrada tàctil en la pantalla de dibuix
 preferences-feedback-ticks = Quadre de comentaris
 preferences-spread-ticks = Separa les marques
