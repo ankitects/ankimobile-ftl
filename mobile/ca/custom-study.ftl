@@ -10,7 +10,7 @@ custom-study-extra-new-cards = Targetes noves addicionals
 custom-study-extra-review-cards = Targetes de repàs addicionals
 custom-study-include-cards-with-tag = Inclou les targetes amb l'etiqueta
 custom-study-learn-new-cards-with-certain-tags = Aprèn les targetes noves amb unes etiquetes determinades
-custom-study-loading = S'està carregant…
+custom-study-loading = S’està carregant…
 custom-study-max-cards-to-gather = Nombre màxim de targetes que es recopilaran
 # no tags selected
 custom-study-no-tags = cap
