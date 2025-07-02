@@ -108,3 +108,4 @@ preferences-when-question-shown = Сұрақ көрсетілгенде
 preferences-loop-video = Видеоны Тұйықтау
 preferences-show-video-controls = Видео Басқаруын Көрсету
 preferences-auto-correct = Өзтүзету
+preferences-strip-hebrew-vowels = Иурит Дауыстыларын Сыдыру
