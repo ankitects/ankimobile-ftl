@@ -1,0 +1,15 @@
+decks-a-deck-named-already-exists = '{ $name }' nomli dasta allaqachon mavjud
+decks-a-deck-with-that-name-already = Ushbu nomli dasta allaqachon mavjud.
+decks-add-deck = Dasta qoʻshish
+decks-add-empty-deck = Boʻsh dasta qoʻshish
+decks-deck-exists = Dasta mavjud
+decks-deck-label = Dasta:
+decks-deck-name = Dasta nomi
+decks-deck-options = Dasta parametrlari
+decks-download-link = Yuklab olish havolasi
+decks-export-collection = Toʻplamni eksport qilish
+decks-filtered-deck = Filtrlangan dasta
+decks-import-from-itunes = iTunesʼdan import qilish
+decks-invalid-deck-name = Dasta nomi yaroqsiz.
+decks-synchronize = Sinxronlash
+decks-the-default-deck-cannot-be-deleted = Birlamchi dastani oʻchirib boʻlmaydi.
