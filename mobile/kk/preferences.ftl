@@ -60,6 +60,8 @@ preferences-next-times = Келесі Реттер
 preferences-normal = Қалыпты
 preferences-notifications = Ескертпелер
 preferences-notifications-alert-time = Ескерту Уақыты
+preferences-notifications-alert-when-due = Мерізімінде Ескерту
+preferences-notifications-app-icon-shows-due-count = Белгіше Дайын Карта Санын Көрсетеді
 preferences-pen-size = Қалам Өлшемі
 preferences-right = Оң
 # gamepad
@@ -105,7 +107,17 @@ preferences-top-right = Үстінгі Оң
 preferences-undo-clears-all = Болдырмау Бәрін Ысырады
 preferences-when-answer-shown = Жауап көрсетілгенде
 preferences-when-question-shown = Сұрақ көрсетілгенде
+preferences-you-have-been-logged-out = Жүйеден шығарылдыңыз.
+# a limit on the long edge of an image (eg 1024 pixels)
+preferences-editing-max-image-size = Суреттің Шекті Өлшемі (Ұзын Шеті)
+# whether to shrink images when pasting
+preferences-editing-resize-on-paste = Қойғанда Өлшемді Өзгерту
+# convert smart quotes and smart dashes to ASCII style
+preferences-editing-convert-smart-quotes = Жұп Тырнақша & Сызқшаны Түрлендіру
+preferences-editing-crop-camera-photos = Камера Суреттерін Қиып Алу
 preferences-loop-video = Видеоны Тұйықтау
 preferences-show-video-controls = Видео Басқаруын Көрсету
+preferences-high-quality-video = Сапасы Жоғары Видео
+preferences-auto-capitalize = Ауто Бас Әріптер
 preferences-auto-correct = Өзтүзету
 preferences-strip-hebrew-vowels = Иурит Дауыстыларын Сыдыру
