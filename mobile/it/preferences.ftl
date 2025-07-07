@@ -28,6 +28,7 @@ preferences-collection-new-first = Prima le nuove
 preferences-collection-newreview-order = Ordine Nuove/Da ripassare
 preferences-collection-reviews-first = Prima le ripetizioni
 preferences-double-tap-prevention = Previeni doppio tocco
+preferences-open-links-externally = Apri collegamenti in una finestra esterna
 preferences-drawing-screen-ignores-fingers = La schermata di disegno ignora le dita
 preferences-feedback-ticks = Indicatori di conferma
 preferences-spread-ticks = Distanzia indicatori di conferma
