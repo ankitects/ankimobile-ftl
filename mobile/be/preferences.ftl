@@ -109,3 +109,4 @@ preferences-editing-max-image-size = Макс. памер відарыса (до
 preferences-editing-crop-camera-photos = Абразаць здымкі з камеры
 preferences-loop-video = Зацыкліваць відэа
 preferences-show-video-controls = Паказваць кіраванне відэа
+preferences-auto-correct = Аўтавыпраўленне
