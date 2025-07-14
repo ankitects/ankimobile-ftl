@@ -115,9 +115,9 @@ preferences-editing-resize-on-paste = Қойғанда Өлшемді Өзгер
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = Жұп Тырнақша & Сызқшаны Түрлендіру
 preferences-editing-crop-camera-photos = Камера Суреттерін Қиып Алу
-preferences-loop-video = Видеоны Тұйықтау
-preferences-show-video-controls = Видео Басқаруын Көрсету
-preferences-high-quality-video = Сапасы Жоғары Видео
+preferences-loop-video = Бейнені Тұйықтау
+preferences-show-video-controls = Бейне Басқаруын Көрсету
+preferences-high-quality-video = Сапасы Жоғары Бейне
 preferences-auto-capitalize = Ауто Бас Әріптер
 preferences-auto-correct = Өзтүзету
 preferences-strip-hebrew-vowels = Иурит Дауыстыларын Сыдыру
