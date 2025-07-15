@@ -24,3 +24,5 @@ decks-sync = Сінхранізацыя
 decks-synchronize = Сінхранізаваць
 decks-the-default-deck-cannot-be-deleted = Прадвызначаная калода не можа быць выдалена.
 decks-the-provided-deck-does-not-exist = Дадзеная калода не існуе.
+decks-the-search-you-provided-did-not = Па вашым запыце не знойдзена картак.
+decks-will-be-returned = Карткі будуць вернуты ў зыходную калоду, калі вы на іх адкажаце.

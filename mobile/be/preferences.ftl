@@ -110,3 +110,4 @@ preferences-editing-crop-camera-photos = Абразаць здымкі з кам
 preferences-loop-video = Зацыкліваць відэа
 preferences-show-video-controls = Паказваць кіраванне відэа
 preferences-auto-correct = Аўтавыпраўленне
+preferences-strip-hebrew-vowels = Прыбіраць галосныя ў іўрыце

@@ -24,6 +24,7 @@ browsing-tag = Цэтлік:
 browsing-column-number = Слупок { $number }
 browsing-notes-mode = Рэжым нататак
 browsing-sort-backwards = Зваротнае сартаванне
+browsing-larger-font = Большы шрыфт
 
 ## OBSOLETE; you do not need to translate.
 
