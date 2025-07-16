@@ -12,6 +12,7 @@ deck-options-max-new-per-day = מקסימום ליום
 deck-options-max-reviews-per-day = מקסימום סקירות ליום
 deck-options-new-cards = קלפים חדשים
 deck-options-options-group = קבוצת אפשרויות
+deck-options-replay-q-audio-in-answer = נגן שמע שוב
 deck-options-reset-all-settings-to-defaults = לאפס את כל ההגדרות לברירת המחדל?
 deck-options-restore-defaults = שחזר ברירות מחדל
 deck-options-steps = שלבים

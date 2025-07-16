@@ -7,12 +7,16 @@ editing-from-camera = מהמצלמה
 editing-from-file = מקובץ
 editing-from-photos = מתמונה
 editing-italic = נטוי
+# keyboard shortcut description
+editing-next-cloze = מלא־את־החסר הבא
 editing-next-field = שדה הבא
 editing-note-deleted = הערה נמחקה
 editing-note-suspended = הערה הוקפאה
 # (Note) type: 
 editing-note-type-prompt = סוג:
 editing-note-unsuspended = הערה שוחזרה
+# keyboard shortcut description
+editing-same-cloze = מלא־את־החסר זהה
 editing-the-first-field-must-not-be = השדה הראשון חייב לא להיות ריק
 editing-unable-to-obtain-image = לא מצליח להשיג תמונה
 editing-unable-to-read-file = לא מצליח לקרוא קובץ

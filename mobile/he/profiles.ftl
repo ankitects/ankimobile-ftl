@@ -1,5 +1,7 @@
+profiles-a-profile-with-that-name-already = קיים כבר פרופיל עם השם הזה.
 profiles-add-profile = הוסף פרופיל
 profiles-finishing-backup = מסיים גיבוי...
+profiles-please-provide-some-text-avoiding-symbols = אנא ספקו טקסט והימנעו מסמלים ומקפים תחתונים.
 profiles-please-select-another-profile-first = אנא בחר תחילה פרופיל אחר.
 profiles-profile-name = שם פרופיל
 profiles-rename-profile = שנה שם פרופיל
