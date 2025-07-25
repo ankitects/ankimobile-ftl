@@ -28,6 +28,7 @@ preferences-feedback-ticks = Geri bildirim işaretleri
 preferences-fine = İyi
 preferences-force-sync-confirm = Tek yönlü senkronizasyonu zorla? Bir taraftaki tüm değişiklikler kaybolacak.
 preferences-full-sync = Tam Senkronizasyon
+preferences-gamepad-menu-button = Menü
 preferences-gamepads = Oyun kumandaları
 preferences-height = Yükseklik
 preferences-huge = Kocaman
@@ -85,3 +86,4 @@ preferences-undo-clears-all = Geri Alma Her Şeyi Temizler
 preferences-when-question-shown = Soru gösterildiğinde
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = Maksimum Resim Boyutu (Uzun Kenar)
+preferences-show-video-controls = Video Kontrollerini Göster
