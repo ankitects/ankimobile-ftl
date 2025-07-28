@@ -1,9 +1,14 @@
 preferences-about = Haqida
 preferences-answer-side = Javob tarafi
 preferences-audio-buttons = Audio tugmalari
+preferences-auto-advance-answer-action = Javobdan keyingi amal
+preferences-auto-advance-answer-seconds = Javob koʻrsatish vaqti (soniyalarda)
 preferences-auto-advance-do-nothing = Hechnima qilma
+preferences-auto-advance-question-seconds = Savolni koʻrsatish vaqti (soniyalarda)
 preferences-backup-available-backups = Mavjud zaxira nusxalari
 preferences-backup-create-now = Hozir yaratish
+preferences-backup-maximum-backups = Eng koʻp zaxiralar soni
+preferences-backup-minutes-between-backups = Zaxiralashlar orasidagi vaqt (daqiqalarda)
 preferences-gamepad-menu-button = Menyu
 preferences-gamepads = Geympad
 preferences-left = Chap
