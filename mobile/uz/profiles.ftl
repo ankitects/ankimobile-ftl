@@ -1,6 +1,9 @@
 profiles-a-profile-with-that-name-already = Bu nomli profil allaqachon mavjud.
 profiles-add-profile = Profil qoʻshish
+profiles-finishing-backup = Zaxiralash tugallanmoqda...
+profiles-please-provide-some-text-avoiding-symbols = Belgilar va pastki chiziq ishlatmagan holda matn kiriting.
 profiles-please-select-another-profile-first = Oldin boshqa profilni tanlang.
 profiles-profile-name = Profil nomi
 profiles-rename-profile = Profil nomini oʻzgartirish
+profiles-unable-to-open-safari-please = Safarini ochib boʻlmadi - ota-ona nazoratini tekshiring.
 profiles-welcome = Hush keldingiz!
