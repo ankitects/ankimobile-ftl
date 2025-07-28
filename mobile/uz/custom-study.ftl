@@ -1,0 +1,3 @@
+# any tag
+custom-study-any-tag = har qanday
+custom-study-loading = Yuklanmoqda...
