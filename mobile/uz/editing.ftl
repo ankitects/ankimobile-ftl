@@ -5,6 +5,7 @@ editing-card-returned-to-new-card-queue = Karta yangi karta navbatiga qaytarildi
 editing-card-unsuspended = Karta toʻxtatishdan chiqarildi
 editing-from-camera = Kameradan
 editing-from-file = Fayldan
+editing-from-photos = Fotolardan
 editing-italic = Kursiv
 # keyboard shortcut description
 editing-next-cloze = Keyingi boʻshliq

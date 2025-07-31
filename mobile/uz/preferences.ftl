@@ -1,4 +1,5 @@
 preferences-about = Haqida
+preferences-autoplay-in-silent-mode = "Silent Mode"da avtomatik ijro etish
 preferences-always-duck = Orqa fondagi tovushlarni har doim pasaytirish
 preferences-answer-keeps-zoom = Javob masshtabni saqlaydi
 preferences-answer-side = Javob tarafi

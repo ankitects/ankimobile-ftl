@@ -1,3 +1,4 @@
 media-error-initializing-recorder = Diktofonni ishga tushurishda xatolik yuz berdi.
 media-error-playing-audio-full = Audioni ijro etishda xatolik yuz berdi. Bunga buzilgan fayl, iOS qoʻllab-quvvatlamaydigan fayl turi (masalan, .ogg) yoki mp3 fayl .wav sifatida notoʻgʻri nomlanganligi sabab boʻlishi mumkin.
+media-privacy-microphone = Qurilmangiz sozlamalarida Privacy>Microphoneʼga oʻting va Ankiʼga mikrofon ishlatishga ruxsat bering.
 media-recording = Yozib olinmoqda...
