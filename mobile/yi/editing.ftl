@@ -17,7 +17,15 @@ editing-note-type-prompt = מין:
 editing-note-unsuspended = נאָטיץ מער נישט אָפּגעשטעלט
 # keyboard shortcut description
 editing-same-cloze = זעלביקער שפּאַלט
+editing-the-first-field-must-not-be = דאָס ערשטע פֿעלד טאָר נישט בלײַבן ליידיק.
+editing-unable-to-obtain-image = נישט געקענט באַקומען בילד
+editing-unable-to-read-file = נישט געקענט לייענען טעקע
+editing-underline = אונטערשרײַכן
 editing-unexpected-file-extension = נישט ערוואַרטעטע טעקע-פֿאַרלענגערונג:
+editing-unexpected-rich-text-format-please = אומדערוואַרטעט רײַך-טעקסט פֿאָרמאַט - פּרוביר קאָפּירן און צוקלעפּן.
+editing-unexpected-status-code = אומדערוואַרטעט סטאַטוס-קאָד:
 editing-unsuspend-card = צוריקנעמען קאַרטל
 editing-unsuspend-note = צוריקנעמען נאָטיץ
 editing-discard-changes-question = אַוועקוואַרפֿן טוישונגען?
+editing-discard = אָפּוואַרפֿן
+editing-keep-editing = צופּאַסן ווײַטער
