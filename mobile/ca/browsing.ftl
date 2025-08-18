@@ -2,7 +2,7 @@
 browsing-append = Afegeix
 # add current row to existing search, with a '-' at the start to reverse it
 browsing-append-negated = Sostreu
-browsing-card-updated = S'ha actualitzat la targeta.
+browsing-card-updated = S’ha actualitzat la targeta.
 browsing-change-flag = Canvia de senyal
 browsing-clear-flag = Suprimeix el senyal
 browsing-confirm-reset = Confirma la reinicialització
@@ -12,7 +12,7 @@ browsing-due-reviews = Repassos pendents
 browsing-learning-cards = Targetes d'aprenentatge
 browsing-no-cards-are-selected = No heu seleccionat cap nota o targeta.
 browsing-note-created = S'ha creat la nota
-browsing-note-updated = S'ha actualitzat la nota
+browsing-note-updated = S’ha actualitzat la nota.
 browsing-note2 = Nota:
 browsing-questionandanswer = Pregunta i resposta
 browsing-repetitions = Repeticions
