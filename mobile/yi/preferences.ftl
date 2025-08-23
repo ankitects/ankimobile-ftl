@@ -47,6 +47,8 @@ preferences-left = לינקס
 # gamepad
 preferences-left-shoulder = לינקער אַקסל
 # gamepad
+preferences-left-thumbstick-button = לינקע אַדוגלשטעקן קנעפּל
+# gamepad
 preferences-left-trigger = לינקע צינגל
 preferences-logged-in-as = אַרײַנגעשריבן ווי:
 preferences-long = לאַנג
@@ -61,6 +63,8 @@ preferences-normal = סתּם
 preferences-notifications = הודעות
 preferences-notifications-alert-time = הודעה-צײַט
 preferences-notifications-alert-when-due = מודיע זײַן ווען טערמיניק
+preferences-notifications-app-icon-shows-due-count = אַפּ-בילדל ווײַזט וויפֿל טערמיניק
+preferences-notifications-settings-app-enable-notifications = גיב אַ קוק און iOS ברירות, געפֿין דעם אַנקי אָפּטייל, און אַקטיוויר הודעות, בלעכלעך און אָנזאָגן.
 preferences-pen-size = פֿעדער-גרייס
 preferences-question-side = פֿראַגע-גרייס
 preferences-remaining-count = חשבון פֿון געבליבענע קאַרטלעך
@@ -68,7 +72,10 @@ preferences-right = רעכטס
 # gamepad
 preferences-right-shoulder = רעכטער אַקסל
 # gamepad
+preferences-right-thumbstick-button = רעכטע אַדוגלשטעקן קנעפּל
+# gamepad
 preferences-right-trigger = רעכטע צינגל
+preferences-scratchpad-below-buttons = בלאָקנאָט אונטער קנעפּלעך
 preferences-scratchpad-transparency = בלאָקנאָט דורכזעיִקײט
 preferences-scratchpad-transparency-full = פֿול
 preferences-scratchpad-transparency-medium = מעדיום
@@ -88,6 +95,7 @@ preferences-swipes = פֿירן טאָן
 preferences-swipes-must-begin-from-the-far = פֿירן מוזן אָנהייבן פֿון ווײַט-לינקס אָדער -רעכטס פֿון עקראַן
 preferences-sync-sounds-images = סינכראָניזירן קלאַנג און בילדער
 preferences-syncing = סיכראָניזירן
+preferences-tap-to-sync = כּדי צו אַקטיווירן דאָס סינכראָניזירן, גיט אַ טאַפּ דעם „סינכראָניזירן״ קנעפּל אינעם טעשל-רשימה עקראַן.
 preferences-taps = טאַפּן
 preferences-theme-bar-style = באַלקן-שטײגער
 preferences-theme-black = שוואַרץ
@@ -97,6 +105,7 @@ preferences-theme-force-on = צווינגען אָן
 preferences-theme-light-translucent = ליכטיק און דורכלײַכטיק
 preferences-theme-night-mode-desc = נאַכט-מאָדוס פֿאַרטונקלט דעם צווישנבינד, און ווײַזט קאַרטלעך אַלס ווײַס אויף שוואַרץ.
 preferences-theme-night-mode-same-as-system = לויט דער סיסטעם
+preferences-theme-slate = שיווערשטיין
 preferences-thick = דיק
 preferences-tools-overlay-button = מכשירים-איבערלאָג קנעפּל
 preferences-tools-overlay-position = מכשירים-איבערלאָג פּאָזיציע
@@ -110,7 +119,7 @@ preferences-you-have-been-logged-out = האָסט זיך אַרויסגעשרי�
 # a limit on the long edge of an image (eg 1024 pixels)
 preferences-editing-max-image-size = מאַקסימאַל בילד-גרייס (לאַנגער ראַנד)
 # whether to shrink images when pasting
-preferences-editing-resize-on-paste = בײַטן גרייס בײַם קלעפּן
+preferences-editing-resize-on-paste = בײַטן גרייס בײַם אַרײַנקלעפּן
 # convert smart quotes and smart dashes to ASCII style
 preferences-editing-convert-smart-quotes = איבערמאַכן קלוג-גענזעל-פֿיסלעך און טירעען
 preferences-editing-crop-camera-photos = צושנײַדן קאַמערע-בילדער
