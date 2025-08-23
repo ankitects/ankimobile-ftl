@@ -28,6 +28,7 @@ preferences-collection-new-first = تازه‌ها اول
 preferences-collection-newreview-order = ترتیب کارت‌های مرور/تازه
 preferences-collection-reviews-first = اول مرورها
 preferences-double-tap-prevention = منع ضربۀ دوتایی
+preferences-open-links-externally = باز‌کردن در مرورگر
 preferences-drawing-screen-ignores-fingers = کار نکردن انگشت روی صفحۀ رسم
 preferences-feedback-ticks = تیک‌های بازخورد
 preferences-spread-ticks = پخش کردن علامت ها
