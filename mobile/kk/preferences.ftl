@@ -37,6 +37,7 @@ preferences-full-sync = Толық Үйлесім
 preferences-gamepad-button-mapping = Түймелерді Бейнелеу
 preferences-gamepad-menu-button = Мәзір
 preferences-gamepads = Геймпад
+preferences-gamepad-thumbpad-deadzone = Бас бармақтан шектелген аймақ %
 preferences-height = Биіктік
 preferences-huge = Алып
 preferences-ignore-fingers = Саусақты Елемеу
@@ -63,6 +64,8 @@ preferences-notifications-alert-time = Ескерту Уақыты
 preferences-notifications-alert-when-due = Мерізімінде Ескерту
 preferences-notifications-app-icon-shows-due-count = Белгіше Дайын Карта Санын Көрсетеді
 preferences-pen-size = Қалам Өлшемі
+preferences-question-side = Сұрақ Жағы
+preferences-remaining-count = Қалғаны
 preferences-right = Оң
 # gamepad
 preferences-right-shoulder = Оң Иық

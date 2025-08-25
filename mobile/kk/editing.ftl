@@ -13,9 +13,13 @@ editing-note-suspended = Жазба кідірді
 # (Note) type: 
 editing-note-type-prompt = Түр:
 editing-note-unsuspended = Жазба тірілді
+# keyboard shortcut description
+editing-same-cloze = Сол Саңылау Толтырудың Өзі
+editing-the-first-field-must-not-be = Бірінші өріс бос болмауы керек.
 editing-unable-to-obtain-image = Суретті алуға қабілетсіз
 editing-unable-to-read-file = Файлды оқуға қабілетсіз
 editing-underline = Астын Сызу
+editing-unexpected-file-extension = Күтпеген файл кеңейтімі:
 editing-unexpected-status-code = Күтпеген күй коды:
 editing-unsuspend-card = Картаны Тірілту
 editing-unsuspend-note = Жазбаны Тірілту

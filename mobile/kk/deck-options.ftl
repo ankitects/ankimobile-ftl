@@ -11,6 +11,7 @@ deck-options-max-new-per-day = Күндік жаңа карта шегі
 deck-options-max-reviews-per-day = Күндік шолым шегі
 deck-options-new-cards = Жаңа карталар
 deck-options-options-group = Баптаулар тобы
+deck-options-replay-q-audio-in-answer = С. аудиосын жауапта қайталау
 deck-options-reset-all-settings-to-defaults = Барлық баптауды қалпына келтіру?
 deck-options-restore-defaults = Қалпына Келтіру
 deck-options-steps = Қадамдар
