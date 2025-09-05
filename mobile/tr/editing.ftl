@@ -17,5 +17,7 @@ editing-note-type-prompt = Tür
 editing-note-unsuspended = Not askıdan çıkarıldı
 # keyboard shortcut description
 editing-same-cloze = Benzer Boşluk
+editing-unable-to-read-file = Dosya okunamıyor
 editing-underline = Altını çiz
+editing-unexpected-file-extension = Beklenmeyen dosya uzantısı:
 editing-discard = vazgeç
