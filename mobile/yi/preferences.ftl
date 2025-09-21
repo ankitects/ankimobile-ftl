@@ -41,7 +41,7 @@ preferences-gamepads = שפּיל-קאָנטראָלערס
 preferences-height = הייך
 preferences-huge = ריזיק
 preferences-ignore-fingers = איגנאָרירן פֿינגער
-preferences-interrupt-current-audio = איבעררײַסן גייי‎ִקע קלאַנג
+preferences-interrupt-current-audio = איבעררײַסן גיייִקע קלאַנג
 preferences-large = גרויס
 preferences-left = לינקס
 # gamepad
@@ -64,7 +64,7 @@ preferences-notifications = הודעות
 preferences-notifications-alert-time = הודעה-צײַט
 preferences-notifications-alert-when-due = מודיע זײַן ווען טערמיניק
 preferences-notifications-app-icon-shows-due-count = אַפּ-בילדל ווײַזט וויפֿל טערמיניק
-preferences-notifications-settings-app-enable-notifications = גיב אַ קוק און iOS ברירות, געפֿין דעם אַנקי אָפּטייל, און אַקטיוויר הודעות, בלעכלעך און אָנזאָגן.
+preferences-notifications-settings-app-enable-notifications = גיב אַ קוק און iOS ברירות, געפֿין דעם „אַנקי״ אָפּטייל, און אַקטיוויר הודעות, בלעכלעך און אָנזאָגן.
 preferences-pen-size = פֿעדער-גרייס
 preferences-question-side = פֿראַגע-גרייס
 preferences-remaining-count = חשבון פֿון געבליבענע קאַרטלעך
