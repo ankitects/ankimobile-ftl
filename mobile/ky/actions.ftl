@@ -1,0 +1,77 @@
+actions-actions = Аракеттер
+actions-add-new = Жаңы кошуу
+actions-added-to-frequent-actions = Көп колдонулган аракеттерге кошулду.
+actions-all-actions = Бардык аракеттер
+actions-already-in-frequent-actions = Буга чейин эле көп колдонулган аракеттерде.
+actions-an-error-occurred = Ката кетти: { $error }
+actions-answer-easy = Оңой деп жооп берүү
+actions-are-you-sure = Акыркы чечимиңизби?
+actions-bottom-bar = Төмөнкү тилке
+actions-browse = Карап чыгуу
+actions-card-buried = Карта көмүлдү
+actions-card-suspended = Карта токтотулду
+actions-card-template = Картанын калыбы
+actions-confirm-delete = Өчүрүүнү ырастоо
+actions-create = Түзүү
+actions-current-audio-minus-5s = Учурдагы аудио -5с
+actions-current-audio-plus-5s = Учурдагы аудио +5с
+actions-custom-study-cant-be-used-on = Жекече окууну фильтирленген карталар топтомунда колдонууга болбойт.
+actions-deck-statistics = Карталар топтомунун статистикасы
+actions-delete-note-and-its-cards = Эскертмени жана анын карталарын өчүрөсүзбү?
+actions-discard-changes = Өзгөртүүлөрдөн баш тартуу
+actions-done = Даяр
+actions-downloading = Жүктөлүүдө...
+actions-drag-here-to-remove = Өчүрүү үчүн бул жерге сүйрөңүз
+actions-draw = Сүрөт тартуу
+actions-file-invalid-or-corrupt = Файл жараксыз же бузулган.
+actions-filtercram = Чыпкалоо/Жаттоо
+actions-filtered-deck = Чыпкаланган топтом { $num }
+actions-frequent-actions = Көп колдонулган аракеттер
+actions-leave-without-saving = Сактабай чыгасызбы?
+actions-long-press-on-an-item-to = Ыңгайлаштыруу үчүн элементти көпкө басып туруңуз.
+actions-mark = Белгилөө
+actions-mark-and-bury = Белгилөө + Көмүү
+actions-mark-and-suspend = Белгилөө + Токтотуу
+actions-marked = Белгиленген
+actions-no-current-card = Учурда карта жок.
+actions-no-load-restore-backup = Сиздин коллекцияңыз жүктөлгөн жок. Сураныч, жөндөөлөр экраны аркылуу автоматтык камдык көчүрмөдөн калыбына келтириңиз.
+# (http://example.com) does not appear to be...
+actions-not-valid-link = жарактуу http/https шилтемеси эмес окшойт.
+actions-note-and-its-cards-deleted = Эскертме жана анын { $count } картасы өчүрүлдү
+actions-note-and-its-cards-suspended = Эскертме жана анын { $count } картасы токтотулду
+actions-note-buried = Эскертме көмүлдү
+actions-note-marked-and-buried = Эскертме белгиленип, көмүлдү
+actions-off = Өчүк
+actions-please-tap-the-in-the = Баштоо үчүн жогорку сол жактагы '?' белгисин басыңыз.
+actions-record-voice = Үн жаздыруу
+actions-record-voice-menu = Үн жаздыруу менюсу
+actions-reset-card = Картаны баштапкы абалга келтирүү
+actions-revert = Артка кайтаруу
+actions-review-undone = Кайталоо жокко чыгарылды
+actions-scratchpad = Чийме тактасы
+actions-scratchpad-size = Чийме тактасынын өлчөмү
+actions-select-deck = Карталар топтомун тандоо
+actions-select-note-type = Эскертме түрүн тандоо
+actions-show-answeranswer-good = Жообун көрсөтүү/Жакшы деп жооп берүү
+actions-study-options = Окуу жөндөөлөрү
+actions-tools = Аспаптар
+actions-tools-overlay = Аспаптар катмары
+actions-top-bar = Жогорку тилке
+actions-unbury-deck = Колоданы айландыруу
+actions-undo = Артка кайтаруу
+actions-unmarked = Белгиленбеген
+actions-you-can-only-empty-a-filtered = Сиз фильтирленген карталар топтомун гана бошотсоңуз болот.
+actions-you-can-only-rebuild-a-filtered = Сиз фильтирленген карталар топтомун гана кайра түзө аласыз.
+actions-scroll-up = Жогору сыдыруу
+actions-scroll-down = Төмөн сыдыруу
+
+## Short actions. These will be shown in the top bar, and should be kept to about
+## 5-7 characters where possible.
+
+# empty filtered deck
+actions-empty-short = Бошотуу
+# create a filtered deck
+actions-filter-short = Фильтр
+actions-add-short = Кошуу
+actions-current-audio-minus-5s-short = -5с
+actions-current-audio-plus-5s-short = +5с
