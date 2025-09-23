@@ -15,7 +15,7 @@ custom-study-max-cards-to-gather = מאַקס. קאַרטלעך אויף צו ז
 # no tags selected
 custom-study-no-tags = קיין נישט
 custom-study-no-tags-available = קיין צעטל נישט בנמצא
-custom-study-preview-all-cards-with-certain-tags = פֿאָראויסווײַזן טערמיניקע קאַרטלעך מיט געוויסע צעטלען
+custom-study-preview-all-cards-with-certain-tags = פֿאָרויסווײַזן טערמיניקע קאַרטלעך מיט געוויסע צעטלען
 custom-study-review-due-cards-with-certain-tags = איבער׳חזר׳ן טערמיניקע קאַרטלעך מיט געוויסע צעטלען
 custom-study-search-matches = זוך רעזולטאַטן { $num }
 custom-study-study-type = סאָרט אײַנ׳חזר׳ן
