@@ -1,0 +1,9 @@
+profiles-a-profile-with-that-name-already = Мындай аталыштагы профиль мурунтан эле бар.
+profiles-add-profile = Профиль кошуу
+profiles-finishing-backup = Камдык көчүрмө аякталууда...
+profiles-please-provide-some-text-avoiding-symbols = Сураныч, символдорду жана астын сызууларды колдонбой, текст киргизиңиз.
+profiles-please-select-another-profile-first = Сураныч, адегенде башка профилди тандаңыз.
+profiles-profile-name = Профилдин аты
+profiles-rename-profile = Профилдин атын өзгөртүү
+profiles-unable-to-open-safari-please = Safari'ди ачуу мүмкүн болбоду - ата-эненин көзөмөлүн текшериңиз.
+profiles-welcome = Кош келиңиз!

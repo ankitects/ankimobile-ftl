@@ -1,0 +1,6 @@
+exporting-collection-saved-to-itunes = Коллекция iTunes'ка сакталды.
+exporting-export-to-itunes = iTunes'ка экспорттоо
+exporting-export-to-share-sheet = "Бөлүшүү" барагына экспорттоо
+exporting-exporting = Экспорттолууда...
+exporting-include-media2 = Медианы кошуу
+exporting-media-files-exported-d = Экспорттолгон медиа файлдар: { $count }...

@@ -1,0 +1,9 @@
+importing-delete-imported-file = Импорттолгон файлды өчүрөсүзбү?
+importing-import-complete = Импорттоо аяктады.
+importing-importing = Импорттолууда...
+importing-no-apkg-or-colpkg-files-were = iTunes'та .apkg же .colpkg файлдары табылган жок.
+importing-overwrite-via-import = Бардык коллекцияны импорттолгон файл менен алмаштырасызбы? Бул аракетти артка кайтаруу мүмкүн эмес.
+importing-please-choose-a-file = Сураныч, файл тандаңыз.
+importing-processed-media-files-d = Иштелген медиа файлдар: { $count }...
+importing-replace-collection = Коллекцияны алмаштыруу
+importing-file-not-downloaded = Сураныч, файлды iCloud'дан жүктөп, кайра импорттоңуз.
