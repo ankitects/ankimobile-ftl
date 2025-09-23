@@ -1,0 +1,16 @@
+decks-a-deck-must-be-provided = Карталар топтому көрсөтүлүшү керек.
+decks-a-deck-named-already-exists = '{ $name }' аттуу карталар топтому мурунтан эле бар.
+decks-a-deck-with-that-name-already = Мындай аталыштагы карталар топтому мурунтан эле бар.
+decks-add-deck = Топтом кошуу
+decks-add-empty-deck = Бош топтом кошуу
+decks-addexport = Кошуу/Экспорттоо
+decks-cannot-delete = Өчүрүү мүмкүн эмес
+decks-card-limit = Карталардын лимити
+decks-cards-in-a-filtered-deck-cant = Фильтирленген топтомдогу карталарды жылдырууга болбойт.
+decks-custom-steps = Жекече кадамдар
+decks-deck-exists = Топтом мурунтан эле бар
+decks-deck-label = Топтом:
+decks-deck-name = Топтомдун аталышы
+decks-deck-options = Топтомдун жөндөөлөрү
+decks-download-link = Жүктөө шилтемеси
+decks-export-collection = Коллекцияны экспорттоо
