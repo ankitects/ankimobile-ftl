@@ -26,7 +26,6 @@ actions-draw = Vẽ
 actions-file-invalid-or-corrupt = Tệp không hợp lệ hoặc bị hỏng.
 actions-filtercram = Lọc/Gộp
 actions-filtered-deck = Bộ thẻ đã Lọc { $num }
-actions-forgot-card = Quên thẻ
 actions-frequent-actions = Tác vụ thường xuyên
 actions-leave-without-saving = Rời đi mà không lưu?
 actions-long-press-on-an-item-to = Nhấn giữ vào một mục để tùy chỉnh.
@@ -63,6 +62,8 @@ actions-undo = Hoàn tác
 actions-unmarked = Chưa đánh dấu
 actions-you-can-only-empty-a-filtered = Bạn chỉ có thể làm trống một bộ thẻ đã lọc.
 actions-you-can-only-rebuild-a-filtered = Bạn chỉ có thể dựng  lại một bộ thẻ đã lọc.
+actions-scroll-up = Đi lên
+actions-scroll-down = Đi xuống
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
@@ -114,3 +115,6 @@ actions-top-bar-short = T.Trên
 actions-unbury-deck-short = Bỏ T.hoãn
 actions-undo-short = Hoàn tác
 actions-redo-short = Làm lại
+actions-scroll-up-short = Trên
+actions-scroll-down-short = Dưới
+actions-back = Quay lại

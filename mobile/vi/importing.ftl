@@ -6,3 +6,4 @@ importing-overwrite-via-import = Ghi đè toàn bộ bộ sưu tập bằng tệ
 importing-please-choose-a-file = Vui lòng chọn một file.
 importing-processed-media-files-d = Tệp phương tiện đã xử lý: { $count }...
 importing-replace-collection = Thay thế Bộ sưu tập
+importing-file-not-downloaded = Hãy tải tài liệu từ iCloud và nhập nó lại.
