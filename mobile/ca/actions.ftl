@@ -34,7 +34,7 @@ actions-mark-and-bury = Marca i enterra
 actions-mark-and-suspend = Marca i suspèn
 actions-marked = Marcada
 actions-no-current-card = No hi ha cap targeta actual.
-actions-no-load-restore-backup = No s'ha pogut carregar la vostra col·lecció. Restaureu-la des d'una còpia de seguretat automàtica mitjançant el menú de preferències.
+actions-no-load-restore-backup = No s’ha pogut carregar la col·lecció. Restaura una còpia de seguretat automàtica al menú de preferències.
 # (http://example.com) does not appear to be...
 actions-not-valid-link = no sembla un enllaç http/https vàlid
 actions-note-and-its-cards-deleted = S'ha esborrat la nota i les seves { $count } targetes.
