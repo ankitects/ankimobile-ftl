@@ -1,9 +1,9 @@
-importing-delete-imported-file = Voleu esborrar el fitxer que heu importat?
-importing-import-complete = S'ha completat la importació.
-importing-importing = S'estan important…
+importing-delete-imported-file = Vols esborrar el fitxer importat?
+importing-import-complete = S’ha completat la importació.
+importing-importing = S’estan important…
 importing-no-apkg-or-colpkg-files-were = No s’ha trobat cap fitxer .apkg o .colpkg en iTunes
-importing-overwrite-via-import = Voleu substituir tota la col·lecció pel fitxer que heu importat? Aquesta acció no es pot desfer.
-importing-please-choose-a-file = Seleccioneu un fitxer.
+importing-overwrite-via-import = Vols substituir tota la col·lecció pel fitxer importat? Aquesta acció no es pot desfer.
+importing-please-choose-a-file = Selecciona un fitxer.
 importing-processed-media-files-d = Fitxers multimèdia processats: { $count }…
 importing-replace-collection = Substituir la col·lecció
-importing-file-not-downloaded = Descarregueu el fitxer d’iCloud i torneu a importar-lo.
+importing-file-not-downloaded = Descarrega el fitxer de l’iCloud i torna a importar-lo.

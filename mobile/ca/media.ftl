@@ -1,4 +1,4 @@
-media-error-initializing-recorder = S'ha produït un error en inciar l'enregistrador.
-media-error-playing-audio-full = S'ha produït un error en reproduir el so. Aquest error pot ser conseqüència d'un fitxer malmès, d'un tipus de fitxer amb què l'iOS no és compatible (per exemple, l'.ogg) o d'un fitxer .mp3 marcat incorrectament amb l'extensió .wav.
-media-privacy-microphone = Accediu al menú «Privacitat i seguretat > Micròfon» en la configuració del dispositiu i concediu permís a Anki per a fer servir el micròfon.
-media-recording = S'està enregistrant…
+media-error-initializing-recorder = No s’ha pogut inciar la gravadora.
+media-error-playing-audio-full = No s’ha pogut reproduir el so. És possible que un fitxer estigui malmès, no sigui compatible amb l’iOS (per exemple, .ogg) o que un fitxer .mp3 dugui l’extensió .wav.
+media-privacy-microphone = Obre «Privacitat i seguretat > Micròfon» en la configuració del dispositiu i concedeix permís a Anki per a fer servir el micròfon.
+media-recording = S’està enregistrant…
