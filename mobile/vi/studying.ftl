@@ -1,5 +1,5 @@
-studying-auto-advance-starting = Tự động nâng cao bắt đầu
-studying-auto-advance-stopped = Tự động nâng cao dừng lại
+studying-auto-advance-starting = Tự động đi tiếp bắt đầu
+studying-auto-advance-stopped = Tự động đi tiếp dừng lại
 # ...have (5 cards) ready...
 studying-have-ready-to-study = Bạn có { $numCards } sẵn sàng để học.
 studying-please-run-empty-cards-on-the = Vui lòng khởi chạy Thẻ trống trên phiên bản máy tính.
