@@ -117,4 +117,4 @@ actions-undo-short = Annuler
 actions-redo-short = Rétablir
 actions-scroll-up-short = Haut
 actions-scroll-down-short = Bas
-actions-back = Verso
+actions-back = Retour
