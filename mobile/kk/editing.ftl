@@ -7,6 +7,8 @@ editing-from-camera = Камерадан
 editing-from-file = Файлдан
 editing-from-photos = Фотолардан
 editing-italic = Көлбеу
+# keyboard shortcut description
+editing-next-cloze = Келесі Саңылау
 editing-next-field = Келесі Өріс
 editing-note-deleted = Жазба жойылды
 editing-note-suspended = Жазба кідірді
@@ -20,6 +22,7 @@ editing-unable-to-obtain-image = Суретті алуға қабілетсіз
 editing-unable-to-read-file = Файлды оқуға қабілетсіз
 editing-underline = Астын Сызу
 editing-unexpected-file-extension = Күтпеген файл кеңейтімі:
+editing-unexpected-rich-text-format-please = Күтпеген бай мәтін пішімі - көшіріп қоюып көріңіз.
 editing-unexpected-status-code = Күтпеген күй коды:
 editing-unsuspend-card = Картаны Тірілту
 editing-unsuspend-note = Жазбаны Тірілту

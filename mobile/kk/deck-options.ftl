@@ -3,6 +3,7 @@ deck-options-answer-time-cap = Жауап уақытының шегі
 deck-options-bury-related-new-cards = Тектес жаңа карталарды тығу
 deck-options-bury-related-reviews = Тектес шолымдарды тығу
 deck-options-defaults = Әдепкілер
+deck-options-delete-options-full-sync = Бұл баптаулар тобын жою келесі үйлесімде басқа құрылғылардан келген өзгерістерді біріктіруге жол бермейді. Жалғастырасыз ба?
 deck-options-display-in-order-added = Қосылған ретімен көрсету
 deck-options-display-in-random-order = Кездейсоқ ретте көрсету
 deck-options-full-sync-required = Толық Үйлесім Қажет
