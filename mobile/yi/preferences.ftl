@@ -38,6 +38,7 @@ preferences-full-sync = סינכראָניזירן אין נאָר איין רי
 preferences-gamepad-button-mapping = קנעפּל-מאַפּירונג
 preferences-gamepad-menu-button = מעניו
 preferences-gamepads = שפּיל-קאָנטראָלערס
+preferences-gamepad-thumbpad-deadzone = בלאָקנאָט-בופֿער %
 preferences-height = הייך
 preferences-huge = ריזיק
 preferences-ignore-fingers = איגנאָרירן פֿינגער
