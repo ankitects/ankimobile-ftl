@@ -21,3 +21,5 @@ actions-add-short = Lägg till
 actions-answer-again-short = Igen
 actions-answer-easy-short = Lätt
 actions-answer-good-short = Bra
+actions-answer-hard-short = Svårt
+actions-card-template-short = Mall
