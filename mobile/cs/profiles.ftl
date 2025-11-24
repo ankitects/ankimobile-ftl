@@ -1,0 +1,9 @@
+profiles-a-profile-with-that-name-already = Profil s tímto názvem již existuje.
+profiles-add-profile = Přidat profil
+profiles-finishing-backup = Dokončování zálohování...
+profiles-please-provide-some-text-avoiding-symbols = Zadejte text, vyhněte se symbolům a podtržítkům.
+profiles-please-select-another-profile-first = Nejprve prosím vyberte jiný profil.
+profiles-profile-name = Název profilu
+profiles-rename-profile = Přejmenovat profil
+profiles-unable-to-open-safari-please = Nelze otevřít Safari - zkontroluje prosím rodičovskou kontrolu.
+profiles-welcome = Vítejte!
