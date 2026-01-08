@@ -1,7 +1,7 @@
 deck-options-add-options-group = Баптаулар Тобын Қосу
 deck-options-answer-time-cap = Жауап уақытының шегі
 deck-options-bury-related-new-cards = Тектес жаңа карталарды тығу
-deck-options-bury-related-reviews = Тектес шолымдарды тығу
+deck-options-bury-related-reviews = Тектес қайталауларды тығу
 deck-options-defaults = Әдепкілер
 deck-options-delete-options-full-sync = Бұл баптаулар тобын жою келесі үйлесімде басқа құрылғылардан келген өзгерістерді біріктіруге жол бермейді. Жалғастырасыз ба?
 deck-options-display-in-order-added = Қосылған ретімен көрсету
@@ -9,7 +9,7 @@ deck-options-display-in-random-order = Кездейсоқ ретте көрсе�
 deck-options-full-sync-required = Толық Үйлесім Қажет
 deck-options-group-name = Топ атауы
 deck-options-max-new-per-day = Күндік жаңа карта шегі
-deck-options-max-reviews-per-day = Күндік шолым шегі
+deck-options-max-reviews-per-day = Күндік қайталау шегі
 deck-options-new-cards = Жаңа карталар
 deck-options-options-group = Баптаулар тобы
 deck-options-replay-q-audio-in-answer = С. аудиосын жауапта қайталау
