@@ -1,10 +1,13 @@
 deck-options-add-options-group = Дадаць групу параметраў
+deck-options-bury-related-new-cards = Адкладваць звязаныя новыя карткі
 deck-options-bury-related-reviews = Адкладваць звязаныя карткі да перагляду
 deck-options-defaults = Прадвызначаныя
+deck-options-delete-options-full-sync = Выдаленне гэтай групы параметраў перашкодзіць зліццю зменаў з іншай прылады пры наступнай сінхранізацыі. Працягнуць?
 deck-options-display-in-order-added = Адлюстроўваць у парадку дадавання
 deck-options-display-in-random-order = Паказваць у выпадковым парадку
 deck-options-full-sync-required = Патрабуецца поўная сінхранізацыя
 deck-options-group-name = Назва групы
+deck-options-max-new-per-day = Найбольшая колькасць новых на дзень
 deck-options-max-reviews-per-day = Макс. пераглядаў на дзень
 deck-options-new-cards = Новыя карткі
 deck-options-options-group = Група параметраў
