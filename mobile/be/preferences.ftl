@@ -1,4 +1,6 @@
-preferences-about = Аб праграме
+preferences-about = Пра праграму
+preferences-autoplay-in-silent-mode = Аўтаматычна прайграваць у ціхім рэжыме
+preferences-always-duck = Заўсёды прыглушаць фонавыя гукі
 preferences-answer-keeps-zoom = Захоўваць маштабаванне пры адказе
 preferences-answer-side = Бок з адказам
 preferences-audio-buttons = Кнопкі аўдыя
