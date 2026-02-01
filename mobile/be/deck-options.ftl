@@ -1,4 +1,5 @@
 deck-options-add-options-group = Дадаць групу параметраў
+deck-options-answer-time-cap = Ліміт часу на адказ
 deck-options-bury-related-new-cards = Адкладваць звязаныя новыя карткі
 deck-options-bury-related-reviews = Адкладваць звязаныя карткі да перагляду
 deck-options-defaults = Прадвызначаныя

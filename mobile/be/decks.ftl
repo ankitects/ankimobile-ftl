@@ -19,6 +19,7 @@ decks-import-from-itunes = Імпартаваць з iTunes
 decks-invalid-deck-name = Памылковая назва калоды.
 decks-link-to-apkg-file-to-import = Спасылка на файл .apkg для імпарту:
 decks-no-matches = Няма супадзенняў
+decks-return-by-delete = Каб вярнуць усе карткі адразу, правядзіце пальцам па сіняй калодзе ў спісе і выдаліце яе
 decks-shared-deck-list = Спіс абагуленых калод
 decks-sync = Сінхранізацыя
 decks-synchronize = Сінхранізаваць
