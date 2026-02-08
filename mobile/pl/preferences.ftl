@@ -127,6 +127,6 @@ preferences-editing-crop-camera-photos = Przycinaj zdjęcia z aparatu
 preferences-loop-video = Zapętl wideo
 preferences-show-video-controls = Pokaż przyciski sterowania wideo
 preferences-high-quality-video = Wideo wysokiej jakości
-preferences-auto-capitalize = Zaczynaj duża literą
+preferences-auto-capitalize = Zaczynaj dużą literą
 preferences-auto-correct = Autokorekta
 preferences-strip-hebrew-vowels = Usuń hebrajskie samogłoski
