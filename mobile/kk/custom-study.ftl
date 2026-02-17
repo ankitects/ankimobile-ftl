@@ -9,7 +9,7 @@ custom-study-exclude-cards-with-tag = Осы тамғасы бар картал�
 custom-study-extra-new-cards = Үстеме жаңа карталар
 custom-study-extra-review-cards = Үстеме қайталау карталары
 custom-study-include-cards-with-tag = Осы тамғасы бар карталарды қосу:
-custom-study-learn-new-cards-with-certain-tags = Белгілі тамғалары бар жаңа карталарды оқу
+custom-study-learn-new-cards-with-certain-tags = Белгілі тамғалары бар жаңа карталарды үйрену
 custom-study-loading = Тиеу...
 custom-study-max-cards-to-gather = Карта жинау шегі
 # no tags selected
