@@ -1,7 +1,7 @@
 # add current row to existing search
 browsing-append = צוהענגען
 # add current row to existing search, with a '-' at the start to reverse it
-browsing-append-negated = צוהענג בטל געמאַכט
+browsing-append-negated = צוהענג בטל געוואָרן
 browsing-card-updated = קאַרטל דערהײַנטיקט
 browsing-change-flag = איבערבײַטן סימן
 browsing-clear-flag = אָפּמעקן סימן
