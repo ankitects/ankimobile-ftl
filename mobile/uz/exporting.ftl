@@ -1,4 +1,4 @@
-exporting-collection-saved-to-itunes = Toʻplam iTunesʼga saqlandi.
+exporting-collection-saved-to-itunes = Kolleksiya iTunesʼga saqlandi.
 exporting-export-to-itunes = iTunesʼga eksport qilish
 exporting-export-to-share-sheet = Share Sheetʼga eksport qilish
 exporting-exporting = Eksport qilinmoqda...

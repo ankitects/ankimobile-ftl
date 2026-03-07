@@ -34,7 +34,7 @@ actions-mark-and-bury = Belgilash va koʻmish
 actions-mark-and-suspend = Belgilash va toʻxtatish
 actions-marked = Belgilangan
 actions-no-current-card = Joriy karta yoʻq.
-actions-no-load-restore-backup = Toʻplamingizni yuklab boʻlmadi. Sozlamalar ekrani yordamida avtomatik zahiradan tiklang.
+actions-no-load-restore-backup = Kolleksiyangizni yuklab boʻlmadi. Sozlamalar ekrani yordamida avtomatik zahiradan tiklang.
 # (http://example.com) does not appear to be...
 actions-not-valid-link = yaroqli http/https havolasi emas.
 actions-note-and-its-cards-deleted = Qayd va uni { $count } ta kartasi oʻchirildi

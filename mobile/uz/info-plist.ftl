@@ -12,5 +12,5 @@ info-plist-search = Qidirish
 
 ## File imports
 
-info-plist-packaged-collection = Paketlangan Anki toʻplami
+info-plist-packaged-collection = Paketlangan Anki kolleksiyasi
 info-plist-packaged-anki-deck = Paketlangan Anki dastasi
