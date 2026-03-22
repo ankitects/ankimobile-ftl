@@ -23,7 +23,30 @@ actions-done = പൂർത്തിയായി
 actions-downloading = ഡൗൺലോഡ് ചെയ്യുന്നു...
 actions-drag-here-to-remove = നീക്കം ചെയ്യാൻ ഇവിടേക്ക് വലിച്ചിടുക
 actions-draw = വരയ്ക്കുക
+actions-filtered-deck = ഫിൽട്ടർ ചെയ്ത ഡെക്ക് { $num }
+actions-note-buried = കുറിപ്പ് കുഴിച്ചിട്ടു
+actions-record-voice = ശബ്ദം റെക്കോർഡ് ചെയ്യുക
+actions-reset-card = കാർഡ് റീസെറ്റ് ചെയ്യുക
+actions-select-deck = ഡെക്ക് തിരഞ്ഞെടുക്കുക
+actions-tools = ഉപകരണങ്ങൾ
+actions-undo = പഴയപടിയാക്കുക
 
 ## Short actions. These will be shown in the top bar, and should be kept to about
 ## 5-7 characters where possible.
 
+# empty filtered deck
+actions-empty-short = ശൂന്യം
+# create a filtered deck
+actions-filter-short = ഫിൽറ്റർ ചെയ്യുക
+actions-add-short = ചേര്‍ക്കുക
+actions-answer-again-short = വീണ്ടും
+actions-answer-easy-short = എളുപ്പം
+actions-answer-good-short = നല്ലത്
+actions-answer-hard-short = കഠിനം
+actions-browse-short = ബ്രൗസ്‌ ചെയ്യുക
+actions-card-template-short = ടെംപ്ലേറ്റ്
+actions-decks-short = ഡെക്കുകൾ
+actions-edit-short = തിരുത്തുക
+actions-rebuild-short = വീണ്ടും പണിയുക
+actions-undo-short = പഴയപടിയാക്കുക
+actions-redo-short = പുനര്‍നിര്‍വ്വഹിക്കുക
