@@ -1,0 +1,9 @@
+importing-delete-imported-file = Vill du ta bort den importerade filen?
+importing-import-complete = Importen är klar.
+importing-importing = Importerar...
+importing-no-apkg-or-colpkg-files-were = Inga .apkg- eller .colpkg-filer hittades i iTunes
+importing-overwrite-via-import = Skriv över hela samlingen med importerad fil? Åtgärden kan inte ångras.
+importing-please-choose-a-file = Välj en fil.
+importing-processed-media-files-d = Bearbetade mediefiler: { $count }...
+importing-replace-collection = Ersätt samlingen
+importing-file-not-downloaded = Vänligen ladda ner filen från iCloud och importera den sedan på nytt.

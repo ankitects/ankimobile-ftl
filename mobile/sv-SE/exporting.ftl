@@ -1,0 +1,6 @@
+exporting-collection-saved-to-itunes = Samlingen har sparats i iTunes.
+exporting-export-to-itunes = Exportera till iTunes.
+exporting-export-to-share-sheet = Exportera till Share Sheet
+exporting-exporting = Exporterar...
+exporting-include-media2 = Bifoga media
+exporting-media-files-exported-d = Exporterade mediefiler: { $count }...

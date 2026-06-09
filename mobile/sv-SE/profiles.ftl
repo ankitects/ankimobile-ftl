@@ -1,0 +1,9 @@
+profiles-a-profile-with-that-name-already = Det finns redan en profil med det namnet.
+profiles-add-profile = Lägg till profil
+profiles-finishing-backup = Säkerhetskopieringen avslutas...
+profiles-please-provide-some-text-avoiding-symbols = Ange en text och undvik symboler och understreck.
+profiles-please-select-another-profile-first = Välj först en annan profil.
+profiles-profile-name = Profilnamn
+profiles-rename-profile = Byt namn på profil
+profiles-unable-to-open-safari-please = Kan inte öppna Safari – kontrollera föräldrakontroller.
+profiles-welcome = Välkommen!
