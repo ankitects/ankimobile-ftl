@@ -1,3 +1,5 @@
+decks-a-deck-must-be-provided = En kortlek måste anges.
+decks-a-deck-named-already-exists = Det finns redan en kortlek med namnet '{ $name }'.
 decks-add-deck = Lägg till kortlek
 decks-deck-label = Kortlek:
 decks-deck-name = Kortlek namn
