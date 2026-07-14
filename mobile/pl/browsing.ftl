@@ -33,3 +33,5 @@ browsing-column-2 = Kolumna 2
 browsing-second-column-19 = Druga kolumna (1->9)
 browsing-second-column-91 = Druga kolumna (9->1)
 browsing-sort = Sortowanie:
+# Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
+browsing-card-suspended-undo = Karta zawieszona
