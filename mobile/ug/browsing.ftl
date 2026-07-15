@@ -33,3 +33,5 @@ browsing-column-2 = 2-رەت
 browsing-second-column-19 = 2-رەت (1->9)
 browsing-second-column-91 = 2-رەت(9->1)
 browsing-sort = تەرتىپ:
+# Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
+browsing-card-suspended-undo = كارتا كېچىكتۈرۈلدى
