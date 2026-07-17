@@ -33,3 +33,5 @@ browsing-column-2 = Sarake 2
 browsing-second-column-19 = Toinen sarake (1->9)
 browsing-second-column-91 = Toinen sarake (9->1)
 browsing-sort = Lajittelu:
+# Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
+browsing-card-suspended-undo = Kortti hyllytetty
