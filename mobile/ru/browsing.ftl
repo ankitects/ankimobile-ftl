@@ -33,3 +33,5 @@ browsing-column-2 = Столбец 2
 browsing-second-column-19 = Второй столбец (1->9)
 browsing-second-column-91 = Второй столбец (9->1)
 browsing-sort = Сортировка:
+# Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
+browsing-card-suspended-undo = Карточка исключена
