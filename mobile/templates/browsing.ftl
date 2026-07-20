@@ -26,6 +26,18 @@ browsing-notes-mode = Notes Mode
 browsing-sort-backwards = Sort Backwards
 browsing-larger-font = Larger Font
 
+# Browse options (#13): card-row detail slots + gesture assignment.
+# Card Type / Note Type reuse core card-stats-card-template / card-stats-note-type.
+browsing-card-row-details = Card Row Details
+browsing-gestures = Gestures
+browsing-detail-number = Detail { $number }
+browsing-hide-answers = Hide Answers
+browsing-tap = Tap
+browsing-swipe-left-second = Swipe Left (Second)
+# Relative timestamps on the metadata line; {$span} is a compact timespan ("3d").
+browsing-created-ago = created { $span } ago
+browsing-edited-ago = edited { $span } ago
+
 ## OBSOLETE; you do not need to translate.
 browsing-column-1 = Column 1
 browsing-column-2 = Column 2
