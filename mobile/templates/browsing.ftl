@@ -26,6 +26,20 @@ browsing-notes-mode = Notes Mode
 browsing-sort-backwards = Sort Backwards
 browsing-larger-font = Larger Font
 
+# Section header in browse Options for metadata shown on each card row
+browsing-card-row-details = Card Row Details
+# Section header in browse Options for tap/swipe actions
+browsing-gestures = Gestures
+# Label for a detail slot; {$number} is 1–3
+browsing-detail-number = Detail { $number }
+browsing-hide-answers = Hide Answers
+browsing-tap = Tap
+# Second swipe-left gesture (after the primary swipe left)
+browsing-swipe-left-second = Swipe Left (Second)
+# Shown on a card row; {$span} is a compact timespan like "3d"
+browsing-created-ago = created { $span } ago
+browsing-edited-ago = edited { $span } ago
+
 ## OBSOLETE; you do not need to translate.
 browsing-column-1 = Column 1
 browsing-column-2 = Column 2
