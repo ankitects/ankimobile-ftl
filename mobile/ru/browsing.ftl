@@ -25,6 +25,19 @@ browsing-column-number = Столбец { $number }
 browsing-notes-mode = Режим записей
 browsing-sort-backwards = В обратном порядке
 browsing-larger-font = Увеличенный шрифт
+# Section header in browse Options for metadata shown on each card row
+browsing-card-row-details = Подробнее о карточке
+# Section header in browse Options for tap/swipe actions
+browsing-gestures = Жесты
+# Label for a detail slot; {$number} is 1–3
+browsing-detail-number = О { $number }
+browsing-hide-answers = Скрыть ответы
+browsing-tap = Касание
+# Second swipe-left gesture (after the primary swipe left)
+browsing-swipe-left-second = Свайп влево (второй)
+# Shown on a card row; {$span} is a compact timespan like "3d"
+browsing-created-ago = создано { $span } до
+browsing-edited-ago = редактировано { $span } до
 
 ## OBSOLETE; you do not need to translate.
 
