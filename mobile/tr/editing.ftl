@@ -17,7 +17,15 @@ editing-note-type-prompt = Tür
 editing-note-unsuspended = Not askıdan çıkarıldı
 # keyboard shortcut description
 editing-same-cloze = Benzer Boşluk
+editing-the-first-field-must-not-be = İlk alan boş olmamalıdır.
+editing-unable-to-obtain-image = Görsel yüklenemedi
 editing-unable-to-read-file = Dosya okunamıyor
 editing-underline = Altını çiz
 editing-unexpected-file-extension = Beklenmeyen dosya uzantısı:
+editing-unexpected-rich-text-format-please = Beklenmeyen yazı formatı - lütfen kopyalayıp yapıştırmayı tekrar deneyin.
+editing-unexpected-status-code = Beklenmeyen durum kodu:
+editing-unsuspend-card = Askıdan Çıkarılan Kart
+editing-unsuspend-note = Notun Askıya Alınmasını Kaldır
+editing-discard-changes-question = Değişiklikler iptal edilsin mi?
 editing-discard = vazgeç
+editing-keep-editing = Düzenlemeye Devam Et

@@ -3,6 +3,7 @@ deck-options-answer-time-cap = Cevap zaman sınırı
 deck-options-bury-related-new-cards = İlgili yeni kartları göm
 deck-options-bury-related-reviews = İlgili gözden geçirmeleri göm
 deck-options-defaults = Varsayılanlar
+deck-options-delete-options-full-sync = Bu seçenek grubunu silmek, bir sonraki eşitlemede diğer cihazlardaki değişikliklerin birleştirilmesini engelleyecektir. Devam edilsin mi?
 deck-options-display-in-order-added = Eklenme sırasına göre görüntüle
 deck-options-display-in-random-order = Rastgele sıra ile görüntüle
 deck-options-full-sync-required = Tam Senkronizasyon Gerekli
