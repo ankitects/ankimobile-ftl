@@ -25,6 +25,19 @@ browsing-column-number = 列 { $number }
 browsing-notes-mode = 笔记模式
 browsing-sort-backwards = 倒序排列
 browsing-larger-font = 更大的字体
+# Section header in browse Options for metadata shown on each card row
+browsing-card-row-details = 卡片行详情
+# Section header in browse Options for tap/swipe actions
+browsing-gestures = 手势
+# Label for a detail slot; {$number} is 1–3
+browsing-detail-number = 详情 { $number }
+browsing-hide-answers = 隐藏答案
+browsing-tap = 轻点
+# Second swipe-left gesture (after the primary swipe left)
+browsing-swipe-left-second = 左滑（第二次）
+# Shown on a card row; {$span} is a compact timespan like "3d"
+browsing-created-ago = { $span } 前创建
+browsing-edited-ago = { $span } 前编辑
 
 ## OBSOLETE; you do not need to translate.
 
@@ -33,3 +46,5 @@ browsing-column-2 = 第 2 列
 browsing-second-column-19 = 第二列（1->9）
 browsing-second-column-91 = 第二列（9->1）
 browsing-sort = 排序：
+# Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
+browsing-card-suspended-undo = 卡片已暂停
