@@ -29,11 +29,11 @@ browsing-larger-font = Larger Font
 # Section header in browse Options for metadata shown on each card row
 browsing-card-row-details = Card Row Details
 # Footer under Card Row Details in browse Options
-browsing-card-row-details-footer = Deck is shown automatically when results include more than one deck.
+browsing-card-row-details-footer = Deck name is shown automatically when results include more than one deck.
 # Section header in browse Options for tap/swipe actions
 browsing-gestures = Gestures
 # Footer under Gestures in browse Options
-browsing-gestures-footer = All actions remain available via long-press on a row.
+browsing-gestures-footer = All actions are always available via long press on a row.
 # Label for a detail slot; {$number} is 1–3
 browsing-detail-number = Detail { $number }
 browsing-hide-answers = Hide Answers
