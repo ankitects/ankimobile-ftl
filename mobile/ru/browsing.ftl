@@ -36,8 +36,8 @@ browsing-tap = Касание
 # Second swipe-left gesture (after the primary swipe left)
 browsing-swipe-left-second = Свайп влево (второй)
 # Shown on a card row; {$span} is a compact timespan like "3d"
-browsing-created-ago = создано { $span } до
-browsing-edited-ago = редактировано { $span } до
+browsing-created-ago = создана { $span } назад
+browsing-edited-ago = правлена { $span } назад
 
 ## OBSOLETE; you do not need to translate.
 
