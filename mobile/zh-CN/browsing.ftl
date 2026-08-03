@@ -27,8 +27,12 @@ browsing-sort-backwards = 倒序排列
 browsing-larger-font = 更大的字体
 # Section header in browse Options for metadata shown on each card row
 browsing-card-row-details = 卡片行详情
+# Shown under Card Row Details in browse Options, above the detail options
+browsing-card-row-details-description = 自定义每张卡片或笔记显示的信息。当搜索结果包含多个牌组时，牌组名称会自动显示。
 # Section header in browse Options for tap/swipe actions
 browsing-gestures = 手势
+# Shown under Gestures in browse Options, above the gesture options
+browsing-gestures-description = 为手势分配操作以便快速访问。所有操作始终可通过长按一行来使用。
 # Label for a detail slot; {$number} is 1–3
 browsing-detail-number = 详情 { $number }
 browsing-hide-answers = 隐藏答案
