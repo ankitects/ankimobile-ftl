@@ -25,6 +25,23 @@ browsing-column-number = Sarake { $number }
 browsing-notes-mode = Muistiinpanotila
 browsing-sort-backwards = Käänteinen järjestys
 browsing-larger-font = Suurempi fonttikoko
+# Section header in browse Options for metadata shown on each card row
+browsing-card-row-details = Korttirivin tiedot
+# Shown under Card Row Details in browse Options, above the detail options
+browsing-card-row-details-description = Määritä mitä tietoja kustakin kortista tai muistiinpanosta näytetään. Korttipakan nimi näkyy automaattisesti, kun tuloksissa on useampi kuin yksi pakka.
+# Section header in browse Options for tap/swipe actions
+browsing-gestures = Kosketuseleet
+# Shown under Gestures in browse Options, above the gesture options
+browsing-gestures-description = Määritä toiminnoille kosketuseleitä pikakäyttöä varten. Kaikki toiminnot ovat aina saatavilla pitkän painalluksen kautta.
+# Label for a detail slot; {$number} is 1–3
+browsing-detail-number = Kenttä { $number }
+browsing-hide-answers = Piilota vastaukset
+browsing-tap = Napauta
+# Second swipe-left gesture (after the primary swipe left)
+browsing-swipe-left-second = Pyyhkäise vasemmalle (toinen kerta)
+# Shown on a card row; {$span} is a compact timespan like "3d"
+browsing-created-ago = luotu { $span } sitten
+browsing-edited-ago = muokattu { $span } sitten
 
 ## OBSOLETE; you do not need to translate.
 
