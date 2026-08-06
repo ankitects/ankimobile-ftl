@@ -1,30 +1,17 @@
-# add current row to existing search
-browsing-append = 追加
-# add current row to existing search, with a '-' at the start to reverse it
-browsing-append-negated = 追减
-browsing-card-updated = 卡片更新时间
 browsing-change-flag = 更改标注（颜色）
 browsing-clear-flag = 清除旗标
 browsing-confirm-reset = 确认重置
 browsing-dd-selected = 已选中 { $part }/{ $total }
-browsing-due-dateorder = 到期日期/位次
 browsing-due-reviews = 待复习
 browsing-learning-cards = 学习中的卡片
 browsing-no-cards-are-selected = 没有卡片被选择
-browsing-note-created = 笔记创建时间
-browsing-note-updated = 笔记更新时间
 browsing-note2 = 笔记：
-browsing-questionandanswer = 问题 + 答案
-browsing-repetitions = 重复次数
 browsing-reset-cards = 重置为新卡片
 browsing-searching = 搜索中…
 browsing-select-all = 全部选择
 browsing-sort-order = 排序顺序
 browsing-tag = 标签：
-browsing-column-number = 列 { $number }
-browsing-notes-mode = 笔记模式
 browsing-sort-backwards = 倒序排列
-browsing-larger-font = 更大的字体
 # Section header in browse Options for metadata shown on each card row
 browsing-card-row-details = 卡片行详情
 # Shown under Card Row Details in browse Options, above the detail options
@@ -42,13 +29,29 @@ browsing-swipe-left-second = 左滑（第二次）
 # Shown on a card row; {$span} is a compact timespan like "3d"
 browsing-created-ago = { $span } 前创建
 browsing-edited-ago = { $span } 前编辑
+# Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
+browsing-card-suspended-undo = 卡片已暂停
+# Shown under the zero-results title in Browse
+browsing-empty-no-match-subtitle = 请移除上方的筛选条件，或清除搜索以查看全部内容。
+# Shown under the empty-collection title in Browse
+browsing-empty-collection-subtitle = 从牌组界面添加或下载牌组。
 
 ## OBSOLETE; you do not need to translate.
 
+browsing-append = 追加
+# add current row to existing search, with a '-' at the start to reverse it
+browsing-append-negated = 追减
+browsing-card-updated = 卡片更新时间
 browsing-column-1 = 第 1 列
 browsing-column-2 = 第 2 列
+browsing-column-number = 列 { $number }
+browsing-due-dateorder = 到期日期/位次
+browsing-larger-font = 更大的字体
+browsing-note-created = 笔记创建时间
+browsing-note-updated = 笔记更新时间
+browsing-notes-mode = 笔记模式
+browsing-questionandanswer = 问题 + 答案
+browsing-repetitions = 重复次数
 browsing-second-column-19 = 第二列（1->9）
 browsing-second-column-91 = 第二列（9->1）
 browsing-sort = 排序：
-# Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
-browsing-card-suspended-undo = 卡片已暂停
