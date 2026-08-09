@@ -21,6 +21,8 @@ browsing-created-ago = creado hace { $span }
 browsing-edited-ago = editado hace { $span }
 # Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
 browsing-card-suspended-undo = Tarjeta suspendida
+# Shown under the zero-results title in Browse
+browsing-empty-no-match-subtitle = Para ver todos los resultados, elimina un filtro o borra tu búsqueda
 
 ## OBSOLETE; you do not need to translate.
 
