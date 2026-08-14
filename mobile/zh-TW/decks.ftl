@@ -26,4 +26,4 @@ decks-synchronize = 同步集合
 decks-the-default-deck-cannot-be-deleted = 無法刪除預設牌組。
 decks-the-provided-deck-does-not-exist = 提供的牌組不存在。
 decks-the-search-you-provided-did-not = 沒有任何卡片符合你搜尋的內容。
-decks-will-be-returned = 卡片將在回答後回到原來的牌組。
+decks-will-be-returned = 回答後，卡片將返回原牌組。
