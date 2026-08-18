@@ -14,8 +14,12 @@ browsing-tag = Метка:
 browsing-sort-backwards = В обратном порядке
 # Section header in browse Options for metadata shown on each card row
 browsing-card-row-details = Подробнее о карточке
+# Shown under Card Row Details in browse Options, above the detail options
+browsing-card-row-details-description = Настройте отображаемую информацию для каждой карточки или записи. Название колоды отображается автоматически, если в результатах поиска указано более одной колоды.
 # Section header in browse Options for tap/swipe actions
 browsing-gestures = Жесты
+# Shown under Gestures in browse Options, above the gesture options
+browsing-gestures-description = Назначьте действия жестам для быстрого доступа. Все действия всегда доступны при длительном нажатии на строку.
 # Label for a detail slot; {$number} is 1–3
 browsing-detail-number = О { $number }
 browsing-hide-answers = Скрыть ответы
@@ -27,6 +31,8 @@ browsing-created-ago = создана { $span } назад
 browsing-edited-ago = правлена { $span } назад
 # Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
 browsing-card-suspended-undo = Карточка исключена
+# Shown under the zero-results title in Browse
+browsing-empty-no-match-subtitle = Удалите фильтр выше или очистите результаты поиска, чтобы увидеть все
 # Shown under the empty-collection title in Browse
 browsing-empty-collection-subtitle = Добавьте или скачайте колоды на экране «Колоды»
 
