@@ -9,6 +9,8 @@ browsing-note2 = خاتىرە:
 browsing-reset-cards = كارتىنى ئەسلىگە قايتۇر
 browsing-searching = ئىزدەۋاتىدۇ…
 browsing-select-all = ھەممىنى تاللا
+# Browse select-mode nav button; shown instead of Select All when every result is selected
+browsing-deselect-all = ھەممىنى تاللىما
 browsing-sort-order = تەرتىپلەش تەرتىپى
 browsing-tag = بەلگە:
 browsing-sort-backwards = ئەكسىچە تەرتىپلە
@@ -29,6 +31,10 @@ browsing-swipe-left-second = سولغا سىيرى (ئىككىنچى قېتىم)
 # Shown on a card row; {$span} is a compact timespan like "3d"
 browsing-created-ago = { $span } ئىلگىرى قۇرۇلغان
 browsing-edited-ago = { $span } ئىلگىرى تەھرىرلەنگەن
+# Browse select-mode bulk bar; opens Add Tags / Remove Tags
+browsing-bulk-tag = بەلگە
+# Browse select-mode bulk bar; change the deck of selected cards
+browsing-bulk-move = يۆتكە
 # Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
 browsing-card-suspended-undo = كارتا كېچىكتۈرۈلدى
 # Shown under the zero-results title in Browse
