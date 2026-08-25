@@ -9,6 +9,8 @@ browsing-note2 = 笔记：
 browsing-reset-cards = 重置为新卡片
 browsing-searching = 搜索中…
 browsing-select-all = 全部选择
+# Browse select-mode nav button; shown instead of Select All when every result is selected
+browsing-deselect-all = 取消全选
 browsing-sort-order = 排序顺序
 browsing-tag = 标签：
 browsing-sort-backwards = 倒序排列
@@ -29,6 +31,10 @@ browsing-swipe-left-second = 左滑（第二次）
 # Shown on a card row; {$span} is a compact timespan like "3d"
 browsing-created-ago = { $span } 前创建
 browsing-edited-ago = { $span } 前编辑
+# Browse select-mode bulk bar; opens Add Tags / Remove Tags
+browsing-bulk-tag = 标签
+# Browse select-mode bulk bar; change the deck of selected cards
+browsing-bulk-move = 移动
 # Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
 browsing-card-suspended-undo = 卡片已暂停
 # Shown under the zero-results title in Browse
