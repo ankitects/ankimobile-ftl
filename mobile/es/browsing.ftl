@@ -9,6 +9,8 @@ browsing-note2 = Nota:
 browsing-reset-cards = Restablecer Tarjetas
 browsing-searching = Buscando...
 browsing-select-all = Seleccionar Todo
+# Browse select-mode nav button; shown instead of Select All when every result is selected
+browsing-deselect-all = Deseleccionar Todo
 browsing-sort-order = Ordenar
 browsing-tag = Etiqueta:
 browsing-sort-backwards = Ordenar al revés
@@ -19,6 +21,10 @@ browsing-tap = Presiona
 # Shown on a card row; {$span} is a compact timespan like "3d"
 browsing-created-ago = creado hace { $span }
 browsing-edited-ago = editado hace { $span }
+# Browse select-mode bulk bar; opens Add Tags / Remove Tags
+browsing-bulk-tag = Etiquetas
+# Browse select-mode bulk bar; change the deck of selected cards
+browsing-bulk-move = Mover
 # Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
 browsing-card-suspended-undo = Tarjeta suspendida
 # Shown under the zero-results title in Browse
