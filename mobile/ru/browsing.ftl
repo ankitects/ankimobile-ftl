@@ -9,6 +9,8 @@ browsing-note2 = Запись:
 browsing-reset-cards = Сбросить карточки
 browsing-searching = Идет поиск...
 browsing-select-all = Выбрать все
+# Browse select-mode nav button; shown instead of Select All when every result is selected
+browsing-deselect-all = Не выбирать всех
 browsing-sort-order = Порядок
 browsing-tag = Метка:
 browsing-sort-backwards = В обратном порядке
@@ -29,6 +31,10 @@ browsing-swipe-left-second = Свайп влево (второй)
 # Shown on a card row; {$span} is a compact timespan like "3d"
 browsing-created-ago = создана { $span } назад
 browsing-edited-ago = правлена { $span } назад
+# Browse select-mode bulk bar; opens Add Tags / Remove Tags
+browsing-bulk-tag = Метка
+# Browse select-mode bulk bar; change the deck of selected cards
+browsing-bulk-move = Переместить
 # Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
 browsing-card-suspended-undo = Карточка исключена
 # Shown under the zero-results title in Browse
