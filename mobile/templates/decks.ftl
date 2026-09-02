@@ -27,3 +27,8 @@ decks-the-default-deck-cannot-be-deleted = The default deck cannot be deleted.
 decks-the-provided-deck-does-not-exist = The provided deck does not exist.
 decks-the-search-you-provided-did-not = The search you provided did not match any cards.
 decks-will-be-returned = Cards will be returned to their original deck as you answer them.
+
+# Preference picker under Preferences > Decks
+decks-list-display-mode = Display Mode
+decks-list-display-default = Default
+decks-list-display-compact = Compact
