@@ -43,6 +43,13 @@ browsing-empty-no-match-subtitle = Remove a filter above, or clear the search to
 # Shown under the empty-collection title in Browse
 browsing-empty-collection-subtitle = Add or download decks from the Decks screen
 
+# Shown as an action row in bulk Add Tags when the typed name doesn't match any existing tag; tapping queues the name(s) for creation
+browsing-add-tag-name = Add "{ $name }"
+# Shown as an action row in bulk Add Tags when two or more new tag names are typed, separated by spaces
+browsing-add-tag-names = Add { $count } tags: { $names }
+# Section header for new tags queued in bulk Add Tags but not yet applied
+browsing-new-tags = New Tags
+
 ## OBSOLETE; you do not need to translate.
 browsing-append = Append
 # add current row to existing search, with a '-' at the start to reverse it
