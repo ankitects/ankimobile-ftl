@@ -1,0 +1,1 @@
+decks-deck-label = Dek:
