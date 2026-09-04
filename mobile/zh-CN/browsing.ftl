@@ -41,6 +41,12 @@ browsing-card-suspended-undo = 卡片已暂停
 browsing-empty-no-match-subtitle = 请移除上方的筛选条件，或清除搜索以查看全部内容。
 # Shown under the empty-collection title in Browse
 browsing-empty-collection-subtitle = 从牌组界面添加或下载牌组。
+# Shown as an action row in bulk Add Tags when the typed name doesn't match any existing tag; tapping queues the name(s) for creation
+browsing-add-tag-name = 添加「{ $name }」
+# Shown as an action row in bulk Add Tags when two or more new tag names are typed, separated by spaces
+browsing-add-tag-names = 添加 { $count } 个标签：{ $names }
+# Section header for new tags queued in bulk Add Tags but not yet applied
+browsing-new-tags = 新标签
 
 ## OBSOLETE; you do not need to translate.
 

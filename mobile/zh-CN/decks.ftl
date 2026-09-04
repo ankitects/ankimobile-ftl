@@ -27,3 +27,7 @@ decks-the-default-deck-cannot-be-deleted = 系统预置牌组不能被删除。
 decks-the-provided-deck-does-not-exist = 牌组不存在。
 decks-the-search-you-provided-did-not = 您提供的搜索条件没有匹配到任何卡片。
 decks-will-be-returned = 这些卡片会在您做出回答后被放回原牌组。
+# Preference picker under Preferences > Decks
+decks-list-display-mode = 显示模式
+decks-list-display-default = 默认
+decks-list-display-compact = 紧凑
