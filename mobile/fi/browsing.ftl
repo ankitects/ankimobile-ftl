@@ -41,6 +41,12 @@ browsing-card-suspended-undo = Kortti hyllytetty
 browsing-empty-no-match-subtitle = Poista suodatin yllä tai tyhjennä haku nähdäksesi kaiken
 # Shown under the empty-collection title in Browse
 browsing-empty-collection-subtitle = Lisää tai lataa pakkoja Pakat-näkymästä
+# Shown as an action row in bulk Add Tags when the typed name doesn't match any existing tag; tapping queues the name(s) for creation
+browsing-add-tag-name = Lisää "{ $name }"
+# Shown as an action row in bulk Add Tags when two or more new tag names are typed, separated by spaces
+browsing-add-tag-names = Lisää { $count } tunnistetta: { $names }
+# Section header for new tags queued in bulk Add Tags but not yet applied
+browsing-new-tags = Uudet tunnisteet
 
 ## OBSOLETE; you do not need to translate.
 

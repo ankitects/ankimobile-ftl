@@ -27,3 +27,7 @@ decks-the-default-deck-cannot-be-deleted = Oletuspakkaa ei voi poistaa.
 decks-the-provided-deck-does-not-exist = Annettua pakkaa ei ole olemassa.
 decks-the-search-you-provided-did-not = Antamallasi haulla ei löytynyt yhtään korttia.
 decks-will-be-returned = Kortit palautetaan alkuperäiseen pakkaan, kun vastaat niihin.
+# Preference picker under Preferences > Decks
+decks-list-display-mode = Ulkoasu
+decks-list-display-default = Oletus
+decks-list-display-compact = Tiivis
