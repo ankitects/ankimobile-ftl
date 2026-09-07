@@ -27,3 +27,7 @@ decks-the-default-deck-cannot-be-deleted = كۆڭۈلدىكى دەستەنى ئ�
 decks-the-provided-deck-does-not-exist = تەمىنلەنگەن دەستە مەۋجۇت ئەمەس.
 decks-the-search-you-provided-did-not = تەمىنلىگەن ئىزدەش شەرتىڭىزگە ھېچقانداق كارتا ماس كەلمىدى.
 decks-will-be-returned = كارتىغا جاۋاب بەرگەندىن كېيىن ئەسلىدىكى دەستەسىگە قايتۇرۇلىدۇ.
+# Preference picker under Preferences > Decks
+decks-list-display-mode = كۆرسىتىش ھالىتى
+decks-list-display-default = كۆڭۈلدىكى
+decks-list-display-compact = ئىخچام

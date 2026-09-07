@@ -41,6 +41,12 @@ browsing-card-suspended-undo = كارتا كېچىكتۈرۈلدى
 browsing-empty-no-match-subtitle = ھەممىنى كۆرۈش ئۈچۈن ئۈستىدىكى سۈزگۈچنى چىقىرىۋېتىڭ ياكى ئىزدەشنى تازىلاڭ
 # Shown under the empty-collection title in Browse
 browsing-empty-collection-subtitle = دەستە ئېكرانىدىن دەستە قوشىدۇ ياكى چۈشۈرىدۇ
+# Shown as an action row in bulk Add Tags when the typed name doesn't match any existing tag; tapping queues the name(s) for creation
+browsing-add-tag-name = «{ $name }» قوش
+# Shown as an action row in bulk Add Tags when two or more new tag names are typed, separated by spaces
+browsing-add-tag-names = { $count } بەلگە قوش: { $names }
+# Section header for new tags queued in bulk Add Tags but not yet applied
+browsing-new-tags = يېڭى بەلگە
 
 ## OBSOLETE; you do not need to translate.
 
