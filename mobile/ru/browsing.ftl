@@ -41,6 +41,12 @@ browsing-card-suspended-undo = Карточка исключена
 browsing-empty-no-match-subtitle = Удалите фильтр выше или очистите результаты поиска, чтобы увидеть все
 # Shown under the empty-collection title in Browse
 browsing-empty-collection-subtitle = Добавьте или скачайте колоды на экране «Колоды»
+# Shown as an action row in bulk Add Tags when the typed name doesn't match any existing tag; tapping queues the name(s) for creation
+browsing-add-tag-name = Добавить "{ $name }"
+# Shown as an action row in bulk Add Tags when two or more new tag names are typed, separated by spaces
+browsing-add-tag-names = Добавить { $count } меток: { $names }
+# Section header for new tags queued in bulk Add Tags but not yet applied
+browsing-new-tags = Новые Метки
 
 ## OBSOLETE; you do not need to translate.
 

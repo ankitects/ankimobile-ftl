@@ -27,5 +27,7 @@ decks-the-default-deck-cannot-be-deleted = Колода «По умолчани�
 decks-the-provided-deck-does-not-exist = Такая колода не существует.
 decks-the-search-you-provided-did-not = Карточек по данному запросу найдено не было.
 decks-will-be-returned = После ответа карточки будут возвращены в изначальную колоду.
+# Preference picker under Preferences > Decks
+decks-list-display-mode = Режим отображения
 decks-list-display-default = По умолчанию
 decks-list-display-compact = Компактный
