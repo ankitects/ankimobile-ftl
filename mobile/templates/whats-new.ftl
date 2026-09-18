@@ -4,7 +4,7 @@ whats-new-title = What's New in AnkiMobile
 whats-new-browse-title = A Better Way to Browse
 # Feature description on the What's New tip sheet
 whats-new-browse-body =
-    Browse has been redesigned from the ground up, with clearer card rows, customizable gestures, flexible sorting and views, and bulk actions. Quickly switch from Card to Note mode for a faster way to work with your collection.
+    The Browse screen has been entirely rebuilt with clarity in mind, with redesigned card rows, customizable gestures, flexible sorting and views, and updated bulk actions.
 # Feature title on the What's New tip sheet
 whats-new-search-title = Powerful New Search
 # Feature description on the What's New tip sheet
