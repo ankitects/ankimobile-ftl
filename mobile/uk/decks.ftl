@@ -27,3 +27,7 @@ decks-the-default-deck-cannot-be-deleted = Типову колоду не мож
 decks-the-provided-deck-does-not-exist = Вказаної колоди не існує.
 decks-the-search-you-provided-did-not = За Вашим пошуковим запитом немає жодної картки.
 decks-will-be-returned = Після відповіді картки повертатимуться до своїх колод.
+# Preference picker under Preferences > Decks
+decks-list-display-mode = Режим показу
+decks-list-display-default = Типовий
+decks-list-display-compact = Щільний
