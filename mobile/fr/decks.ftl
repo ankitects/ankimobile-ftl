@@ -27,3 +27,7 @@ decks-the-default-deck-cannot-be-deleted = Le paquet par défaut ne peut pas êt
 decks-the-provided-deck-does-not-exist = Le paquet indiqué n'existe pas.
 decks-the-search-you-provided-did-not = La recherche indiquée ne correspond à aucune carte.
 decks-will-be-returned = Replace les cartes dans leur paquet après y avoir répondu.
+# Preference picker under Preferences > Decks
+decks-list-display-mode = Mode d'affichage
+decks-list-display-default = Par défaut
+decks-list-display-compact = Compacte
