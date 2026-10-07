@@ -8,7 +8,9 @@ browsing-no-cards-are-selected = 未選取卡片/筆記。
 browsing-note2 = 筆記：
 browsing-reset-cards = 重置卡片
 browsing-searching = 搜尋中...
-browsing-select-all = 選取全部
+browsing-select-all = 全選
+# Browse select-mode nav button; shown instead of Select All when every result is selected
+browsing-deselect-all = 取消全選
 browsing-sort-order = 排序
 browsing-tag = 標籤：
 browsing-sort-backwards = 反向排序
@@ -29,12 +31,22 @@ browsing-swipe-left-second = 向左滑動（次要）
 # Shown on a card row; {$span} is a compact timespan like "3d"
 browsing-created-ago = { $span } 前建立
 browsing-edited-ago = { $span } 前編輯
+# Browse select-mode bulk bar; opens Add Tags / Remove Tags
+browsing-bulk-tag = 標籤
+# Browse select-mode bulk bar; change the deck of selected cards
+browsing-bulk-move = 移動
 # Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
 browsing-card-suspended-undo = 已擱置卡片
 # Shown under the zero-results title in Browse
 browsing-empty-no-match-subtitle = 在上方移除一個篩選器或清除搜尋條件以檢視所有內容
 # Shown under the empty-collection title in Browse
 browsing-empty-collection-subtitle = 從「牌組」畫面中新增或下載牌組
+# Shown as an action row in bulk Add Tags when the typed name doesn't match any existing tag; tapping queues the name(s) for creation
+browsing-add-tag-name = 新增「{ $name }」
+# Shown as an action row in bulk Add Tags when two or more new tag names are typed, separated by spaces
+browsing-add-tag-names = 新增{ $count }個標籤：{ $names }
+# Section header for new tags queued in bulk Add Tags but not yet applied
+browsing-new-tags = 新標籤
 
 ## OBSOLETE; you do not need to translate.
 
