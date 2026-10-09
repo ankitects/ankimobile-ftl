@@ -27,3 +27,7 @@ decks-the-default-deck-cannot-be-deleted = Domyślna talia nie może zostać usu
 decks-the-provided-deck-does-not-exist = Talia nie istnieje.
 decks-the-search-you-provided-did-not = Twoje wyszukiwanie nie odpowiada żadnej karcie.
 decks-will-be-returned = Po odpowiedzi na karty powrócą one do talii początkowej.
+# Preference picker under Preferences > Decks
+decks-list-display-mode = Tryb wyświetlania
+decks-list-display-default = Domyślny
+decks-list-display-compact = Kompaktowy
