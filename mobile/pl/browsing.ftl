@@ -29,12 +29,18 @@ browsing-swipe-left-second = Przesunięcie w lewo (drugie)
 # Shown on a card row; {$span} is a compact timespan like "3d"
 browsing-created-ago = utworzono { $span } temu
 browsing-edited-ago = edytowano { $span } temu
+# Browse select-mode bulk bar; opens Add Tags / Remove Tags
+browsing-bulk-tag = Tag
+# Browse select-mode bulk bar; change the deck of selected cards
+browsing-bulk-move = Przenieś
 # Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
 browsing-card-suspended-undo = Karta zawieszona
 # Shown under the zero-results title in Browse
 browsing-empty-no-match-subtitle = Usuń filtr powyżej lub wyczyść wyszukiwanie, aby zobaczyć wszystko
 # Shown under the empty-collection title in Browse
 browsing-empty-collection-subtitle = Dodaj lub pobierz talie z ekranu Talii
+# Section header for new tags queued in bulk Add Tags but not yet applied
+browsing-new-tags = Nowe tagi
 
 ## OBSOLETE; you do not need to translate.
 
