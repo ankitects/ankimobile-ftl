@@ -65,6 +65,8 @@ preferences-notifications = 通知
 preferences-notifications-alert-time = 提醒时间
 preferences-notifications-alert-when-due = 每日提醒
 preferences-notifications-app-icon-shows-due-count = 应用图标显示到期卡片数量
+# Section header in Preferences → Notifications for which due counts contribute to the app icon badge
+preferences-notifications-badge-count-includes = 标记数包括
 preferences-notifications-settings-app-enable-notifications = 请前往 iOS 设定，找到「Anki」，并允许通知、标记和提示。
 preferences-pen-size = 笔迹粗细
 preferences-question-side = 问题界面
