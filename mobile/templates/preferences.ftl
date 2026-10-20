@@ -64,8 +64,9 @@ preferences-normal = Normal
 preferences-notifications = Notifications
 preferences-notifications-alert-time = Alert Time
 preferences-notifications-alert-when-due = Alert When Due
-preferences-notifications-app-icon-shows-due-count = App Icon Shows Due Count
-# Section header in Preferences → Notifications for which due counts contribute to the app icon badge
+# Master switch in Preferences → Notifications for the home-screen due-count badge
+preferences-notifications-app-icon-shows-due-count = Show Due Count Badge
+# Section header in Preferences → Notifications for which due counts contribute to the badge
 preferences-notifications-badge-count-includes = Badge Count Includes
 preferences-notifications-settings-app-enable-notifications = Please go the iOS Settings app, locate the Anki section, and enable notifications, badges and alerts.
 preferences-pen-size = Pen Size
