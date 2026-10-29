@@ -64,7 +64,10 @@ preferences-normal = По умолчанию
 preferences-notifications = Уведомления
 preferences-notifications-alert-time = Время оповещения
 preferences-notifications-alert-when-due = Опов., когда наст. время просм.
+# Master switch in Preferences → Notifications for the home-screen due-count badge
 preferences-notifications-app-icon-shows-due-count = Число повтор. на значке
+# Section header in Preferences → Notifications for which due counts contribute to the badge
+preferences-notifications-badge-count-includes = Состав счётчика значка
 preferences-notifications-settings-app-enable-notifications = Пожалуйста, откройте настройки системы iOS, найдите там раздел с Anki и включите уведомления, наклейки и предупреждения.
 preferences-pen-size = Размер пера
 preferences-question-side = Сторона вопроса
