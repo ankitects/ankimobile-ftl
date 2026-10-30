@@ -10,18 +10,18 @@ browsing-reset-cards = Сбросить карточки
 browsing-searching = Идет поиск...
 browsing-select-all = Выбрать все
 # Browse select-mode nav button; shown instead of Select All when every result is selected
-browsing-deselect-all = Не выбирать всех
+browsing-deselect-all = Снять выделение
 browsing-sort-order = Порядок
 browsing-tag = Метка:
 browsing-sort-backwards = В обратном порядке
 # Section header in browse Options for metadata shown on each card row
 browsing-card-row-details = Подробнее о карточке
 # Shown under Card Row Details in browse Options, above the detail options
-browsing-card-row-details-description = Настройте отображаемую информацию для каждой карточки или записи. Название колоды отображается автоматически, если в результатах поиска указано более одной колоды.
+browsing-card-row-details-description = Настроить, что показывается для каждой карточки или записи. Название колоды показывается, когда нашлось больше одной колоды.
 # Section header in browse Options for tap/swipe actions
 browsing-gestures = Жесты
 # Shown under Gestures in browse Options, above the gesture options
-browsing-gestures-description = Назначьте действия жестам для быстрого доступа. Все действия всегда доступны при длительном нажатии на строку.
+browsing-gestures-description = Назначить действия жестам быстрого доступа. Все действия доступны по длинному нажатию на строке.
 # Label for a detail slot; {$number} is 1–3
 browsing-detail-number = О { $number }
 browsing-hide-answers = Скрыть ответы
