@@ -1,0 +1,16 @@
+deck-options-add-options-group = პარამეტრების ჯგუფის დამატება
+deck-options-answer-time-cap = პასუხის დროის ლიმიტი
+deck-options-bury-related-new-cards = შესაბამისი ახალი ბარათების დამარხვა
+deck-options-bury-related-reviews = შესაბამისი მიმოხილვების დამარხვა
+deck-options-defaults = ნაგულისხმევები
+deck-options-display-in-order-added = ჩვენება დამატების მიმდევრობით
+deck-options-display-in-random-order = ჩვენება შემთხვევითი მიმდევრობით
+deck-options-full-sync-required = აუცილებელია სრული სინქრონიზაცია
+deck-options-group-name = ჯგუფის სახელი
+deck-options-max-new-per-day = მაქს. ახალი დღეში
+deck-options-max-reviews-per-day = მაქს. მიმოხილვა დღეში
+deck-options-new-cards = ახალი ბარათები
+deck-options-options-group = პარამეტრების ჯგუფი
+deck-options-reset-all-settings-to-defaults = ჩამოიყაროს ყველა პარამეტრი ნაგულისხმევზე?
+deck-options-restore-defaults = ნაგულისხმევების აღდგენა
+deck-options-steps = ნაბიჯები

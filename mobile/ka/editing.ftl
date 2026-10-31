@@ -1,0 +1,25 @@
+editing-bold = სქელი
+editing-cancel-and-lose-any-unsaved-changes = გნებავთ გაუქმება და ყველა შეუნახავი ცვლილების დაკარგვა?
+editing-card-returned-to-new-card-queue = ბარათი დაბრუნდა ახალი ბარათების რიგში.
+editing-card-unsuspended = ბარათის შეჩერება გაუქმდა
+editing-from-camera = კამერიდან
+editing-from-file = ფაილიდან
+editing-from-photos = ფოტოებიდან
+editing-italic = კურსივი
+editing-next-field = შემდეგი ველი
+editing-note-deleted = შენიშვნა წაიშალა
+editing-note-suspended = შენიშვნა შეჩერდა
+# (Note) type: 
+editing-note-type-prompt = ტიპი:
+editing-note-unsuspended = შენიშვნის შეჩერება გაუქმდა
+editing-the-first-field-must-not-be = პირველი ველი ცარიელი ვერ იქნება.
+editing-unable-to-obtain-image = გამოსახულების მიღება შეუძლებელია
+editing-unable-to-read-file = ფაილის წაკითხვა შეუძლებელია
+editing-underline = ხაზგასმა
+editing-unexpected-file-extension = ფაილის მოულოდნელი გაფართოება:
+editing-unexpected-status-code = მოულოდნელი სტატუსის კოდი:
+editing-unsuspend-card = ბარათის შეჩერების გაუქმება
+editing-unsuspend-note = შენიშვნის შეჩერების გაუქმება
+editing-discard-changes-question = გნებავთ ცვლილებების მოცილება?
+editing-discard = მოცილება
+editing-keep-editing = ჩასწორების გაგრძელება

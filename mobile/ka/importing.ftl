@@ -1,0 +1,3 @@
+importing-delete-imported-file = წაიშალოს შემოტანილი ფაილი?
+importing-import-complete = შემოტანა დასრულდა.
+importing-importing = შემოტანა...
