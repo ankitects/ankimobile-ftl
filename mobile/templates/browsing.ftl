@@ -38,6 +38,18 @@ browsing-bulk-tag = Tag
 browsing-bulk-move = Move
 # Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
 browsing-card-suspended-undo = Card suspended
+# Message in the confirmation shown before deleting notes, in Browse and on the study screen. $count is the number of notes being deleted.
+browsing-delete-notes-confirm =
+    { $count ->
+        [one] Delete { $count } note and all of its cards?
+       *[other] Delete { $count } notes and all of their cards?
+    }
+# Follows "N cards buried." after Toggle Bury in Browse, when some selected cards were suspended and couldn't be buried. $count is the number of those suspended cards.
+browsing-suspended-cards-skipped =
+    { $count ->
+        [one] { $count } suspended card skipped.
+       *[other] { $count } suspended cards skipped.
+    }
 # Shown under the zero-results title in Browse
 browsing-empty-no-match-subtitle = Remove a filter above, or clear the search to see everything
 # Shown under the empty-collection title in Browse
