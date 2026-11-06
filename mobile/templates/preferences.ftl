@@ -69,6 +69,12 @@ preferences-notifications-app-icon-shows-due-count = Show Due Count Badge
 # Section header in Preferences → Notifications for which due counts contribute to the badge
 preferences-notifications-badge-count-includes = Badge Count Includes
 preferences-notifications-settings-app-enable-notifications = Please go the iOS Settings app, locate the Anki section, and enable notifications, badges and alerts.
+# Shown before iOS asks for notification permission, the first time Show Due Count Badge is turned on.
+preferences-notifications-badge-permission-explanation = To show your due count on the app icon, iOS needs notification permission. Anki won't send alerts unless you turn on Alert When Due.
+# Shown when Show Due Count Badge is on but badges are turned off for Anki in the iOS Settings app.
+preferences-notifications-settings-app-enable-badges = To show the due count badge, open the iOS Settings app, find Anki, and turn on Badges under Notifications.
+# Shown when Alert When Due is on but notifications are turned off for Anki in the iOS Settings app.
+preferences-notifications-settings-app-enable-alerts = To get alerts when cards are due, open the iOS Settings app, find Anki, and turn on Allow Notifications.
 preferences-pen-size = Pen Size
 preferences-question-side = Question Side
 preferences-remaining-count = Remaining Count
