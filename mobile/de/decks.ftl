@@ -16,6 +16,8 @@ decks-download-link = Link zum Herunterladen
 decks-export-collection = Sammlung exportieren
 decks-filtered-deck = Auswahlstapel
 decks-import-from-itunes = Aus iTunes importieren
+# Add/Export menu item. "Files" is the iOS Files app, where Anki's folder appears; this imports deck files placed there.
+decks-import-from-files = Aus Dateien importieren
 decks-invalid-deck-name = Ungültiger Stapelname.
 decks-link-to-apkg-file-to-import = Link zur .apkg-Datei für Import:
 decks-no-matches = Keine Übereinstimmungen
@@ -27,3 +29,7 @@ decks-the-default-deck-cannot-be-deleted = Der Standardstapel kann nicht gelösc
 decks-the-provided-deck-does-not-exist = Der bereitgestellte Stapel existiert nicht.
 decks-the-search-you-provided-did-not = Die Suche, die Sie zur bereitgestellt haben, hat keine Übereinstimmung mit irgendeiner Karte.
 decks-will-be-returned = Karten kehren in ihren ursprünglichen Stapel zurück, wenn sie beantwortet werden.
+# Preference picker under Preferences > Decks
+decks-list-display-mode = Anzeigemodus
+decks-list-display-default = Standard
+decks-list-display-compact = Kompakt

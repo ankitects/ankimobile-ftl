@@ -2,6 +2,8 @@ importing-delete-imported-file = Importierte Datei löschen?
 importing-import-complete = Import fertiggestellt.
 importing-importing = Import läuft …
 importing-no-apkg-or-colpkg-files-were = Keine .apkg- oder .colpkg-Dateien in iTunes gefunden
+# Shown after Import from Files when Anki's folder in the iOS Files app has no deck files to import.
+importing-no-deck-files-in-files = Es wurden keine .apkg- oder .colpkg Dateien in Dateien gefunden.
 importing-overwrite-via-import = Gesamte Sammlung mit importierter Datei überschreiben? Diese Aktion kann nicht rückgängig gemacht werden.
 importing-please-choose-a-file = Bitte wählen Sie eine Datei aus.
 importing-processed-media-files-d = Mediendateien werden verarbeitet: { $count } …
