@@ -37,6 +37,10 @@ browsing-bulk-tag = 標籤
 browsing-bulk-move = 移動
 # Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
 browsing-card-suspended-undo = 已擱置卡片
+# Message in the confirmation shown before deleting notes, in Browse and on the study screen. $count is the number of notes being deleted.
+browsing-delete-notes-confirm = 要刪除{ $count }則筆記及所有關聯卡片嗎？
+# Follows "N cards buried." after Toggle Bury in Browse, when some selected cards were suspended and couldn't be buried. $count is the number of those suspended cards.
+browsing-suspended-cards-skipped = 已略過{ $count }張被擱置的卡片。
 # Shown under the zero-results title in Browse
 browsing-empty-no-match-subtitle = 在上方移除一個篩選器或清除搜尋條件以檢視所有內容
 # Shown under the empty-collection title in Browse

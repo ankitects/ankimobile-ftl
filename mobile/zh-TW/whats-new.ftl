@@ -11,4 +11,4 @@ whats-new-search-body = 透過篩選器進行可視化搜尋，使用搜尋語�
 # Feature title on the What's New tip sheet
 whats-new-decks-title = 牌組概覽
 # Feature description on the What's New tip sheet
-whats-new-decks-body = 透過牌組清單中的標籤更直觀地檢視新卡片、學習中卡片和複習卡的張數及總數，同步狀態更為直覺，畫面重新設計。若要隱藏標籤，可啟用「精簡」模式來簡化顯示方式。
+whats-new-decks-body = 透過牌組清單中的標籤更直觀地檢視新卡片、學習中卡片和複習卡的張數及總數，同步狀態更為直覺，畫面重新設計。若要隱藏標籤，可開啟「精簡」模式來簡化顯示方式。

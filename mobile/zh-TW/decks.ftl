@@ -16,6 +16,10 @@ decks-download-link = 從連結下載
 decks-export-collection = 匯出集合
 decks-filtered-deck = 篩選牌組
 decks-import-from-itunes = 從iTunes匯入
+# Add/Export menu item. "Files" is the iOS Files app, where Anki's folder appears; this imports deck files placed there.
+decks-import-from-files = 從「檔案」匯入
+# Message in the confirmation shown before deleting a deck. $name is the deck's name; $count is the number of cards in the deck, including its subdecks.
+decks-delete-deck-confirm = 要刪除「{ $name }」及{ $count }張關聯卡片嗎？
 decks-invalid-deck-name = 無效牌組名稱。
 decks-link-to-apkg-file-to-import = 輸入.apkg檔連結來匯入：
 decks-no-matches = 無符合結果

@@ -63,9 +63,18 @@ preferences-next-times = 下次答題時間
 preferences-normal = 正常
 preferences-notifications = 通知
 preferences-notifications-alert-time = 通知時間
-preferences-notifications-alert-when-due = 到期通知
-preferences-notifications-app-icon-shows-due-count = 在App圖示上顯示到期卡片數量
-preferences-notifications-settings-app-enable-notifications = 請前往iOS設定，找到「Anki」，並啟用允許通知、標記和提示。
+preferences-notifications-alert-when-due = 到期時提醒
+# Master switch in Preferences → Notifications for the home-screen due-count badge
+preferences-notifications-app-icon-shows-due-count = 顯示到期數量標記
+# Section header in Preferences → Notifications for which due counts contribute to the badge
+preferences-notifications-badge-count-includes = 標記數量包含
+preferences-notifications-settings-app-enable-notifications = 請前往「設定」App，找到「Anki」，然後開啟「允許通知」、「標記」和「提示」。
+# Shown before iOS asks for notification permission, the first time Show Due Count Badge is turned on.
+preferences-notifications-badge-permission-explanation = 若要在App圖示上顯示到期卡片數量，請授予iOS通知權限。若未開啟「到期時提醒」，則Anki不會傳送通知。
+# Shown when Show Due Count Badge is on but badges are turned off for Anki in the iOS Settings app.
+preferences-notifications-settings-app-enable-badges = 若要顯示到期數量標記，請前往「設定」App，找到「Anki」，然後在「通知」中開啟「標記」。
+# Shown when Alert When Due is on but notifications are turned off for Anki in the iOS Settings app.
+preferences-notifications-settings-app-enable-alerts = 若要在卡片到期時收到提醒，請前往「設定」App，找到「Anki」，然後開啟「允許通知」。
 preferences-pen-size = 筆跡大小
 preferences-question-side = 問題面
 preferences-remaining-count = 剩餘數量
