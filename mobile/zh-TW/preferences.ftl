@@ -42,7 +42,7 @@ preferences-gamepad-thumbpad-deadzone = 搖桿死區百分比
 preferences-height = 高度
 preferences-huge = 巨大
 preferences-ignore-fingers = 忽略手指
-preferences-interrupt-current-audio = 中斷正在播放的音訊
+preferences-interrupt-current-audio = 中斷目前音訊
 preferences-large = 大
 preferences-left = 左對齊
 # gamepad
