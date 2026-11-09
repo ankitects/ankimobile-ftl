@@ -36,6 +36,10 @@ browsing-edited-ago = edited { $span } ago
 browsing-bulk-tag = Tag
 # Browse select-mode bulk bar; change the deck of selected cards
 browsing-bulk-move = Move
+# Browse select-mode More menu in Notes mode; suspends every card of each selected note
+browsing-suspend-all-cards = Suspend all cards
+# Browse select-mode More menu in Notes mode; unsuspends every suspended card of each selected note
+browsing-unsuspend-all-cards = Unsuspend all cards
 # Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
 browsing-card-suspended-undo = Card suspended
 # Shown under the zero-results title in Browse
