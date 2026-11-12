@@ -1,9 +1,9 @@
-importing-delete-imported-file = Import qilingan fayl oʻchirilsinmi?
-importing-import-complete = Import qilish tugadi.
+importing-delete-imported-file = Import qilingan fayl öçirilsinmi?
+importing-import-complete = Import qiliş tugadi.
 importing-importing = Import qilinmoqda...
-importing-no-apkg-or-colpkg-files-were = iTunesʼda hech qanday .apkg yoki .colpkg fayl topilmadi
-importing-overwrite-via-import = Import qilingan fayl bilan butun kolleksiyaning ustiga yozilsinmi? Bu amalni ortga qaytarib boʻlmaydi.
+importing-no-apkg-or-colpkg-files-were = iTunesʼda heç qanday .apkg yoki .colpkg fayl topilmadi
+importing-overwrite-via-import = Import qilingan fayl bilan butun kolleksiyaning ustiga yozilsinmi? Bu amalni ortga qaytarib bölmaydi.
 importing-please-choose-a-file = Fayl tanlang.
-importing-processed-media-files-d = Qayta ishlangan media fayllar soni: { $count }...
-importing-replace-collection = Kolleksiyani almashtirish
+importing-processed-media-files-d = Qayta işlangan media fayllar soni: { $count }...
+importing-replace-collection = Kolleksiyani almaştiriş
 importing-file-not-downloaded = Faylni iCloudʼdan yuklab oling, keyin uni qayta import qiling.

@@ -1,6 +1,6 @@
 exporting-collection-saved-to-itunes = Kolleksiya iTunesʼga saqlandi.
-exporting-export-to-itunes = iTunesʼga eksport qilish
-exporting-export-to-share-sheet = Share Sheetʼga eksport qilish
+exporting-export-to-itunes = iTunesʼga eksport qiliş
+exporting-export-to-share-sheet = Şare Şeetʼga eksport qiliş
 exporting-exporting = Eksport qilinmoqda...
-exporting-include-media2 = Media fayllarni ichida
+exporting-include-media2 = Media fayllarni içida
 exporting-media-files-exported-d = Eksport qilingan media fayllar soni: { $count }...
