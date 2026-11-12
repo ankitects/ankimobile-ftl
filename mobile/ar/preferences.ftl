@@ -64,8 +64,17 @@ preferences-normal = عادي
 preferences-notifications = تنبيهات
 preferences-notifications-alert-time = وقت التنبيه
 preferences-notifications-alert-when-due = تنبيه عند الاستحقاق
+# Master switch in Preferences → Notifications for the home-screen due-count badge
 preferences-notifications-app-icon-shows-due-count = تظهر أيقونة التطبيق عدد البطاقات المستحقة
+# Section header in Preferences → Notifications for which due counts contribute to the badge
+preferences-notifications-badge-count-includes = ما يتضمنه عداد أيقونة التطبيق
 preferences-notifications-settings-app-enable-notifications = اذهب إلى إعدادات iOS، وابحث عن قسم أنكي، وفعّل التنبيهات، والوسوم، والإنذارات.
+# Shown before iOS asks for notification permission, the first time Show Due Count Badge is turned on.
+preferences-notifications-badge-permission-explanation = لإظهار عدد البطاقات المستحقة على أيقونة التطبيق، يحتاج  iOS إذن الإشعارات. لن يرسل أنكي تنبيهات ما لم تفعل خيار "تنبيه عند الاستحقاق".
+# Shown when Show Due Count Badge is on but badges are turned off for Anki in the iOS Settings app.
+preferences-notifications-settings-app-enable-badges = لإظهار عدد البطاقات المستحقة على أيقونة التطبيق، افتح إعدادات iOS وابحث عن أنكي ثم فعل خيار العداد تحت الإشعارات.
+# Shown when Alert When Due is on but notifications are turned off for Anki in the iOS Settings app.
+preferences-notifications-settings-app-enable-alerts = لتلقي تنبيهات عندما تصبح البطاقات مستحقة، افتح إعدادات iOS، وابحث عن أنكي، ثم فعل خيار السماح بالتنبيهات.
 preferences-pen-size = حجم القلم
 preferences-question-side = جانب السؤال
 preferences-remaining-count = عدد البطاقات المتبقية
