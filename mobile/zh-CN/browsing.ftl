@@ -35,8 +35,16 @@ browsing-edited-ago = { $span } 前编辑
 browsing-bulk-tag = 标签
 # Browse select-mode bulk bar; change the deck of selected cards
 browsing-bulk-move = 移动
+# Browse select-mode More menu in Notes mode; suspends every card of each selected note
+browsing-suspend-all-cards = 暂停所有卡片
+# Browse select-mode More menu in Notes mode; unsuspends every suspended card of each selected note
+browsing-unsuspend-all-cards = 取消暂停所有卡片
 # Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
 browsing-card-suspended-undo = 卡片已暂停
+# Message in the confirmation shown before deleting notes, in Browse and on the study screen. $count is the number of notes being deleted.
+browsing-delete-notes-confirm = 确定删除 { $count } 条笔记及其所有卡片吗？
+# Follows "N cards buried." after Toggle Bury in Browse, when some selected cards were suspended and couldn't be buried. $count is the number of those suspended cards.
+browsing-suspended-cards-skipped = 已跳过 { $count } 张暂停的卡片。
 # Shown under the zero-results title in Browse
 browsing-empty-no-match-subtitle = 请移除上方的筛选条件，或清除搜索以查看全部内容。
 # Shown under the empty-collection title in Browse
