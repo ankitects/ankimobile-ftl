@@ -16,6 +16,15 @@ decks-download-link = Link do pobrania
 decks-export-collection = Eksportuj kolekcję
 decks-filtered-deck = Talia filtrowana
 decks-import-from-itunes = Importuj z iTunes
+# Add/Export menu item. "Files" is the iOS Files app, where Anki's folder appears; this imports deck files placed there.
+decks-import-from-files = Importuj z Plików
+# Message in the confirmation shown before deleting a deck. $name is the deck's name; $count is the number of cards in the deck, including its subdecks.
+decks-delete-deck-confirm =
+    { $count ->
+        [one] Usunąć talię { $name } oraz  jej { $count } kartę?
+        [few] Usunąć talię  { $name } oraz jej { $count } karty?
+       *[many] Usunąć talię  { $name } oraz jej { $count } kart?
+    }
 decks-invalid-deck-name = Niepoprawna nazwa talii.
 decks-link-to-apkg-file-to-import = Link do zaimportowania pliku .apkg:
 decks-no-matches = Brak dopasowań

@@ -64,8 +64,17 @@ preferences-normal = Domyślnie
 preferences-notifications = Powiadomienia
 preferences-notifications-alert-time = Czas alertu
 preferences-notifications-alert-when-due = Alert, jeśli powtórki czekają
+# Master switch in Preferences → Notifications for the home-screen due-count badge
 preferences-notifications-app-icon-shows-due-count = Liczba powtórek na ikonie apki
+# Section header in Preferences → Notifications for which due counts contribute to the badge
+preferences-notifications-badge-count-includes = Liczba plakietki  zawiera
 preferences-notifications-settings-app-enable-notifications = Przejdź do ustawień systemu iOS, znajdź sekcję Anki i włącz powiadomienia, plakietki oraz alerty.
+# Shown before iOS asks for notification permission, the first time Show Due Count Badge is turned on.
+preferences-notifications-badge-permission-explanation = Aby pokazać twoją liczbę powtórek na ikonie apki, iOS potrzebuje dostępu do powiadomień. Anki nie wyśle ci alertu dopóki nie włączysz opcji "Alert, jeśli powtórki czekają"
+# Shown when Show Due Count Badge is on but badges are turned off for Anki in the iOS Settings app.
+preferences-notifications-settings-app-enable-badges = Aby pokazać plakietkę z liczbą powtórek, otwórz ustawienia systemu iOS, znajdź Anki, wejdź do sekcji Powiadomienia i włącz Plakietki.
+# Shown when Alert When Due is on but notifications are turned off for Anki in the iOS Settings app.
+preferences-notifications-settings-app-enable-alerts = Aby otrzymywać alerty gdy masz karty do powtórki, otwórz ustawienia systemu iOS, znajdź Anki i aktywuj Włącz powiadomienia.
 preferences-pen-size = Rozmiar pisma
 preferences-question-side = Strona z pytaniem
 preferences-remaining-count = Liczba pozostałych kart
@@ -96,7 +105,7 @@ preferences-swipes = Gesty
 preferences-swipes-must-begin-from-the-far = Przesunięcia muszą zaczynać się od lewej lub prawej strony ekranu.
 preferences-sync-sounds-images = Synchronizuj dźwięki i obrazy
 preferences-syncing = Synchronizacja
-preferences-tap-to-sync = Aby aktywować synchronizację, naciśnij przycisk \"Synchronizuj\" na ekranie z listą talii.
+preferences-tap-to-sync = Aby aktywować synchronizację, naciśnij przycisk "Synchronizuj" na ekranie z listą talii.
 preferences-taps = Dotyk
 preferences-theme-bar-style = Typ paska
 preferences-theme-black = Czarny
@@ -118,7 +127,7 @@ preferences-when-answer-shown = Gdy widoczna odpowiedź
 preferences-when-question-shown = Gdy widoczne pytanie
 preferences-you-have-been-logged-out = Wylogowano.
 # a limit on the long edge of an image (eg 1024 pixels)
-preferences-editing-max-image-size = Maks. rozmiar obrazu (długa krawędź)
+preferences-editing-max-image-size = Maks. roz. obrazu (długa krawędź)
 # whether to shrink images when pasting
 preferences-editing-resize-on-paste = Zmień rozmiar przy wklejaniu
 # convert smart quotes and smart dashes to ASCII style
