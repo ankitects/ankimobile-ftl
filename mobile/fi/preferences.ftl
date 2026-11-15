@@ -70,7 +70,11 @@ preferences-notifications-app-icon-shows-due-count = Erääntyneiden määrä ku
 preferences-notifications-badge-count-includes = Merkin lukuun sisältyy
 preferences-notifications-settings-app-enable-notifications = Mene iOS:n Asetukset-sovellukseen, etsi Anki-osio ja ota ilmoitukset, merkit ja ilmoitusviestit käyttöön.
 # Shown before iOS asks for notification permission, the first time Show Due Count Badge is turned on.
-preferences-notifications-badge-permission-explanation = Jotta sovelluksen kuvakkeessa näkyisi erääntyvien korttien määrä, iOS tarvitsee oikeuden lähettää ilmoituksia. Anki ei lähetä ilmoituksia, ellet ota käyttöön "Ilmoita erääntyessä" -toimintoa.
+preferences-notifications-badge-permission-explanation = Jotta sovelluksen kuvakkeen kulmassa näkyisi erääntyvien korttien määrä, iOS tarvitsee oikeuden lähettää ilmoituksia. Anki ei lähetä ilmoituksia, ellet ota käyttöön "Ilmoita erääntyessä" -toimintoa.
+# Shown when Show Due Count Badge is on but badges are turned off for Anki in the iOS Settings app.
+preferences-notifications-settings-app-enable-badges = Jos haluat nähdä erääntyvien korttien määrän sovelluksen kuvakkeen kulmassa, avaa iOS:n Asetukset, etsi Anki-sovelluksen ja ota Merkit käyttöön Ilmoitukset-kohdassa.
+# Shown when Alert When Due is on but notifications are turned off for Anki in the iOS Settings app.
+preferences-notifications-settings-app-enable-alerts = Jos haluat saada ilmoituksia korttien erääntyessä, avaa iOS:n Asetukset, etsi Anki ja salli ilmoitukset.
 preferences-pen-size = Kynän koko
 preferences-question-side = Kysymyspuoli
 preferences-remaining-count = Jäljellä olevien määrä
