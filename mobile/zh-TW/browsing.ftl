@@ -35,6 +35,10 @@ browsing-edited-ago = { $span } 前編輯
 browsing-bulk-tag = 標籤
 # Browse select-mode bulk bar; change the deck of selected cards
 browsing-bulk-move = 移動
+# Browse select-mode More menu in Notes mode; suspends every card of each selected note
+browsing-suspend-all-cards = 擱置所有卡片
+# Browse select-mode More menu in Notes mode; unsuspends every suspended card of each selected note
+browsing-unsuspend-all-cards = 取消擱置所有卡片
 # Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
 browsing-card-suspended-undo = 已擱置卡片
 # Message in the confirmation shown before deleting notes, in Browse and on the study screen. $count is the number of notes being deleted.
