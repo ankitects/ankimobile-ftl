@@ -2,21 +2,21 @@
 custom-study-any-tag = dowolna
 custom-study-available = Dostępność - { $num }
 custom-study-cant-extend-limits-no-extra = Nie można przekroczyć limitów - brak więcej kart.
-custom-study-cram-seen-cards-with-certain-tags = Zakuwaj zobaczone karty z określ. etyk.
+custom-study-cram-seen-cards-with-certain-tags = Zakuwaj zobaczone karty z określ. tagiem
 custom-study-days-to-look-ahead = Dni do przodu
 custom-study-days-to-look-back = Dni wstecz
 custom-study-exclude-cards-with-tag = Wyklucz karty z tagiem
 custom-study-extra-new-cards = Dodatkowe nowe karty
 custom-study-extra-review-cards = Dodatkowe karty do powtórki
 custom-study-include-cards-with-tag = Dołącz karty z tagiem
-custom-study-learn-new-cards-with-certain-tags = Ucz się nowych kart z określ. etyk.
+custom-study-learn-new-cards-with-certain-tags = Ucz się nowych kart z określ. tagiem
 custom-study-loading = Ładowanie...
 custom-study-max-cards-to-gather = Maks. kart do zebrania
 # no tags selected
 custom-study-no-tags = brak
 custom-study-no-tags-available = brak dost. tagów
-custom-study-preview-all-cards-with-certain-tags = Podglądnij wszys. karty z określ. etyk.
-custom-study-review-due-cards-with-certain-tags = Powtórz oczekujące karty z określ. etyk.
+custom-study-preview-all-cards-with-certain-tags = Podglądnij wszys. karty z określ. tagiem
+custom-study-review-due-cards-with-certain-tags = Powtórz oczekujące karty z określ. tagiem
 custom-study-search-matches = Dopasowano { $num }
 custom-study-study-type = Typ nauki
 custom-study-the-selected-options-did-not-match = Wybrane opcje nie odpowiadają żadnej karcie.

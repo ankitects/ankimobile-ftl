@@ -73,10 +73,10 @@ actions-empty-short = Opróżnij
 # create a filtered deck
 actions-filter-short = Filtruj
 actions-add-short = Dodaj
-actions-answer-again-short = Odp.P
-actions-answer-easy-short = Odp.Ł
-actions-answer-good-short = Odp.D
-actions-answer-hard-short = Odp.T
+actions-answer-again-short = Powtórz
+actions-answer-easy-short = Łatwa
+actions-answer-good-short = Dobra
+actions-answer-hard-short = Trudna
 actions-auto-advance-short = Auto-pos.
 actions-bottom-bar-short = Dol.P
 actions-browse-short = Przegląd
