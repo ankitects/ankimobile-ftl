@@ -64,8 +64,13 @@ preferences-normal = Normaali
 preferences-notifications = Ilmoitukset
 preferences-notifications-alert-time = Ilmoituksen ajankohta
 preferences-notifications-alert-when-due = Ilmoita erääntyvistä
+# Master switch in Preferences → Notifications for the home-screen due-count badge
 preferences-notifications-app-icon-shows-due-count = Erääntyneiden määrä kuvakkeessa
+# Section header in Preferences → Notifications for which due counts contribute to the badge
+preferences-notifications-badge-count-includes = Merkin lukuun sisältyy
 preferences-notifications-settings-app-enable-notifications = Mene iOS:n Asetukset-sovellukseen, etsi Anki-osio ja ota ilmoitukset, merkit ja ilmoitusviestit käyttöön.
+# Shown before iOS asks for notification permission, the first time Show Due Count Badge is turned on.
+preferences-notifications-badge-permission-explanation = Jotta sovelluksen kuvakkeessa näkyisi erääntyvien korttien määrä, iOS tarvitsee oikeuden lähettää ilmoituksia. Anki ei lähetä ilmoituksia, ellet ota käyttöön "Ilmoita erääntyessä" -toimintoa.
 preferences-pen-size = Kynän koko
 preferences-question-side = Kysymyspuoli
 preferences-remaining-count = Jäljellä olevien määrä

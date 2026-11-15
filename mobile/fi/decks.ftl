@@ -16,6 +16,14 @@ decks-download-link = Latauslinkki
 decks-export-collection = Vie kokoelma
 decks-filtered-deck = Suodatettu pakka
 decks-import-from-itunes = Tuo iTunesista
+# Add/Export menu item. "Files" is the iOS Files app, where Anki's folder appears; this imports deck files placed there.
+decks-import-from-files = Tuo Tiedostot-apista
+# Message in the confirmation shown before deleting a deck. $name is the deck's name; $count is the number of cards in the deck, including its subdecks.
+decks-delete-deck-confirm =
+    { $count ->
+        [one] Poistetaanko { $name } ja sen { $count } kortti?
+       *[other] Poistetaanko { $name } ja sen { $count } korttia?
+    }
 decks-invalid-deck-name = Virheellinen pakan nimi.
 decks-link-to-apkg-file-to-import = Linkki tuotavaan .apkg-tiedostoon:
 decks-no-matches = Ei hakutuloksia

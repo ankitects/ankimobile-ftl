@@ -35,8 +35,24 @@ browsing-edited-ago = muokattu { $span } sitten
 browsing-bulk-tag = Tunnisteet
 # Browse select-mode bulk bar; change the deck of selected cards
 browsing-bulk-move = Siirrä
+# Browse select-mode More menu in Notes mode; suspends every card of each selected note
+browsing-suspend-all-cards = Hyllytä kaikki kortit
+# Browse select-mode More menu in Notes mode; unsuspends every suspended card of each selected note
+browsing-unsuspend-all-cards = Poista kaikkien korttien hyllytys
 # Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
 browsing-card-suspended-undo = Kortti hyllytetty
+# Message in the confirmation shown before deleting notes, in Browse and on the study screen. $count is the number of notes being deleted.
+browsing-delete-notes-confirm =
+    { $count ->
+        [one] Poistetaanko { $count } muistiinpano kortteineen?
+       *[other] Poistetaanko { $count } muistiinpanoa kortteineen?
+    }
+# Follows "N cards buried." after Toggle Bury in Browse, when some selected cards were suspended and couldn't be buried. $count is the number of those suspended cards.
+browsing-suspended-cards-skipped =
+    { $count ->
+        [one] { $count } hyllytetty kortti ohitettiin.
+       *[other] { $count } hyllytettyä korttia ohitettiin.
+    }
 # Shown under the zero-results title in Browse
 browsing-empty-no-match-subtitle = Poista suodatin yllä tai tyhjennä haku nähdäksesi kaiken
 # Shown under the empty-collection title in Browse
