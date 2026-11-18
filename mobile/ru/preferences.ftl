@@ -69,6 +69,12 @@ preferences-notifications-app-icon-shows-due-count = Число повтор. н
 # Section header in Preferences → Notifications for which due counts contribute to the badge
 preferences-notifications-badge-count-includes = Состав счётчика значка
 preferences-notifications-settings-app-enable-notifications = Пожалуйста, откройте настройки системы iOS, найдите там раздел с Anki и включите уведомления, наклейки и предупреждения.
+# Shown before iOS asks for notification permission, the first time Show Due Count Badge is turned on.
+preferences-notifications-badge-permission-explanation = Чтобы отображать количество заданий, которые нужно выполнить, на значке приложения, iOS требует разрешения на отправку уведомлений. Anki не будет отправлять оповещения, если вы не включите оповещение о сроках выполнения.
+# Shown when Show Due Count Badge is on but badges are turned off for Anki in the iOS Settings app.
+preferences-notifications-settings-app-enable-badges = Чтобы отображался значок с количеством карточек для повторения, откройте приложение «Настройки» в iOS, найдите Anki и включите параметр «Значки» в разделе «Уведомления».
+# Shown when Alert When Due is on but notifications are turned off for Anki in the iOS Settings app.
+preferences-notifications-settings-app-enable-alerts = Чтобы получать оповещения о том, что подошло время повторения карточек, откройте приложение «Настройки» в iOS, найдите Anki и включите параметр «Разрешить уведомления».
 preferences-pen-size = Размер пера
 preferences-question-side = Сторона вопроса
 preferences-remaining-count = Оставшееся количество

@@ -35,8 +35,26 @@ browsing-edited-ago = правлена { $span } назад
 browsing-bulk-tag = Метка
 # Browse select-mode bulk bar; change the deck of selected cards
 browsing-bulk-move = Переместить
+# Browse select-mode More menu in Notes mode; suspends every card of each selected note
+browsing-suspend-all-cards = Исключить все карты
+# Browse select-mode More menu in Notes mode; unsuspends every suspended card of each selected note
+browsing-unsuspend-all-cards = Включить все карты
 # Confirmation pill after swipe/context-menu suspend (Undo is the pill action).
 browsing-card-suspended-undo = Карточка исключена
+# Message in the confirmation shown before deleting notes, in Browse and on the study screen. $count is the number of notes being deleted.
+browsing-delete-notes-confirm =
+    { $count ->
+        [one] Удалить { $count } запись и все входящие в неё карточки?
+        [few] Удалить { $count } записи и все входящие в них карточки?
+       *[many] Удалить записей: { $count }, а также все входящие в них карточки?
+    }
+# Follows "N cards buried." after Toggle Bury in Browse, when some selected cards were suspended and couldn't be buried. $count is the number of those suspended cards.
+browsing-suspended-cards-skipped =
+    { $count ->
+        [one] Пропущена { $count } исключенная карточка.
+        [few] Пропущены { $count } исключенные карточки
+       *[many] Пропущено исключенных карточек: { $count }
+    }
 # Shown under the zero-results title in Browse
 browsing-empty-no-match-subtitle = Удалите фильтр выше или очистите результаты поиска, чтобы увидеть все
 # Shown under the empty-collection title in Browse

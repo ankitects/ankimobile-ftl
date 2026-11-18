@@ -16,6 +16,15 @@ decks-download-link = Прямая ссылка
 decks-export-collection = Экспортировать коллекцию
 decks-filtered-deck = Отсортированная колода
 decks-import-from-itunes = Импортировать из iTunes
+# Add/Export menu item. "Files" is the iOS Files app, where Anki's folder appears; this imports deck files placed there.
+decks-import-from-files = Импорт из файлов
+# Message in the confirmation shown before deleting a deck. $name is the deck's name; $count is the number of cards in the deck, including its subdecks.
+decks-delete-deck-confirm =
+    { $count ->
+        [one] Удалить { $name } и входящую в него { $count } карточку?
+        [few] Удалить { $name } и входящие в него { $count } карточки?
+       *[many] Удалить { $name } и входящие в него { $count } карточки?
+    }
 decks-invalid-deck-name = Неверное название колоды.
 decks-link-to-apkg-file-to-import = Ссылка на .apkg файл для импорта:
 decks-no-matches = Нет совпадений
